@@ -39,9 +39,6 @@
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yT3MwQmpUMnFydnozR09pT0NYZHlQMG44VlM2SW5CQTl0VG1ib3JzQVBRLVpiX1d6am9iLUpMZWNwcXN3VEljWmZSald6UTlvYzdzYQ?oc=5
 
 ○7月1日 ナカ経上半期PV1位は「ファッションセンターしまむら、中野区初出店」 中野経済新聞  
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUeWUtOEx6M19BaTQ5UXV1Q0tBTnc4ZDJEOU1uY1Jfam9fS2g0V2RIcDdFc0lFNDRSZmQtUWJ0RmlSV0VlVnUyRE1SNjRmckVXc0FLTg?oc=5
-
-○7月1日 ナカ経上半期PV1位は「ファッションセンターしまむら、中野区初出店」 中野経済新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Nb2hkbk5sQW11V3NKV3c0N3VONmtxQkxCZlNWQXg5bno2VVBIeTRtNTFCZi1RQk5HeUgwUVpiWDJuTzM2QjBXcjBGOV9IY1QxdXc?oc=5
 
 ○7月1日 なぜユニクロは万引犯を“訴える”のか？ 裁判も辞さない背景に何が ITmedia  
@@ -110,9 +107,6 @@
 ○7月2日 トランプ氏、日本に最大35％の関税を課すと示唆　交渉期限が迫るなか BBC  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vaXh3WGVpSmFjSzJTOTExLVF5WU5ZUmxhNlY1Q3RrTkJZc0Z2TG9SVmxYNEVTMElzRmNNMFpUellZSFRaVGpZQjcwdzQ1dEVyQkJxUWQyRWlHVks1Qmgw0gFkQVVfeXFMT003YVpIWmVRZ3JqOFYxckJENTZoODBOUlByb2E1aHVvZFRZbHN2UEdOdjlCZVZKVl8xNk1NbnFYYWJYakE1MS1xWks3aEI4T1NNRVlDNTM5b1dQZ0IydnJwajhRVA?oc=5
 
-○7月2日 サプライチェーン全体での競争力強化をめざす～サプライヤーに寄り添い、ともに成長し続けるために～（PR TIMES STORY） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rWGhKYjJzazBvN2JhU0x2X2dlSk5aOTYwYTdrdjdzQ0pfdkp1Y1NLV254ZWw3dnljZEhFYWVRaDgyNG9YQ05qeVhFeVFiZS1UOTUxRWU3YTRJaWZvTDdlZW9GdzM1N0NU?oc=5
-
 ○7月2日 ユニクロ、はや酷暑で夏物好調 6月国内既存店売上高6%増 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1TQl9jRENNNEFOZlE5cmJXOFcyMEI4ckMtbHhXMWRaNzZxTlhEQnFRRmk2TFNJS3lCOTlVdTJZd29vMkc1N1M3Nzh6U1ZXOVU4ZzIydVJQWldzNnRrYVRxSm1PbW1MVTRHbVhfZA?oc=5
 
@@ -131,9 +125,6 @@
 ○7月3日 トランプ氏、ベトナムと関税交渉で合意表明 税率20%に半減 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBBSFQtVG01T3ZnbDNNTGZrbVItUVFfajJtaGdnQXBuM25qWkNqSVVlZkR2RnJ6T19UUkZEcFM3QmxNOXFRLS1ic01YUEhsdkZiLUo3Vk5rYWNGdTEzSHRwYzBHNmg2QUlzc3hPYw?oc=5
 
-○7月3日 目黒蓮、この夏挑戦してみたいサングラス明かす 普段はファッションに合わせてレンズ選び「そこも楽しみのひとつ」 山陽新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE1uQlR6Q3J5dTdmXzZKMlJIb3MtdnBTVUpZQVlPSVRCcDdNdU16dFF6bUEyNXhJRVFwQWl4bXlEOXBXOXBzRkFtcW16QzFOOGhPRGlmd1BaQmx4SGtISV9EREo2TEFFcXMtcXNOWW5zTQ?oc=5
-
 ○7月3日 トランプ氏、ベトナムとの関税交渉で合意と発表 アジアで初 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kZkJBbk0xWTJOdUZMYzFqQ1oxSlJWZ2FJc0lYYkNCRW1VVG01RXpPNXg5UlRDZzFKbHc5VENxd3lTTmRNdy11c2dyM2xrcmhUSGQtbjlCdlZxaS1rN2MwVkpteXNyUFBf?oc=5
 
@@ -145,6 +136,9 @@
 
 ○7月3日 東京、都市間競争で勝ち抜く街に 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5panZzX0JvaDJYd3F3R3BLQWkzbHNhRzN5Z1RiYXY4dEZXUGNueFZWZFZBLUhWTnM5V3lCbi1MLWpXODdXa3dGWmZOV1N1d1Z2T3ZELUR2U2dHb1dLM3A1ZjJ2T1pjRjBkeUVCWA?oc=5
+
+○7月3日 Number_i平野紫耀、「ルイ・ヴィトン」ファッションショーに4回目の出席「心を動かされました」【着用アイテム掲載】 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE85ZEctYnV2TkFkZGdWZnI4aDhEcm1Qc092V2N6TDN5S01Ebks4emdjR1Jnbk53aVNoWW43VjhBUmVoTUFMU04xcXZmcERwNFFXNEE?oc=5
 
 ○7月3日 佐田真由美、母と“顔出し”2ショット「ママ素敵」「ファッションかわいい」 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tVTdXUmRPREw2aWp2bGRKZ2FSbWdaWnVFZFpldC1Cb3NoeGhhZWhnczlzdWtmLTFfWmk4UmRyOVl0dFVwd294SVo1U19rcElJY0E?oc=5
@@ -176,8 +170,8 @@
 ○7月3日 ユニチカ、繊維の評価事業をボーケンに売却 日刊工業新聞  
   https://news.google.com/rss/articles/CBMidEFVX3lxTFBYM0VWbzAtSkNUZDVuWTk5cEllVHRGYzN3VHQ4R0VUM2w0eHdSWXpzVFhKT0dMaWpFOW0ta05BbHdsTXY4OUxoX3FXemM3blNRb3FpM1YxTlFJQ2NmdW01ZzNwZE85c1pNdHVuUGZWY25lRm9k?oc=5
 
-○7月3日 日独護衛艦競争「どちらが勝つかは分からない。しかし…」豪州元首相 朝日新聞  
-  https://news.google.com/rss/articles/CBMihgFBVV95cUxPdlMteFFOY0tNTkV1ZVE0UmZ6OWJKZ1k4d0l6cXRieEN5VG44dE9BbjJhdk1OSG1XSE9UcGlWV24tRE14enVHb0ZFLU9ldlhMMlhNX0ZPb0dlQW9LSGI0R09LcWs2bkFPU0xZQ1l3QXVYYnAzeFVQSl9QVHgyMkFxMnF5U29Edw?oc=5
+○7月3日 目黒蓮、この夏挑戦してみたいサングラス明かす 普段はファッションに合わせてレンズ選び「そこも楽しみのひとつ」 山陽新聞  
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE53OWcyb3BMRk12RFM5emYyMVdLbndxckYwaWIxUWxOLXpzVnhPakYxbGt2VkN4Y0t4X0JvZVFUT2hLbURsU19TWHVITGd4MGIwbXNfMXA0OGx3Z09DY3M3Qmp2dldla0lvYm1zTXRLQQ?oc=5
 
 ○7月3日 南米諸国、ノルウェーなどとFTA締結へ 輸入関税の例外品も拡大 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBkZnZfOWNqVFAtM242enBKaEJKUHdQWDR2SzNhTkw3eUlGaGhGUlZOazU3XzJBaVZmMzRjc2RtUV83S0dvR3Z0RkRmcEdxUGYyRUZWVjd2XzZaMDUyQXJjWHd2S0RHNmpUNk9tOQ?oc=5
