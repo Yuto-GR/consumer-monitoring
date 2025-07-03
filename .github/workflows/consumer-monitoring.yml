@@ -58,17 +58,4 @@ jobs:
           git pull --rebase --autostash origin ${{ github.ref_name }}
           git push 
 
-      # 6. （任意）Gmail 経由でレポートをメール送信
-      - #name: Send report via Gmail
-       # uses: dawidd6/action-send-mail@v3
-        #with:
-        #  server_address: smtp.gmail.com
-        #  server_port:    587
-        #  secure:         false       # STARTTLS
-         # username:       your.account@gmail.com
-         # password:       ${{ secrets.SMTP_PASSWORD }}
-          #subject:        "Consumer Monitoring Report"
-          #to:             recipient@example.com
-         # from:           your.account@gmail.com
-          #body:           本日のコンシューマーモニタリング結果です。
-         # attachments:    result.md
+  
