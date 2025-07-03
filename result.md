@@ -20,9 +20,6 @@
 ○6月30日 「越境ECの教科書 第6回」ファッション分野の動向 導入企業の事例を解説 リユース経済新聞  
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JMHhQWV96Sktha1NfQjVlU0pGSmROWXRHa2VCY3ZoajJuWER4NXVGNU03MnR0bjlTTE1mbmZnUWlvZ095bGl4ODF2SE5IakxtbTY0aldKQjVITkcyNS1XUmpWNA?oc=5
 
-○6月30日 《大阪・関西万博》メリープロジェクト「メリーエキスポ」 笑顔が作る平和と持続可能性を発信 繊研新聞  
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OQUVJTy1OR0JYdG95d1pnMWVSVHFIdDV3aW1BMTNFajFpSThpcVZOWkxIYXNka2JGcl9mNVQwZWMxOXRSaHBGeHVQS1Q0Y1NJeGgxNUdjOV9pZw?oc=5
-
 ○6月30日 ZOZO、マッチングアプリ開始 好みのファッションでAIが紹介 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1ldVhwUzJIWHY3UUNNYTFta0czQS1Rb0RMTEIydUFQQWJZNVZDcktZWkEwb19mVU11aHRjTmlnNjBwXzU1MHd2bmxqR3RoX0Job182NUZjQUtTLWVzai1QYk8tYlI3eXI2aXRTcQ?oc=5
 
@@ -31,9 +28,6 @@
 
 ○7月1日 森トラストリート投資法人[8961]：サステナビリティレポート 2025 2025年7月1日(適時開示) ：日経会社情報DIGITAL 日本経済新聞  
   https://news.google.com/rss/articles/CBMiakFVX3lxTFBobFBuS1FsbF9YZG9ha0M4cE9mQ0tpbXpSeWozY3dFb28tLWZQLUs0cWtNTXhzUGFXNlJPWDNjc1EwVWlfTW8xdzJCZmpIM0pDSS16LUJLdjRXSFFERFhEaVRPMndjcTlvZUE?oc=5
-
-○7月1日 住宅ローンの金利競争、ネット銀の勢いに陰り 日銀の貸出支援制度終了 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3hfN0RINmlMejVvQ0RWMjBsbzMtNk5tNmhpZWIwMGYzSXRzUk9wRW0zV0o4QUVNNXkyZ2JrSWdYdU5xZ1BkeGZXNVEzZTYxYnhndnVYdGVyaUdvdjBXNFdnY1QxNGMzTjNhSnhJLWs0TWhTWkV3VjdNaEdPQ2FJcVZjSDF5YWMtcFpUM0F4ZlZFNkF3bEJPZmlSOWdIZG91Wk1tMXZzd254UQ?oc=5
 
 ○7月1日 〈ニュース・ファイル〉一斉爆発、アイコムが模倣品排除｜国際｜全国のニュース 北國新聞  
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DV2xRTXFYUDh6cnlwU1NWVXB1aGdaeVExQ1dJRElLOUxHTHRjVzJ4Q2NkVS1PVnFramxWLW5ubXZWNTRybEFVLXBPVVNhdDF1aGx5aV9maw?oc=5
@@ -53,9 +47,6 @@
 ○7月1日 なぜユニクロは万引犯を“訴える”のか？ 裁判も辞さない背景に何が ITmedia  
   https://news.google.com/rss/articles/CBMickFVX3lxTE1mb3VKNjNZa2JJdzBLb1hWMzBwd3NveV9pN0lLMFRHeGZwbTdOaDRiajJsOV9fTVJvcWxoQmZOUUMtRWZzY0pLT01MT1Z2TXdDU3VaOFYtRkc5UnEzcWxDbXNZWERfWEhSbE4yemRVVUVpdw?oc=5
 
-○7月1日 プレスリリース：＜釜石鵜住居復興スタジアム＞ 持続可能な運営方法の確立と、釜石市の地域課題解決のための新規事業を共創するコミュニティ・コンソーシアム 「チームうのスタトライ！」を設立（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xdE96QWYtWmtvM0E4WWMtZk4wSWpKbi1ocDZCR05VU0RXQTE5Rk9jS2phU3pBN3k0TnJvWXBqY05VVEtfNGxoTDctcFk0ZDNlbUhIc1NVQ2tHdUtndDJWS194V2NhRmdl?oc=5
-
 ○7月1日 大谷、本塁打競争不参加へ 「現行ルールは厳しい」 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE92M2pYY3hWZkpVeHB4c0JBQ0NxWmlHRkxTeU01bHp5Zi1QR0M3bWZZY01iZE9IekpuRkFiZHE2MFViNVlUTF8xeXUtSERIbUdiY2c?oc=5
 
@@ -67,9 +58,6 @@
 
 ○7月1日 本塁打競争、大谷ら不参加表明 消耗激しくジャッジも辞退 山陽新聞  
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OOElsME5qZ1U5TmpRSFgwd2FkcDBDMkFrRmJLQW10TWE1NkFlYW5JbzVKSmtCQ2JuNlUxLUlYWGxOeXVsa00xYW1tZzdtY2k2OFBQYmRWQXR5YVNtMkVHLVBlVnIydw?oc=5
-
-○7月1日 富士通、トランプ関税影響をAIが算出 供給網の安定化を支援 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1ISFo4T1hjRDJWanQya3lhcFFNWEFGYklsVldDb0tzckV3dEZpYVY4U1EtbXcwTHlRYWxqMC1TWHZhTW9VaGZiajcwR1lxdDdsTjgwREc3bjRwR1Fyd3psNmlSUC0wNGlFUEU2LQ?oc=5
 
 ○7月2日 ユニクロの6月国内売上高 7月2日ビジネス主な予定 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE43TS1iSkU0VUdRLXNYU0lMTE1DY3A1MXVQM3lscEhzR2JjQXQxcVpEd0JOdnFESVk4N1JyX2lFU0ZzRXdLZlhyX0FxN25wXzBwUWJibTdwUUdPc1F2elJmMWEzYTRvLUljTUlrWA?oc=5
@@ -98,6 +86,9 @@
 ○7月2日 トランプ氏「日本との合意疑わしい」 関税30〜35%に引き上げ示唆 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1yOHVrczBDQnhSN0RHY3BDY1ZHN0FGRVBqUW1BYV9LLUprM3ZsMi1waU1PbTNZYkE0aWdxZGZBLU1nYnNsNlptdnRrQ1ZNVVBMZnEyeEZSTkU2QVhQZUNvaDBFOFRLNVktbEZoSA?oc=5
 
+○7月2日 日経平均、トランプ氏の関税引き上げ示唆が重荷に（先読み株式相場） 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5wM3djTVloVnVGNTRjWlgxU0xMMTY3VXBwbjFSRGVnTHZGSmZ3QWRaOW92WHBwbF9XSS1tMlpjWWVLVGI2MTMxdTRKY0NFOVpkLXZSellYN2dOMmk5RVRFeURYenRRd2dNdWZTZw?oc=5
+
 ○7月2日 「日本の物作りはもっともっと知られていい」 日本アパレル・ファッション産業協会の鈴木恒則理事長 繊研新聞  
   https://news.google.com/rss/articles/CBMiUEFVX3lxTE13YzdtZXpOSVVxMjkxU2NRdE1ZVXJpUFc4ZmNHOHV4X2N5NnNQZXhkREgtRmFmSXJmdkZ6YU4wTkNzdmd6RVlMSzlIZXk2c01G?oc=5
 
@@ -118,6 +109,9 @@
 
 ○7月2日 トランプ氏、日本に最大35％の関税を課すと示唆　交渉期限が迫るなか BBC  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vaXh3WGVpSmFjSzJTOTExLVF5WU5ZUmxhNlY1Q3RrTkJZc0Z2TG9SVmxYNEVTMElzRmNNMFpUellZSFRaVGpZQjcwdzQ1dEVyQkJxUWQyRWlHVks1Qmgw0gFkQVVfeXFMT003YVpIWmVRZ3JqOFYxckJENTZoODBOUlByb2E1aHVvZFRZbHN2UEdOdjlCZVZKVl8xNk1NbnFYYWJYakE1MS1xWks3aEI4T1NNRVlDNTM5b1dQZ0IydnJwajhRVA?oc=5
+
+○7月2日 サプライチェーン全体での競争力強化をめざす～サプライヤーに寄り添い、ともに成長し続けるために～（PR TIMES STORY） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rWGhKYjJzazBvN2JhU0x2X2dlSk5aOTYwYTdrdjdzQ0pfdkp1Y1NLV254ZWw3dnljZEhFYWVRaDgyNG9YQ05qeVhFeVFiZS1UOTUxRWU3YTRJaWZvTDdlZW9GdzM1N0NU?oc=5
 
 ○7月2日 ユニクロ、はや酷暑で夏物好調 6月国内既存店売上高6%増 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1TQl9jRENNNEFOZlE5cmJXOFcyMEI4ckMtbHhXMWRaNzZxTlhEQnFRRmk2TFNJS3lCOTlVdTJZd29vMkc1N1M3Nzh6U1ZXOVU4ZzIydVJQWldzNnRrYVRxSm1PbW1MVTRHbVhfZA?oc=5
@@ -146,6 +140,9 @@
 ○7月3日 対日相互関税 上乗せ分、9日まで停止 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE82WjIxc0Y2eHVMdnVzZkZmWjRvRjgybWkzSDFScjNpa0xMMExzb0pFOTh6S3JtX0NTQUdSMGdjbF9wb3FjQlAydlY4c1NEdGtMQTdjZExVLXczTFBPRDg5RWd6TkZMeUZSZFJ1Sw?oc=5
 
+○7月3日 対日相互関税とは 上乗せ分は一時停止中 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9NdDlCeE1uMUxnM1dEeERUOGNLMEMxWUFLcElhTXBrRlFMczRCdm4wc0drNXM4aEJieHB3RnB2Z29sVmJxc2lkOHRGaUFUdVlQU1hFbzlzWEw3X3FQeUhxMjl4dWY2dkVLdW1EcQ?oc=5
+
 ○7月3日 東京、都市間競争で勝ち抜く街に 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5panZzX0JvaDJYd3F3R3BLQWkzbHNhRzN5Z1RiYXY4dEZXUGNueFZWZFZBLUhWTnM5V3lCbi1MLWpXODdXa3dGWmZOV1N1d1Z2T3ZELUR2U2dHb1dLM3A1ZjJ2T1pjRjBkeUVCWA?oc=5
 
@@ -154,6 +151,9 @@
 
 ○7月3日 米・ベトナム「関税交渉で合意」 相互関税46%→20%に削減か 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TR0tRWkJyS2g2ajl3aENiR1FGUVBlT1FUV3l4LW9mejJuRzF0RXE5MnJ0SmNCeTdJTExzQmxVVzF1Z0VFUXdhelRSSFRMcFRCS1pnZWZRX2RabUtqYW1kT3FkTnpBT2c?oc=5
+
+○7月3日 米・ベトナム「関税交渉で合意」表明 相互関税46%→20%に削減 朝日新聞  
+  https://news.google.com/rss/articles/CBMijwFBVV95cUxPdDgyZHNGQWE5R18zWTNNaHEtOVRnd3VJaDAyXzVNdU9hQjVzSmVScWZ0YmR0UXZGNnlDYTdlSWF6ZTlER3EtOWE4T3o3cU1oTzN6bjRZVzBnTFVOWE14aVItMXVTdlRpUlhuTV92UEVJRlJHU29vUUhTUklNWGtxZGVEbVdWVjE4NnBxVV82QQ?oc=5
 
 ○7月3日 トランプ関税が迫る産業構造改革 製造業「59万人減」の行方は 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9PRDlPclJHaEdqR0hMdEVUSDJQS1llSEdoZE1acXowWjFZMVZ2d0xSS3BnaXozZXYwVW1aSXB1cGFKZm42SXJJVlhiLWQtVEhhdDFabEdRRGtFa1ZMQUZVRmtjLUNNRV9kRGNWRA?oc=5
@@ -167,11 +167,17 @@
 ○7月3日 中国、過当競争禁止は誰のため？ いびつな経営生む根源 日本経済新聞  
   https://news.google.com/rss/articles/CBMifkFVX3lxTE1CakphTnBIY2gyNkdGbFhzMHItTXEyTXM5WHpjSXFScEo0TEZJQktpX2FXdlJwdDhGbnhDekloSHBNNXRTSzNmdjhJNmp6UmRJR0ZBWWxOQzJxU3hSZDJnallOWnYtMjhHNjBXTjlvSlJac2ZHZGd0WnROclB1dw?oc=5
 
+○7月3日 県東部６漁協が藻場造成 昆布養殖技術を確立、持続可能な漁業５年計画｜社会｜富山のニュース｜富山新聞 北國新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FR210YVBpdTNFS05jYzlnVWNSZkNrdWtpQjBiby0xakJyeWF1ZGd6dVVmakcxWlRuUFBIS2JpdWFjbUFSUDJaRnh5QW5JdjdMWnFlSlhHVQ?oc=5
+
 ○7月3日 生産ライン 競争力の源泉（61）三菱重工航空エンジン・長崎工場 燃焼器、世界最先端拠点に 日刊工業新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zWFlGTU9mS1hhaktvdjZNV0ZnMTJWSnFrV09seWRUdl9hNzdFUVVqWmtMZXZmZ0wxYzdnVGhZT0FLbW02THlzNUpVVW13TG84Z0V6cnVObGdrU2c?oc=5
 
 ○7月3日 ユニチカ、繊維の評価事業をボーケンに売却 日刊工業新聞  
   https://news.google.com/rss/articles/CBMidEFVX3lxTFBYM0VWbzAtSkNUZDVuWTk5cEllVHRGYzN3VHQ4R0VUM2w0eHdSWXpzVFhKT0dMaWpFOW0ta05BbHdsTXY4OUxoX3FXemM3blNRb3FpM1YxTlFJQ2NmdW01ZzNwZE85c1pNdHVuUGZWY25lRm9k?oc=5
+
+○7月3日 日独護衛艦競争「どちらが勝つかは分からない。しかし…」豪州元首相 朝日新聞  
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxPdlMteFFOY0tNTkV1ZVE0UmZ6OWJKZ1k4d0l6cXRieEN5VG44dE9BbjJhdk1OSG1XSE9UcGlWV24tRE14enVHb0ZFLU9ldlhMMlhNX0ZPb0dlQW9LSGI0R09LcWs2bkFPU0xZQ1l3QXVYYnAzeFVQSl9QVHgyMkFxMnF5U29Edw?oc=5
 
 ○7月3日 南米諸国、ノルウェーなどとFTA締結へ 輸入関税の例外品も拡大 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBkZnZfOWNqVFAtM242enBKaEJKUHdQWDR2SzNhTkw3eUlGaGhGUlZOazU3XzJBaVZmMzRjc2RtUV83S0dvR3Z0RkRmcEdxUGYyRUZWVjd2XzZaMDUyQXJjWHd2S0RHNmpUNk9tOQ?oc=5
