@@ -1,0 +1,45 @@
+name: Consumer Monitoring
+
+on:
+  # 必要に応じて push や workflow_dispatch を併用できます
+  push:
+    branches:
+      - main
+  schedule:
+    # 毎日 JST 8:00 → UTC 23:00
+    - cron: '0 23 * * *'
+    # 毎日 JST 16:00 → UTC 7:00
+    - cron: '0 7 * * *'
+
+jobs:
+  run-monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v3
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install \
+            requests \
+            beautifulsoup4 \
+            lxml \
+            playwright
+          playwright install --with-deps
+
+      - name: Run consumer-monitoring script
+        run: |
+          python consumer-monitoring.py > consumer-monitoring-output.txt
+
+      - name: Upload report artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: consumer-monitoring-report
+          path: consumer-monitoring-output.txt
