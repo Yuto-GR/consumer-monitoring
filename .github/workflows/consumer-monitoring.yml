@@ -58,4 +58,18 @@ jobs:
           git pull --rebase --autostash origin ${{ github.ref_name }}
           git push 
 
+      - name: Send result via email via Gmail
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port:    587
+          secure:         false       # STARTTLS モード
+          username:       gritmotoring@gmail.com
+          password:       ${{ secrets.SMTP_PASSWORD }}
+          subject:        "Consumer Monitoring Results"
+          to:             yuto.niimura@grcompany.com
+          from:           gritmotoring@gmail.com
+          body:           本日のConsumerモニタリング結果です。
+          attachments:    result.md
+
   
