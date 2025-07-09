@@ -2,9 +2,6 @@
 ○7月5日 教旅コンテンツ集を更新 四国「持続可能」推進ネットワーク 今年度事業を共有 観光経済新聞  
   https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMUlQ1eWVsejNobU45cHVMMFB0ZVIzeVZDVDZTZ0s0b3RVNVVIbzNmMjJMV1lKNkZMdDJ5ZmNYT2t4MnpTT1pWcjdrZ1RRRzBHT1VqUw?oc=5
 
-○7月5日 競争入札の備蓄米、ＪＡ全農７５％出荷　２２万４千トン｜四国新聞WEB朝刊 四国新聞  
-  https://news.google.com/rss/articles/CBMid0FVX3lxTFBpQXU2b0tqUkpRX1VkaTgxV1c3Zlk1YkpmV29PV2RYRUl2TXJfUEtGbHhZNTBiMzBkSnl5S3Mxel8zMjNUbk9tRXBNWm1nUUktTl9UWjlzTjRuZl9JZkVESi1uQVJWQXMtLTRpSnBKeWNQWjU0aVZz0gF8QVVfeXFMT2V1ak9iaVZsa1g5NUVFLWZJN0dHLWdIVUp4OWJFd05aS1R6c2JpNWp4VzZsVjJwQUdlN0UycFNLSzBtVmpHUVNKOFJsWXhnMUxpcndONGJuR3IydWpfZjIyZVh1ZWVNMjk2c0QtLXFaV1labEswUlJsSVN2NA?oc=5
-
 ○7月6日 プレスリリース：Spiber、イタリアの高級繊維メーカー2社 Manifattura Sesia社およびAchille Pinto社との新たなパートナーシップを発表（PR TIMES） 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE81UU9YWWtXNU1XS2NXWThTbjIzS2hQUWFFQl9Rb2luM01wWkJOaDhla2hpVGJuekVkV1lXVTFoN2NzNktTc3pPOUVkTks0M0NFQko0ZENjWTN2UjZSZ0RBTVNQWjlUMlBR?oc=5
 
@@ -16,9 +13,6 @@
 
 ○7月6日 繊維産地の発展目指せ 倉敷・児島の経営者ら意見交換 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aY01mOWZrSGVCZEVCSTlqSnQya1pkM3kxdjdOZm43bmJYckFFQnRUenZjbG9VS1l6dEJKNjRhVDJ5STdKcWhjTkdRbVJ1TFQyVGc?oc=5
-
-○7月7日 中国、太陽光低価格競争を抑制 旧式設備削減方針 日刊工業新聞  
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE0weGNqVzVJV2NxZk94ci1KUXltVnNvRU1ncDNXLXFiQmFYX2trWFNPd2hwTEw1X3k0VGh3MnR6aVE1MWN1NW1GNVpoVVAwSVJib2hrdmVqb19Rc2J0M1Raelh0NDRFek9pVC00dGszWFJhMnVM?oc=5
 
 ○7月7日 デンソー、持続可能な農業の実現に向けアクシア・ベジタブル・シーズの全株式を取得 日本経済新聞  
   https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXBTRW5QdGVnOUJFVmp6Z1BabS1lZ1pXUUFmaERjREpaWHZWUGNUTlFiUmtzR2RDcFlDd2x3TFNZMjV4NG1CSzZpaTZ4b1VFQnExRFppMFJ4NUU1WGxzZW9Xd3cxODRMWmFhcHFNWG54UWE4N1g0ckYyOFBBLWNmVzhKMER5akVnSS1FcWNKWXNfZ1UxVk5ZRk4waGVCNC03VC1pUDRLb1pZQQ?oc=5
@@ -44,9 +38,6 @@
 ○7月8日 ユニクロ、白Tシャツに透けない“エアリズム”は何色 夏の透け問題を検証に「もう少し早く知りたかったよぉ」 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hNWVVdFFldWc4SFhQOWk1VWZncnd3TFVvSGQwT2dwcHdVSGI1N2NnWWNEeDhDSG9GQWlUdEJRaWNDdDlkUG1FRGRYWExvQ2stZXc?oc=5
 
-○7月8日 【日本語訳全文】トランプ大統領が日本への関税25％を通知した書簡 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBX1EwVmlKa0VvYzJqUGY1aTZ1NVB4ck5pbGwtbzRaempNdDNKMkJKcExIWGRwU0U5ZWd3bkZaYzRnNExDT3NnaFZ3SG1YTTBFNlRzN2dyUXdiRnlTNTg1WTdsQXpvN0E?oc=5
-
 ○7月8日 セブン、最大の脅威は｢まいばすけっと｣ 加盟店が語る競争相手の変化 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9rXzBvc2VMWXZPeVlkY3JiUTB1TXJvQXV5MExlRzlOOXRsZFdtS1NfNkZ4blBPb0lzc1M3X3MzM0taZnhYdzlKbm05ZEFLS1g2SFFYUHFMdzE5eW9vT0lJeEd1YVhzeC01bkQ4aw?oc=5
 
@@ -64,9 +55,6 @@
 
 ○7月8日 第一三共ヘルスケア、サステナビリティ活動を再構築 コンセプトを定め、3領域に整理 朝日新聞  
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GM21QbFF1ZUpTd0YtY01KVVBCV0ludGQ4ak85NnlOQWhxck50V3BxZllDcXJBSUkwN2czTVNPYWdwODNCZHktXzVWb1Z1OHpOaGUxS1lB?oc=5
-
-○7月8日 米国25%関税、石破茂首相「誠に遺憾」 交渉継続を指示 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBYc2lEY2RydV9ndGlhUHpxR0p0RndPSXd3YkhQMFFDQjRHT0xsMlhtR2lsZEMtbGdJRS1oQ2lvaW5YNE1NNUVBRE4tdnlZV0tucUFxNUdiSGlXZFNjMlNLY0s0Z2p6RTF5ektRWA?oc=5
 
 ○7月8日 トランプ米大統領、日本など14カ国への関税措置を8月まで延期　対日税率は25％と BBC  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFOTh4bnhReEpZNjhYRzhfVDhYTTR4RHJqd0xraFJuU2JmWnR1ZmZBRmtZUGVxTGRKT2k1WUhaV2Vnd3huMWhnQnRRT3ZWVnJMTERQTUFwYXZJZzhRampZ0gFkQVVfeXFMT1A4czVuWU8zMDhsUjBKdTA3cDFTaDZHdjd4d3F2WkJrX1BiTUR3ZWJ0X1d3QTFqa1ZNcy1GS3NNMWd6QmlRS0haMzFhd2xpZjRnb2FMUzR6ZGxNSDlvUjltUlRJQw?oc=5
@@ -107,11 +95,8 @@
 ○7月8日 韓国は関税交渉加速に意欲、首脳会談も視野 トランプ氏の25%方針 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjaDFFLTMxVUo4ZWxaa2FOUGdnS1BxbHpMZmI4TVdUcEVBSmVOa2NTNlNoZGxmSWtaMTBNQzBSTlVWbnM5YURKNF9pWnRTNHBhVVNHTXlneXI1LUowVzV4QXRnUkMtT1E?oc=5
 
-○7月8日 国民民主党・玉木氏、50%関税と誤投稿 日本語で説明求め政府批判 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9EWl9HTHFTSkx5OUpPM1ZnVkFfT09Lck9WQ2tUNlR3eklXQjZmblgzbTlwNkRqOWp5VmVOc2hpWEhwODQ2UXY1NjQ2Tnl3MV83ZldhdmU5LVFpcW1XY2FYRGhrTk9lUnRRNUNkNQ?oc=5
-
-○7月8日 関税交渉、延長戦に突入へ 焦る米国、参院選で打つ手が限られる日本 [トランプ関税] 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRSnpWQzRzS3BCT0o2SHdnQllOTnpma2lQRHlMTGoxYWM0VWpfMTVOb2EtYVdwbE5iOEVQalEtMjN6R3ZGX0ZZdDdXVnNyYS0wUWZQY041enJkZURPQ21fZWFvQzJYajA?oc=5
+○7月8日 「もはや体力勝負だ」 自動車関税、先行き見えずメーカーに焦り 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9adUVPRFJNZ2RZOXdfbVhVNUZLR0g2dTZFSkp3ZjB0QmZURXVCSVN2LUczSUdRbkNUZjh1eHdfWnk0TkhMMkRnQkdOTVY5RFMxX2NZUE94MEJvSTNHcEtTQmJHUGdLZUlN?oc=5
 
 ○7月8日 米関税とマダガスカル　繊維業「６万人職失う」　高税率軽減の交渉停滞｜四国新聞WEB朝刊 四国新聞  
   https://news.google.com/rss/articles/CBMid0FVX3lxTE1sUlAyRXVuTlMzVEQ3WDBwVm1naEhiR2I5c0pPTUl5MnBKTlB1R1lMcXVjZ2tLTWZyNE1uZWU0ME9Ram9OVGpHcVE0UmNMeDduaUZHUEJFaldGeDdjNldsV0c1dldCbUIwVGRZdkhXbTdkTERwVEhN0gF8QVVfeXFMTVdBTDllbUlaczdJWF9XSGdXdUNiNjBRT3FHeWV0OUkwREhxSXhfdE1yaWZnVFNEcDN0ajBfeFNBYnM0d2JRS3ctN1hlTmNadzlsNDFsVG8zZnpNOHNvM3JCQnoyNzZQTkFkc0tKa3JIX2RfQU9XVWQ0S1hKag?oc=5
@@ -119,29 +104,23 @@
 ○7月8日 閣僚2氏、農業で応酬 目つぶり黙るトランプ氏 日米関税交渉の内幕 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LODlVYlhwSTdxaEZnOFcwR000c2h2a1hndGN5T0NsRWVpZmZGaUFSM2NFa1ZTTnJpU3gxVXU2d3Z0S1pGb3hRVEsyZ3hPUUxTdThrak91ZkZWOEdrQVU4WC1KM1ZLb2dL?oc=5
 
-○7月9日 トランプ氏、銅関税50%を表明 医薬品には200%関税も 日本経済新聞  
+○7月9日 トランプ氏、銅に追加関税50%表明 医薬品は1年の猶予付きで200% 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE90TTdrNjN5d0dzS0pxcjBxSy1Ndm42QXR5aERCem9RTFRudGJDNmlwcm9BVlAwZWZncDdEbGJiWGMyNHBCVE1NSXZXVHNiWlM0U1I3emFqak9HbDZzRXZsUjl3bENFM2NWbFZlaA?oc=5
 
-○7月9日 （時時刻刻）関税交渉、延長戦へ 米に焦り？「３５％圧力」から一転 朝日新聞  
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tOTlnM3JHMzNBOFl2Xy1VdXdzY0RPVWdZQWJBMVMteWpsWmlWZkd3VzVQSGV0ZE8zdWVUWk5GUm9TZWlvdTBEdFlIUE8wbW9OZGZQRFRQOFZwQk54?oc=5
+○7月9日 （社説）関税交渉延長 威圧の限界 米は直視を 朝日新聞  
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EU0VLOVJjZVpxTGZDZW1DMF9GRk00ejAzV2h1cGNqNDlKdjY0WWR6VnY4T2p0cXBvcDdVQmNtWk9XdEtjMnpSZzdId2xBMEx2YldITlg4SGc0WThX?oc=5
 
-○7月9日 酒造、建機に打撃 トランプ関税２５％、北陸経済リスク｜経済｜石川のニュース 北國新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MNllFOHBKUUxaSE9YLUtkTjFoVHVlRHRUdHMzbkg3OTYzdmJNMXRXZTRBazBMZk5IUHh2WmhVTUh0UnB0SVJlNTdHcVExeXkwc2JxVWJzbw?oc=5
-
-○7月9日 米、日本に関税２５％通知 ８月１日交渉期限 書簡公表 朝日新聞  
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2bUh4ZWlPWFN1cjNZU1VhRWFnY0hGQTUyLUk0QTJQdGg5TlB4S1h2aS1DNS1OR01YcU1WNWxrbUQ3OG1DNnJpVVFKdE1kUUtOdW41ZDRueW92WGYy?oc=5
+○7月9日 東レ、繊維事業で初の売上収益1兆円超 「出向起業」で高機能素材も訴求 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBiZVVhdzkzYjZ5dTktMlVFUDZpckg2T2xwSzhEYjN1Q1lQWnZIazRhMFh6dlFTdTRTZDBWQnFyX0lBVnRQMnQwYkJjclVhY1ZPSndHazhRLTM2QmpMUzAzclpoWldrc2NuUWVKeg?oc=5
 
 ○7月9日 繊維の雄・東レ、初の売上収益1兆円超 出向起業で高機能素材も訴求 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBiZVVhdzkzYjZ5dTktMlVFUDZpckg2T2xwSzhEYjN1Q1lQWnZIazRhMFh6dlFTdTRTZDBWQnFyX0lBVnRQMnQwYkJjclVhY1ZPSndHazhRLTM2QmpMUzAzclpoWldrc2NuUWVKeg?oc=5
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTEdSZlBObVpoY2I3VWNZNmdnU3NadGd0cjI5MkZhOXZBQ2Utd3pMTkNTbWRUVEFGdUhQa2FfMllKVG9mMUUtTmstR2xPTnlsQzZmTUlYM0s4NnZHUFNYRURfLUl0ZjU0dzk0VHlUTF96dVlqRHNPbGQyanlsZnRheENFXzRsUXFVR1NZbXAzU20xTmxiblA5Q3hUZHRDT0E4dW9NazRHaDg?oc=5
 
 ○7月9日 NYダウ続落、165ドル安 トランプ関税の不透明感が重荷 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1CU0VqYW1RTmZPdDBzdWozYmRzcmMwV2kwd25hLWJ6OWk4NkxlRFZNMmxNWHl0QlBrZEFZdDZMME5SVXVsVWNPMURvQlBoa2xaVmxwblBleFhPRlplQjBydkNQbEs2SHBKVmUxaw?oc=5
 
 ○7月9日 トランプ関税なぜ強気？ 日本車など値下げ、米国民の負担軽く 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBpSG1oV2ktM2FNdE9SZmJpVXN3YnJjY21PeDhjVFkwcXhtSkFCbHd4VDVnVDZIX1dYQUVVbzNSMkdPMzZDVFVzemRNRVZZbURjbWx3YlNyWjhqTjFVVXhWVFl0ZmVRbVNsZWRHNA?oc=5
-
-○7月9日 米でAmazon夏セール、関税でも衣料･家電2割安 販売額3割増の予測 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1oZEQtMlhiNVRVdWw2bW12VnBqc0MzRUR0REpTQnExaFdzaXlsMEtVSVl4QnVZejJIMGJEVGpEeDF6NzdfRjFYV2ZSdHBQVzdFdFNyVHBGTWNxa0hlVHR5TV9WOXcwZUY5c2llQw?oc=5
 
 ○7月9日 トランプ氏、「銅に５０％の関税」表明 医薬品には２００％ CNN  
   https://news.google.com/rss/articles/CBMiUEFVX3lxTE04RWFscjBtTnF4c1c5MUc4MHlJbTdMcmFiUFVDakMxRm5JUDhHdzhaMkpMWWY5ZGhFUGhvdnhEckVNeW9sRUlQMnltMEZnZmRM?oc=5
@@ -152,8 +131,8 @@
 ○7月9日 トランプ関税はゲームかショーか 編集者の視点 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBqeXdVQThHTGMtMk5URzRzbm9WVWxLcnlGR3N0N2RyazRyWTlmNk8xMW9Gdi1ZMWhLcnF2VldDNjRzVU40dTVveXlXWWhIM0sxb25Jd1FfT2tDVWFyMTU3RXV2bFJ2WGFWZHlZUA?oc=5
 
-○7月9日 トランプ氏、関税期限の再延長「認めない」8月1日から税率引き上げ 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Wal9kUXdwMGZ4MDgyU1BvX2w4VUluMjhrLWN4Vzk5OTI4NnYzY1dwcjRQVjlDS1J1Qll2VXZWVjJPYnVfOWwxcU1ubUswcVFBN0ItY1E0NG5lOFBMRElwcnFuQmo0cVE?oc=5
+○7月9日 アダストリアの独自開発素材26年春夏 天然繊維や天然調に注目 繊研新聞  
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KWG5SbjVRSWJXQUxmMmxHRHItUWFFRll3RlJYeFlVWWpNcnRYNkMyVkk2VXlQWU1WdDY5NHhiNkx3SHgxYkpFWHV5TUJEZ3pJb0JZWQ?oc=5
 
 ○7月9日 日産、米工場でカナダ向け生産停止 関税交渉を注視 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9VRVFGYkJlRG5OMjNWcUZyXzJ4cVRTemhqaUFxQV9FdHFNRnlWMFZKbTFBa3NsMk5HZVhQNXZtQktCeHM2MlBwdWdRVmdLOU9kM2dqRHlkNXk1QUI4SjFGaHFEU2s4SFJlaXA5cw?oc=5
@@ -166,6 +145,39 @@
 
 ○7月9日 株式会社グローバルインフォメーション：炭素繊維の市場規模、2019年に40億4325万米ドルとし2024年までCAGR4.00％超で成長 朝日新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhdFdKdHpNOFJzcVFQTEVaWXFhRktMelFmYkx6dk1lSEdOSk05bk1obnBta2Vrc21paUx2SVNta2pkc01FblNleDFLNk1sczdaS2dHdzBiYkhzbG8?oc=5
+
+○7月9日 トランプ氏、銅製品にも50％の関税発動へ 医薬品にも高関税方針 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Tb1hoYmU5d3RkUWJfNm5lZDU2c3RiREtHVXhaWXJyOVdiR2xuazV1OWFtLTlQQnZuSXdKZFhnR09ud3FGTHZIclc0MUNGeEltVVU3Zy1NM2MxV1dpVXUtWVRzQ3hhX1po?oc=5
+
+○7月9日 アジアの関税交渉、妥協に限界 迫られる供給網の「根本的見直し」 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ET0lreHlCU1Jfbjh5UWcwNllhSXNhT2NhQ250eEhCVnc0NnkwV3FvTmZlRkdkeWFLbm9sWndHUk1heUx4MkdVZWtQVVdUZFpZZmp5Z0xlRlZiYVdrQk5LbXZNbDNXajA?oc=5
+
+○7月9日 せっかくの和食ブームに逆風だ トランプ関税25％に農家や加工業者ため息「政府は粘り強い交渉を」 南日本新聞  
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjZU93RHRkejJQMFQ5ZmpSWUNPS1NjVEQ0WXI5alpJWDJWekoxTTU0VFVMZlFqUW5YbkJfaUtLQVFmMHMtcnoycTFQdExUMXFCRGVJRXRKc3g?oc=5
+
+○7月9日 トランプ氏、銅に50％の関税を課すと表明 BBC  
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE85bEtUU2ZmUFY2NnhHR0Zmd1V6VEQ0anFTSUxsZ2c4SURDWVlIUzdiRW1lWlgzM3ZpMmMtQWc2VzhVbXMzUElUUkpYN1dFTXk4eVdFbE5HX2xLLVVRang40gFkQVVfeXFMTXZOYmhmZS0ydEM4V3lLTlhHb0lVZkY3bjB3SXBKVVJDQWk0UWJubzJBSVZGZ1Z4aVdZWWpKZW05V29OaE5FeDdzX0xXeV96cmcyNkVBakdILVloVkJIZkwxWGZSRw?oc=5
+
+○7月9日 米トランプ関税収入「年末までに43兆円」 財務長官が閣議で見通し 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85aTd1bEJCS2RuQXNSZjhHWExMaXhTQW5IdHFDYzZHeHZsUXJWcGF2a2tVTmI0ZlE3cWo4VktRSXJ3cXg1bS00c05YeWxpTGVqVDVKS3RhVmdOTXpXNnNoWUxxajBIQjg?oc=5
+
+○7月9日 銅・医薬品の米追加関税「日本への影響精査」 橘副長官 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFAzVTE0TlFJT1JFcDhuaU43M0NuQkUxVDhHd25GTldWVUlXcUtYY0gyNjgzNkhULWdsMTlnUkFqdmZjUkdERUNtS2pDOThpWkdsNkdZY0g5eWkyemhwRklEbkl0d01WZEtsQncweA?oc=5
+
+○7月9日 中部3県の景気判断据え置き 日銀7月「米関税影響、顕在化せず」 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBwRVpEdm91ZHZucU9UT1hKVkpjRVJrNmtwQmxucXhMQXI1a2NFSVU3SFBfVHJ6dUdsQlRIU3ZiS1RDcTgtd0VCV1JQeTY4V2EwM3pjTUIwVnpsSUN0TnhIQVltTWYzU1lPbWVYQw?oc=5
+
+○7月9日 円、147円台に急落 米関税で中銀に広がる「様子見」が重荷 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFAtQnk3S1VPMmQyUjdPbm9vLTlZTnFoNDVnZWNPUDN5c3o0MjhaNG1nMm01VER3bE9ZTXpvZkRKSHRrczU0Zk1oNldhamxrMHktSFdYeTRkMm81WlZpZWc3b3pPanpPekNOVXBPeQ?oc=5
+
+○7月9日 製薬大手、米国で投資や在庫積み増し トランプ200%関税に備え 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBuQlh0a2M5X05rT0pUNHZpQ09XZnlPZ1B2YVpMa0h3UEpzUDBYODVqUlRZc2dzeTEtTGt4WWY1UU42SEUyOXR3bFdQdUt2VFNfa0ZoYl9uR2lFV1RWNGVyc2RRQWNWU05fUmlFWA?oc=5
+
+○7月9日 ヨーロッパ最大のクラゲ展示数「パリ水族館」とフェリシモがコラボ クラゲモチーフのファッション&雑貨8点が新登場【海の未来を守る基金付き】 繊研新聞  
+  https://news.google.com/rss/articles/CBMirgFBVV95cUxOa3BXdXBZV3p0c1RPcjN4RnIzUVBQWUEwejAyVmpCb2Jjajg3dmZnQ0NjWmFNMVBGdS10MTU4alU5cGZDQk1NU0ZkaU9wNTlLSmh4NXBCU2FKQlpiVzlFRFNUSk5Uc1Vab0UtRXNJNTVUUjh0eDNCWTZKVFVxQmcxOHB6M1BKbTRobzI5ZFhZZ3NPYWU5Y2o1Vkcxbkh5b0lMdmlIeHlWcExrc1A4MGc?oc=5
+
+○7月9日 「長引けば、まちの盛衰に関わる」 トランプ関税に揺れる企業城下町 [山口県] 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04VWJScDV3bWV2Z2wzOVRkME1kNUFtWlNmZHNyOGpPM2NlOGJOU29fd1R3blBjVDdIQzZRd0htT2dDNTRadk1yajdHblVoUGhRRW55LWt3SUdmMXMxam9CUW13OE9qZlk?oc=5
 
 【自由民主党】
 該当データなし
