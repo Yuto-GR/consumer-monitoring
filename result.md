@@ -1,18 +1,18 @@
 【ニュース】
-○7月14日 車関税「生産実績で下げ」難航 米、貿易赤字脱却の重視変わらず 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE52VTdRbzFyNko0MW5ubW93Q3Z6NGE1R1VVMzJjZXNfRGw4dUdTUDlWYVlFdFRLNXFWU1BRLVByMmlCZ0Z1N0hJbEJDXzIzR2tJaHU2d1pzdHItQnZTR3dubGJQeU5ES3hIX0JGdA?oc=5
+○7月13日 【トランプ相互関税】４７％に「６万人が職を失う」 マダガスカル繊維業に不安の声 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzTnJfWmJ2R1lUU0lBMGR6dmtuUFIzR0NrTVpteGdoMDNpb0tKY1RUcG9lVEtjdEprenppM2x6al9yLXdCSDZZR1BwZGhhQmxlZ2c?oc=5
 
 ○7月14日 「寄せて上げて」はもう古い？ ユニクロやファミマが変える“下着の常識”：ノンワイヤー革命（1/5 ページ） ITmedia  
   https://news.google.com/rss/articles/CBMickFVX3lxTE1RdGZTbmxGRDNaaUJhMDlHOEtCSUQtTGxKNkVYUmFoMVhQZy0wVlNfSmJ2SWZPb3pFUU5GNU5KMFZPY0p6NG1WZFYwczZJSGJnM1dVUmVLMm03dkEzNEN4b2JyQVpRcURBNlRIZ252b0VhZw?oc=5
-
-○7月14日 ファッション専門学生の注目企業・就職したい企業トップ50 給与・身近さ・ 発信力が鍵に 繊研新聞  
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXR051akhvdlQ4RGxHOFhpRGFyRF9UUjFjbUs3SzU3cXNtUE5CeWVVVE9ScFFtdTJNdUVHMUdmWlUxdi00RDlteVNRbzVVekFfaEZQeA?oc=5
 
 ○7月14日 オーエスジーシステムプロダクツ西牧拓哉社長インタビュー、「知的財産×商社機能」の両輪で 金属産業新聞  
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE05MTlVcWh1c3VJR2VPamNzenQ2eE9aZnNqSzlnd3B5OG9JcXk2NmFoMEVBQWkzbzdtamtpcHEyYWdTMVBPUXBtQjI0eFYxNHNmM2lwQW91WFA?oc=5
 
 ○7月14日 トランプ氏「日本が急速に方針変化」 関税交渉巡り言及 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5kTlgwc2lDU1dhOVZwcEdTTnNYdHZJQUNVLThrQjlWeVRJTG1UdEw5TTZzbWxTMmo0TmNYUjBsNFJqa09jM1padnVvNVYtNzNfWEViY2ItRDJxc1N3M0pWLUpoZ0dKU2dPNWRyYQ?oc=5
+
+○7月14日 コンタクトレンズの空ケースの回収を呼びかけるシード佐藤隆郎社長（左）とサステナビリティ推進課の及川智仁佳さん（右） 文京経済新聞  
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJZ3JCNDBmV2d6bzk5enZtd1hSUlYtODhkYnRadmpyRTQ4THk1N2RZdjY0X1BHTDRfd2djaFZDeFRoaUs1S1lkMGI4VGJEc0NQR1MybA?oc=5
 
 ○7月14日 トランプ氏「日本が急激に方針変えている」 関税交渉を念頭に発言か 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lSmtGdXVQY2lHQm5zSXJ0U1Voc0ZmMEdzZ2VTS2RuckwxdlpPcGtEa0w4TWYtSlVpMzFSYXdaQVlaLXhFWnBqdUFYOU0zTk9yTENNUzJaUXp5TmtLNHFFaGtzeDl6cEk?oc=5
@@ -35,32 +35,20 @@
 ○7月14日 新トランプ関税、日本はマシな方？ 異彩放つ2カ国の中途半端な税率 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12TzFWa1g4dmtxUExhcUdEeHZPWDd6bjU4blZxY2ZrRGt0T3hiZ19pNW1kRDhERXF2Ri1DMHZoSlhLOFdKOEI2WUd4WU1HMHE0OG8wbEhEbU1ENmJMUW0teFpkdlM4SEk?oc=5
 
+○7月14日 （取材考記）ＡＩ競争の裏 フェイクポルノ、進まぬ規制 定塚遼 朝日新聞  
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wUVF2dFdNMUhHX3BhVzVzRVNGcVVnOUU4NmFmZkNwdDZaMVdxNFI5Nks1NEYtRGxoUEl5OWFONW9LdTFicmtSMlZkMzVjLXhUUUJWTjNTTjFMQ3Jf?oc=5
+
 ○7月14日 ユニクロ、ディズニーキャラのTシャツ 協業10周年記念 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9Qc1BTVXNRd1ZhZG5vb1NNVjdHQVlUaWVvTWwtUm5YeWY0NWxJWHl4VF8yVnZMZUVta21WaENXaHZpWk8wZ3hFTGFOME90OXU2N2xqdF8zTGlzWEpvNG1XNE1kbVItVXN2dGY3UA?oc=5
 
 ○7月14日 ［社説］持続可能なエネルギーの長期戦略を語れ 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNFdUai1iTG5IN2FGa3pFUERMYktyQlpfNlVEZGdFaGJ0UllUMnpPbUpfdkk3MXRyUUJZbjFEVzl4ZGJIOUhfWmFfbUwzRXp4Y29VMW84TlFsaGFLM2g4d243Z0RtSU10bkowdQ?oc=5
 
-○7月15日 トランプ氏、ロシア貿易国に100%関税 50日以内に停戦なければ 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE53N0k4dTdaUWdBdUI3TExoVjlmaVhaNXhidEtlc09rMEkwX1owejE5c0pnZW9TYTZHWTY3X1Q4YTFPbFB2ZWtSX1ZEckJRMjl5REkzempBblFLSTJTVUxOcHNGaUtrUGh3eXB2LQ?oc=5
-
-○7月15日 脱差別化競争、ブランディングで 佐伯尚子氏 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE4wUUxBR3lIXzdKVmFKNnJZMmoyeGttMGZqdDhjWWRNdFN6RnlTeEs0LTFxSHNqeTZGQzk2ai1USlZ0dm9MdVpmN3FWS1UweExTbV9mTVpUM3dRek1EWTRIM1VHNVZIak4yQjlHSA?oc=5
-
 ○7月15日 持続可能な未来へ：大阪経済大学 防災意識、地域と高める 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ydTFZbEFVRFZNTGYwYi01TVRnZ3dsUklLWHlNcXVaTVlkWXpRblBQNWttdmhQWFdYRGF0X2wwcm1iazdjTk9qRUctQ1lacmg3UTZnYlFqZGJ4VFNtLW1yZkNDaGQ4T1hq?oc=5
 
-○7月15日 &TEAM、ライブ中にもコーラ「好きすぎて」 さわやかファッションで登場も“異例”お願い 山陽新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwenZWMlA0M3Q0ekhBSHppRTR4blZON0J1VVhwa2VTQzRVNEFxRHNWTjZDMDYwZzN0V0hYanVaZ1pwY0xwUV9jdmVHTkF2eFdHbk91NEVrZFRfRWJFYTc5Z3JrZTBMbVR1?oc=5
-
-○7月15日 トランプ氏「50日以内に停戦なしならロシア取引国に関税100%」 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tdkJ2RDNqOGJWT0wzYm41UE5ZM3F1Wm96MWpLSDNHaHhjcWY1a3FFdjdWNjM4RGplVWthZkYzek8wZFZzdUUtNk93RnRiRjB2OEpEeFVPdFMwalpHLVlDQjNib1E3Vjg?oc=5
-
 ○7月15日 岩手の雑穀、今が旬 持続可能な食料生産に注目 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFA4UXRZRWhJaE5hZXFUQTYtdER2ZFhsQnZRYU5KaExXNUNmQURVWDJ1ZWdmSGY5czRNXzJLdVFpZ2tvc2lyY2ZvQktLbnFlRmdzcGFrNHJDYm9WeGJ6dU5FZXN3RnNDVGlyRDI2Uw?oc=5
-
-○7月15日 対ロシア「2次関税」とは 間接的に圧力、移民問題でベネズエラにも 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE15M0duZ1VPMmpYSnVBbnBWUTZZNTVpUFZhRURPbWZmY2NHZ0Y1aEF6cV9NRDkxbkVrY0JxajJ6NFRXYW51Z1NHNjRlb0xrVDJXMEJaT1RLYUgxMjhvc3lCQ29odC1Ob2RUdlEzRw?oc=5
 
 ○7月15日 車の炭素繊維規制見送り ＥＵ議会委員会 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hWDU2OEV4WWpUV1dOMmZ1eFNDTUZXV192N2hUZUdoV2txbXh0TXVLTmk5TThUTUxCOWhLaFRKNlUwWWtFMnBFLV9BQnZUT3hsX0E?oc=5
@@ -74,20 +62,14 @@
 ○7月15日 ユニクロ、「UNIQLO:C 2025年 秋冬コレクション」を発売 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFA1WTlZc2hza0pZSjVFZWl3WjNWclpDTWdyMFZxclVkd20wZGtMa3pGYnZJclJidXlRUFg3cEFYRFlNZEJmTzI5NzJsRWpXeHZTYWZFVnJZSUp1SzBsQmhnbmJIRDdJX3l4Smw4TA?oc=5
 
-○7月15日 プレスリリース：アプリ市場の動向とファッション・飲食・小売アプリの成長事例を分析（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE93WUJyR01Ca2RBQVl4QzFZQ29MNmpmVUsxRks0OTh1aTdLVllOZ2h6dVZEVkNxejhqTDRNajlvSU9wLUF3MjhRYlRLcGF5S3FwR2dVSUt4VU92ZlpHbVVWdlZ3aHdxRkw0?oc=5
-
 ○7月15日 【解説】 アメリカの関税脅威、ロシアは動揺よりも安心している　BBCロシア編集長 BBC  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KZUdfTDQ5eHFXUlJGXzhwYkVOMmFsWTdBbnhzaDhHRGJfWGx3SDN5MVlFX1BHZWxpVWk1RjdKOENkNmg4aXF5dTVyblJtNDhwTnppSVdWam5jbGpUVG840gFkQVVfeXFMTnlHUDk4SzZvMFBIazJGZE9wR25GbkE3SWdCbmltY281cUQ3WlZqNnE4M0lZZjhNa3Z4YU05T01lYndZQ3ZrY0pBLUx2Y0xuTUw5U204MzJ3bV9CVjNadXBiaWNPNA?oc=5
 
 ○7月15日 消費者欺く「ダークパターン」被害低減へ、対策企業の認定マーク公開 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBqRng2YktqdTZnTHlTWHdId1J6d1ZvOGpYdGx2bVR4Z3YwaUFlYjU4QnItMkUzRVQ4SWh1c2xKZWlDMEMwZVNMYkJSRG5OeXdBRUZzaVFHSVBwYlJlZmpyQ2p5dkNzYVRFVGZmdw?oc=5
 
-○7月15日 「地方創生のモデル」から転落した町、支援競争で疲弊の先に描く姿は [参院選（参議院選挙）2025] 朝日新聞  
-  https://news.google.com/rss/articles/CBMihgFBVV95cUxNeG9fal9HdFFWZlBaSzFlUVVOUjlINEdCdGMtYTdmM09vamgxYjdUMkN0VHQwOEd0OTVwWm1NSXFDTGZ0cFlVOVNHZ20wSy1qZlpMVDI5cnA0SkZFWTZNY3lENHJqSlNweVRMUFRHZTBBTFctY3pkbUhCM0I4NGp4NEpMeGdRUQ?oc=5
-
-○7月15日 MLB:米オールスターの本塁打競争、ローリーが捕手で初制覇 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFB0Ym1nOWJ0TGdCbE9OREUzN19uWVRXRU1pMDZrS3QtVlNPVFdyTzNhcXNKSlQxX0ZXSExfdE95Y2RIYkpDd25hTDlfSTlfamRhTU5yVm42ZjhtVExVMEh2RE13NG85dDZNUkFXNA?oc=5
+○7月15日 中国のGDP成長率が予想上回る、「トランプ関税」が懸念される中　4～6月期は前年比5.2％増 BBC  
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE94ZHdxbkNMUGdFdWIwNHZzOUlfNl9MdFB3VGxXd3loZ1pMZE9fMVMtMERCa0Q1XzBGVEdwSEltTmE3eXZvRnc5R0JJR0Uwck5vWXdjTVAybVVyenhXOXVR0gFkQVVfeXFMTjF2TU9ET3Jna0d1UTJaY2RJeXlFX004c3NhLUpheHJ6V2hNYjcwNDBUbk5qOGRGUVhyZUUzZTdPOERvQ2phNGpvSDNnUkx6UUhkRkdfdTkyNnM2ams5amgxSUJlOA?oc=5
 
 ○7月15日 ダークパターン対策協会、“誠実な事業者”が一目で分かる「NDD認定マーク」制度を10月開始へ チェックシート公開で「自己審査を進められる」 ITmedia  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1vdUtzY0pXODNKcUgwQ1ROUHNGN2tTTy13c2dEWDRmbmwzV0tSa2cwRUo3ZGpza2VYQVE0Z1htWGY0am9kOEFYX2JjRnJFY0hPZEt1RmY5UmZZZnpfWjFHdUE4UE9SbWF1UW9yWA?oc=5
@@ -110,20 +92,8 @@
 ○7月16日 トランプ氏、インドネシアと「合意」表明 関税19%に下げ 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1JVmxBa2NGNXIwbUlMVWl2QXViZTlOZDZrV2FjSE5lS2RsTEJOaWxtMFFfTE53SEdDdFZnRjNabnVYSDkwUmRpT0RvM2lMUHRFaUJfa1p0NktVZjF3UDBPbVZxbEpVTXBTTVZSMw?oc=5
 
-○7月16日 米6月CPI、関税影響なお小幅 トランプ氏の強気に歯止めかからず 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBvY1kySGNDckVtY1ZzNVdOMGpoT1h3Q3Q1bGZ1OWRNTV9WTFk1LXR2OVFjYUVjeUNQSHdXcDZPZVpvN2NSTDhpSEJPZ0JWdXBOQ1g1VHZSanNpbXZKaTRUbU9PYUJIWkxxTi1HSA?oc=5
-
-○7月16日 狙うは米国以外の市場、でも「みんな殺到…」 関税に悩む中国製造業 [トランプ関税] 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04WExwTWtJU3V2cWFaU1NHc1hoVDJhVXZWdmwzTjJJcmxtWUNTUTlPamdfVlJ5eElVbVJjVnN2S1ZHZGd0UTFVMzFQNzZybEFYa0hSVUxwRXhIbEx1MUNPVEpjRXRzdjQ?oc=5
-
-○7月16日 強気ロシア「気にしない」 トランプ氏「二次関税」 制裁下でも経済はプラス成長 朝日新聞  
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2dVQ4RVg0Smdxck0zU25nRXFzUGpCc0xHLVJyQXFhVTYtWElqLU1XOVVkSWVGTXdNZ25ZNUE2eV9YeXZxX2JZUXNYZWRhaGdOOXJ4VWo2VFBERkRs?oc=5
-
 ○7月16日 《ファッションビル・駅ビル商況6月》高気温で夏物が押し上げ インバウンドは明暗分かれる 繊研新聞  
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NVkZvWEkzSWJOeDA2MFkteGQ0dDk5dHY4QjRRSkhmeG1Ua1dLaXdVNDlSME41bF82a1dxcEZtdGlBaGdtMHVVblJ4ZU1jNmxRY184VTl5XzduWFpWR1E?oc=5
-
-○7月16日 トランプ氏、インドネシアとの貿易協定合意を発表 関税１９％ CNN  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VWEFQYWUtZTREQjlsUWVmRDBONUMtUEVXVk50NVRnNEhnaFFUeGp1LUVGZ21QbFQ0c09yRUtnUUEzNms5UGJjT1RCUEZTellRLVNlbGpvUQ?oc=5
 
 ○7月16日 「使用済み割り箸を家具に」つなぐ循環の未来 コクヨが挑む都市型サステナビリティ 朝日新聞  
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE93UjEzODNFdDdhMUJhS3QxZlNCa2EtSzlYeDl6WGxWMVFUV05Cd2oxUjdpLXF4aERsbWJ3U3NMSzFiNWowRkY0MXVkanZ0YkkzR2FfX0d3?oc=5
@@ -131,14 +101,14 @@
 ○7月16日 MLB:大谷翔平は1安打 大リーグオールスター、本塁打競争でナ・リーグ勝利 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1jTnhER0dfQVljSkMyNGRkU2drWmFlQjI4cFlWcmJRR3A0dGM1VHIyZHdUeUtzeHJSNTIxOUw2bEVzOWQzamJPRUg4RDc2clRPOXVkRlZCTktTdE1MaTg0X2RrYmI0N3pKNHRyMg?oc=5
 
-○7月16日 米利下げ「年2回」予想もぐらつく 米関税の影響警戒 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE50RTNRYS1vbWp1b3NOaFRMRUFWWkZfLVM4UkVPLTlzRjIxM01WQzlrbnBLWU50V2xMVUpDa2NtLWxSTUxaWnUzNUhGZG50U1Jqa0w3VW00Z3hvZ1N2NUlvc3dBQkVLXzlmeHRocg?oc=5
+○7月16日 BASFコーティングス、協業による持続可能なツートンカラー塗装のイノベーション推進で表彰（Digital PR Platform） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iZlpEVjNuNl9KakNBMEdHUjBLa19JXzJOVjBVbWRsTjZXOUFYV3ZMN3ZETU9UNlNDQkNuNEpjN0VFQUtjRVMyaEhTaVNkNFZMTkx3U3RndzZkSk5VdE0tZ1ZadGE3TlBp?oc=5
+
+○7月16日 オールスター戦、大谷は１安打 本塁打競争の末にナ・リーグ勝利 山形新聞  
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT29IeWl0Qy13VktPVGZEQmRWeFBUTUp1UDlac3I3OFZhUlpYUjRsT0hHeGEyNnpPSFZlNlpmRzhYR3BQUy12aUNZS0VDZ3pxamFXXzRjc185T3I1TGI0MWliTnhqYWhSQmJCQkZ5ZFZTS001YlFrMW5sa1JYVkVCQnJqLW5mUnRZ?oc=5
 
 ○7月16日 米、小国への関税10%超 トランプ氏「近く公表」 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5xWGxxZWE4MjFxNmJFX3FGempMTlp0SVZoMFZya2ZVTnRsYjZDcjVJZGRzS2RzbnFPdXNsVktIUFNfWWJiRVFicXhjeVhkeU1IejM3M0lYRVNlSUpxdzNCVkRGMlRGT2hIck5NVQ?oc=5
-
-○7月16日 1安打の大谷翔平「いい時間だった」 本塁打競争でナ・リーグ勝利 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FZC1GMDk5aGw0S1pKQzlIRW9PNWlycV9YbkZfNDBjR0Q2YkowdFhwN1pEbUNkelkwN3RfZnBpWFNxX1pnWUoxQ18yMXRFUlU3OFF6eHkzZGtWRjNMYTZJQ3NlWlNJRnM?oc=5
 
 ○7月16日 MLBオールスター 九回終え同点、初めて本塁打競争で決着へ 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE51aHladFVpT1E3bTFGLXBhOFotYWg2NjRkLWpIWWl2TVJQZ3NfX01XdnctMEpPZE1zb2JROFRZNWw5Nm9tR3h3T2dqZ2ZuY04wMkh0cE91ZzNaU1ZjMWlhSXVoREZNaVBV?oc=5
@@ -146,23 +116,83 @@
 ○7月16日 【株式会社インザック（大阪）】特許情報提供サービス「パテサマ」と、知的財産権訴訟費用保険など各種保険の仲介を同時に開始 愛媛新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE53QWNzUm5scGZKdlhidzZqU1BjMll1Njhqd0dPT3d5NUZ6YktKb2ZBcnRqWlQtdTFyOGVGc1FHelNvZXg4cjlOeVFvRzJJcS05VTBWMFZIWUQxdGM?oc=5
 
-○7月16日 オールスター戦、大谷は１安打 本塁打競争の末にナ・リーグ勝利 南日本新聞  
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE95cHBiSV96dkNjODkzb2VnVm5Yb21Lb3FsUVQzZzB2Rkp5Xy05V0picjlJd3J4WEQxeXdQMTU4azRGNWFrZ0pINWp0YmtfS0RQcUtXbUZMWnF6LTM2ZWRvZHRKYW9sZGNtSmc?oc=5
-
-○7月16日 トランプ氏、日本に通告通り25%関税実行か 「市場開放しない」 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoVWpUbmF0NkJkLUVJUjdWdGRKc01NM3FoRjFtSG5iX2oyRFpSSTZQSEJhbElLVXh5bEp0Y3BZczNYaFFMdWhDVHpQenBpaS1LMXlfX21GV3ZrcTEteWdpSUpXMGMyRmc?oc=5
+○7月16日 トランプ氏、日本に通告通り25％関税実行か 「市場開放しない」 朝日新聞  
+  https://news.google.com/rss/articles/CBMickFVX3lxTE1ldzBiY19Ba1J6cE83N0R0cXNuaGhjVmFfU2dmdGtmNmFnMFVZSFJnOTd6VGtQc09vZ2V0M2pqbzVoalJydV9oUkNZWE40MGhmN2dTRTRUaDhQaVdOeDNNdmNmZ0pWQ0ZoaDlDQm43dUREZw?oc=5
 
 ○7月16日 トランプ氏、日本に通告通り25％関税実行か 「市場開放しない」 朝日新聞  
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxNUER2eXdyQ2NVQjZnRC1WRlByTXBCQnZmTlVtYjFWM011d1RUNUI2TmZ6VnF2ZWxGTC1PVjFNaFRndTF2Z0pTV2RoY3VmaF92NVZ5Q3RFbnFGQ2l2V3ZjSG5VMk52c3dMN0E0eTQydW1sUjdjNnFSR1lzX3FvREZteTRaMjd2OHM?oc=5
+  https://news.google.com/rss/articles/CBMijwFBVV95cUxQaVhhS0VDZ09HWE5wYk1fVEdJU0pQUm1VV2FaSU16QVVXaUw5OVFEX0gyUHJtdi01V05Lb0hZS2dMSlpCTF9YV1FNWUtsRHdrOTd4QnI4VDFCb2liUUxFQlktM2toUWI4TUVJcDdUTDJjQ0IySk01aGpHY0RWY183Y0VzeUFNLV9yLTJkb090RQ?oc=5
 
 ○7月16日 宇仁繊維の小ロット短納期を支えるハクサンケミカル 協業で新たな付加価値を模索 繊研新聞  
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kcG8xd09fZGJTbnJzZld5TEZ5T0JSY1NHVlZ3cV9IMGlJZ0ZQdTNleGU5VHZnOGhVc0FrbWNxWTB6QkhKRGFDVExvZjM2Ym1rN1hXTWVNN3ZIR0k5RC1GbEhhMzM?oc=5
 
-○7月16日 トランプ関税の影響見極め、「秋の利下げ」への布石は？ 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WelJRNmlWcDFtckhEWFpEZldmMnUxTkdxZnFReFR4aUo5U1NzWEpOVEpjS0xfcUNCSUNWVHI5b1ZIZDQxTHhiNWxZSGd1Q2pNdjZNZEV1RmowZw?oc=5
+○7月16日 大リーグのオールスター、ナ・リーグが勝利 決着方法は初の本塁打競争で CNN  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MWDVxeGZkTHprcV9qRzA2MVk3dEs1eFE2TGcwWEw3ZDU2Ym9VaG81VDBrakRJSkdWOGVhRzM1Um5KX2FFQXlGcUJ6clpZZzZaLW5XN3pR?oc=5
 
-○7月16日 カナダ首相、「米関税の撤廃」断念示唆 現実路線へ転換 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE11Z2xsd0E4NzF3eHk2amZHRUdlaTlWRzUwN2VuVnZpMTg0Rjd5MWFxTFk2NzYtOUVubnV3WUJaemEwUGJRM01MWW9iX3I0SW4wS09ZZEZnSTQ3ZHp1cWNLNFlDLVZPWmtMQUptXw?oc=5
+○7月16日 ユニクロ好きが「上半期に買ってよかったアイテム」3選【2025年】（2/2 ページ） - Fav-Log by ITmedia ITmedia  
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE12N1Q0RjdkUFBJQllVZXFoa0tRVmJwcnMtNXRvNDZVWHRsV1F1TTIzOE1qS3hSdDVKVXdyVzI0Ml9SMDdhaTRjeUpjX3VTLUd0QmNVOFFxR3I0eWhJVWtNNng2NUVITTZCU0FfWmhn0gFnQVVfeXFMT3ZoeEpOVUV0dktobmF4aWFNZmtPZ2FqdTQ4SzBXX2xtM1lJZHZUM3B4LXJoTWl2RzhiNDNwX2c2N19vR1JXVmpQLXBEWjRMTk9tWGhIcXN4V3FQUzI3WnBrWjlCc0JIOA?oc=5
+
+○7月16日 松本昌也「競争があることは本当にすごくいいこと」：FAGIGATE｜ファジゲート 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTV29Ba3pQVkY5V3lNM2JxazBoejRpa1V1OXZKejRtODIyQWRUV2pJd2RJYTFCN3BfZmF2WEswVUdtam1hVkJHOV9nTlNNX0gxM3c?oc=5
+
+○7月16日 日EU「競争力連合」発足で合意へ 23日に首脳会談、共同声明発表 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vWlIxQ2NfWG9aS3VVS0oxQ3I2MTBueUwyUUwyLWx1MXcybTZOcG9yMUZXcllDWHBoejF2QXVtbjZzSnpGc3B1OUVpTUJBRUNnS3Qwd2R1RHBSc1JrQm53UGp4QnJWUUE?oc=5
+
+○7月16日 インドネシアの米関税19%、外資誘致競争で逆風回避 ベトナム下回る税率 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9NcjF0RTlJd2M1YWhYMFlGQ1hwTjdoeXNRYWhGRTRvSlR2U2RRM1haOXAyR00xb29MYUpSVVVmSkRHZVhBYlZGQl96VmVhLWU2ZXNtWFZ4R3BOZ2tacWI2UmhFbzRYV2FhdFIyRw?oc=5
+
+○7月16日 無関税の輸入米、2回目もほぼ「完売」 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE0wRXdiY2pxVlhMYVZGRmZBOGJLOGxZLUR4NFRUY0FucjNEWWZSaDJFZ1dSb0Vjcml0ckFqYU9haHR5Z3lNX3A3TFdoa0JRX1V5dmY5Ul8tb0VyaFVoRkw0MEVIVktkSzVXdE05Vg?oc=5
+
+○7月16日 中国、EV値下げ「不合理な競争」抑止 下請けへの適時支払いも要請 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1MUWFTU3RqSFJ0eVB5OWZQOFZTUmtzY3FycFRzQng1M25uQnJibmJINWtlTVJCTHVtVHVuMkpQdlpMUHRsaWJxclNVX1pQQzQwbXpLTFBTcFh3eURCejBmLW9wNHNiem9xalZ6MA?oc=5
+
+○7月17日 トランプ氏、医薬品関税発動「7月末」 低税率で始め時間かけ引き上げ 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9acVlGdGZOd04yUVRoWHp3RUpmcWs3NkYza2Nma0NRSU1rMDNBRDZhSmVJSVl4TTk5NE9KN2xPTXhHeF92S1F0b21pX3c4cjRqVG1QNVNVYzJSMXhDWHJjUU5QdVh2cWFCcnE5ag?oc=5
+
+○7月17日 対米関税交渉が一律19％で合意 エネルギー、農産品など大量購入で妥結 じゃかるた新聞  
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SdHlzZnlpcURVZjRKMGtPZEZfdkNsMjdOV3ZsUXFteDZrSkRiS3hzamxZSTNhc2lXU3hfZTJTT19rT2xUcWRQODdVdlE4S3k5R1FybDZDNkc5Qk9HWHZhM2tPYw?oc=5
+
+○7月17日 トランプ氏「日本は書簡に従うだろう」 8月の25%関税発効を示唆 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE43NWJwQXRYejNpNnAtbG1qTmpHWXowVEM3NUlyUEZHUUNjTE11czBwY0gxY25rOG05dUc1cVBNNExvU2I5R2J6WU9OMzRQM2RTaDRlcHVuTEFiYXhGZzdKSWMySXRVVFJJT0NVSg?oc=5
+
+○7月17日 米政権、ブラジルの巨大決済システム標的 関税巡り対立激化 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBoVFRKZFdZbGN5ZkpyaXBUR0d0cjZvQ19YLWJvODZUcnlPU1J3dTV5dHExWFA0RUtjTFctTU5Na0N3UDFaTlB1NEFZdjR6ZEx6YzA2Nklrdk0ycDVYWmI4SHJoaDg0Znp5S0lrbA?oc=5
+
+○7月17日 EU、競争力強化へ70兆円基金案 財源捻出へ企業向け「新税」検討 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1feU03dWN0SHZWUzhfM3h1Yl9kMzhOaDk3Q1BEUlF3cV9JT00yRE16TTlWWTd1TG1NcHA2YWJjUktMVm9iVWR0UFR0bXJ5dGw3YmNFZFRtbS1nVGtldDhzUjl1Ry03Zkh2OEdjdQ?oc=5
+
+○7月17日 社説／トランプ関税と日本企業 高付加価値品で価格競争回避を 日刊工業新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oWVoyek5BWFhma1c0Ulh5N0pGdzRvT2hyLURXV1Zibmh4NnBsUGtwa1ZKSmt4YWFVcmxpV2xVVC01V1FUdkQwZEtUc2xDQk1QMjNFb2E1TnREWWc?oc=5
+
+○7月17日 ［顔］愛媛県産業技術研究所 繊維産業技術センター センター長 田中祐子さん 愛媛新聞  
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zU3RtNEJNZ0FSTDlyYjE2MUw5eW01bHAwVm5fT1pySjZFeHdkNE1JS3VWc3M5YXMxNlA1MnJHbTFzdGpoWjlibXN0ZGRiNFREY3ZMeFJYU1E0aXFORkVGQw?oc=5
+
+○7月17日 生産ライン 競争力の源泉（63）エトリア・沼津事業所 トナー製造 DXで省人化 日刊工業新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mZmRRb3N1eGFUWFFobXVCTmtWNk5SdUJvaURPeHItMkhDaXJvWUlHdC13VFNKU3JRWGtvSUpLZ0VDNVFvS01DLTRDR1Rpemh5Y3N0Yzc0dDlvRjQ?oc=5
+
+○7月17日 トランプ米大統領、医薬品関税を月末発動見通し 日刊工業新聞  
+  https://news.google.com/rss/articles/CBMidEFVX3lxTFB6Z2lvX1ZFeEEzMzcxR0hCQnpUV2pwOVEyNFJSVTBnamEtOVlPSmFfaml5STZHMFZGbzZhaHJfVjd5WlZ5QzlYSl9zMW41djItTjB1cUwzZHZYNjN1Y0NUNXNrUHNyYTlNdVkzVmZDMjQ2b2ly?oc=5
+
+○7月17日 米経済「小幅に拡大」も関税に警戒 地区連銀報告 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE93Wkh2VUtrTW9sci0zLTZqUkNjVklyS1NNRGJNTjlLU0VfRTJjZDN4VldyQXBUSzU2M0pjeDlGMlpEbjU1UU11NjkzVTNmakNDQWQzUGxTX3c1WG9mUjBNZ21ZTTNPMVYzQWNHVQ?oc=5
+
+○7月17日 米大手銀の融資、伸び率2年ぶり 関税でも崩れぬ米景気映す 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1oWk4tbFZYcDRSMUQ0YlFEdEdPaURIOXRiQ21nM2VBb3dVOGQyUURlUTBrbTJwRF9Rd2F3VTdrR2hObFJ1MmlFbWlxclBHWnJKdmxzWVdlWTl3aEctWU8xdF8tNkFxWi1MOGtwcQ?oc=5
+
+○7月17日 対日関税、強硬姿勢を維持 米大統領「書簡通り行動」 | | 全国のニュース 佐賀新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jZGp4WTV0eUFPdGdqdHhQempidUR0elBBd1pMbE1VNzJLNDF2TEk0TU8ybHVsdF9xYk9XUFAzZElHMmxOdnlHX2FOY2tyM1lCd2d0ZGtB?oc=5
+
+○7月17日 米国はや関税収入大国、半年で13兆円 「安定財源化」で撤廃困難に 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFB3UlBGUmFzZXh4djNTMTRsT0tzRkFHZEhJUUdneldLRjF3NkpEZHBMSURlUHNtNDdPMWhkMjVIeENvdzlzME1RTEZfVndWQUpDY1NLb3JTcmhmLUNwREwxOW9qMjVYdEt1MkRhUQ?oc=5
+
+○7月17日 社説＞社会保障／持続可能な将来像を示すとき|オピニオン 神戸新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Cc3R0OVdMc1BHWnlmcVl4RkNmR0hral90amU0Q3JUR1pwLUQ5dTZvcXlqb2ljUEdWWE91cXB6czFJMVV1S25lYmdySWxNcmJuQlBPbFhPcWFkdkI1clYxV09XQzdQbUpy?oc=5
+
+○7月17日 ニュースのことば：持続可能な開発目標（SDGs） 毎日新聞  
+  https://news.google.com/rss/articles/CBMickFVX3lxTE0xMFc3bldmVGdoejQyMFB1SGdfd1llVXhVNV8wVXgzSlZOX29BMFJ0ZTktUXVFUlkyaDdsZkJPNUFJRGtOQXdUekpSN1pHRkF6TFZ3eTluVXRlNUktUHJod2NsaHpWcWRVWHFNQzNRd18tQQ?oc=5
+
+○7月17日 ６月対米輸出１１％減 ３カ月連続、トランプ関税影響か 南日本新聞  
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1yUXlPQWk3Y1BJa3J1ZUY1SmZFYWJ6eWp4eFZ6UjdkbjJhbzJFaG0wVUtXUmpobTlmUldGNWwweENyV0gzb00zVVlkRUF6bWJEVndSdVdVekx0XzV5Y2trTV9nbGFMUS11Q0E?oc=5
 
 【自由民主党】
 該当データなし
