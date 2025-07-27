@@ -1,39 +1,9 @@
 【ニュース】
-○7月23日 自動車関税は15% 日米関税交渉で合意 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1Lc25RVU9zaTVVUUlQWlp0eGxFandDMkxPd1d4ZV9nMk5OV3FEVDl1eVBEVUxNUG1DWmZyNjhEQnB0RkhkalFwY0pJRXl5M3N1b0Ruell5VkVKWnU5U1l2cGpoVF8xNnl4c3VOcQ?oc=5
-
-○7月23日 自動車関税は15% 石破首相「米国への働きかけの結果」 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBOVDBkZmZkRzlfZmRjVXJ1aDQ2d19ZRWdQZVJNSGNtZmtobnhpOUY2TzNOeGNWVlZsc2dNQWxUdU5OZWsyTmNzaGhoV1pBWHNFMkNpUnRnNzQtS2hRQnU0ZnllaFBtckdpb21YcQ?oc=5
-
-○7月23日 詩仙堂 広島でファッションショー 地域を盛り上げる 繊研新聞  
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE43TjlmV2ZqZkhXbDBKbjBwTllwS2w3RmNpYlBKeUJ6d1VGZVo1QVFGUjVHYnVpczRwNTdTcUpObjlreGFWR2VSYWRkNEFYcjR4dWttcw?oc=5
-
-○7月23日 岡田電機工業、業務記録をデータ化 生産ライン競争力 向上 日刊工業新聞  
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE9xOHU5MDJWOFRnb210Si1rU2RJWEJ5WHMxR3Nib3ZMNWM0QURWbWR2MVZmV0JNaGhZcDhzOU9HZEhWei15dFZlY3JvQ2pSdFpxdFVOaEllT0V2czdXZ1JJVVVhbnE0blBNbDhTYTdIa1FmclMx?oc=5
-
-○7月23日 急転直下の関税合意、トランプ氏に刺さったキーワードは「車とコメ」 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aYVp0Z19SUUFwTkFJLXdrbFFIVmppM3VsTy00dEl3VmZUeHcwUVFjdThXY1RWVV9tdHZtQ0kzdkQtMERJdVBzVFBXbEJSaDhQQjV3SWxJTkYxY3lQcFRhWHFHbjRGVGs?oc=5
-
-○7月23日 倉敷の繊維産業 親子で学んで ８月１９日にバスツアー 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kRUlTcVNPY3UzTTI5TTZxSEw2NWMxbjVjcWRNY042dTgydHVNNWg5dUhweG5RUXB2NEk5TjRKeHpWdXA2SWY5X2VYTGlfNXhZNXc?oc=5
-
-○7月23日 今夜のNEXT 相互関税15%で決着、日米関税交渉の勝者は？ 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9vZjc5N2c5Ny1IcTh3eG9NUFM1em1LajRDVGVRa1daNWExRm4ydnJ5MV9uZExneWo1NXhybzJSYjBWaXlzSlFjLW5EMG10QjZiSWx2OW5OQXE0ejVMYm1zY3J4Y0JNTmZlTkRhbA?oc=5
-
-○7月23日 【コメ獲得競争】卸大手が農家育成 「待ち」では品集まらず 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QYVBOa2NmZzl6QWtCZmdfQmk3TjNDT3lydndpNzdIQ2Y4WEZEOFUxZ3JRQXNjZjBGS3UtNGppa0hSdG5HWmxRaGRvSTc4S3BhVEE?oc=5
-
-○7月23日 【高止まりするコメ価格】品薄感で買い付け競争過熱 家計圧迫回避の対策に注目 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE82eUhqTWUtcVpXbmRxVEh1XzBjWms1WTBtRW94UWsxRE5JQjhfWnkzbndjdjhCUllGWnlVMmptdzhiZ0RWRGYxblFlbk5uSkJrWWc?oc=5
-
 ○7月23日 トランプ氏、日本との貿易交渉で「大規模な」合意と　「相互関税」は15％ BBC  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE50TXBkTGlZcDhYT0lWZ2pGWnJzU0lzMm9QaWoxNlNFLXRMQ0J0WGVOdDNLa1pKQTY5ajFkS19HTWI4dXhjbjltTE9IWC1xeDlVYW9jQlRLcXFBczNhb1k00gFkQVVfeXFMTVpYWjgySkk5TjVSYUc4ZDV5WmNfY2U1WVA0enFxdERfUFVfQlB3UlYtMFY1ZF9hNDFsR0hlSmpqRUhpdTFSOW90ck9PTnZQcWhkZEV5Z2w3anYwa3dBbzdFaEZuUQ?oc=5
 
 ○7月23日 奮闘も「もっとできる」 競争が大事 服部ＧＭインタビュー：FAGIGATE｜ファジゲート 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lTXBNMWdPcTZIRkhoQVQydTBKYkotMnpOakhnb1pJMlc5UjBoRUM0c2pPWm9PZXdPMkpWZ3lFeUpyUXpCY1NDVjhWY1E3SldGeFE?oc=5
-
-○7月23日 「トヨタやホンダには非常に有利」自動車関税の決着、専門家は高評価 [トランプ関税] 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CbTY1UHU0NjhINUpwNkluMVlBV2VsdThpME4ydk8xVEZSUnpoalJvX0FHeVMycmdua2Q1U3h0UUR6Qy1lVk80ZWZ3Rll5LWRNRkZmM2N1N3gyejVzUmtNREUzZkJUTWM?oc=5
 
 ○7月23日 日EU、「競争力連合」で産業協力加速 首脳会談で合意 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1LdVpaS0VVNExyZzN1Y1NqOGxsUFZLQ0tMLXlKc2dxTG9FcHVTeU5XNzZmRVNXLS03OGVkUGNBVWlhY1RlVVFRWHZuSVczTkFWcTVIcHJVWWUxTkFLbHNvUzFjOVZUb0RFQ3BkNw?oc=5
@@ -62,6 +32,9 @@
 ○7月24日 ロームの東克己社長「コスト競争力見直し、早期に営業利益率20%」 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE00d1dROGNqS3k4Y0ZzdXBTRlRndVp6dUhlNnRqQng3WHNpWXcteXlrWksxVHNlRjFEQ2swUS0tODJTWUNiaG1ZM2tWOVQ2U2wtM19BZUFhZFF2b2RfQ3Bqa0hIamtxTGRlNE9zdQ?oc=5
 
+○7月24日 ブラジル巨大決済システム、米政権「企業の競争妨げ」 関税引き上げ巡り対立 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9LRXp5S2hYbkdpUnBqM0h3MG96ZlFZZmJrSWR3czAzNy1IVWpXT3F1Q2ljaWFhMTZLRmlzSEtrNDl3cHF1OUpfR3pQN2U4YXBuNVFPMnR4MnZVTk5hOXVEOG9xVnFmZVRSU01TOA?oc=5
+
 ○7月24日 社説：日米関税交渉で合意 これで国益を守れるのか 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yOHVqVkpMNDFKT3ExMUpEMW9oTnlWR3I0eWRtWEJLTGxONGphRTQxVEgtQkU5ZzBOcEUzWXJQVUxIRmRPSTg1bnhoSFdxdE5HOElUTm9XMjRpTk1HYlYxTGdjaWNJRkJN?oc=5
 
@@ -74,17 +47,17 @@
 ○7月24日 帝人、競争激化「アラミド繊維」を海底送電ケーブルに 生産効率化も 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFAzMmo5WldEX29zQXNJMzFtUlZCX2pPTVg4ZEltdFNLdzBIRGtsM056R2JZanFoQzhlUTlFczh6V1ZIajZZSUZtM0JlMVNnNWR6aVhZWUFPRjdjdTJER3VGYkpyS0E1OU5fbVhmYQ?oc=5
 
+○7月24日 日ＥＵで「競争力連合」 経済・安保の連携強化 首脳協議 朝日新聞  
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdVRxY3ZKNE1FZnBmWndsSDZTUGhPSnhZV2FERzRCeHdGOUxFdFZvVW0xUEhuRXJ5WkhOd3k5NmNadmpxblNTd3lBLUxJQ3dvQXk2QktiaWtoUHlC?oc=5
+
 ○7月24日 生産ライン 競争力の源泉（64）岡田電機工業 QR読み取り業務データ化 日刊工業新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YZjJaQWtSdVJSby03M0NTZjJBQVJBU1Q4SGNWbjZkeS02WmcwbGlIdVMwQjh6UzFGOHJHaTQ0Y1doWnQtcklfTXdTOGZQY3plYzE5OGN6cl90OVU?oc=5
+  https://news.google.com/rss/articles/CBMidEFVX3lxTFBicmwyUzlscmF1ZnZxZ29hQlNvWWdPTmh0OGRRVVk1T3pJank4TVJFRldHSklfVFEyVEMyeFh2Q0ctTEZBaTN6dERvTVI3eC1tVnZ4LTEybTR4Yy1sQzI0eDdNT2EtUkNqc1RMOUduREtmUmJo?oc=5
 
 ○7月24日 トランプ関税15% 「日本の合意がベンチマーク」、米識者に聞く 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1GcVh3TnBENHJTNDlmVlJPTTExTkttV0lOc0JGckxPcDBraTN1cEVKODRQRjFYdWlvTWhMRExEMVNiQzBycXFIeVdmX0w0T1dBbWkwZUltdDlwUkw5M1hEemRBMXpmb2NVWDhnUQ?oc=5
 
 ○7月24日 経営ひと言／日本繊維産業連盟・日覚昭広会長「人権問題に対応」 日刊工業新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE44YUNzMTlTZXBQbjdndFpxcjR5Y18zU0hhME5zbzRpcXQwWk5ZcTBLd2FkdmtIeV9kM2RzMlZBejdKd0MySkYtQUFXbHdqSHgzbUxHanoycmc1dTA?oc=5
-
-○7月24日 日本のトランプ関税率、交渉ラインに？ EUや韓国は車関税に注目か 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93LWZjMVJoQW5MZExlM01ZVnhPV3NRZEpteE5YeUFyZnctZHNzWWVDeGRCQTFIMmNkbTdrbzFqWnZqNUdqd19fdWhtV2RqbVY3dmVtUEZzZjlnSHRTWGw4TDRVYUdGS3c?oc=5
 
 ○7月24日 日本、試される競争力 車・相互関税15%、日米合意 80兆円の投資支援枠、米からコメ輸入拡大 日本経済新聞  
   https://news.google.com/rss/articles/CBMilwFBVV95cUxNekJ2V3ZZSU1SeFdDdXNkSTd0RTB1ME1pMU9rbzFBa1F5Z2FZZnN1ZDN2dC1LajR2SHJDRk45ZUp4X3ZJelVObTBWN1NGVE9lalpQQ2NZRXdGS3BiWGFWQkVlNWVaZ3R5NHM1SzZvbE1qeXZsOEVyT1MtMW9rbWV3eElydmNLcTVXNkQ4QVB5QmUzQVZrMTYw?oc=5
@@ -106,6 +79,9 @@
 
 ○7月24日 ユニクロ「UT」、ポケカ・ポケポケで初コラボ 8・11よりTシャツ＆スウェット、キッズも展開 山陽新聞  
   https://news.google.com/rss/articles/CBMib0FVX3lxTE5iVnQ0Z19mUXNWemRsMXJNQXJ4bGNBTUU2LU41WGlJOXJJTi1SOHlDTHNsQTcwSVU2LTlGeE0yb1gyVUt1Tm9FWm5hRHZPY0Z1QU5LdVg5cHdiWEtLT2lYd2NUYzNFU3NxZjJCVTNmYw?oc=5
+
+○7月24日 香川・三豊市の商店街活性化、DAOの仕組みで持続可能に　ガイアックスが運営支援へ 財経新聞  
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0WlNyU3RZN2ltSjd5elVncHBNWlZTYWtId1BOTS1ZLUplU1VMN3cxaXVudGdWNUFaYnp2ckNkWmtoQUFhb3ZlZ3RjQV9iempPM2oycWt1blA2MDFvS1JQUFo2RdIBaEFVX3lxTFBfOWpvVzZ4eU1hd3JpTll5TnVPVWY0NFIxbEc0ZHVsLWgwUld0MldYeXM5WndTeFltNC1FNU5JM1JrMU41N2d2c2Z5Z0hwYTFSUkU4NG1WYjR5VjZ2Q2EwcW1xUDV3REZZ?oc=5
 
 ○7月24日 日本ハムの大豆ミート､肉の繊維を再現 大阪万博で8月23日に試食会 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5XaU4zUGZQcThtVXJtYzJnVnFiVmNJQmlmWkh1dy1MWkQzYkpPVUNfVGNkSzB5aTBzOTIyQi1Gc3BGUU1RbDZWS1dvclBLRE8xdDJaMlByOG1RRm4yUGtUSW1lMFpKMmtqQV9SQg?oc=5
@@ -130,6 +106,9 @@
 
 ○7月24日 ＤｅＮＡ牧、ＨＲ競争を初制覇 埼玉新聞  
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE85SGd0cFExcFJKcG1ub21jd0xyMU9KZ2VuN0Q0R3BNZVVrczc2aTk3NFg2Q0lnSjdicFdSUWRUdHZZUkl3UVlhajhObnk0Ny04c2F5bUpGekV0VmZYYUJVRF9NUnZXZw?oc=5
+
+○7月24日 日米関税合意、投資枠組みに食い違い 適用日は不明 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBNbWNkT096aThMcDQ2ZXEtWWVvcnZJSk55Ujk0bGlBa1lQdzBWVS1SYW1tMnEyY2pqbzNXVXNCQXAtelRsWW9fMEZrdGEzTDdQMHc4UEc5cTZSZnVhampLLXBJRmRWXzg2b2dzeQ?oc=5
 
 ○7月24日 大阪万博でセミナー、大学生らが持続可能な社会に向けたアイデア披露 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFB0SWlacWtRbWxPYXVSaEpjVHpqZEIzTGJzU2drQ081dEc4MlBPMlhYZnh5Y2JscVFNSzNDV21FT0pvZHhkLUJsM19XbHl3RmVSWDFOV1MzOTNrYXBET2FuT0EwcHAtQWFTbzRjdA?oc=5
@@ -170,9 +149,6 @@
 ○7月25日 トランプ関税が傷つける米国 醸造所は缶値上げ「全て大統領のせい」 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tb3pxTmdQU3dIa01XSVJzdThEMWx1b3JlekNtOGZtRldsYXVCcUxQejJRSTBUMS1fRUFHbkY0N3VGNThrbl8wMnJKbnE3M3ZLbF96Qi14d2dWNnlqaEh2SDg2VW1sTms?oc=5
 
-○7月25日 ファッションカンパニーのまつや、ECサイトにレビュー支援「ReviCo」導入 投稿数の大幅増加とコスト削減を実現 日本ネット経済新聞  
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VVjdlVWJDakR4UWlOUnBrVFNjeDJONDU0QVJpdWo2ZU5vNnJrNDFVZENoUFp3aWYteUpqZF9jZEdVNmxFU2FmbWR0amx6Y2NOZlpDOWN3?oc=5
-
 ○7月25日 J-オイルミルズなど3社 植物油業界の持続可能な物流へ「油脂物流未来推進会議」発足 JAcom 農業協同組合新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE42Wk00anh5Z1hUUkljckJiZzkxMW1VMW1ud2ZtTlQ3YnkwaGdsd1VfWEVOZmJoN2owUUdhOTJKWWJfQ19vWE1hNHFPMDhjY2NCQzJnNzNTWnViUHNfZ3NRTERzSE1pN2V2Y1BpVw?oc=5
 
@@ -194,9 +170,6 @@
 ○7月25日 「シュッピン 「カメラはファッション」をテーマにイベント開催」 リユース経済新聞  
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyNnVRNndpM2d0cWxZSldkT3RVeHhZS2dCSXJyREtqVUtVRy1GX0VodERLM0Y3RVAxaUljLUVHTUk3SDhIWmFwM1Z1ZnVzQmh5cTNBMlVDUFVVRFRyV0lEcUE0WQ?oc=5
 
-○7月25日 やってみたいを、一緒にやろう。持続可能な循環型のモノづくりを岩国から ─ リボーンスミス、岩国市と企業進出協定を締結 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IQ3g4WW9RNGJzUjBSMDFWTzA5YndSOG1oZm83Y1duUUhOZUloTU9qbG9nTDJCNWU2RWNrRVhDR0Y3VXQtUTk0dUdJVmttZkpFYUE?oc=5
-
 ○7月25日 松江市に「企業版ふるさと納税」を実施 島根スサノオマジックのホームアリーナ改修事業への支援を通じて持続可能な地域の発展に貢献 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XZXozYnU1OEtmZURLZFNrQVZBTmc4Qm5FcFdhdno0SGt6a0NzVDlsWkxsTlBTRGp4elgyUTZ3Z3JMVjRMUTdIMzIxdmxoRWxaSHc?oc=5
 
@@ -211,6 +184,9 @@
 
 ○7月25日 関税合意「大きなディール」に温度差 5500億ドル投資の実体は [トランプ関税] 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nWW1wUVptUExSb0tuOUo2NlBWbGJvN2JjVU9qRHN4aFRCaXdpSGw4YzZzVXdoZTdhMEdqaHY2cHR0Z2J6WlZiX3pBS1p3M1ZvaXdJWmFwbUpyQ0U5WVhlV001WnhwX1k?oc=5
+
+○7月26日 トランプ氏「カナダと関税交渉うまくいかず」 税率35%を示唆 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5McVNxeEZRX3NOMHdpVXBqY0d4YjRCQl9jT2laSS0tdXh5bjgtT2FINUpteWp0ZXBzMmJ5VXkzX3BTbWtFbXBnWF84M1JaVW5qaU15Q24yMUtkZjFieEhVZVJpZVJYMlppaUxXUg?oc=5
 
 ○7月26日 中国・過剰競争株に踊るマネー 「反内巻」政策の現実味 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE0yQmtjWXpCWG80V0ZjcFB5MnA2OWlUOThNRF9NUVVkUWFFSUhMaFNJaV83RFduXzNpclp4bk5uTGFJbWVzWU5iZ2ZPMHBJSWI4aHJZUURMSE1ZOHJmcGd3eXNkaFllU0UycldqcA?oc=5
@@ -227,9 +203,6 @@
 ○7月26日 ファッションビジネス学会主催「FBアワードY 2025」ファイナリスト10チーム決定！！ 繊研新聞  
   https://news.google.com/rss/articles/CBMirgFBVV95cUxQT0R6ZmUwTHhmUkd1dFVkZVA4QlY0MEZOUkM0UXU4S253eTAxdENFQzd1QzV5X0F2d3Y1V2oySFRmSnBPODVEZU15VkU5RzFwVXJ6dTV0bTNtTU9KdEpVbGc0enBPRkl4RUhwd3IxQktveDFteXk4c0RNSUNxWlQ5cTJmc0dDQ0x1QkF0eGNMSDhrRFVIR0lBbUJ5enZYb3E0SXdPUjlZUTI1eUN2bWc?oc=5
 
-○7月26日 長澤まさみ、美スタイル際立つファッショングラビアに反響「美しい」「めちゃくちゃカッコイイ」 先輩・野波麻帆がスタイリング手がける 山陽新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE83OWRPcnVUaTVibUdPOVBzUlFsdjZGUGJBWHRkOWlVWGVpZXZhTjVkS0RuelVINncyNGNUMGZCZk1RQ2VSTEdmbFA5ems0NFRhWl9mLTR3Y2doRjRGRGRRb3NPUHE1ckgtUWNwLVAzSQ?oc=5
-
 ○7月26日 発酵性食物繊維のお茶 ミツカン 神戸新聞  
   https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ29tcUV6czFXMDhVbzRwLUE0M25qWm1xTUQyU0xzcGE5VS0tanVaUHJzYmdmUk45UmFGQzRPWERmU0VhaVVIX0tzcFNuRVRmUTZrU1B3UUFxMkQ4THpNMVRUWWRwNUEyVGlieWNWRGI4WkR1RVV1UHVMVGZQWHBuUw?oc=5
 
@@ -243,7 +216,19 @@
   https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6azRuX2dmbkNRTFd5Y1V2MEIwLXVpeFM4dm8ycTlrVE9SaURaZnFQWTJOYzRicXJ5SEgxd09qV2d2cmgxbk1XVG9vbmlibnZOczNzYl9DcmRSdTRX?oc=5
 
 ○7月27日 ネット通販、利用者惑わすダークパターン 記者もハマった巧みな表示 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yemsyMU85bmp1R0ZJRXQzY29EeEJBMXAwcnh1V3d6dXliVlcwdGtlOS1CMEc5amdET2s1dlFFNUNJM2hRZWt0N0ZLZ2hwclpHTk9WZS1qczZyTm1ZQUxEUi1yZllmaHc?oc=5
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNYTdORjRObDFMeU5ZRnBoTEVNUk4zOEluWUw2UndqVDduU21kUENPZFE4Z3c3TTdOZEdiWlAxdVJCSjI4R3NzbEdEbEhTYVd2dzdDUzBYaThjV0hCRDdoaWRqbVRYb2hPZnZBX0t2dm56Mk5XVzdPdHc1UHdaMUVVQUJXcXowNlk?oc=5
+
+○7月27日 持続可能な温泉地へ 戸倉上山田温泉が本社訪問で魅力アピール 観光経済新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzSDVyX2ZSOG85ZGxZOTRCQ1VHMWxLQVVwM3owVE5fcWo4anRkNzhUaGxJWmZxNzlrT0JiMzcxWm42bVRpU0l0Nmd0X2JkelVZcllfQmVQVQ?oc=5
+
+○7月27日 赤沢氏、関税で共同文書求めず 81兆円の対米投資で出資は1～2％ 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZQ01hNjhWQ0FuSmpXZHlhcGtVeElvRGxfMzQ4TW5aendnTUFtS01xeUlOZTBhaDFDeFVHMnBhc21PdlQzUjdSdnhOb1ZHVktVQTVnLVczWWh2dzJ5VDVoVWVrMTlFWUts?oc=5
+
+○7月27日 自由貿易を破壊したのは誰か 誤算と不満、トランプ関税に至る80年 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBVQm9PdTVjS3VGN3p2YTNSUUEyR25tbTRKQ3NxbThBYjllTTlIY1Y5cE90bjk3T2ZzMWJVQ2lPcmJ3UFQwUGpoSWh4SDAybk9DMThLYndxOTBWRE9GUzJ5WDJwa2Mxdmd4d2J2eg?oc=5
+
+○7月27日 日米関税合意「評価しない」40％ 「評価する」上回る 世論調査 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OWElSUTExMVNtLTY2TEVPY0d2TTRRN1NkN3ZISnFPY2laQWthenRha3llSy1pdnNrdUJpWWNrUUlnamFaYVdnSkJWWXJ5WVBzWm5Xak5zSzJVejQ1bGE5Rldxamd1MkdU?oc=5
 
 【自由民主党】
 該当データなし
