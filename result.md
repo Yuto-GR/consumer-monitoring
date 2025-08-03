@@ -1,21 +1,6 @@
 【ニュース】
-○7月30日 サムスン電子11カ月ぶり高値 光るテスラ効果 課題はコスト競争力 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9COXF1dzZiVjdJbjVDR2J5RW0wUk45aVpzdjNhZGowYUlvVnplbDNZWTFaNmxJeGVLUlRveUVQWktVUzQ1ZVl3VWhZa2xqUXhHODBlRXBLaEhHNXRIMm1hb2NGNEdTVVlSU2p5ZA?oc=5
-
-○7月30日 「朝サイゼ」開始で競争激化！？ 喫茶店以外でも参入が進む「朝食戦争」 24時間提供するチェーンも ITmedia  
-  https://news.google.com/rss/articles/CBMickFVX3lxTFAteTF4NF9DVFdRTDdWaW5oWXJuZ0k5MG5VVzFwTnM4c0lDMGpMTVRkR3hrSDZLa2h6RTlyOGJZRkRLSlpUVVFDNTJJNjFxTXpocFVDb3Rwci1ubEt4R2F6MWFnbXZIb2gxajFBdnJBRy10QQ?oc=5
-
-○7月30日 ソニーG、テンセントを提訴 ゲーム「Horizon」の著作権侵害で 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9TSkVENFBpa1ZuV08xYmRPcEVZcFphMFhyOHNHT0toZm9XTHVWUE5QdkVBY2RhUXNRRXhvTjdIX1B3ZDVGZUhuQjVzakwxVEpsRGlxZlhPM3dqTjJZVm14Uk1VRHBKbllpVEpWVQ?oc=5
-
-○7月30日 「サステナビリティレポート2025」を公開（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wOWN1RUZCUElsV1locy1vZVVkRzVxblc2dExpdmtfT0lIc0ZoYlYxcFVMOWpKZ1psZVhMN1NYSkRHWFEyMjdoQ085UDdUR1UtU1hUcC1HdGhSMGJXY1o1eUtFVjB4Znls?oc=5
-
-○7月30日 「持続可能な地域社会」への一歩！ 今治市・三井住友海上火災保険・ファーストクラスの三者で連携協定を締結［愛媛県今治市］（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE42WG5wZ2Iwc1lQeFNSNkdod0xxZnU4WmVlY2JqVnJuWGZ1R1otcTNuNVRaWm45NDFpN1c3YWFHdTY2ZUx3NkdXRWZpLU81TXE1UXd2VEUxbHdhZlpxS0pJUjdiSE4yNDVZ?oc=5
-
-○7月30日 チザムら本塁打競争出場 米大リーグ、オールスター戦前日 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qUzVUOWUzYU83RHBsSUpGcXJrakZlampCZGFWVkRiUkdFNFhwR3Rsek50OHVDdUwtWnRkWmZTMk11X3JmNXRmbzYyclJHZ0xxR1E?oc=5
+○7月30日 伊藤園と森永製菓、日通を通じて持続可能な物流連携として群馬〜北海道間における重軽混載による共同輸送を開始 日本経済新聞  
+  https://news.google.com/rss/articles/CBMiowFBVV95cUxNdmtHV0RNLTBadzVlRWYyb0dYcXUzX3VXWVRBdGZHZ3JBZU1SQ01qLXdzTkNHUUVWWS1rS3UwR19KZmVGOUlVS2ZrYmFLSVU4azQ4cjMyOGZVTUFoSEhta1d5MU1HOWxGeGtpQnQ0dDJMTW5HVmxmSUJrZFdudXpNemk4Q1V0T2E3OUJ4TjJ2MHN5UlFybUZQX1VoV1NucUlwTThR?oc=5
 
 ○7月30日 伊藤園と森永製菓、日通を通じて持続可能な物流連携として群馬〜北海道間における重軽混載による共同輸送を開始 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE53SENtVjJDSjcwaG04T09ENDQ2M0NoU1VTZ3N6cGRmejVOSFI2bTRiNlRZcThmeXlINm5SdFhwTFJHakFhMzdlQ2FQZTlkSW9MMm1uczh4M0RtTk0zU1pyYUJjOFJicTJFS2MwWg?oc=5
@@ -137,9 +122,6 @@
 ○8月1日 決算:日本製鉄26年3月期、最終赤字400億円 米競争法対応で株売却損 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBXc2FyREN3VjNITTBUT3Zxb1NjeXBnM2xPVjA2VlNyVnVXTjc2TWRiNkwxZTdaSmhVY3VpNzBPMFh2RU5BV2x6S0cycndNd1FPSU9tdElRY1VOQWdPOFVNNjJWbmJTT3FwUnNPZQ?oc=5
 
-○8月1日 『STORY』9月号には、菜々緒さんが初登場！ ファッション大特集は、"すっぴん風メイク"で叶える「真夏のオシャレ」 繊研新聞  
-  https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2oyUmlYdFlpblJNb2pDX0dvZnhLLVBIV1FTRnJrdVRMTGFUQXhCeVlmdXJLZVZVdV9tSGl1OVNCdXVUczBUNWZIaXlVMDItaEZ2anJsR3BsWU1LZXlpT2N6TEc1UnZXTkcwMHlVZ29lSW9lVEo2ajBZMEthcGlLVWI3Z19sRm04cGJsNndWOEhGUXRKZmRvUVBNeERXVUpRakpGQXI0Z2pXbzVZT2c?oc=5
-
 ○8月1日 倉敷の繊維産業 親子で学んで ８月１９日にバスツアー 山陽新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CSk10ZV9JS2s1US1VdjRZY2w0RUJ0TjFfZzRrc2stVW9nRmhTdW5tRkZ2cUFSckx4czlWWVlZa0w2OE5yZ3hVWUhaWFN5SG5vZkZYRFFqMGkwRzg?oc=5
 
@@ -164,6 +146,9 @@
 ○8月1日 猛威振るうトランプ関税 自由貿易体制に危機 「米国抜き」模索も 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iXzg0TGxUNmZSeW1EZnQzU2hrdTdUY3V2LVBnXzREMnVnNTJ6aUVkMEJhWTNQLTkxV3ItaEFfaGxzX2l6M2pHWW0ybmxZRU5SWWhfemY1dU1RVllGNHVtSVQ0TVR4b0Rj?oc=5
 
+○8月1日 タイ、米相互関税19%で合意 一部農産物輸入でゼロ関税 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1KQkhmUGs3XzdMNGpZa2ZESTRVTDJ1N2F6UFFlNUtvLUxqR093eDdJejFqYnNodzFHYlRLMlJTenBXWVZZUkk4OXpybG11SFNvNUc1RTFCUU9mQy1xQy0xWEV5amQ0QW1CeU5WOA?oc=5
+
 ○8月1日 岡山県産希少バナナ『ドレーヌ』とコーヒークレーム 無花果（イチジク）のソルベ添え 銀座経済新聞  
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PVkhvUG1ENHBvUTBCbXRZMkhlejFDbk9mSVhidVEyNkluUFNUcVg0VXZIblItSW02NHJ0eGlROUo4WG1DUW5UZVdaMnNxQWpZWWtv?oc=5
 
@@ -175,9 +160,6 @@
 
 ○8月2日 ブッダの教え、解説本を若者が支持 競争主義からの解放求めて 日本経済新聞  
   https://news.google.com/rss/articles/CBMipgFBVV95cUxOY18zWi1palNXbENXVDBxVVFKcXhTdUl2RWtLTzJmeUNYandxOUczWEhkZTBjNVhQTG5BT1k3Y3VfcnZnaks1SERpNXBuZjhWamwtNUhvWC1DdENSUzhhWnZRc254cXVaZzNBTFl4c1BOa2xQUFdlc0hNZjNabGNYSTRlVmtzN1BBY0t6UjBNWmVNYm1UbU9BblhjRFptNUowb3N5Qk1R?oc=5
-
-○8月2日 FRUITS ZIPPER、初のファッション賞に喜び スニーカーベストドレッサー賞をグループで受賞「3分の2以上はスニーカー」 山陽新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE94eEw3R2FXRE4yVjVMVzdvbVQ2VU9TS2ZrdHEzcnFTb1drU3FWQWdLdzlSWUZoSDVjLW1aN0hNTk1HRGtZZEhMWmlPRTVqQmJCLVNBMEYzaWJnRjBYRElvZXVIU2xLeHBXbm0yUnFSZw?oc=5
 
 ○8月2日 【本革の未来を支える選択】カワニシカバンが“バラキズやトラ”を個性として採用。革のサステナビリティに挑戦！返品保証付きで挑む「素材との共生」 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZRndfM3V3TGN0WGtpQWJyYl9LdWhNdloxbVNvWnVFX3VIOVNJcUNzT1ZNdERFRUR2a3VENlB0ZVpSRm5SenV1c3hwblFuZjBRVEE?oc=5
