@@ -1,10 +1,4 @@
 【ニュース】
-○8月16日 【読売新聞が米企業提訴】ＡＩ検索「記事ただ乗り」 著作権侵害と反発 神戸新聞  
-  https://news.google.com/rss/articles/CBMie0FVX3lxTFBfYkN5dndyNWpBN3lFaV9wdnVOSXVLdzNFdkZ6MVo0bmhuQXB2QzI1Z2lRdG5IYUhyMFdha2dMMmFjWjRoNVcwaS1BZUdDYVNBd2xfX3lDWElScklLakhmNDZMa1hIUWYydFpNM1FBYVF1QW1GM0tlX3RnVQ?oc=5
-
-○8月16日 【読売新聞が米企業提訴】ＡＩ検索「記事ただ乗り」 著作権侵害と反発 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TancxM1ZuWmFISFZQdEk5bm9hcl9jLVpPU1loa3BsdTJLVlZtSXlhZUFPWGJyRmJFbklfLWNmdURlODZnZnZpXzVVT1BOVkc0YWc?oc=5
-
 ○8月17日 食物繊維の上手な取り方　色付きの穀物を主食に　副菜の追加も効果的｜四国新聞WEB朝刊 四国新聞  
   https://news.google.com/rss/articles/CBMid0FVX3lxTFB3N1VmMzdJQXhGRUtSYXBHZ1dic3VXM3J1R2l1RmliSmY0RkRHNHdweDR4MmVaMG9nci01blFBU2VqdnVhTi1mc05yMlA1ZDhJZ3NsalcwQzVmVFFmWU1obi10NnkyZ1Z0NGFiMjA3ZWUxZ0NfY2Nn0gF8QVVfeXFMTmJlWmZwZURFQjV4Um1hSTdyRll4YUVFTm90c2FhdjNlU01lbkd2SDhPeWZIWkdrc2ROVDMtZWNJWnFndnI2X1VFRjQxZFZVMWVVaWxjV1NtN1pScm0wb2RabzZGbEFKUHpNOWdxZTc2aXhxUU9MY3FEdjlTaw?oc=5
 
@@ -17,20 +11,17 @@
 ○8月18日 競争力を左右する企業の「IT調達」は“3極化” 最適な体制構築を進めるポイントとは ITmedia  
   https://news.google.com/rss/articles/CBMickFVX3lxTE1YZjhyZHIxb0NXZDdvTzRxMTdiS1BjclpmTlRQamtwbXpoeHExZnh6QWxIOXozcER4aXNXN0llX1ZPNGpsNjNVa2U0VHRRUmYwMWZjaDJlXzBpRlVka29oRm1mTE9GSHJGTy1DU1NEUXdIUQ?oc=5
 
-○8月18日 経営ひと言／横浜ゴム・山石昌孝会長「競争力高める」 日刊工業新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzS0ZwVnVaSy1HeGZpX3VlMElvc1dQQ3BqeXdvLThFTjRmbTh4a2Y2UHJsTkV1WjFabFF6Nm9jWjFGNE9RUE9xZkE0bDk2QXg5NWZBVXA0RzI4Tkk?oc=5
-
 ○8月18日 ユニクロ、EC商品受け取りロッカー併設 2025年内30店舗に 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5pdk0yQjJBdXJsWURiYkxSdVluNkxpVVVhZF9QWF9hbHNuNG1QeWdueUhqcEVYc0tjT0V4UTlWNVUtOHVNRkdHU2hNOHNwaV9rMHplMldHY3E5Wkw2d1lBOTJwd1R5Y3UxOEduMA?oc=5
+
+○8月18日 東京エレクトロン株価反落 米半導体関税「200、300%にも」 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBncmpsR05VYVlhX1JocDZaV0FhaU16UnQtOEtpQUFaTG00amZZdDdDdElISGs4MEhjRFY0bWNtQkIzWXBFTTVXSGRzdmo2UElrVXdPdzZxRVVGdVNZSlNOa29WWDRGN2lkQUp5MQ?oc=5
 
 ○8月18日 アップルのクックCEO、AI競争でなぜ異質な存在か 毎日新聞  
   https://news.google.com/rss/articles/CBMif0FVX3lxTE9vTkkyWVJqZEQtR1hqVmMxenYwYWRJVFN3TlN1LXdnNWpKUS1zOEdTUTZMZFZweFBhR3NObVVWT3VqaEhKRGdZc01fX2Z1Xy1GbEh3bUltYWJOdXp6d0tXNWtIWnJkZEVEMUdKMlU3cUNPSDRKTGRPOGd0SHNZcVk?oc=5
 
 ○8月18日 【VOICE】地球温暖化時代の持続可能な観光 じゃらんリサーチセンター 主席研究員 森戸香奈子氏 観光経済新聞  
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jMVZEdEJxdWlKZlc0OEFiMkNBSDlqTkRIXzdoalkydDhHWjVZODIyMXE3N1FYMndkNEh5ZFR5eFdSVkllNVh1UnM5aWtTMjBhVy1QVQ?oc=5
-
-○8月18日 政府、アフリカのＡＩ人材育成へ／３年で３万人、競争力強化 四国新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE81c3lhQnYzUGR3WDdMWEtKQVRBUy1UUHdNLXR2MzhHOWFpeGl5QWtHNWNaRDN1bm4zRkhtOTZtNzVDQWVIU1cxV3JSTVI5c2NyLW9BYnN6cG41b3hldHhUcGwya183TTR6dHpUMk9hVQ?oc=5
 
 ○8月19日 〈マネーX〉食を磨く 投資マネー、農業競争力の要 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5IdFplQmRDaUIxNTNta2pMaU9kQnpNbVNaVFUxTktRbG5iSUFBaEJHcG9DenppN29BYnotT05uZXM0RlUxeDJmdnRPdFFLbC1XMXMwTHNldWVvTC11d29qT1Zpd2lFa1pTZFl4ZQ?oc=5
@@ -39,7 +30,7 @@
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1RcG9OZ2NxdFJBSG1HSGVXQlRCLW1FblJlN0p2Y0RXWWFydnhyVEVtMlNyb1pIWHpCa3U4dVhaVEZSWjFXVlZVTmtMZmtENnJnX1Jsdk5IN2JmX1pvYnFSMXJSLVlLdEphTndEcQ?oc=5
 
 ○8月19日 〈マネーX〉食を磨く 投資マネー、農業競争力の要 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWDRrV256enBTSnI5Z2hYNVkwVXo4WHg3NWpFd3gyTWpQSjRqTUZTcjNrbUFvTXgyc1ZmT290cG1jS2l5RGV4SjRydHRVeHowU21TMjUxR3JZS2JybEtIblExMl9SQkVhZFo0QlQ3V1BYTmNrNHZjODdRbm1FMm1uUXV4em42RlcxY0VhVW9oN3RzbGxCRTR5QjN6YVBJMzJlam1XUmdqYXU?oc=5
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxPalFoelRQaXo0V2JSNjJmYTIyTC10cWNVQjBuUEtLZ3N6QXVFYWxHVk9FYWpVVmZlNnN4RzMwLV9ER1dfdFlUaVRoTmNVS2p2ZVNFSnBGcl9MSEFCNE41QktZSmM0TXFaQzhTbGEwVkhENGxab3JzVVdyQVRidzVoMk8wNW5IYmpsTFpnOG9TQzQ3azJIS0RLOEE1R2ZKcU1reVZCRmZoYlA?oc=5
 
 ○8月19日 繊維商社タキヒヨー、東南アジア調達3割に増 経済摩擦で脱中国依存 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBuLXpxYjZZX1EwcjZ6TXZ1MWxzQmVxRno0R3BIcUxqN3NWdWYyTUxKWk1iZTZCSWNpT1ZmUGJGRG00NVBxVUdGWkJzVWV4clhaUF9GX3dGZlFNQkdzbE9MSjJSVm1PUnlKM2ctRw?oc=5
@@ -74,14 +65,8 @@
 ○8月19日 ユニクロの秋冬、暖かい「パフテック」「ヒートテック」充実 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9IN3VaS0hZR0JSUXNPU2xVTEZQTXFXYlpHbDY1SF9ZRVRFWklvd0tmYTRIS2ZOX0RPUm5LRVdNN2F2YmJ6Q1VNelQwQ2RrQ1ctamlWclVxN2xFSXczYm9tS3Z3UHY4QWtyQU13aw?oc=5
 
-○8月19日 「スマホ衛星通信」制度整備へ 携帯4社が競争、26年に本格化 日本証券新聞  
-  https://news.google.com/rss/articles/CBMiygJBVV95cUxQOWhYZURDdHVyaUM5YjRqQndUZUJXNHdhSXNxa0F1YVBlclZWdGFWZlN2LUpTdDcxMGxGVnhTNzV4ajIwNmNRdDBTRUdWaGIwYVZkRDRYR0xoWENkalpESGk2MDZUckxqQWFya3hHMjhXQlFNRm9JWmRyQTM0V1ZMM1lfSmlGQXNMcGFQaXczVlh1SFpFZjB6T0ZZbGlfUlhHNW43bklEYTNGV2YzeXRjd1p1UUVsakhPNGpIVDlQTmZRZ0k5YU96TDkzU1pBOW43RUk5WkVJOE1qUVQtZmxya3hkTkxtYS1OcUxsVFhnczZiVEZ5RTM1TFpiQ1pIcEh0LXdWN0RTcTZuel9MUk9UMXYwTFZlNDUzaldpdGYxcTdFY1BUenlLN2I2R1NvSHBONWtJbWppbWNob0E2ZFFrQzV1RGlmTS1ncFE?oc=5
-
 ○8月19日 明治、自社食品の子供向け栄養指標 食物繊維や飽和脂肪酸をスコア化 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9ra2tmLVZFVzBKSTBzVDBneHNaVm9KOWROUGNzZlBTQUtEQnBKZi14blllanJseXRmWWs0cm9FSXJuQ180cmczSjdzTHVSNWpGWWZkZ29DM3NJcnZ0bDFxZThqbEZ3cXp6MUpoUQ?oc=5
-
-○8月20日 全業種の半数、最終減益 4～6月 米関税で製造業厳しく 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9nZlo2WFR5azlTbmRhek95NWppVHdxUlJnd1R3emgwZTAtZmdLM19ZaUthd1hDeERLSThSaGtpTzNDM0xtUUNXUXZjWEVvMW9kVUJXOTJFeVpKM0ptazlDNmZaTEhCckdUaTNYdA?oc=5
 
 ○8月20日 輸出競争力、車も低下 内閣府が製造業の品目別分析 家電低水準、半導体は優位 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5YMlFXcVdJQUxLeVZiX2d1YVIyd0s2T1d3d0xQR3MtV1VPcWpHZEs1S3pMN3hPb1pTb3l1bFY5VS1wY0k0Ql9sUXhGQTVMenp2OG1aQWhFN2ZJN01QZVFQZkJKRHZYTnZ2dHhNag?oc=5
@@ -89,26 +74,14 @@
 ○8月20日 ギャラリー | 台湾に芽吹いた新しいカルチャー 「台北ファッションウイーク」を歩く 朝日新聞  
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1EdGdhOUt0MlJnUGRBX1lrbUxfSHB1ZEdqNDRLeDRONFFxelpkVUlpQU9KY09PX25DMEltTnc3NjQ5VHZjX0x3UGp5QkY5VzVBNzh0M1F6emYyZHBrdV9EOWEzMkJpZTB1Wnc?oc=5
 
+○8月20日 滴滴ブラジル法人、料理宅配の中国同業提訴 商標権侵害など 日刊工業新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE13TE9LNmhRSURDbldCUUd5Y3haNXZ6cV9vaGphQ2ZaRF9GSy1XTmw2elZTR2N1RnNNcUxwV0NvcG1qTEdFSE9pbFlVR1drNi0wVVNDYVdtSEo2aEk?oc=5
+
 ○8月20日 おびえる中小企業、トランプ関税が招く減産ドミノ 「仕事なくなる」 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE4yOG5xWXRnQW5UV0FJVTZUelN5YVZDVjU4OTh5RjVUczFqV3l2VllJUkJYeHhRcHVxUUxxb20yY2ZBMlowWldWdnh5Z1U0T3ZyLUxVSzQ3cWRoUG9FSkpWR0dLaXNLc1lRUWNLZQ?oc=5
 
-○8月20日 中印接近、対米にらむ インド、トランプ関税に不信 外相会談 朝日新聞  
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE94dXc5N0ZhSlBLbVJpcjdNWGRqWkFKRXBVbWY1aG13NFZOaEV2NGtXWUdwSm44LVVZWkFCQ2RwTU95bkowUGpZbTlVUUhXaXZrUmY0WWxzNGV5VjNr?oc=5
-
-○8月20日 世界半導体売上高、6月 トランプ関税の影響まだ薄く 日本経済新聞  
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxNMU5NNnItQlhoMmJJMy1mbkFJMjNmdVdzQTFZVUhtXzdaU0tHV2J2OHFiaWRaRTZ1WmVwRUs4ZkdfRm11S0hJWlliYkdSYUFTampldy1vR25UaU9sTS02NGtEN2lrN0E1QloyUVpocUVJMGZpN1YtSTBlY1B2ZGgyYnI0bC1jUk0?oc=5
-
-○8月20日 ｢中国勢台頭や関税でカオス、協業増える｣ KPMG米法人 日本経済新聞  
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBib1ZubnBUVndlSXVsRG1ET01UeHA3VDFjNnhoc19FdDJrcVVYRjFzTFI4OXdCRUUwTEhiNE91NTdUN3J1X055bGFONmxNY2w1dlpxRjB3VnhVLWdlTEFKQ3I5bnp6dTFKUFlhZWg2dDZLbUtzR012UzVsenZZYXc?oc=5
-
 ○8月20日 ファッションイラストが紳士のアイコンに 穂積和夫さんが築いた系譜 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9FcVhLVXA0cEM2UFdWRFowbXgyamQxeGNuNy1STlEzWEs2eWNGNWs0MDdOZUVNdHVRakw0VVVnQVcyTE1neG00QU9OY18tMEVRWE1sSnd6Y3Nsa0hUTHdiX1FLbVE5d041UFFIRA?oc=5
-
-○8月20日 インド、鉄鋼にセーフガード関税勧告 3年間最大12％ 日刊工業新聞  
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE9Za2Jrd3lKQVdJQ3NZMUx4TXJHOENHTkZhcjEzNHd4d2lLYVpqZUQ1UG9TNVB6OGZFVlFmUDFDX09zb293SmcxUGxjU1RUUnNLaDRsd3d1Wk11RXJSYWdMckpUeEExNTNKRjQ0Z1ctWmEzc0Zl?oc=5
-
-○8月20日 滴滴ブラジル法人、料理宅配の中国同業提訴 商標権侵害など 日刊工業新聞  
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE5DZjQ2MzFyWnlMVlVYZXF3RVFQa0V3dzFad2NsdVhuNkhVdFRwREpsR2pTcEpraFRFQkRiMVlWcnRQZGVyenBadGlsbW1hTFd6Z25wdDRFaVBKMmdIQ3dnbkpuSWwwTVM0NkltZTA0QzFuaFZM?oc=5
 
 ○8月20日 改革に挑む中部企業 長谷虎紡績 タンパク質繊維を実用化 環境負荷少なく注目 中部経済新聞  
   https://news.google.com/rss/articles/CBMic0FVX3lxTE9nTFVTUngwWnBacnktaGNHcWlrb0ViaWV1Z1BEcnh4S0xRdHo3TnFvN0lJYXZEWjhLaUFJbUNfSEVnVUJWVFdTbl9ISUN4cXQyaXNBeV8wYzRaVVUweWFXRlhjeHoxVWhBcThDZlpyQkR2QjA?oc=5
@@ -119,14 +92,11 @@
 ○8月20日 中国とインド「雪解け」 トランプ関税が影響？台湾問題ではズレも 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qODVsZFZ3ekJiMzByN3hkNEQ3V3BtNl83OEdsY2VSbEdFRkZDS3NZUVBCTXMxMnBQelZkakZzZW04SWN1eEtGaW85TGh2MF9wZVdtZkJ1MnBDamlMS3k2LUJDemNsMHM?oc=5
 
-○8月20日 繊維商社のタキヒヨー、東南ア調達3割に拡大 現地に駐在員検討 脱中国依存、拠点を多様化 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkhleW1ERVNrckRjbjdpMDBrMEFYZVhEZ1pkM0FIenY5RmlQV2YxVDA1R0UtZGsyVkVVWnBoXzVQZFZpRXNrMDZwNWRXQXBFRVNlLUtjLUtwQXlOeUJ4Tk5LRkRfbVZVZm1Ud21QQ0MwYzRwVTh6R0E1Nm5BMkxwcUtIbGQ0NG1aZV9rdFMyZzR6bWdUU1hFUi1EcFRQbFFndkUtMjdtMFA?oc=5
-
 ○8月20日 旭化成 キュプラ不織布で紙糸「ベンブリーズ」を開発 手芸用ヤシ繊維やニットに代替 繊研新聞  
   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOb05QV3U1QzNvelNJRmRJY09weUFobnZlZ3dtcWhObENBWG5ORUE4di1OR19oZElYd1pKN0hhWlpnbW1VcUxLVXpTcUNDN2FDMHVmVDNLQQ?oc=5
 
 ○8月20日 M!LK、ツアー中の衝撃エピソード暴露＆リーダー吉田仁人にクレームが殺到!? 疾走感あふれる青春応援歌も披露 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZU2dFM0M5MkFlQUJFNDZ2NDRCUXZXTDczZ1lONDF3Zlp3dlBFakY0SGJGOElOakRYVTJVOXF5MDhBZ1VGemU2Y0JDcTdmZ1lhX0E?oc=5
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uc1lUUFdfeGE3bWZVSHEwOVppLXhQRzNfV0hDVWtYM2stSWhsbExVNzFEQllXdm9qWHVpQVE0QkY5bmwtdHMzSERoRFZoZ3BJSkhtS2FVRVJZQVdBMmlsQW9TYlRmR25R?oc=5
 
 ○8月20日 米国、鉄鋼・アルミ関税の対象に約400品目を追加 食器や家具も [トランプ関税] 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ialB1dU1NakFiZWpILUFXcjVJMFRVQ0k3Y0Q5RWVLclZvbXVBYndVMGNrdkF3ckhJTGFocWY2cEFVak1uVl9UUjZEZW55QzNJeEhBektPSkFsNGhuTExkUGFRYV9QXzQ?oc=5
@@ -137,14 +107,8 @@
 ○8月20日 プライム市場上場企業 2027年3月期からサステナビリティ開示基準の適用義務化へ ITmedia  
   https://news.google.com/rss/articles/CBMidEFVX3lxTE9qS2pwRmVBZGdCRHhUU0l2S3lDVmdlQVhubF90SE9oeV9mYWRkWFFEdHV5QVk0ME9NcjAtTTdaNmVQY0wzZzZmTVVHRFdDaDM1Uk1UYUdNQjVJN3k4a0IwUTNpejFrLVMzcmljczl2NmJTTG1o?oc=5
 
-○8月20日 印パ衝突から3カ月 トランプ関税は下がり、軍トップは異例の昇進 朝日新聞  
-  https://news.google.com/rss/articles/CBMiigFBVV95cUxNdVBOeGhMVDhNSnNZd25SRVdqazlNa1N6YXhObXZ2ZGJrV3QyZF9Fb3pPckJpaUxmVXpuQUg1QVh1OW1nTEEwV1ZPNHB5VlI4akFoYk85TU90WHV0X2F4ZFhMcjFlQ0t2UllPeUtiUm4wbDNvZ0p1MjBzZVlVNVpCZmM0RG42ZDJJRnc?oc=5
-
 ○8月20日 7月の対米輸出4カ月連続減 トランプ関税で自動車落ち込む 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5WT056anZhM0lreUYxR24xV0RjanVHM3VqTVMwMzZtU0ZTR19ZTjQ2WFNQQTlqS2dPdVByTVhod3VKVGNlQUxCMWhPWUx4eFhSQU1BWjNoc1U1cjJYWmtRYlVTNVZRZEFJVnlfYQ?oc=5
-
-○8月20日 7月の対米輸出10％減 自動車は28％減、トランプ関税影響か 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YeW5SNjhlaFZlbkFqSVkyWG9LQV9md2dRUGFNTDJhTFJuZjJTbTQxdnFudE0zaDliRnVwazBDa1hIcm80RTVGQ1RkbGRhWUhBS19UTUFDUG53WEJlM0g1RUI3VmY5Qjlq?oc=5
 
 ○8月20日 米商務長官、関税合意文書は「数週間後」に 対米投資は「同じ認識」 [トランプ関税] 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPcFZvV3o5WWp0Ry1abDNhUEtuMHFkZ3BjY29leGp4M05CLWtuZy1CMEs2MUZ0ZmFHWXlLREZKbGZoSlRsWHNHR2NDNkZSbVJrRndiWkFrUlkzUExBXzJEOW5OUDB2blk?oc=5
@@ -155,17 +119,62 @@
 ○8月20日 《繊維トップに聞く》日清紡テキスタイル社長 村田馨氏 機能素材軸に収益向上へ 繊研新聞  
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JTlBhY1JhckpVNDJLYWlqME54aXhoNGpQMnozUk9pZmx6dEdlYUhSM2JsaXFra1UzSS1ubk9MT2U1WDZPcjVMdUZnUXFEaGJTd3J3Qks4ZUxqYkVlZlZpVw?oc=5
 
-○8月20日 FRUITS ZIPPER櫻井優衣、普段見せない“ハンサム”な表情 初のファッション誌単独表紙に緊張も「自分でも新鮮でした」 山形新聞  
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yT19GVEFxTWhlNXRmeFN0VGhGX1F5TmpiNWdIOGxPTEw5eDhRNngzNHFqTHRubEx1YmhJNjVxWXFrMHlER00wZmdpXzMtSV95MllKV254TzAtcFhYODBUYVVfQmY?oc=5
-
 ○8月20日 車の対米輸出単価が下げ止まり 7月貿易統計、関税コスト転嫁反映 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9TZVpZUXdIaDhsaUFpU2g3aXU0dENRd2llM19Hal9pWkh0OGR3eHU0a1ZjQTVKVUh5LUs2N2pMV0RrdmV1Ml9ieUJadkJ5UExtOHY1VER1MzZScVBXc1o2a0lIa3ZmZkhlYjFYWQ?oc=5
 
-○8月20日 機械受注7〜9月4%減 設備投資に慎重、関税影響見極め 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBfVGJuU21SNDZNdkEwbUdKcXctTjI0azdfdDNadjNfUEVOYWhOczE4Z0lMNUt0dmk3blZ1S2tGTzFyNFNvVUg2UlQ4Ykg2aTgzckFXSlJEcTkyREtRRVZ2bGZObTRnTVFYXzJSRQ?oc=5
+○8月20日 魚沼産コシヒカリ3万2500円 全農にいがた、概算金決める 背景に作柄不安と集荷競争 JAcom 農業協同組合新聞  
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE05blFlREhzZndFdl8wQ0dmRV9BRWRJeHRReTk1T0RVSDBVZDZEUDFsYUtkNDhsRTBDN2ZlZm01MjU5cHlFOEZBMDVCbmxzN0NadzRWNVZINkZYUW1Qb2l5ZVVUR1B2aVh1YXc?oc=5
+
+○8月20日 プレスリリース：流動する世界に宿る、新たな美をAIと共に探求する。生成AIを活用したファッションデザインコンテスト「「AI FASHION CHALLENGE #13」が本日より開催（PR TIMES） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE53cllkZGhlZEdPQVZDV2NpOFhFYU5rNGE4NU9LcDdxWkYyWkdLai1RRmtoeUtXZGNzZ0ZTQkpvUDRPam1ZNkVkVGNlUDUxUkdhMTlFUnl0cXZCblBvWUNXZE9yaDZZTm1v?oc=5
 
 ○8月20日 ユニクロ、子ども向けコーディネート体験 首都圏4店で 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFB3NWpKVV95clJFYmNHNWl0aTF6OFJyMHFRM0hNRE5GUi1Hby1CM1N3R1RiMHRhM3daUm4za0JNMzFHYVRFLWFScWFQellWRndMSV9wVW1pQngwdUJGWllCSHRYTGx5VVBFakRQaw?oc=5
+
+○8月20日 【読売新聞が米企業提訴】ＡＩ検索「記事ただ乗り」 著作権侵害と反発 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TancxM1ZuWmFISFZQdEk5bm9hcl9jLVpPU1loa3BsdTJLVlZtSXlhZUFPWGJyRmJFbklfLWNmdURlODZnZnZpXzVVT1BOVkc0YWc?oc=5
+
+○8月20日 中国とインド急接近 トランプ関税が後押し、モディ氏「協力拡大を」 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5DYkUwWms1dkNIcVhIb2tpb3hXcDZUSkZQbFBTT2RTT1BTZm5VanVabTdZUmdIZXA1VXpLR2xhbVEyZmFfSWtGTkJSN0ZUZkZhSGVsc2NYTzJlRWN1NGxVMVZYVU1iME94dml1Sw?oc=5
+
+○8月20日 ７月対米輸出、１０．１％減 関税影響、自動車落ち込む 朝日新聞  
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LcWNZYWlqeXBiZnJqSXc4TUJvbkVKR0NvelhxRjRla1lxLV9QV2JtbzRBYXpoWVV3bEwyOS1FdU5YV2hCZ1hSWHpCTUZ2ZTl2emZoUm5yTWxxYVhE?oc=5
+
+○8月20日 プレスリリース：沖縄JTB「サステナビリティレポート2025」を発行（PR TIMES） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IMzZ6MFJPbGZmZC1mMkU2aTAwLUFxejNmZ1h4YXVZeUtPQ1BvSXZlb2lRQ3ZMeXFDWW42SE1xb1owSXlVaDBLYlg4T29DeUZ5ZUZSWlpVWnY1RllWZWpCMHplMmtJWUdR?oc=5
+
+○8月20日 中部企業、トランプ関税「マイナス」4割に低下 民間調べ 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1BTjhlUnVnQ01jOGl0LXJmVkUwYXRGVUtKdUQta29LVDN5QnVGeDN2TzJ3ZHhUTWplcWZaTldDMjNqYTdzTkduN19ocEowQkttQmRTXzVQejNneG1SdHFHSkl3UEt5TXpNeUl4bg?oc=5
+
+○8月20日 繊維商社のタキヒヨー、東南ア調達3割に拡大 現地に駐在員検討 脱中国依存、拠点を多様化 日本経済新聞  
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxOblZlQXRYdTIxYUN1WVpuMk85ZUI4aU05UVN0VXNlUm03bVZTLWo2czFxMnBJVVZ2R0NNUFlJQzFlV1k2RGg4a3BpYzBmMVhUV0tmbnZTSWh5aVpHeXpZZlBZSVoxS2tPcW9ZX2JacnQyNGJ3QzFSUmJ3MVZaWXE0NUFTVzFWeXFKUzRsQmkzTUhEZkxraVdTUmlHdWotTVplVjdRQklSZlI?oc=5
+
+○8月20日 「スマホ衛星通信」制度整備へ 携帯4社が競争、26年に本格化 日本証券新聞  
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mVWx4bjdpallnZnRMbFYtMTlMeHh5YkdOMlRpZlB3WVBvZENOT2ZManZQcXhTSXZBZktGV3FVV3d6MlVxZGJ6NWVZSVE?oc=5
+
+○8月21日 7月FOMC要旨、利下げ｢関税の影響明確化まで待てない｣ 複数が指摘 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE85Sl9GZF9QZERjT3RweWJybTFzY0NDRk8zX3NGUDVRWU5ISlE0bXdfWGZMWWtsbm04amdFZ0pWT2FSQ2FCSndWUHZVZDBTenpOOUU4ZmFTeV9JeWdxSXU3RVNCdGtleHk0NUI1UA?oc=5
+
+○8月21日 荷動き乱高下、海運業界に試練 トランプ関税余波で輸出需要先食い 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5WQXMtb3FpNlJwUzFRRmpjN2pMYVEteUZYdGxGc3l6MTlUUDJBWVVDckM2V29iZ0xsaV9rNDNRcWh4bi0ybDI4b1ZBUHZ4dThYRnBDVmZGaEN0RWlWdWdhdzRlU1FkSlJxS21Icw?oc=5
+
+○8月21日 関税合意文書「数週間後にも」 米商務長官、対米投資の枠組み調整か 朝日新聞  
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnd0pONkpJOU1xTWRLeFNwSmtJcElQb3JMUEFkdDZra2ljNWZ1TEVDWE9qRVNTS0cyR3c0NFpPS1U5MEpzQ2dJaWx3MjZMTkFDVmRPR3pjVUdzQnN4?oc=5
+
+○8月21日 米関税「足元は販売好調」「揺り戻しを懸念」 部品決算 日本経済新聞  
+  https://news.google.com/rss/articles/CBMipAFBVV95cUxOamFnd2Vlb2NlVm9lRk5ua0ZrcF96SkxkMXlCdzg3UWMyakVUSlM2VExwQ0VHd2pGRElCRVdOUU9jenQ4Q2YySWRCdHd6di1qVVpsWElXZmxmX0QzMXBhcV9BR053cE9nZ1BBaDJEWHppZzdSQUR4WXlsYlk4dm9kTC0wMkhzeWcxQjFzbTkyeEdfSXBlMXNKNUNyZGxlSEtBaWNEaQ?oc=5
+
+○8月21日 生産ライン 競争力の源泉（68）マキノ 現場の声受け設備高度化 日刊工業新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJWkpfVkpaUjVxNlNtUTg3eFNCS2NEckw2MGE1bzFVZEdnQWNSN0tLOVVFcF9oQTlPVC1GLURCT1A5OWhEN25KS0h4dUI3XzJxbVczRjAtUHU5OUE?oc=5
+
+○8月21日 7月の貿易収支、2カ月ぶり赤字 トランプ関税の影響顕著 日刊工業新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oRkRYS1lad0h1eGh5Q2J1MThyQngtX0FmdE1BNnk2MUw0YlE5YktiSkQ4a0V4TWRUZjVGLTFSQVV0dFNURXlEOTF6aUtWdENyclh0ZmY2azhVUFU?oc=5
+
+○8月21日 企業のサステナビリティの取り組み、生活者に「自分の話」にしてもらう方法は？ JERA・味の素の事例で解説 ITmedia  
+  https://news.google.com/rss/articles/CBMickFVX3lxTE83VFlTQWlVLUFBajM3bnFWY1NJU1hOU2ljRkRrTHBzYmxmamcwU25JNG1kVU44dmJ3cHBNX0Ytb3ZlTzZtNG8tMGUtVEx2UlFPQ2JXUmJBdE1EeFRPSV92SWNZS3pvcF95YlB1c3QtNUd3UQ?oc=5
+
+○8月21日 「JAL」「ケンタッキー」の事例から考える サステナビリティを「コスト→ブランド価値」に変える方法は？ ITmedia  
+  https://news.google.com/rss/articles/CBMickFVX3lxTE01a0tOZVNDQ3ZXQWFfQWxqSk1rZjRsc3k4ek5fRjFxbW1lbHd3NDdidkVHUFJya1Nrd0ZRQWFpN2ZlNHlsdWFkRGFacmlRMFdENGdtcFpoYUxseldtOG01V1Z4M2V0UWZoSVZfS3pPZ2kyUQ?oc=5
 
 【自由民主党】
 該当データなし
