@@ -1,10 +1,4 @@
 【ニュース】
-○10月2日 中国金融業界の「内巻き式」競争問題の深刻化 中国経済新聞  
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vWm1MSklHU1JFeW1RR3dmWjFZWDdiZGJvMm9DbTVHRFY1NEdCNno0ZmJiYjJzTWN4dnhqaDdnT2p6N3dRUVVLNkcxVQ?oc=5
-
-○10月2日 プレスリリース：腸内環境を整えるだけではなく美容をサポートする働きに期待 ～発酵性食物繊維の摂取が睡眠の質や肌の状態にもつながる可能性～ --摂南大学（Digital PR Platform） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE91NjdPeTM3OXpnVkpvYUluMF9ud1RuNUYxdFdKYzNJZzNWZzZfMUhzcDV2NnFNUklzQ05ORjZvWllDNHU5cV9GWGNXUExhRTUzQ0J2Rk81UWZNM2pnSkVkMXZGZW9BOEtr?oc=5
-
 ○10月2日 （取材考記）対米投資に懸念 日米関税交渉、丁寧な説明を 多鹿ちなみ 朝日新聞  
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YOVZkaEJWbzBVVDdlV19kRGNjYVB6NnZxR3JWZmdXZHBTNFNoUDY0ZkRSMUhlZ096QjEtSUVYb0J6MVdWMEc2RlZXZG1NM1RvQ2ZpeDNtdXhpai1W?oc=5
 
@@ -19,6 +13,9 @@
 
 ○10月2日 石破首相、次期政権も「関税対応で政府一丸」 岡山で事業者と会合 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE12dWpUNUs1SVBucHduQ1l0QlFQejVCMkNiVWdOSXJ2NmJidjg0QTZ4SWYwMXNzZm1HbEVLQ2xjdlpHb0lZX0JMOElyOGdHWTRra1RTaWhLSmdBZkxtNk9rNmtZTjBYSmNvSWxpNw?oc=5
+
+○10月3日 プレスリリース：日本初、水産流通企業7社による「責任ある水産物調達ラウンドテーブル」始動 ～協働による持続可能な調達の実現を目指して～（PR TIMES） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjbU96SEt2UDh1bGM5SVdSQTlOVGZ5Tmd5Y2NtVzY0c1lhRE02R05ibVJ2SlFIUVRkNGpRLTEwaFlsVjMtSnhUNlJFYTlyOFd6LVczYWJCUzlCTGxtNS1lWGxnZEdBUE92?oc=5
 
 ○10月3日 マツダ、国内生産70万台維持なるか 関税合意で広島の車は業況改善 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1MZ3VoWkxGWjEteU5oM0tjM0JSTXJNZW9xR3JOR19xUUh4OWFHcGhUWjFzZ0RTUk84Yi02T2NmZk02VXpOVVVqS0J1MUJIMmNfaXZLVzdmdHJOdnNsLVYyN2tWaFFKa2s2TlNNdA?oc=5
@@ -59,20 +56,17 @@
 ○10月3日 愛媛発、持続可能な真鯛「白寿真鯛０」と熟成技術を活かした新業態「鯛めし紅坂」が10月17日、東京・立川にオープン 山陽新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sQW1tR25oT0JDWUpZSk5OZFJJbjJYM3BjVW9Jc2prV0pYdlcxVW5tSGU5SHhWV3VjT0ExejViSlFWcWViUWUyd0hVUWQ0SHZXZ003RlpuVi1SUjg?oc=5
 
-○10月3日 愛媛発、持続可能な真鯛「白寿真鯛０」と熟成技術を活かした新業態「鯛めし紅坂」が10月17日、東京・立川にオープン 山陽新聞  
-  https://news.google.com/rss/articles/CBMiakFVX3lxTFBoWGcyajhLeEx3TWVmOU9CV3lkc1Yxc0xLcVpmaHBoZloyNjVLcU5HTk5zbWVZLUFKQ0FocmF0ZDJlU0R6dHMyWEtHdHFETDgyUXNzd2xBOEVjZndXeHYzWXJxNGhZdE55SWc?oc=5
-
 ○10月3日 宮崎県発の持続可能な農林水産業の実現を目指す「みやざきGRIP」プロジェクト提案会を令和7年10月8日に開催 南日本新聞  
   https://news.google.com/rss/articles/CBMiggFBVV95cUxPZWJWNG9nN0ktc0ZWejF5YVYtWldzbXB3Si1uYU1FdzN0VjA0bTBtNWhUdThBLU5VTGtUM1VPRUduSDVvTkp0YWdBNXNIUHZvdDI3dHdGc1FVbjdHY1o3cmpWRUFibmFnUXpvY0hWQTM1enlYUG9vejhscnFPSkYzVGNB?oc=5
-
-○10月3日 デジタルファッションでコンテスト開催相次ぐ 3D データの出口戦略広がる 繊研新聞  
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FcUNEUTd4ZnBpaENSTjFVSHJUTnZNOG1KWUx1MVdkajlOSFRaVV9JVU1oNXpXUjBSVDRtLUVCNW41MnVSTHpycW90NENoSmVJcjlITEhWcWhiakNM?oc=5
 
 ○10月3日 「食料システム法」計画認定制度の運用開始 持続可能な食料供給に取り組む事業者を支援 農水省 JAcom 農業協同組合新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBwQ0FBMzV0UnJhVUFxUU9oV0VjMk9PTWN2aS1JSHFlQ1U2bjBkZFE5MDR2R2lxdHRlSGVoZ2xDandaVDBmMFU1MXVuZFJzQWgwUFdyU0ZTYTl6Q1Z6TG1LSU9GMTVsaWNlY1g5Yg?oc=5
 
 ○10月3日 「えさ」から「ごはん」へ ペット“家族化”、フード市場の競争激化 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hbGwxSmZLRkNCa1BvYW1pd2FXUTRtcEFKX3VlcWpqTE5DVE9jQWZMbWZseXdLOUhGa1lHNmZGOWdBQnZMVm9pMzNDVDRtelI1QktHbGtwMGY3VUNUdG1zN3hkTkpIMGMz?oc=5
+
+○10月3日 ユニクロ、梅田に「西日本最大の店舗」誕生決定 LINKS UMEDA店→グローバル旗艦店「UNIQLO UMEDA」 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE93QlVDQVM1MEktTE1oemVINVVoTk1rR1VQRElud1RreEVaSFI4dTlZX3ZaWWk0NmVrWEJnV2RiWGo1S1FEZ1p5QUpJbmQyS0JYVXc?oc=5
 
 ○10月3日 岡山県、未利用地４件売却へ ２月に一般競争入札 山陽新聞  
   https://news.google.com/rss/articles/CBMibkFVX3lxTE10SGl4SlVueTRXeU1KU0ZvUE05OUY1cFJBZjA5YkdzN2lORXBCajJmZmwwVWlzaVhRbGZ2Rm9JYzRoSFMzblh3WnMtMElOU2oteDZUMkd1QVluZWotYm9CbTdVdG5kZG1vT0VVX3JB?oc=5
@@ -107,9 +101,6 @@
 ○10月4日 日本の競争力、世界３５位に上昇 ４年ぶり、インフラを評価 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yR1RTQVN4c1U4dng2YmJOVE1kQlFiU0dnbFhpYXpwWDFkMnZrUnRCcVFnUWh3VmFhMnhrbGQzanlNMFotX1I5RjVjdWoxQ2dzZHc?oc=5
 
-○10月4日 【きょうから】ユニクロ「UT」、ポケカ・ポケポケで初コラボ Tシャツ＆スウェット、キッズも展開 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaNmtUbTNhVjd4SFRfem4tREdMWUJrNTZkZ3VDa3FKTW5tOTlIOHEyQ3N3Sy1DdXBwREdJeXF2QkgzRDdmU09FWHdHV291VVdHX2c?oc=5
-
 ○10月4日 日米合意は「暫定的」 今後も続くトランプ関税、新総裁どう向き合う 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55c1gzMERHLXVJeDl6TzRlU3lFZ0xFSExBVngwU3V0cTlnNkt2Y0QzTHVjOThSX2kxVUxGVmN1NWtKUGJ6ZUxrS0I1ZUY2UW1kQ3NGZmduMW5zdldXbl9wYzd1RUZiNXM?oc=5
 
@@ -127,9 +118,6 @@
 
 ○10月4日 「超保守派のスター」米メディアも高市新総裁を速報 関税交渉に注目 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBV0luSUFOcUJHc2tvM0lSQXVuaVhncUdOdkZ4N1NhSWNIRW83WFdfSWNveFdTdlozbHZGS3A0MkNPRDZ1QkI5ZTBYWFI5bGlwMUVDYmF2d0Y1MTQ1LWZRSWxaQ19aMlF6?oc=5
-
-○10月5日 万博の思い出 パビリオンユニ姿“ファッションショー”に反響「なんと素敵な映像なんでしょう!!」「本だしてほしいです！」 山陽新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE5oTjNWdTVha3NlYXp5MXFrV3RWY1RVMEthODJxUmpxd1ZCM3VhaUM3dk5nYnRnVElLYTMwV3p6YzlDeVk0Vl93QUdaSHA4emNYY1ZxaHk1UjYyR19TWGFSU3J5b2ZmYUlkem1nZVI2RQ?oc=5
 
 ○10月5日 世界に羽ばたく日本ファッション 裏に東コレ40年の軌跡 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1EeXR6NGJhVnE2LWh6SHI1VGFEUzlKd0RmaWR2NGlGcE03YVU5ZWFPb0JNa3B5bUVobmREMnZEaU5xZzhRTV83Q1BNVXBrUFNZNG9EMVgzcTQwZV83RzJGQ29hM0tDdTZMTzhzVg?oc=5
@@ -149,6 +137,9 @@
 ○10月6日 深層断面／原油、年末へ下落傾向 米関税で需要減・OPECプラス増産 日刊工業新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE03UjhzMnpZTV9YaHJ1el9QMk5Fd1FJdEpsbENRNTczQ3hEcFE5UXpwaG00cUpEdFlGbGZRVGY5bEQ2Y2NmV041Nml6WGY4cm9DcV9IdUNOT2NuRGM?oc=5
 
+○10月6日 山口市、新市誕生20周年 記念式典 伊藤市長「持続可能なまちに」 ／山口 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRc25aa0FKQmx3ZEQwWFVpVjNfMlN4NXlHT01vRkRSWUY5bDFQWlJLNldmNUFxbG1ySmJobnZuZEVhUVhLUDVIazhXZEJmOHRSVkdwTzJ1a1IzNnFrMGN2dGZkbjJVcjA5?oc=5
+
 ○10月6日 そこが聞きたい・大成ロテック取締役兼常務執行役員管理本部長兼サステナビリティ担当 板橋 明氏 建設通信新聞  
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE9malZCUEdIN2dXdUMwM1pzdUd0dXl2ZVVNV2h6ZnBoYWY5V2pGWEZIQXBjWmZsMEVrNnJxRnNTcnRFMkM3VWVXMWdGTFNGbXU4R0x3clZ5MlY?oc=5
 
@@ -163,6 +154,21 @@
 
 ○10月6日 9月のファッション小売り商況 後半から秋物上向く ジレや羽織り物が活発化 繊研新聞  
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DWmVnTFU5SzFfdEZJYzMwcVhEWUFOZG1xNWtmTTFVU2ZYTUFTaDZsNDJPOXVpY2pRZ1dpQnloRVIxT3I4d1UtNTFuMHZ3Mm11VTRtRTFTOWQxbnp2anljOA?oc=5
+
+○10月6日 「水産方針」改定 生産から消費まで連携し漁業を持続可能に パルシステム連合会 JAcom 農業協同組合新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9qVWdqWFBZRFNGWXUzUHB2U0IyLVFoaGp5X2N0Qk1GcWwxY19NN0xoYjh4UzF6dGhjVWg4VlN2NW96c0R1WV9mXzNOSE5QcFIyZXA5Um5FR25JdC1Fc1hsbmoxQzd4b1VMa2R1Zw?oc=5
+
+○10月6日 持続可能な河川活用を 技術士会がセミナー 建通新聞  
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2hPODNMNUFNaTkydXY0S2FEaVJpRDlsZlN0SlViZDFaU0UtY0diWHI1czZ5ZFRKUFRnYk9EZy16V0x1YlY0MU80LXVpTHB0LWZvMHpTa3RwRVVqWDJHYWFRYkR1cjBhVS1yRDltNjU4TVVablN5M1RVUTc4azdCQQ?oc=5
+
+○10月6日 プレスリリース：元NICU看護師・蛯原英里氏、スタイリスト・森永ゆか氏が登壇！『コミュニティの重要性』と『ファッション』をテーマにトークセッションイベント「第11回ワクセル会議」開催（PR TIMES） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCOWR4V0lYNWFnWGVKWUxCc0syRm50MEtzVE1HaVJrNmdkX3BvVTNqT05xNnJIU0RuZHo0TGpLd0lGRlZKYzB3cmhwOXpLZDJKM1ZJWk5ycHplZV9HTkJ5REpxa1R3c2lK?oc=5
+
+○10月6日 レンチンググループ 人員削減など構造改革 特殊繊維に集中、 汎用品は撤退 繊研新聞  
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiVXgtNFp0YzNfQ192VmwyM2xka0lrUFlmaWJtWDY3cnF3cW9yTWRUOWktanBMSDZGVUtoY2xseFMyTTZnUGxKdnFwbGdRaXpoYnhz?oc=5
+
+○10月6日 ユニクロ、2025年ヒートテックコレクション メンズから「極暖ヒートテックカシミヤ」を発売 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBQZkJXSmtQbEdhNWR0aFZYZVFsbUJHTUItUGpsWmszNlpTVVdFVVA4TGNCUXduYkdveFRMWWNzamhsUXpqcXlVb0VwRFc2SnozS0JkSEFFZUpScDcxc1hfY1pfY3Z6b2ktMWJGMg?oc=5
 
 【自由民主党】
 該当データなし
