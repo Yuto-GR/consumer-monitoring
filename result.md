@@ -1,16 +1,4 @@
 【ニュース】
-○10月4日 トランプ政権、トヨタ・ホンダなどへの関税軽減措置を決定へ 米報道 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kc290bS0wWkk4Vml5WEE1QlB3a1d4SGNxQjlPdjBoMUZyQlpKd2REWng4b1F2V3JjdXpQTVYyekNfX3ZLb1JCS1VXNmpxT0piSFJPYXd4Q2FNeUo0M24td2l1X3NsQmlZ?oc=5
-
-○10月4日 〈夕刊トピックス〉「木枯し紋次郎」著作権侵害認める 菓子メーカーに賠償命令｜社会｜全国のニュース 北國新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QelJpNlc0djdvY3A3SVQyRG5RYU42X2RkTzZHVWVza2dKS2VJcXg4QVBkb1k4NU5oNjZKcy1LVXJubXpNN1lXdkxGNlVvY0o5Y1dzMGhuVQ?oc=5
-
-○10月4日 愛媛発、持続可能な真鯛「白寿真鯛０」と熟成技術を活かした新業態「鯛めし紅坂」が10月17日、東京・立川にオープン 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tYXBPOWJWeEJLNy1abkNXYll6RHJyWUMzNS13a2szR2JwdVVTb1F2dWNYZVZ0M2s4RWEwamxoVzJrMnlJZzV0aUpVeTZ1TDlvQ0E?oc=5
-
-○10月6日 Snow Man佐久間大介＆バナナマン日村、ユニクロの“30億円赤字事業”に戦慄 人気の秘密に迫る 山陽新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE9ObWV2ODVxY1p6emdZYWVyaDdNNWJuZEM2aExIN0Z1VGVCOHZBUnVKQ2hFVzV5NWNpNmJsMGpLVWFacXNYZXlad3BiREd2MjJCVXVEWnBmRHhMaUM4a000cVVmR2xNbko2OV9jRFJTRQ?oc=5
-
 ○10月6日 山口市、新市誕生20周年 記念式典 伊藤市長「持続可能なまちに」 ／山口 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRc25aa0FKQmx3ZEQwWFVpVjNfMlN4NXlHT01vRkRSWUY5bDFQWlJLNldmNUFxbG1ySmJobnZuZEVhUVhLUDVIazhXZEJmOHRSVkdwTzJ1a1IzNnFrMGN2dGZkbjJVcjA5?oc=5
 
@@ -26,17 +14,11 @@
 ○10月6日 持続可能な河川活用を 技術士会がセミナー 建通新聞  
   https://news.google.com/rss/articles/CBMigAFBVV95cUxPY2hPODNMNUFNaTkydXY0S2FEaVJpRDlsZlN0SlViZDFaU0UtY0diWHI1czZ5ZFRKUFRnYk9EZy16V0x1YlY0MU80LXVpTHB0LWZvMHpTa3RwRVVqWDJHYWFRYkR1cjBhVS1yRDltNjU4TVVablN5M1RVUTc4azdCQQ?oc=5
 
-○10月6日 コメ価格見通し、先高観が優勢 ２カ月連続、新米獲得競争が激化 山陽新聞  
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxQMHdhOXZINzExOFU5Y2tkWjB3U0hqLTlKeEJORGRnWnRJWm5aeWptUGpjcTFhVXQ2MXNEMU5nME9UeWdZTjMxY1RWVm9wUWlFRXZ1amFoVURVbml5YmV0Z1QyTzBhTDBOZWdwRExmNk9BOTh4dEh5R2JnWkNETGtzaktTSXNITEk?oc=5
-
 ○10月6日 レンチンググループ 人員削減など構造改革 特殊繊維に集中、 汎用品は撤退 繊研新聞  
   https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiVXgtNFp0YzNfQ192VmwyM2xka0lrUFlmaWJtWDY3cnF3cW9yTWRUOWktanBMSDZGVUtoY2xseFMyTTZnUGxKdnFwbGdRaXpoYnhz?oc=5
 
 ○10月6日 ユニクロ、2025年ヒートテックコレクション メンズから「極暖ヒートテックカシミヤ」を発売 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBQZkJXSmtQbEdhNWR0aFZYZVFsbUJHTUItUGpsWmszNlpTVVdFVVA4TGNCUXduYkdveFRMWWNzamhsUXpqcXlVb0VwRFc2SnozS0JkSEFFZUpScDcxc1hfY1pfY3Z6b2ktMWJGMg?oc=5
-
-○10月6日 持続可能な開発 環境と経済の両立図る １８歳までに知りたい法の言葉｜社会｜全国のニュース 北國新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nbGg1NWFfWVcwVTB0ZFg4LWNWdGNqV3U3ZGZQU2E0ZjcydGd5Nk9ZVFloUnpRYjJmZjJPR3Roc0JLQjZvYWkySVV1blNQb3RvY1lTMnhHQQ?oc=5
 
 ○10月6日 高市トレード、アジア市場は「株高が波及」「円安で競争力低下」 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1tbnh0OXliRlM2V3hGUU1tS01NajZYbzdLeHdvMVRCaGxQTFJkS0VyNC1SM0dBVGJvWnpUZHVWRGtKUWVxd0gyeWtnWWN0SkJYTmMyVUdnYXZwQWFDbk1Oc1ItLUcxelMyb0RGMw?oc=5
@@ -49,9 +31,6 @@
 
 ○10月7日 乃木坂46・久保史緒里、衣服の半分以上がユニクロ Snow Man佐久間大介らに魅力語る 山陽新聞  
   https://news.google.com/rss/articles/CBMic0FVX3lxTE8tNjB0MHNOYjdRX0lVQ1hPRDBhcjgwVVpYQTdiU3Q5WUJtNkhFTm5wdjJDdGVwMWt2RmxFcjNYSDNWTTBrRkFmWFVoc0tSbUlMUlVvY0tNTU1wNnNxZnZDQW5uOGw2Um5HN0VhU3U5dWJXWFk?oc=5
-
-○10月7日 米、関税や解任の妥当性審理へ／最高裁、大統領権限どこまで？ 四国新聞  
-  https://news.google.com/rss/articles/CBMisAFBVV95cUxOQnJQcThKNkhfZG84LXNadUFUUmJxLTZBNS04T0hfWE1SR1ZabmxGYVZZaDllQWVqdjVjMktCR252WE1pV3JPT1NVamZ5QnQxVlRaQnFjNlc2QXR6ckNtN1lLZ1QxLUVYUVFuck5aMWt0d1hoOW9kUjJLTnFOV180Q0xKMFRick9GbWF5NUlnVkNXZzNqZjYyUmhjQWxzOExBYWI4eHRvSWxXM2VuMjVueA?oc=5
 
 ○10月7日 コメ価格見通し「値上がり」優勢 ２カ月連続、獲得競争激化｜経済｜全国のニュース｜富山新聞 北國新聞  
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE45ZUNhbm5rLWx5RXRoMURpY2pPbk8yRnNpaVlZZE9EWUxvUXVNSFlKYlkxN0tkM1d5aWtWTHk0LThXdlNjOXZGa2JhMGJiT3loN2lORWJBaw?oc=5
@@ -83,11 +62,11 @@
 ○10月7日 関門エリアが「世界の持続可能な観光地 TOP100」に初選出!フランスで関門エリアの魅力を発信&両市長を表敬訪問 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE50NTBEOTI1aXQ0R205RlRFSEV3Q2pNS2t0Mk85QzVESlM1SnBnYllsUWJFUEZER21pTjFJZG9TUHAwNVBpeWQwN2p2dlRQell3dlE?oc=5
 
-○10月7日 中・大型トラックに２５％関税へ 米１１月から、日本影響見極め 山陽新聞  
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXVEhrd2JaMnBMTTB1SXBvRHN0d0RBbzc4Z29GQ1lEYnpxRFdPRXZHU0hvakt4c2ZJbkN5c3BVVWRia05IeDRxbEluV1hyb2RTcmdoV2dBamZ5Zw?oc=5
-
 ○10月7日 M!LK、ツアー中の衝撃エピソード暴露＆リーダー吉田仁人にクレームが殺到!? 疾走感あふれる青春応援歌も披露 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZU2dFM0M5MkFlQUJFNDZ2NDRCUXZXTDczZ1lONDF3Zlp3dlBFakY0SGJGOElOakRYVTJVOXF5MDhBZ1VGemU2Y0JDcTdmZ1lhX0E?oc=5
+
+○10月7日 豪華モデルやパフォーマーが集結──広島の街を舞台に一夜限りの大規模ファッションショー開催（株式会社アクセ創業100周年記念） 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vTEFKZHkwYlNPbVAtZWRkYWdGUU9JbzZyZDgyWFFUY3pSU2Fqc2FuQ0pnbDJmNTNtNkFQU3ROZ01UUUotMkd1dy10YURTUnJkLXc?oc=5
 
 ○10月7日 小豆島で創業167年のごま専業メーカー「かどや製油」が挑む「ごまでつながる持続可能な島」を目指す地域創生プロジェクト 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ITjdoRDVWOUJ0OEFSdWg3UTNuSFJUdm9xWDE4RGthS1ZXT2dZMHhhSDg3emh2RU9IclpzTFl0Uy12cG1WR0F2RDNaTXBYSlZ4N1E?oc=5
@@ -119,20 +98,11 @@
 ○10月7日 「ファッションなんて嫌い！」アニエスベー ロック貫き50年 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkVGpwazBRVjV3emZLVG96eHFoQTYtd0tVN3lQM1c4VkNHdmxjTTRCb3N4ZDlrcFJKYnBjM3Y3SDZpSXJJbUJ3U0g1TUlXY3lBOFFidi05eGdDdlA5MEl4dktxOUxIbzg?oc=5
 
-○10月7日 コメ値上がり優勢　３カ月見通し　新米獲得競争激化｜四国新聞WEB朝刊 四国新聞  
-  https://news.google.com/rss/articles/CBMid0FVX3lxTE9PMDZVcXpLSG5JamhYZEJwSEdPaDVMUHM4MUV4NERkZ0hKZ25WN1hwT21HaUJLZ0FBWUtZZVJSRUNEMVBQWG9QVlBhcTJ3ZEtzbFJuWTZpS1NFci1hcy1HWGlHRWxBZGFOQ3VHTlNWV05MSmJ5WVVv0gF8QVVfeXFMT2VZcXp2T0EzNTBJdmZyQ3dua0J5NExwOHRmc0NEYjdzZ2lIcTRtY0VhMlc1MXVvMFB1X3dsODZvZjBvdnZlRDdYMTQ2R295anplc1E1NXMtWF9zNlc1bzN1eGZHekd2dTNINXQ3VXp2c1QwS0JZbDF0ZkM4ZA?oc=5
-
-○10月7日 景気判断８地域で維持　関税合意後も警戒感　日銀１０月報告｜四国新聞WEB朝刊 四国新聞  
-  https://news.google.com/rss/articles/CBMid0FVX3lxTFA2MC1WQ0xpUFpZSXFGNzYxdkczT3hWS0hVb2Q3LWhIMlozWC1iandSTS1zZEtmWnVWQTVCazlNekdBZVh3cFlNTGZOa3pNU1h5S0JaS3Nlc01EbWl5bkZpV0hFUUlBSWhjVXRwZVZuWnZLTEpkeVlZ0gF8QVVfeXFMTlVsVHdPN0lndHV4YVNiU3RkZm9QNExxbVRWRWlCQ2tmRHFhRE42N3JURy1McjltRTRRTEx5YWVlMlkwSzZxQTIwRWRweFo2QkNWVmhjTFBuTU5YQmtha3pkb1dtRG9rZVFheXpTVkhaRWZqZFNMZ3JCRkdzVA?oc=5
-
 ○10月8日 ▼繊維製品輸出が増加 じゃかるた新聞  
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkdFFjdUFudl94ejJITTA3aExLMW9UaVVkUTBvaGxLU2h5LXFlMk9RU2F2eUx0Uzh2STVWWGxwbTFJT2Jwb1NjTDNPdnpHOG82MzVSMmFsZkIwM0ItQVVMOUgwcw?oc=5
 
 ○10月8日 EUが鉄鋼50%関税案、無関税輸入枠は半減 域内産業保護を優先 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE52ajhhQkNkTEduQWhlMXg2WEF5VGRlSm9Bd3FjOEhqdll6MVZpcWlIcDRCdGs3WUtycFhSNGptdWRhQWRkajZoU193c0lQS3R4T1lSRHA3SE5XWkV3RGhGckpwZGRVbmdRRWZfUA?oc=5
-
-○10月8日 ＥＵ、鉄鋼５０％関税案公表 埼玉新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpeTd2M3ZydU42bXMwdWpVdUZCWlNROTRkd1VXTEp3UjJCZnpmZjB5QWlveTFwRjdfdlllcWVIelQ4TDFRNEd0Tk02aS05X1lDOWxudWYwYw?oc=5
 
 ○10月8日 73歳・夏木マリ、美脚輝く個性的なファッション「なんてセクシーな御御足」「姐さん、それはさすがにヤバすぎでは…」 山陽新聞  
   https://news.google.com/rss/articles/CBMihgFBVV95cUxPRVlqLThyd2M2bzFsUU85dFM3Y0VrYlNlcUVqQlZvR0pZd2hGV0hsMmVLclZxTkZRdVZlT1JzUi1YYnZLQnE4LUlVLWVlcVd1dFJXV2lSUC1URVlKSEJ5bTR0aWxBT2ZUN2pXTVpVcC1fQmJCYV9HbWhYSC1WM3RteUtzSW5wQQ?oc=5
@@ -142,9 +112,6 @@
 
 ○10月8日 「懐入り合意につなげた」 米と関税交渉の赤沢氏 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE56dFYyZGl2YmYwUGc1Sy1ySWlPcnVkdXUwaDdKbU9zN2p6TmNxbzEtNHkzemhWR3NOa0pYTVRtbzFnamFIOVgwZ3pDSHdGODZGUkctdzJIRmREY04wVjc1MDI5ZFRXSmY3?oc=5
-
-○10月8日 それぞれの万博：／3 ごみ出さぬ、意識徹底 持続可能な未来、見据え 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfQmdreTc3T3pJbDFUUTZwMU4xOU9XWVNaSGRFcXMxc2R1RkM1UXhQZTFwdTNvX3ZCWm1XcS0xa3owd0lBZUZURmRLMWVQRy1ETlVYRFVHTERfekZhOG1EWmpKRmVLeU1L?oc=5
 
 ○10月8日 EU、鉄鋼に50%関税案 無税輸入枠も半減 安価な中国製警戒 日本経済新聞  
   https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEo5S3djQ25XcTJzYnB1ZlZQbDJSZjNDVXg4ekhjVG1OM0RfaTZkNzJ4NFlDVGY4Z0M0eHdhVC1yUmdraU5vcDBsdFB6bG9hUS1MdmE2Z1hqV3RiTHpFWnRhbmtxamZlc2JVdVFGdEI1SWNSTXA4XzdlOVB0S3U4alJsNUJvUjU4VDcwX1Uwc09vMmNORVRYcE5MM2xQVHBUYk1uTWRR?oc=5
@@ -170,20 +137,23 @@
 ○10月8日 持続可能な故郷、次世代に残すのが責務 新潟・佐渡の益田純さん 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9Yb0I5d2JDSS13YnN5Z0JPZldlcGQtN1J2akdNYlZrZWVwWXFPd2xhdVA1Q1l1RHhQazlVc2w0WlNoT294R1dDcldBekNDUUVsaW1INGtvRkpCWDVEWlp5bVBYbF8xM3p2WFRSSQ?oc=5
 
-○10月8日 国際ロボット展、見どころ発表 持続可能な社会がテーマに 日刊工業新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2Y2ViUzF2aDNyLUJOajNVSWRMZWpQLVVEOWhJOFNBbjcyRE43YW1sQnB3c09LQzNHWVA4ZE1CdW5DWUhJX0JDMjFiamQ1anptR1R2REt1bG5EWmM?oc=5
+○10月8日 トランプ米大統領、カナダ首相と首脳会談 関税引き下げ合意できず 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5XbzJBcFdtaWFIMjU0Ulkzam9tREVPOHlwSmV6Z19NV05Odzd4OXFnalh0OUJCOXg1b0dleVhiUlA2c0ZvcGNBWnpzV2hXdVgweVdxd3AyLUxQZGRJTU9Banl5QkpXa1JRSm0xLQ?oc=5
 
 ○10月8日 産業TREND／産業変革 ロボット・AI（25）持続可能な社会、ロボと共創 日刊工業新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtMHJmMkc1dzNXc085elNQVUYtWEROMjN1RkZkMXBFeC1JUUZlcEJiZlpCNEJnbV9GLVJCZi1CR2lhOFUtVVFucGZNVnNHTmRnb2NDajVyTTdyNzQ?oc=5
 
+○10月8日 国際ロボット展、見どころ発表 持続可能な社会がテーマに 日刊工業新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2Y2ViUzF2aDNyLUJOajNVSWRMZWpQLVVEOWhJOFNBbjcyRE43YW1sQnB3c09LQzNHWVA4ZE1CdW5DWUhJX0JDMjFiamQ1anptR1R2REt1bG5EWmM?oc=5
+
 ○10月8日 追加関税撤回ブラジル要求　ビデオ首脳会談｜四国新聞WEB朝刊 四国新聞  
   https://news.google.com/rss/articles/CBMid0FVX3lxTE1hNDlWQmUwTlJ5YmdlN1lQNjl1SHk3QTNsSWM0VlR5Tm5VR0dvNWhOM2NON3JFUWxBUXdCaVEtT0NESXhfZ3FPZjE3dlpfTWpXQlRYNzFsU0FHU3RBamtyYk8xZjVsQ0lUZi1Ma251TUdPSkpyZWVF0gF8QVVfeXFMTnV3OEFVc1M2d1ZQODZhQjkxWDBwckdPWnRMZ0o2SzRNMDk2MmdZQ0UyMFBaSXdSYXJGT2xueEV4UnYtQXgzSy1OU2lFVUY0dDNiMzREdjdUS3NhT1pOQzlHeGlwXzQzVmo4VjJuYnduWVJGczRhTHBobzZHYw?oc=5
 
-○10月8日 NY金、節目の4000ドル台を突破 政府閉鎖や利下げで買い広がる [トランプ関税] 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZeE5JS20wYXc0TEhVckxXMjR6bXNIY2ZzLXRFUUdtQVZ0aXBxbnBneGdfY3pITk05SV9SQWg3ZlZRSy1LaEpFR3FGQUdkd2Q0d1NzeFIyMWZOdW96TmNVNzcxVVF3SDQ?oc=5
-
 ○10月8日 中・大型トラック25％関税 トランプ大統領11月実施表明 日本企業、影響見極め 中部経済新聞  
   https://news.google.com/rss/articles/CBMic0FVX3lxTE5OeXllRkt0dEd5SjZOMDFlVldaYzFpMDhicm4waTRHcW8wMkJZS3FWU3dNY2FGNTc3dm1pTmlvQy1WRlVfc0ludFNjaU9CdkNpdk5STDdVY1RnWkFWeUFZTFhCQzZDTmpPdkxab194dVNPalE?oc=5
+
+○10月8日 中・大型トラック２５％関税　米大統領、来月実施を表明｜四国新聞WEB朝刊 四国新聞  
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE8xVjdINXExcTFiRGwtRWJpeDBGRjVGY2xBQndTNjRLdWxIWk1QWmYtbXdRQnQyT2g5YkgxTDhsSHNzSU12RTB4WWRrT0RwekRhOVgyTFE3b1FfbjI4WmZkQlVqZXgyM0QwQkN1cmNpRWFNQUlEU0hr0gF8QVVfeXFMUGhxWVN1YUNwTkxrUF9raERpVnJWUWkzSjUyajZLWlM2Mm4xMF9taHFzMEJiWnk3eS10R0VrN1cxWDZRZ0UteHNxd3dJMGlYSUJMMjZiNmJ3OTJZT1lWMENBNklIWnN3dG5kNXBqcldtRkdsTjdycDZtR2tTQg?oc=5
 
 ○10月8日 米関税「何十年と覚悟を」赤沢大臣が警鐘 朝日新聞のインタビューで [トランプ関税][高市早苗総裁 自民党総裁] 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tTDFYMWZCTDAtdVA4S20xT1BsMnZtaFE0Y3ZReU9BVkZjOElwUk1kekJlRlIzamxVWE52bk1oU2EtQzV6Mjl6MURDVGNJUWh2SnhpVnE1QjZoWTcxLUpxV1V6UWRzVU0?oc=5
@@ -202,6 +172,99 @@
 
 ○10月8日 米 関税合意でも「MAGA」が実現できない理由 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1VC1LTm52WDRsU2ZwZC1ZZWpaQ3I3U2lJU3gzUlFYb3J1QjlYaDB4RzBiaXB3WHpwYkFUbzdSdFB0QXVrLVZTRHY0MHhfMENQVWxDeW80VjhsMWhlU1dza3RRd3NfN0cx?oc=5
+
+○10月8日 つくり手とともに考える「持続可能な食と農」行政や生産者など5人が解説 パルシステム東京 JAcom 農業協同組合新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5MbC0zMjlXM0JpMWowVzdzN3VFeTlKRGZGQTBoMDBubW0zZzc5YnBNRXBObEhKUWNmS2JZS3UwMDIxdmk5RFFjNy1fRnJHX1BUUzJvbjR4bjB2WDZKSWZGSTRRWnRnWENnZGhBMg?oc=5
+
+○10月8日 豊田市 旧郷土資料館跡地を一般競争入札で売却 建通新聞  
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ3hpTzhoQVBJN0xONUYteWxzVUttbF9iVnRJM21xcmdNYWswOUhXamVaZjgwNnJKMFZ2WU1pellxQnc5ZzhYaXdTQ1lQa2NoaXdKa2xSNGRweHpORzB6b0FiN01xUDN6LXNRRDM0TGpwN1lzTzVKTWpCeXNFZ2JuWA?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 相模原町田経済新聞  
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BNFhGOW9ZR1VfN25YR291VF9WVVZKeFVMX19fWW9wOXRHSHFUNUxUWnlnT0kzZTNLN0tUV3p0X3J0aHRLb011LURuRlFGR214M0VlRQ?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 神戸経済新聞  
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhcHlqSERnNFN1VHdQRVZUS1JwZUktcUlPbm1aREFxM3lwYmZBYndUUDFtQkZMRUNWRDBMSXp2YlMyMi1IRGhWVHFLaUVqZ3do?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 伊勢志摩経済新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0TnozVS1iS1VnendMZWx3YkYwYW9Gd0hWYU1iNmMxLVlYeEhXb001eGNJWktINkRyeEZiYTZoS0lUXzNNRWsyUndFMFFxYUMyS2FzaENR?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 富士山経済新聞  
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRTG9VUlJ3c09NcUwtVFltRE1iY2dkQ01tSUREQzNVdXVQOVBKY21jM1RieEppNVYwNWNmS2ZWeDZIUHRMZzBfZkUyUDYxYi1PNTFj?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 高田馬場経済新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE11R2FXQXBJYzVva05qQ0VfdU1JbFhoU3VOUjZ5cFVZYlk0TUQ0ZUZoTEl0Nnp4X2pHVHl5VUpNN3Q1R2ZwcWFXWDNqOS1VSlU4ckMxS1puNGUzOEU?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 弘前経済新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yTm5yNFNNNkVGQkJTS1VKLTB3d1FYOGV0N2JWUVRwalVLN1FGQllBdDE1NUFEN2JFQ0ZSYjBtLTJ5S2p5a25FUUVwUTJ4clhPeDBXcy1B?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 習志野経済新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE14ei16WlNMNGVRV19BSXNiRks4TGhucDlzT3NtcWZaejZEVVpxNS1RbnhrdF83bmJ5bnA1VkRydlg0TmVVeVNxZUlReGdKNlg4XzdnSUxhcw?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 銀座経済新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE40TkV2UFJhSnpoLTZfRkppam5FLTFTYktsMmlLYTJTOWpxeTRYb2N5czdvRDh2NnVkMUNRbl9NQXlCT1hNOGRrRURfeF9rU1RIREE?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 小田原箱根経済新聞  
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EY0UzdHU2YVM3UEF6a3EzLUJBTmxGYVBUNGYxdndWWHhOcEgtRWhFVHVJaDJWNWhhSmgxTUd0WnQtMzM2SGU3ZEU0ZHUwc1hMWjBURWVsdzlZRnF1MWc?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 千葉経済新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qQUtRTDZjR0ZPdVhyaFA5cGxmdjdDQlpFX1pwck9Wc01USEI2RXQxeGk5QVI4VFBMcS1KY0FFcmdBaWVXbHpsOHVoSmlwQlY5MFE?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 仙台経済新聞  
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIQ3VKU0l3bmt3ZGZQaTlScXNuQWVsSDBtQjVraTlXSE9vVkZrLXpzeVl4WVU3RTdJX3B0Q1d5ZDNJei1Zc0FaY2FPdzdPUHhUSG04?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 松本経済新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RNER2eFRwb3VrY2ROVFZKRW5mQzF0ZGVacDlMNnBRNFhSUElZRXBWNUMxa21WdnViNnRQZWItQXdLclJJVXNiVms2R1lsWWVHbGVtVzVrSQ?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 日向経済新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRV1NZbUYwd1pmN3M5U0lwM3RybzAyekVSbkVNN1hPdDJ2U19Ndkg0ODhzQXlyT1JnVDhaWWpGekZrWGRZQ29qdmdNMDlYMU8xQVE?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 東大阪経済新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE11ckhNSTlVLTdzcGk0YmV5MktzeFNWR1ZRRnJSTnhhU0hIbVVpRUlQT2pFUURpM25qNl9tMnFwMVBGZ08wODI1SngtZXhNSjdzRzlvZVdEei1CTXc?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 中野経済新聞  
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE03OEJEcmw1czAxQzRBdUh0N0ZmVmdXREJFOUNvX1lnU3lpYU9Bc1VXZ1hnY1dsQ3ZDeGlmSmtWek1SekhGQk5FTl9xbDAzaURZTEVR?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 八戸経済新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3eE0wYnVHdGttb0d2UnFrWlZsbnR3MnFRZkp4LWRwMmxxTDFPRlAwa3BTbUNxdW5nZzhNMF85ZWVJLTJESDVxRmRXZjNqSEpkVUtCeTUxRQ?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 高松経済新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1R1BXTWwwUFd5WTAxSzcyb3VtejB0NldmSGJUNGNoSkpINHRYdmdOWDlYaUc0TmRIaFBjVUlRXzlnSUlGQWxGV1E0WDZyZFBvWS1hWU9lWQ?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 宗像経済新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xdjVGUjM4a3FCd1pSWFhhMW42U3ZhSDR5cldYMTZXY1hObTBEZWloYjNLRUZQRHZnTVNZTHNmcDhKbVlMZXF6ZEs5VWlGX25sNVZrb3Bn?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 西多摩経済新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYRGgzSU1FeVJvM3ROR25YT2FEdTh4QXRkQW5ET0xPXzlZcUdNelBnNnlYSV91T0YxaHE5My1nMUk5UDlnbGh0ekxfQXltVmVzYmpxU09VSQ?oc=5
+
+○10月8日 米・カナダ首脳、関税巡り協議 合意に至らず継続へ 山形新聞  
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxNc1ZZZ1duZzk0TkRzMy1IbEhwSE5odEhjaGpDQnBJLWEyNlFNd04xcExNUkdpVkhlcHJ4OWdkMUxFaUQ0RlZwaFBUblB6cHBLTGExT1M0WGlJeEhRTHJGQzlDaW5mQ0hYWkZqVzlQNHh3NVc0QmxvRndfQTVyTGJ2N01ZYUF0cFg1QVhWcw?oc=5
+
+○10月8日 米・カナダ首脳、関税巡り協議／合意に至らず継続へ 四国新聞  
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE11aFd4cXZXb1FwQW1LSkVFS3plcExJZEpMRlJmRUliQnZNQnc2QkNWRW91STFwMS1WZDF0WnR5N0drSFYtazFjYkVKM2N5UjZhb01INURYQlJvd1d3VTh4RWx6WTZFUWJyZFRURXZKMHNtWHJa?oc=5
+
+○10月8日 “安いのに使える”と話題の「無印・ニトリ・ユニクロのバッグ」3選 200円の万能バッグも【2025年10月版】 ITmedia  
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMd280UHpGanJKZXFLb0V1em5YYzlLdE1KSDVIMjZpdFRBamh6VEsxeTB4VWhJZ3QwdzhHNklwOGJoZ2k4NERGUHRjVHZmSmxYVldpcDJEbGYyYmNlM0d3QUJRa2E?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 長浜経済新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yY0cxTk9xd3hpVFhKMHpRSlNuRXMyWlBobVF2WnpYTTUxUk9Td2tuYVI4U2d6MlNmY3pfWU9IWmlNcDJPcTAybHVjektlcUxQaDJ2YlpR?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 大分経済新聞  
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxNExCemd4QjV0aXdfRlh2bmhRNTBDWXFyRWlGeFlpQjFSTUszWTlfUE5CZlNYeDlTd2ZiYmRzQmdmMWNuaXpiTDBCSEJWZHZu?oc=5
+
+○10月8日 欧州委、鉄鋼関税50％に倍増案 安い中国製警戒 対立生むリスクも 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE03OWVXcXcyY3VuTHdNZEVPQll2dHdhbTZtTWk3dXFKTW9XMW44MGFCNlViY3I1dDJSelREWTZ5SG1TRGYtZ0xEa3BkX3pGZGdNQmVEbVkzNkNHZ1RxLWExeGgyMjJmak9r?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 盛岡経済新聞  
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE13cjBRZy1kQS1IX1ZkNHBNaVROaWxhdEtDMERkZi0xb09KNkJaQmJ0VkxnaTNzakVZX2VqLWM3VzI4S0dvWmNONFpLUGJNWThsRXg5TA?oc=5
+
+○10月8日 地政学リスク時代の日本経済 吉崎達彦氏・双日総合研究所チーフエコノミスト トランプ関税訴訟、最高裁の判断注目 佐賀新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE44Ny1MN0h5c1gwUTdKVnY0bFlZREE2cWZsVWpEM2FlYy02dXhYWkdnbEZmbVBCVlktdUtPWkNHMXpnZjlBYVJ4SjZKM3AxbnBxcXJSSnVn?oc=5
+
+○10月8日 ＥＵ、鉄鋼関税５０％に引き上げ 逗子葉山経済新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XWFFJVHBDcDZDVWtMRVhzSlR2cnZualFCWGZPQkE3VFRFSEJha0tDamt0eV9HU2dadDFJeEVhT1VUbjlSQ3BzYkstWTV0Z2ZEdjRQRXFQcWtDWkU?oc=5
+
+○10月8日 低価格競争が常態化する白酒（パイチュウ）のネット販売 酒販業者からは「底なし値下げ」への懸念も 中国経済新聞  
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ORnN5NnBRSTVIbm0xckpjeElmZzV6LTdOdU8zUm9FZlBHVlItdFNrZXN1dzNYWlk2ZEc1VDVlbXQ4ZGItUkF4LTVZbw?oc=5
 
 【自由民主党】
 該当データなし
