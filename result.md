@@ -1,24 +1,6 @@
 【ニュース】
-○10月6日 豊田織機へのTOB2月に延期 トヨタ陣営、競争法対応に遅れ 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE52cC1LQTZGNmhqNzRGWlZ1c2ZiaE13OEk3UG9XMlN0eDczME85MXJ3cmFBZ0xoYnI0U2tTSkxBSnB1WHZ6SGU3RDVyalBkX0t4S1hNMGFlZFpCTlR4bVlabDF0bm5MRE9KNjdFXw?oc=5
-
-○10月6日 福井県永平寺町、持続可能な観光の国際認証を取得 県内初 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1FTDd4ZkZTYV9XNThyS0RBZjdBdlJCSVFpN2VqZlpobUpKczJBblg3RFduVXQ5ZUdBSzA0NGkwZ1BEeG1MbEkweUtGWGhkcVFrY0g0dlQtY0NlQ2tWZnpsOURfUlNUTUt3eDZ3Yg?oc=5
-
-○10月7日 クローズアップ・取適法1月施行へ「運用基準」/公正取引委員会 建設通信新聞  
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Qa1lTOThMZjJlZGo0QjB5M3hMSHVUdURxRnJnUVQxTnhtNFJZZ1k0TGRvNXFrUHVHcm9qOGhCWlI1V1lhNURwVWJwT1JDb2Y3ZFdvelJMeWI?oc=5
-
-○10月7日 M!LK、ツアー中の衝撃エピソード暴露＆リーダー吉田仁人にクレームが殺到!? 疾走感あふれる青春応援歌も披露 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZU2dFM0M5MkFlQUJFNDZ2NDRCUXZXTDczZ1lONDF3Zlp3dlBFakY0SGJGOElOakRYVTJVOXF5MDhBZ1VGemU2Y0JDcTdmZ1lhX0E?oc=5
-
 ○10月7日 高市新総裁に私が望むこと 「持続可能な働き方示して」 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5UVTdwXzVUWklTMEMtbEd4cVlTN2JGYVpBWmg4U2ZwNjZJcHB3OG9EdDE3UlM4RHgtaEo4WFpQelpqQ2IyOFN1ckhQRWhiMHZkTEdvY05xUERHaG96czB0ZG5ka3QzMnE2S25xaw?oc=5
-
-○10月7日 中大型トラックに関税25％、トランプ氏が投稿 11月1日に発動へ 朝日新聞  
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxNSTF3M3d2d0pEcWNuUzUteUlNbVJuYk9wUU1EVUJhQ3Qyd3NVSUVZX2tTTEYtNW1jRS1Id3VQR1Jrb0JlOVlrRUt5Wk1tVmVIWk1GRGpjdlpLajlHUkVJOXgwRDFmdFVSaFZHT19IeV9xeWtoVnZaeC1RMTNaeVp2STZJSzNWRFk?oc=5
-
-○10月7日 ニチハ、アメリカ連結子会社の事業撤退 汎用外装材の競争激化で 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE92bTRuTGxDblF6MkNjQ0NMS3pzQXRRQmN1RVFsVjdSNVlLcmxJTWRVRjlQWWdfWGNMalFTRzFJbURpYkhZZktlcE5EUGRXNFM3T0NBN1FWcWRuMmNjV0o5eVV0ODJLVEhxamZLUA?oc=5
 
 ○10月7日 「あなたのSNS広告で著作権侵害を確認しました、詳細はこちら」→マルウェア配布 IIJが攻撃メールを複数確認 ITmedia  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE10ZUF6ZlBmY2J4eWxxVmw3NjE0SEZhNlRaQmU2ckNTb3NaWm5kNWhzQ3p2NXAwbFVDeVo5SzU3SWI5ZHExZEdEdnN1cnFnRkg3UEJXV3kxY04yUExrUWdRbExTMWY1VmEyVnJEUQ?oc=5
@@ -26,23 +8,11 @@
 ○10月7日 東京ガールズコレクション、14年ぶり名古屋開催 繊維産業もPR 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBnZGlhWVJ2RTJqbHA3RExZeVdBdlo0T0dScE1CRDE0Uk1FXy1pa1lpUFk0X1UxMHZGZ2tvcGVZakNiakZ0ZGF1OENyS2k5YjRENERpNEhGV3BFcVplYV8tS1hCWFZUUW1OdVhybQ?oc=5
 
-○10月7日 日本最大級の繊維・ファッションOEM・ODM展示会「第45回ASIA FASHION FAIR大阪2025秋」開催 日時：10月21日（火）～23日（木）@マイドームおおさか（入場無料・事前登録制） 朝日新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1INWFGc1R3MmRzSFVPNDVXUWJ4Sl9ObnFabGJZcDFIa0U5ajA1Yk11ZHItb2pwU09qMzVLaHhTUTNDRWpONUF6Y2ZjeDdCR2ZiR3NXdkk3RUlackU?oc=5
-
 ○10月8日 ▼繊維製品輸出が増加 じゃかるた新聞  
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkdFFjdUFudl94ejJITTA3aExLMW9UaVVkUTBvaGxLU2h5LXFlMk9RU2F2eUx0Uzh2STVWWGxwbTFJT2Jwb1NjTDNPdnpHOG82MzVSMmFsZkIwM0ItQVVMOUgwcw?oc=5
 
 ○10月8日 それぞれの万博：／3 ごみ出さぬ、意識徹底 持続可能な未来、見据え 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfQmdreTc3T3pJbDFUUTZwMU4xOU9XWVNaSGRFcXMxc2R1RkM1UXhQZTFwdTNvX3ZCWm1XcS0xa3owd0lBZUZURmRLMWVQRy1ETlVYRFVHTERfekZhOG1EWmpKRmVLeU1L?oc=5
-
-○10月8日 イケア、米物流テック企業を買収 配送効率化で関税に対応 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFA2bS1yN0xiUFVia2J2MjV5TU1GYTdfTHRPVkZMY2EwN0VteU9BTDlPU1JZZUxqemxxUFp6LVJLTk1nOVJVSy1uOVloR1pJV1loeG9jMkNFWFA1T1pqNW0wUU1jM2U2MHBnaUZweQ?oc=5
-
-○10月8日 メキシコ自動車輸出、1〜9月は0.9%減 関税警戒感は弱まる 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1BOUltZk1ISmZFNmVRa25aS3hTYjVRY0VBQXExdVV6WGtVT2ExZXhUYlNJSkJrakVIY0pDTkEybUJHeU1JUnhLd0U2WVY0bDEtLTRMWGhDODktQVlOVkJrVkIwRUtGT3laZWRlUw?oc=5
-
-○10月8日 「関税、何十年覚悟を」 赤沢氏、日米交渉振り返る 朝日新聞  
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE16WDBENTZ6UzRvWGhCT1d2ZjFuSzlvUlliLU95dlZZTS12Y1BXdnlWVTQ4SUl0Q1E2T3dsZ3htZ2prWFRwSWRyWDFpVU1OaXJLVmkyeU9SMTZ5Nm1G?oc=5
 
 ○10月8日 茨城の建築に「小さなサステナビリティー」を 暮らし図・鯉渕健太代表 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5XZzlVc0JYQXNXTGZVNk1nRnhtYXVXZlRISEdrUzdvOVpzREI0UUZFX0QtWi16ZjIycXhmTEprRlRpTkJrc0hIeVJYWEVWbnVaaDcyU2J2TzBUNzBsVUs5dGVXU0t2Mm5ISlR3bw?oc=5
@@ -50,26 +20,17 @@
 ○10月8日 持続可能な故郷、次世代に残すのが責務 新潟・佐渡の益田純さん 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9Yb0I5d2JDSS13YnN5Z0JPZldlcGQtN1J2akdNYlZrZWVwWXFPd2xhdVA1Q1l1RHhQazlVc2w0WlNoT294R1dDcldBekNDUUVsaW1INGtvRkpCWDVEWlp5bVBYbF8xM3p2WFRSSQ?oc=5
 
-○10月8日 トランプ米大統領、カナダ首相と首脳会談 関税引き下げ合意できず 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5XbzJBcFdtaWFIMjU0Ulkzam9tREVPOHlwSmV6Z19NV05Odzd4OXFnalh0OUJCOXg1b0dleVhiUlA2c0ZvcGNBWnpzV2hXdVgweVdxd3AyLUxQZGRJTU9Banl5QkpXa1JRSm0xLQ?oc=5
-
 ○10月8日 産業TREND／産業変革 ロボット・AI（25）持続可能な社会、ロボと共創 日刊工業新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtMHJmMkc1dzNXc085elNQVUYtWEROMjN1RkZkMXBFeC1JUUZlcEJiZlpCNEJnbV9GLVJCZi1CR2lhOFUtVVFucGZNVnNHTmRnb2NDajVyTTdyNzQ?oc=5
 
 ○10月8日 国際ロボット展、見どころ発表 持続可能な社会がテーマに 日刊工業新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2Y2ViUzF2aDNyLUJOajNVSWRMZWpQLVVEOWhJOFNBbjcyRE43YW1sQnB3c09LQzNHWVA4ZE1CdW5DWUhJX0JDMjFiamQ1anptR1R2REt1bG5EWmM?oc=5
 
-○10月8日 米関税「何十年と覚悟を」赤沢大臣が警鐘 朝日新聞のインタビューで [トランプ関税][高市早苗総裁 自民党総裁] 朝日新聞  
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxOUEpfNkhheGw1N2RWTmRrNzdicnF6OUQzdG02S1cwQzQ1cHAxVFV4cnNkTlNrb0NXSGlwNXV5aEhEYzFXOUNNY1U2V2NCWFRtMHRhTXgtSVhENUxaWjRJNWRmdThOS05sYmpsTWhwWHo2ZEhLOUhQeXFVN09oWEFQV2NlR29Mek43M0FoVkx3?oc=5
-
 ○10月8日 カトメ、小須戸工場に新棟増設 労働環境改善と競争力強化し地域に貢献を目指す にいがた経済新聞  
   https://news.google.com/rss/articles/CBMiREFVX3lxTE5XRk4zcGlRM052QkRkaVR6RUxvNmxRVmc5eW1uQXF1QUtBcFF5eWtjQUJjVjBQaHFRUTJ5RFVDVnVuOVBH?oc=5
 
-○10月8日 米 関税合意でも「MAGA」が実現できない理由 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1VC1LTm52WDRsU2ZwZC1ZZWpaQ3I3U2lJU3gzUlFYb3J1QjlYaDB4RzBiaXB3WHpwYkFUbzdSdFB0QXVrLVZTRHY0MHhfMENQVWxDeW80VjhsMWhlU1dza3RRd3NfN0cx?oc=5
-
-○10月8日 豊田市 旧郷土資料館跡地を一般競争入札で売却 建通新聞  
-  https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ3hpTzhoQVBJN0xONUYteWxzVUttbF9iVnRJM21xcmdNYWswOUhXamVaZjgwNnJKMFZ2WU1pellxQnc5ZzhYaXdTQ1lQa2NoaXdKa2xSNGRweHpORzB6b0FiN01xUDN6LXNRRDM0TGpwN1lzTzVKTWpCeXNFZ2JuWA?oc=5
+○10月8日 岡崎駅西口駅前広場改修 12月一般競争 建通新聞  
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxOTWV2bFVSTWFMVE5sb2h3clY0cTY5ZnZYNkl2UVVXQzNVM21VTzZjbkQwQUdOUEUtZFBkTE1lTEk5SHZPVzU4dGRwN1NwbmF6VFVPR3Q3YWZSNUlyLWRReGxhZVBFV1llWHdfdHdxOUdmOE1iQ1JwVnU3LS0ya0ZHcg?oc=5
 
 ○10月8日 佐々木町長が施政方針「持続可能な地域を町民と創る」 本別町定例会開会 十勝毎日新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqZmhiZzlPeWtoWDdoT1FCdGtnUTQtNVhWMVFOalpSUVlyazEzemdRRUt3VDZuNXJHUEpSX2MxaW1FckhfcUMxUk1iMXJXaV9RZmF5UEJHZ3hyN00?oc=5
@@ -98,32 +59,14 @@
 ○10月9日 グループ最大の物流拠点 パナHD、競争力を強化 京都・京田辺 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uLXpzMldKZGotbExJYWZpaXRYR1hRdEpJRXhvRml1aktNTDZ5VVBOQ1lwTUpKcEhyQjEyaE16U3lfdDREZlduUThZS1B0WFgtU2wzZXBKS0dYS2ZfbHF2TWJSc2JnYldR?oc=5
 
-○10月9日 IMF専務理事「世界経済への悲観後退」 関税の応酬回避で 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFA3aVdoaGhkc2JUb2l1WmVYWmlQMmpoUFBnRldwQ3dqQjBacUU2X1FOdHdxOUdDYThVQ25PVXBzRTdkeWgtVU5iLWdGRjVzRDZzVjRlcHBaMGNyNzE2SXh6MzBMdFI0TXh0cVVhaQ?oc=5
-
-○10月9日 最高益ファストリ・柳井氏、トランプ関税どう語る 編集者の視点 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFAwUEw5eEJOaUlfcGFSOE9hZkFSeXFHbEM4bnhITUVSaGQ1bjFTaWR2UnlVS09WbFQtM1l2YzV1OTZuM0JCRldDQ1kzOGRKc0JjdFp3QV9UWnhsaDFpclA3eTM5eTlGSW5zSTVaVw?oc=5
-
-○10月9日 《記者座談会》連載「ファッションとキャラクターの交差点」 を振り返る 繊研新聞  
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IendKNk5pYjZEdzhHcmFGWkU1OE1jamFRQktPMWZjTWotYUlhSTlSNGNnZGtsY1FMcVYxdkJMb204c3oxaXk2YlhrVU9JYmZRanJCRk5NOTF4NGRKbUpqXw?oc=5
-
-○10月9日 コメ、トウモロコシは輸入拡大 トランプ関税に揺れる農業の未来は？ 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OaVpEVWU5NnU0NnhLZkNWRXFMRmc1WXl5NTZDYUNrUFd2M1BhS1JQd3hINmtQS2tUY3RtZ0hjSUNsRWR0R0NYdXdESXR4ckFReFBWWF9LNS1yQ1dqdDJ0TWhmSjY4YzRB?oc=5
-
-○10月9日 鳥取県議会閉会、米関税対策など可決 議員の宿泊費、支給基準見直し [鳥取県] 朝日新聞  
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxQLXJyY0otMkVFalJ6aERmcTFWWmFQVHpJY0xuMklDTGhVNjhkN2pUX0NmZ3VaMEFIenExRTFiRVNRVVJDNVlyQi1Jb3NqUG1aNU84NnZ6WGtST1hIeWVDS2k5ZDBqSWozbm5qQmxYeXpTVkVZMnFFUnExMmlmU2FqV2Q0ZUl5V28?oc=5
+○10月9日 本日の予定：乃村工芸社、ファーストリテイリングが決算発表、9月都心オフィス空室率 日本証券新聞  
+  https://news.google.com/rss/articles/CBMixwJBVV95cUxQbWNUT2JVVU42WHI4ZVMxTldCTDVzNllEU0doVzM2Tmh2YmlUUVliVG44bTJpRXNjOWlqelNuUjNCdlgzbTJaMGJ5UHJSLUdQTE4tMlZSMUFmVXVhVzJMYk9GZ1hmWWotRHh0TjFYTXl2M0M0d2ZfbGRpRjdCVWJ5Skl2RGFsQ1ZnXzctQ2Rsb3kwQmtMaHdvUWJISURQMTYtd0VOVGFxcGZ6Mml1UU5NcTVISjlHaExYS3BVblFKZHNfLWtqTjdMcGV6RXRIMk9ZbHdyRlRURlNLVkRVUHRWVWoxTTZ2R1lxbjN5WkoyVkF5SUJnT0R4MUdEbXYwUHFnQThVa1VFb0RPeFlkSkljTTNrazhhdjNFUHJGbllDdmhRZnNLTktzS2IyTGl0N1oydHhfM01fcHd1c1hsX0l3X3dJa014dlU?oc=5
 
 ○10月9日 SHIBUYA109渋谷 「やみかわ系」ファッションのキャンペーンを初開催 繊研新聞  
   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwNENielNYVnJ6VGZkcmwtVEY1Q0dSQzBQUWozZ05tYXl1ZFZVMkF0ZVZlSXNVRjA5cTdsWXFZbWN3N3ZjYTJZR0xFdWpmWDcwVmlkTXFiNA?oc=5
 
 ○10月9日 ユニクロ、フランス1号店のデファンス店を改装 ファミリー層も開拓 繊研新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZcjJGbUdGMjJjZi05clZ4cE5tbE0yc3EtcGRhSGNTT0VVOURzRzZMTWZ0S1BpU196T1B6QUhaMXg3NnhUc3IyWkRzREcxdWhBTlE?oc=5
-
-○10月9日 IMF専務理事、世界経済は「不透明感が定着」 米関税政策を念頭に 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5a2owQW1fNjhaeTh2d0Z4RDA1aEJMcm1zSzFxN2lmSGdwUjA3LXQyTm9PVndQQlBDckdxTWoyazVLaHFObkxpQzBMTUJ1X2V4M3dwck0zZEtmZWZsZkcxcDFDcGtkWGNx?oc=5
-
-○10月9日 米関税は長期継続と赤沢氏 政権交代でも撤回応じず 山陽新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE9naDVmV2hZVUk4d20wQW5sQmRZSGZHckIwUFNZM1ZVN0NxYXNZMmQ2aTZobVEzT1Etc3otdXN3bG9iaF9KdXpBRWFyS2tvXzFUSGpodlFGREEzYjl3S2s0N1AweFlhQlM5SEpERWNBNA?oc=5
 
 ○10月9日 Deff、Xperia 10 VII用アラミド繊維ケース「DURO」発売　Made for Xperia認定 - ITmedia Mobile ITmedia  
   https://news.google.com/rss/articles/CBMib0FVX3lxTFA3LW1mSFNlc3hwekdxaG40ZFUtcnNLa2RDMzNzVm1MOEZfSUxWc20wQ3NXR0d3cjVOV0dKWWpvQld3Y3Rzb1RsdTFUUnNSVFpaeGl5U3ZyMzBaNGRrVlB6MW1Gb0VpWHQ2b3hyWGFDY9IBaEFVX3lxTFBnQTVZZDRMN2J6ZWN3NEpyUk9RT0Rxdkdub3RxYnhfR0JnSWNTLXBuWVhzc3VVTUdRNW9KS2g5cDdYY0xyYWcwUXh4OFdTU28zZ0xFNmNkb1V5U21yN2duMVdZcGNaY3Iz?oc=5
@@ -144,49 +87,19 @@
   https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWthY0RubGFURU1qLXNUR1NYZlR0eENvd2tqeXZJcmZubUpTWkJscGtZM1p2RU1zZVBpcXpDSGlTMktwV25jTHh4RG1nTVpHNnhKaHhuUFo1WVhodEY4aUFaQWd5cHhvODd1ck4xSDR1RTZ1bHk5QnRyaVNicUx2ZFloblhOZG8?oc=5
 
 ○10月9日 ファストリ５年連続最高益 海外でユニクロ好調 山陽新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fbTluc1otYlBBUE5RdWg2a1RHdE1uUXdyM3VDVFdxOEsxYzZsV0lMWHoxM2REa0xZWGloRmxneHBiWERiYkFCU19ObVhtcUxKZ2xFMEp1LXVRVEYyV3BaajJkVlQ4cEZo?oc=5
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE5nblotUlJveXZSdHAzV2NUNnBvT0VrVEg2UTJWRkliWnhFTmhzM0ctUktKUUFBdnI5bmt4WmhPeUtIRTJTTHEwYlhJNGxpY2t6LTcta0daSVZFd1hDd056a2pNN2pKSXZETHN3?oc=5
 
 ○10月9日 久光製薬の純利益23%減 3〜8月、競争激化でサロンパス振るわず 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiogFBVV95cUxQbTU2aTVreE5uWjlTdEF0LS0xYk9PeDByMVJaLVBMSE04S2hPSUR1Q2NPWGVHT0FWR0pHc3NfdlgtQ0trdkRYS0F5YUhJNGdNRHRkY3FPSHJwekxjMF9mMkJwVFUyT3N6TTJhRjB2bTVOb3lSdHFfWFZXLS11ZG1TeFBBXzM5NUUyS2c1Z213eVBBaGhLeHFhUGtRMk1jZU9zLXc?oc=5
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNWlUMUg5UE5iQ3dIZHpqXzVtTE9QVE9Ed2paZ2RjSU1jUFlhb29DNWx6RHduVmRXeVhaZ1ZRWTZRT3FOX2ZMRXZHVlpjUkg0dmI5eWhJNWJkb2hVUWpiaHFET1F5akRqeXo3UlNpdE5hMlpnXy1lTFprc2R5aHlIaUtRLUp5UmFKVnpaQjQxd1JQek43eG9uNkhrTkJKLVNkZXlUaW9jVEg?oc=5
 
 ○10月9日 決算:久光製薬の純利益23%減 3〜8月、競争激化でサロンパス振るわず 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ra2FhRTdKZ3hha09QWEhYX0ZSM3FoM3plOHhPeEdGdjA3LTJYaTh2VDl0c282M1FJZVdxMzRkc3VBN000MFdkYndTZHlibXFTNWg4alVsMy0xelFsMGlZR0ZLUDFkUkI2VmlaZg?oc=5
-
-○10月9日 欧州連合の「鉄鋼関税５０％引き上げ」に韓国は非常事態…「炭素障壁」二重苦 : 経済 ハンギョレ新聞  
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kZ0pBdnQwRlBPemlUN2Jzb0lROWdLcVN6eVZrN1RaWkxGMDJVbVVGU1Nla0dZLW9UR2xJVi00SHdxMktTZmFRWGdaR1EyaF9GenpVZnlzWnZsbUsx?oc=5
-
-○10月9日 決算:最高益ファストリ、米国で本格値上げへ 関税前在庫が枯渇 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5Hdnh0dW9PM1Z0cnJnX3RaSVItSExlRFl3dWRYWl81dHRPOFFzd2FSeFJNd3NGYlBlTTY4dHNkX3FoelJuNW9MaXZMQzgzNEtWZmpZRlZIRjRWb3ladFlzSzdOeHVLSnIzenJwMQ?oc=5
-
-○10月9日 白石聖、艶肌まぶしい“秋ファッション”披露 背中開きコーデ＆あざとさMAXふわふわコーデ 山陽新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE9DYkRBT2JvRTg3d1F2ZFJwN0RoZVJsV1JwOTFQeXJQWE9xRFFHak4xV1NtYUR6OGQ4UXVlS1Q2dUQtbFZ1T2ZabHVSV2Fha2dnbWc1dHlhYmRuNWFMb2VzWWFKR0l0c0RxM2liYS0zZw?oc=5
-
-○10月10日 米国がEUに環境・人権規制の免除要求、関税合意で威圧 日本経済新聞  
-  https://news.google.com/rss/articles/CBMid0FVX3lxTE1uNTByN2x5ZTZzZWd6TjBjMmZPS2stX0lUSmY5b2xPSnRFWFdMVDRNSWMwZ2xRN2pYTmR2S05mMW8zX0twUU1mNVJlbFdxR3hkYWR2b285ZTc4T016LTE1azN0TFd0THhGVUlrN1c2Q25WQUJlczQw?oc=5
-
-○10月10日 トランプ関税が揺るがす国家と市場の境界線 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE90a0hZTUw5TzJlZ0xvWUZiX3Ryc0pBVTlvVnlDYUJlMlc4NUREOHY1blpnSEtiY2Y2YnRvaWtIajYxR1Nzb1l0VTZPYm9HeE5ZZGV0b1BqbHVKZmJFMUR2bFZ1dXZidkQtaHByYw?oc=5
-
-○10月10日 インドルピー安、見えぬ底 米高関税・就労ビザ規制重荷 IT株にも下げ圧力 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5mVEtyOVVENlFzenpTS0p6RkE3OGJlRG0tRUN5bzVCdHlwQUhWNGtxNUh6U0pjWHVtWUlMZzl5dWFDTGtuNW9lRk12MFV6Q1l3cHZHS1ZQSzFOUXR2UjBCaTFqUU9id3JrbnptNA?oc=5
-
-○10月10日 ファッション誌『MORE』“紙版”休止へ 約48年の歴史…編集部が「突然のご報告」 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wTGwzbm5HM2lGU3dfOC1ibTA1RjZmT1c4N0FrSjgtQk8wbEVXUGY0cmRVZF9IeUZpYlBhUlc1WTZYbF91eFZVV084WDlvLWM5dlE?oc=5
-
-○10月10日 『DOPE』才木の“潜入ファッション”にネット反応「出たキャッツ！ｗ」「何でも着こなしちゃう海人くん」【ネタバレあり】 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nMEJnX2huUFgzTnNsLUZiZUtZYTNSSnF0RGxzb05VUHpEcklabWtBVFA4VG81cjVDX1FQWHNCX3JGT3ZfQ1dmMlQxY0xGaEtDY3c?oc=5
 
 ○10月10日 美容医療グループが62億円の申告漏れ 業界拡大「都心は過当競争」 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yT1ZsODBhdEFCZGVmM19fV0dULXhqSmV1ZHVvZ0dCNTl4aHRLSXJwaW0xSFFzYlNfQWthMERwTDloN2o1UURpTHNfSU9ZdThtV2pqdk40OXE0QjdOQS1aSEtJUEh5dUE?oc=5
 
 ○10月10日 バングラデシュ、通関電子化で非効率解消へ 競争力向上狙う 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFA2WUR5cjVNeWJISDMyZjZiemlaT1h4RDR5WGExV01talN0WG5KSjJSZlZIMWJGN0lERDZ5VHNYS2dpZmdFQXNYeHFNYTI4Tmtwb0o0Q1VpTXRJcldCQ3NRYnh4UUVIeXprUFpGUQ?oc=5
-
-○10月10日 トランプ米大統領、後発医薬品は関税対象外 日刊工業新聞  
-  https://news.google.com/rss/articles/CBMidEFVX3lxTE9pbFZKb3pXRXVBSEFjd0ZwUThjZk5VNkNXVU94ZjBlbE1KS2UxTEVCYi05YlF5c0dnaDVSeFNibUNTN2NhaS1HbkNaandwV0p2TEZiNG16WWx1b3ZCY0hCNF9ZNnIwQmFoRWZLek9hN0ZkNzF0?oc=5
-
-○10月10日 米ペプシコの7〜9月、11%減益 関税引き上げで販売数量が減少 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE96Zkw5WjNXdi1seGJfZC1OaGdGUXRVb2NIWTJ1N1BMVk5aNDhXVnVWQXFlbi1jVVFTR2lESDVlZllfekVMdVNzZDcxZjFFSFRqV05GWEg5T0VMc3E0eFRfQkZmV19MOENockszcA?oc=5
 
 ○10月10日 「第3回アダプティブファッションショー」 学生らがリメイクした衣装を披露 繊研新聞  
   https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vWUlSZXhRdi1CTG5vZFBtQ2hxalhRdnpWQU40YlIwYkdPbktqT2dTc3FuVm1GN0lFT1FZUmFBLTRQTzhPRTdJTnk2SzNRTzl1Nkpvb2tSYzdSNWJPOGc?oc=5
@@ -203,23 +116,59 @@
 ○10月10日 ファーストリテイリング株価9カ月ぶり高値 26年8月営業益8%増 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBtRFc0cGxoajIxS1VnLU1wdFZBT2JzNG91YkdYWlFSZUR2YTY2SE1HX3hVRWJhNzd3cmV3YXlMSkxmTWtOMnpuNHhPTWdya1RobzF2emRTd0VLbjBPWG9IRVNmMllsYTY0VExSaw?oc=5
 
-○10月10日 米中でAIロボ競争過熱 ソフトバンクG、スイス社事業を買収 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSDRoTHZmNW1iRk1lSzdyWm9fc0g3M1BLWkFISmNNXzFydXB3Z0syVXhNZ21JVjdqd25mQUV5LWdJdkhYY0twVVZJVDQxX3JkMjdBOW9hdFJYSGJHRXdvTThONVhvanFzV29KbmRZaTZ5aGROQl91MHc0VDc2N05ZaWk2YjNlVUNrdmg0aTJDbVhSWjN2TTlrSVBpNDM3NXExQ2VjamVRYkY?oc=5
-
 ○10月10日 貿易赤字は「悪｣なのか プラザ合意40年、関税では米赤字減らず？ 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaeUtPNDNTMFlNQjhwNHBUQlM5SHQ2Z21kdkRxTzlpemZfeGZ3ZUNEWURSZURaMnRuQ3B4YkNVdjRoYkFPUFNJSWpUT3JkcEZ5ZG1PN1dqZTUyMjdzb3VZeXBRYVViUHM?oc=5
+
+○10月10日 「アニエスベー」、50周年で6年ぶりのショー 26年春夏パリ・ファッションウィーク 繊研新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vZlpqUHVpU3dHNnEtRGwyNkdVb2VNdm5ndUE3MXJ5bkZQdWZJUWIzTkRDa1dsN29udGthQ3JNdEhpdTM4aVh1eXpreGxoZ3lLSEE?oc=5
 
 ○10月10日 ファーストリテイリング、最高益 日本経済新聞  
   https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ2V6TTBPQW9kRThTc2pxQXUzU2tObDNOYnBpLW9HazU4ZWlaNWtUMDVrTEdOVGJuX1hoanZVc1lONjFhanhoWlhSVG16QWpsM1VlZkhnTkdxQl9Mb3dBbldnNmVzWVZQUHpZSk5TVU9IM2RzLUVBeUZra2o4OVhZSFNhbm5Jc093bW93aEpsQ1p0QlRxdDB2LXEySHUzY1NaSnc?oc=5
 
-○10月10日 トランプ関税影響も設備投資堅調、2026年度の建設投資は5.3%増に 建通新聞  
-  https://news.google.com/rss/articles/CBMigAFBVV95cUxNLXdIaEFJRUJ3VmZjT2RwOWVtcHBsZXFsWmlYazRKN0xRVlFTS0dfbE1qNkwycEZod3ZXNWJMc1h3Q3RlSVI5dDBSRnhUblZUTzRLZzlRcTRaaWYwSjZpUEtxUW1oNnplUG1SY2g2MmlZZVFPRkE0a2M3clozTWRRQQ?oc=5
+○10月10日 コシヒカリ3万3000円に ＪＡ常総ひかりが概算金改定 集荷競争激化受け JAcom 農業協同組合新聞  
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5yR2FYYWhuZm5nb1ZJR1llVFV3cUpFa1VrSllqZC1IeVJuZmdOTHhFMVlhd2hJRk9ES0tZMUlJUy1od1lNMUN2UDVPMjZSOGxma0lDMlpOSVVyUng1dUdFdml0Yzdjcm1pU0E?oc=5
 
-○10月10日 赤沢経財相が米商務長官と電話協議 日米関税合意の実施へ連携確認 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBDSWx1cVZXai1ZTEgtWTJYVnZjbmJ0c3dRRER3T1RIWU1Tc2xlbkVZdmhsQTNJWmpZN2pnNGRhTTVaaG9JOTNjVlRNNEZ2VDBxQkdvamxvZkZOelpPTjNHTkRYQl93S3JmdklINw?oc=5
-
-○10月10日 ダイキン「ぴちょんくん」がユニクロのTシャツに 梅田の店舗で 日本経済新聞  
+○10月10日 ダイキン「ぴちょんくん」がユニクロTシャツに 大阪・梅田の店舗 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5lSEhFU1ZrLWJKeExET1pSdmF2aFRTUlVqNENpMl9WU19wTlh0bE1hQ3FvYTZDbTl3MUQtOXZQR05YSllJZ2REek1Id1U1RUhaWkplelBnWW9JWld0M2U1cjd4dmpJa1c4TEFUcA?oc=5
+
+○10月10日 【解説】 AI軍拡競争はどのようにウクライナでの戦争を変えているのか BBC  
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKc0xYUUdwNDRxWkhXcDlLb25uT0xwQlpIemEya2YxeENuQ2xuN3B1R0NqMzZLMUJJamZmS29nSHRqeURmTWNJUFd5dWVtMi15Z0x0ZFY4b2c4c3ZlNXRJ0gFkQVVfeXFMTTF3alpGZFJ1VDQydy1nYXVIS0wtcmlJMVJtcmR4akRWcllKVXUxR3g3bUFEcnFPR2VjRDVSZlhnd0FhenppMUxKRWlTVlVfVlJZVGVuc2dLcXdFQVFmelFtS01NaA?oc=5
+
+○10月10日 日本政府、OpenAIに「著作権侵害行為」を行わないよう要請 Sora 2での“アニメ風動画”問題を受け（1/2 ページ） ITmedia  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9MRXRKUm1PdGVNQ09QNmExQm9QUmdHUGZlbkRwVTNrc2NHdG05aS1FWkdmU1lTRmR1cFluMjdFb0Y5dmxyZ2NELUlmblB2MXNyNW05TGlpbE1GSkNLT3RxRmxxcDhERy13THdzTg?oc=5
+
+○10月10日 HKS、26年8月期純利益38%減 米関税措置や原材料費高騰響く 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5uUlFUZVR5SWFydUVVbWFQcThMNnJLSnFMbXRxcXlTVWhwNmg0R0Jxblp6VWdfWjJOZC1aXzhMd0lJcTQ2LTZ3ZW0wejhaZllseHBrQng5OFlZdW1jOExtLUxTejVuR3phcVY0cQ?oc=5
+
+○10月10日 ファッションブランド『MSG』がクリエイティブプロダクション『聖傘』とのコラボビジュアルを発表 繊研新聞  
+  https://news.google.com/rss/articles/CBMirgFBVV95cUxPYm9rSkFaWEc3ZV9qUGhtR2JzN045ZFh3UjdzeUJqeEhtcXg1QWhBcG9BMHZwS2N3WVlOcXhjVkE2VGRPX2JRQnlCYnk3cU1NdV9MOENOcElXM05obkVSZGdzUkVNcDFFbXpQR0ZYOThnb3ZaVkh5WWRxZEVoMUZOZkl6dlBaUUs0R1ljckpCRkFSS1BqV01DbFBhQ1p4bFFDTGw2dXpwbDdCd3JCNFE?oc=5
+
+○10月11日 トランプ氏、習氏と「会う理由ない」 対中関税の大幅引き上げ検討も 朝日新聞  
+  https://news.google.com/rss/articles/CBMikwFBVV95cUxNeVM2c1FtZ0ZwOGZaT3BmRnJHS1JWcHNQZTVKLWJrV2lyanZ4bWpMV2RFVllCdmg0UHZyZE1Wa0NrTU1RRjNfbUpNWENvR3Y4STNxcGE3dGtqbnRpR2tGYmwtRUZ3dWNSNkFoRHlkSUpYLXZJSXhzYTRFZnNmQUhMbEp4bmxIUGMzNUZTeElWc2R2blE?oc=5
+
+○10月11日 コメ価格見通し、先高観が優勢 ２カ月連続、新米獲得競争が激化 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuaTRkbFRNX2xIdEVEZ1Vpa0RfT19SaUliVzVQUnZvZ201eXNMeXgybU0yRmhVVG10U2JyYW9yVmN0VWdyNmNYX3RQZXFGMW1Yc0E?oc=5
+
+○10月11日 日米関税交渉：赤沢氏、米関税で合意再確認 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xMmoybjUtZ2FrX3hJNURSVDFyUXhGWmMxd2Zrd0lFbFdwRzVRTDRDNUYySHZLSDJLZ2NFTVRkM1dDRHVtaW1JVVNqNTBGaFZIbjVoQS1hQVB5UWprNlUyWElEYkVhbW1R?oc=5
+
+○10月11日 米中でAIロボ競争過熱 ソフトバンクG、スイス社事業を買収 日本経済新聞  
+  https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWxDS3h3cDFWc3NBTWxFa3MzNzVJUzJ3bnZZT0RoNF9iMWNNMmxacnpSdldTMGhtUGIzWXpMcTQ1NnM5NWJ6UGUzeFRvNlFrUjhsYm5DTzRXRzRnaV9Tb2I1RTBlRnB6bGthMU1zVFlEMkdIQTVVLVU3OXdlb1hrT0VGeTBEYUpCd2JIbUEzN3pqSXFrVzN3c1lTU2Zjd3MzakE?oc=5
+
+○10月11日 街角景気、５カ月連続で改善 ９月、関税懸念が緩和か 山陽新聞  
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNUFRvTzd2WklwOG5QTnlJclNYMW5IUVQxY0kwRll5TzA3LUtMSFptd0Ewck4xSzY3X2Y3TlNDZ01hNmhCRkFPV1lkdkhwclE0RHIxMGpINFRGOFpYMEFVWkhhbjhFSXBJSmMwd2ZLMHMwOTNBX2FNNzNOb1MxbGZidkNIazJ1UWc?oc=5
+
+○10月11日 Snow Man佐久間大介＆バナナマン日村、ユニクロの“30億円赤字事業”に戦慄 人気の秘密に迫る 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEU0ZEZlczMEh3VHlnVVlpd0VUdml0eVBheW5VaUljMXpDVU9Sdmltb1Y0aTUwN2dfZV85ZWNSZTZJSnpidlQwN0Q2NHdxQ2lXVGc?oc=5
+
+○10月11日 トランプ氏、中国に追加関税「100％」11月から 輸出規制に対抗 朝日新聞  
+  https://news.google.com/rss/articles/CBMijwFBVV95cUxNUnRHU2gzZ1ltRFZSV2hXMFBpc3Q3bk1SZkhBbUlWeVhYTlZDRDdabXpTbFBidXVrVzM2akQ1bWlVWHBkNzVzd2JDTTJVSUZIMU5jWjV2TWdpbXlaOVNtd2NoVXRBcTlkZExJNko4V3FRTFdBdHpEUnBOcE9Vc19CcHZtTkJPNGVuXy1BQnUwYw?oc=5
+
+○10月11日 トランプ氏、中国に追加関税「100%」11月から 輸出規制に対抗 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yOFlWR2tybjlFSUJ2WHAyVnhINm5SWlRWZUdCdGJNbkdJbkcxQ1VsR2lfSE12M1c0U2NDSEpuZGNYNWR1di1JUWp3dzRMUGhvNmVNSDZTekNKbjRyVHMtZVNvWUdWWWs?oc=5
+
+○10月11日 トランプ氏｢対中関税100%追加｣ 11月1日からレアアース規制に対抗 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1UeGd0endVSFE2QW5sMlFRZGhFcmZLVTJsQ2pKb2Y4MnFwZjBLZkt2N3FjNUVKQm5iM2hkNWtoWkprYlVNTWtYVklfSEdYT2ZaTzIwX1BuaDU3bHFSaEZTSlMwLU9MRGxqWG1vVQ?oc=5
 
 【自由民主党】
 該当データなし
