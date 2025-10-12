@@ -1,7 +1,4 @@
 【ニュース】
-○10月8日 佐々木町長が施政方針「持続可能な地域を町民と創る」 本別町定例会開会 十勝毎日新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqZmhiZzlPeWtoWDdoT1FCdGtnUTQtNVhWMVFOalpSUVlyazEzemdRRUt3VDZuNXJHUEpSX2MxaW1FckhfcUMxUk1iMXJXaV9RZmF5UEJHZ3hyN00?oc=5
-
 ○10月9日 知財で読み解く（2）経営視点の模倣品対策 日刊工業新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0OWZhUGw3LUZTYWFlSzFpTkRZTE9vYUN6dm9uOEVudlNZcmdKc0VTSTdwODlfNGZsRjJfNXozNUF4VXYzMjhNNmFNUldJX3ZFaFFWMDNVaVpmT1k?oc=5
 
@@ -22,9 +19,6 @@
 
 ○10月9日 大林らが工法開発/トンネル覆工補強効率2倍に/炭素繊維を縦横編み込み 建設通信新聞  
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBidUs5bXlYRkJWaGk2M2xYWXV5cFZZZDJrdUFNaFIwQUk4ME8wRmp5XzlXZmRDSlJnU1dOSXZjOFA4S1dDcnQ1TzFQdlpYOWRDY2RaUm1FTDA?oc=5
-
-○10月9日 《記者座談会》連載「ファッションとキャラクターの交差点」 を振り返る 繊研新聞  
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IendKNk5pYjZEdzhHcmFGWkU1OE1jamFRQktPMWZjTWotYUlhSTlSNGNnZGtsY1FMcVYxdkJMb204c3oxaXk2YlhrVU9JYmZRanJCRk5NOTF4NGRKbUpqXw?oc=5
 
 ○10月9日 SHIBUYA109渋谷 「やみかわ系」ファッションのキャンペーンを初開催 繊研新聞  
   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwNENielNYVnJ6VGZkcmwtVEY1Q0dSQzBQUWozZ05tYXl1ZFZVMkF0ZVZlSXNVRjA5cTdsWXFZbWN3N3ZjYTJZR0xFdWpmWDcwVmlkTXFiNA?oc=5
@@ -77,6 +71,9 @@
 ○10月10日 ファーストリテイリング株価9カ月ぶり高値 26年8月営業益8%増 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBtRFc0cGxoajIxS1VnLU1wdFZBT2JzNG91YkdYWlFSZUR2YTY2SE1HX3hVRWJhNzd3cmV3YXlMSkxmTWtOMnpuNHhPTWdya1RobzF2emRTd0VLbjBPWG9IRVNmMllsYTY0VExSaw?oc=5
 
+○10月10日 貿易赤字は「悪｣なのか プラザ合意40年、関税では米赤字減らず？ 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaeUtPNDNTMFlNQjhwNHBUQlM5SHQ2Z21kdkRxTzlpemZfeGZ3ZUNEWURSZURaMnRuQ3B4YkNVdjRoYkFPUFNJSWpUT3JkcEZ5ZG1PN1dqZTUyMjdzb3VZeXBRYVViUHM?oc=5
+
 ○10月10日 プレスリリース：持続可能なまちづくりの実現に向けて 北海道・佐呂間町で公共ライドシェア『ももちゃんタクシー』の実証運行を開始！ 2025年10月10日から2026年1月末まで運行予定（Digital PR Platform） 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuazROdVIwLVpqdmhsQ3BneTlfN2JVWmVuMUZXa2p2OWtkM2x2V0lzazYxbC1LUlNkSHZrWWNvbURWSnMwTGkwbmlLemVQZnpubUkyMy1XcmpoV29xSlB2eW9aNVRVZ0VX?oc=5
 
@@ -93,19 +90,16 @@
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9MRXRKUm1PdGVNQ09QNmExQm9QUmdHUGZlbkRwVTNrc2NHdG05aS1FWkdmU1lTRmR1cFluMjdFb0Y5dmxyZ2NELUlmblB2MXNyNW05TGlpbE1GSkNLT3RxRmxxcDhERy13THdzTg?oc=5
 
 ○10月11日 トランプ氏、習氏と「会う理由ない」 対中関税の大幅引き上げ検討も 朝日新聞  
-  https://news.google.com/rss/articles/CBMikwFBVV95cUxNeVM2c1FtZ0ZwOGZaT3BmRnJHS1JWcHNQZTVKLWJrV2lyanZ4bWpMV2RFVllCdmg0UHZyZE1Wa0NrTU1RRjNfbUpNWENvR3Y4STNxcGE3dGtqbnRpR2tGYmwtRUZ3dWNSNkFoRHlkSUpYLXZJSXhzYTRFZnNmQUhMbEp4bmxIUGMzNUZTeElWc2R2blE?oc=5
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rZ1pKQWxqRmpMUGYwUXdzMlZnZ2x3MzNwN21MS1NaRWtYZlJMX191M2xwSU1WNG9UY25ZeHp6bUJUeEhsOEdKc3lrSmltSi1IVHpsVDUzMFV6T19oaEozcko0RWM2VDA?oc=5
 
 ○10月11日 トランプ氏｢対中関税100%追加｣ 11月1日から、輸出規制に対抗 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1UeGd0endVSFE2QW5sMlFRZGhFcmZLVTJsQ2pKb2Y4MnFwZjBLZkt2N3FjNUVKQm5iM2hkNWtoWkprYlVNTWtYVklfSEdYT2ZaTzIwX1BuaDU3bHFSaEZTSlMwLU9MRGxqWG1vVQ?oc=5
 
 ○10月11日 トランプ氏、中国に追加関税「100％」11月から 輸出規制に対抗 朝日新聞  
-  https://news.google.com/rss/articles/CBMijwFBVV95cUxNUnRHU2gzZ1ltRFZSV2hXMFBpc3Q3bk1SZkhBbUlWeVhYTlZDRDdabXpTbFBidXVrVzM2akQ1bWlVWHBkNzVzd2JDTTJVSUZIMU5jWjV2TWdpbXlaOVNtd2NoVXRBcTlkZExJNko4V3FRTFdBdHpEUnBOcE9Vc19CcHZtTkJPNGVuXy1BQnUwYw?oc=5
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUI4eE9PeGY4SDN1ZW0tRUFBRmg1T3l1QUFQcjdSN3BFV3ZJQjlHSUhLQTlXUkNsVFBjNkR1N2FZdUdKQ1JVWEtLVHhobmN1a2p1c05NRHE1dkpOSUJ2eWpyVXZ1SFZXMTlWV29YYzN3QVh5ODhsU2tJNnVTRXplSTZPdXlsOGM?oc=5
 
 ○10月11日 トランプ氏、中国に追加関税「100%」11月から 輸出規制に対抗 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yOFlWR2tybjlFSUJ2WHAyVnhINm5SWlRWZUdCdGJNbkdJbkcxQ1VsR2lfSE12M1c0U2NDSEpuZGNYNWR1di1JUWp3dzRMUGhvNmVNSDZTekNKbjRyVHMtZVNvWUdWWWs?oc=5
-
-○10月11日 トランプ氏「来月から100％の対中関税」 輸出規制に対抗措置 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DeXJuaTZkb09YZjVtUjc5a2JuUzFNYzZqRXN0UW9aV3VlRG5pbW0tRXF6ZTNteWNmWTNpMjdNRHJ1S0puYWxWLUNLRUxGYkN6TXE0MnVlbXdGbEU2SEVhalg5TzUxNHd1?oc=5
 
 ○10月11日 競争入札避けるため分割発注 不適切な随意契約122件 大阪・豊中 [大阪府] 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00X29uck1NNUs3TDFVSlBDdmkzRUpFTDgxbE9RQTM3SXpGdDdsX1MtakR0cWNkeFZTaXlBc01xREw2c2RYZmZxX1d5REJiSjk2Z1g5anJHNGQ3RmNrRlg3eEhwU2tjYnM?oc=5
@@ -119,14 +113,8 @@
 ○10月11日 米中摩擦再び、トランプ氏「100%追加関税」 貿易措置で応酬 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE00alo5SEwyZmRHeW5Gc2tsZXRFTVZUOG85X0VIbWpKZmE5Z3k5ZWV3NEpQcDNyQmNYQTY4ZF9kWnd0bHNGaEVmQXF0T01XanFIQ0NmT2IxdTg5R1plVzRrT2VsdnRGZE8zUEdIYw?oc=5
 
-○10月11日 キノコのホクト、若年層に的 星野リゾート・ユニクロとコラボ 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5NTmFUMU1FNl9pX3NZM2RsOTZuRUxCenlKV1JRUUo2VkUtejBwcTdna3NPbTBSbm5NZWE0N25GdVFrQVFoRjlkeTVqTHhONDYwY3Ftcy1DT1hNV1RHTFlrS1lzOWxtT2V6dktPbQ?oc=5
-
 ○10月11日 トランプ氏、中国に「100％」追加関税 対抗措置で 貿易戦争再燃か 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsbTVwM2oxUDJsYVk4R2dkRGdjSjczRU52eVdwQl94ZzRYd3NYYUhHWTlwUTZBbV9QTXFPMlJmZXRLb3RrM3g2eW9IbHdBYjYtSjhOaUdfZG9uT2Q4Vk5Nbjg3dEU0bUtJ?oc=5
-
-○10月11日 日経平均先物が急落 3連休明け東京市場は大荒れか トランプ関税 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNTmVEcXlDNEF6OXZwbDl3bGNiNkRZbHozX25ULVZGMDU0NWdMem5yZmFtY3hfRnBKcVpLT2pUdmhHUDRGdUk3TkFzVHRmdGtmTWtpQ1VZVXplWDBvQnNPVDJYWFFHUkFh?oc=5
 
 ○10月11日 対中100%関税表明、「脅し」か「強行」か トランプ氏の思惑は 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsWWN6SVV1S0RDdFFfOEQ0Z0NVSUxyMS1sZFhvNmN4dHJDd3NJRzZ0Q1BaTngzRllqb1Y4ekxRbXE4bllrbnNuR05WT29KSG1aOURxMEtpQ013NkJTamhZV0dBWS1TekNP?oc=5
@@ -134,8 +122,8 @@
 ○10月11日 米中首脳会談控え「圧力」強める中国 「100%関税」どう駆け引き? 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WQkhWdkJSdk1HOWRid1lHdFJEX3I2ektIM2ZybXVDb1NhWW5veGdfVXZWV1hlcXE1RjUwTjN6S3M0dTFRZ0RZZWhGQ2RzUVhZYkFDbVo2b3lNdzB0VUdoeTdGSkhCWE16?oc=5
 
-○10月12日 【米中関係】関税、輸出規制で神経戦 愛媛新聞  
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MRkJabFJvNFFTUDVBN3JCcUQ1MGhXRVdJSXRFeVJTekM5UDJfYWlraHhHLS1Tb0plUnlMdHBLa3NWU195cDNkUXVNRWR3OUVTNngtcVRLXzFKcUpjdWF6X2llVQ?oc=5
+○10月11日 首脳会談控え「圧力」強める中国 米「100%関税」にどう駆け引き? 毎日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzX3dJYlR6Smo5NkZnRDRLeGVrWWtZXzJuZFZ1SnFBMnZDcXZ0NGJRcHRscmQ3TnllWEpwXy1MeXhlT1J6RHBRRi1kcWVyeV9FRm1QYXN3S0VrYkJQTUFJQnc3dFlXRjg?oc=5
 
 ○10月12日 Snow Man佐久間大介＆バナナマン日村、ユニクロの“30億円赤字事業”に戦慄 人気の秘密に迫る 山陽新聞  
   https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXZ2ZWpuMHk4SmhpSzI0YXJRUE1mX0E4RFRQNFZMbzJLejRuUWpfWk95dmVwV2ZjclhXdjJvUzRjanZWbWItY191R3N3U3dLbkwtTTExeEcwTENRRHcyWnh1WXI4eGNKSEJJMmJJdVJiM2hvNzQ2Tmxqb3BCRTZlRzZRMUJ0QQ?oc=5
@@ -155,8 +143,26 @@
 ○10月12日 ダイアン津田、娘・ここのさんから手紙「家では父親なんです」 『ユニクロ』“父の日篇”登場 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE93bF8wNWxpSUg5VjBEUDc5Ql94c0U2WldrV3dHOEFpd2pPcUNESWQwOWY2NVIwV3RJVWNya2NIcE1VVEFsWVExeGc2YXVtOUFpUkE?oc=5
 
-○10月12日 「米、対中100％追加関税」 報復連鎖再燃恐れ 毎日新聞  
+○10月12日 トランプショック：米中、報復連鎖再燃恐れ 「対中100％追加関税」 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE84eWIwVmJFZC00R3RNUUlRcTZxdEd1RS0xZWNRZWczdGRqWjFURVIxUWpuT0c3UDU0WHQ5Q3lMeVViUmx1ZU5KNXAta1VZUnpqa1pIYjdpRmhpck51elRqcjJKZmVtRi1P?oc=5
+
+○10月12日 白バイ隊員のファッションショー 警視庁の採用イベントで業務紹介 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCUnFTam9RVDVCRlhKdXgwVDdsSWRhc2dicGlqR0IzMk9jdG1fZE5YdG1pdXJIRWl6Z2Mzc2RSTldvQlc1b1BHcnhmQWQ1aUlLYnc?oc=5
+
+○10月12日 「ユニクロはブーム」 柳井氏が忘れない30年前の教訓 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFB4cjFLaUlYYjExaGxlYnhvRGEzUVFjRS1taDloTjIyVlVIZF81b1E1THVzdm1HaERxTmtoUlA0eFFxUTlmbExaWkNLelNQX2E1ZEV4TmZJSk5sZ2czbUdsMy01bHk3cmxQN2xneQ?oc=5
+
+○10月12日 おいしい、これ何で…来てくれた人、お店の人と気軽に話して 地域の人が集まる交流の場、桶川でお寺マルシェ 実行委員長「ハードルを低く、持続可能をもっと楽しく」 埼玉新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iR1hhbHh4bkRHSjdid3Y3bGY0VnFVRWhaVDlHdzRRS1B2WEc3VWQ3NURIQ1NsNmVsdGdrSW9mbkZTRGJ0bnNGb013WTBYcF9JdGFZdnh2cw?oc=5
+
+○10月12日 中国、米関税に報復示唆 「相応の措置」と商務省 山形新聞  
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxQR0ZfZm1fU1dZVFRuckFHaTliVnRHU3FCc1VmNTBmWGhYMFhKMUJSUmZUUUN1ZEk3cGNXMmpHQ1FxeUM3RHowNlZjSjV0Z2lnQ25KQlUyYlZ3TVZ5V0Z6V19uMllxalN0cWVzMEh6YmlieDcyTzR3Mm1CUW5lUGZNcjVvVk1YUQ?oc=5
+
+○10月12日 英ファッション誌、BLACKPINK・ロゼを除外したような投稿で物議 チャーリーxcxの投稿にも批判の声 山陽新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sbGZXZzRhVGRpVWxwN3VEWlhrVGJnN1YwMndSOW03X0Q2cXlSTVg5OXMwRHF6aDhZUHhNc0F1dkJ1U21ONDJVVTVueEVidW1qY0prMXMxQU8ya1VreXY1bjY2UFN2cFFn?oc=5
+
+○10月12日 中国、米関税に報復示唆 100%の追加関税なら「相応の措置」 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5MTDFaLVRHbXRaLWprYm9mNEN2T1B6M0xKbVVjM0xtaDI4dTlLQ0dhbFdLMTdOVDF3MDRBYk9PaWxVWF9pOHJwT2J0YW9xcy1IRjd5Y2tucm9ycDkzNDJ4cDltWDFJWVViRGRaTQ?oc=5
 
 【自由民主党】
 該当データなし
