@@ -1,36 +1,12 @@
 【ニュース】
-○10月9日 知財で読み解く（2）経営視点の模倣品対策 日刊工業新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0OWZhUGw3LUZTYWFlSzFpTkRZTE9vYUN6dm9uOEVudlNZcmdKc0VTSTdwODlfNGZsRjJfNXozNUF4VXYzMjhNNmFNUldJX3ZFaFFWMDNVaVpmT1k?oc=5
-
-○10月9日 米中で過熱、AIロボット開発競争 ソフトバンクGが8000億円で名乗り 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE80T0lZa3hqU3N5YnplTTBJZUxiNW5EU1ZHV0loLXUwVm5EYV9DVE1sZEo1bURBWThRNEtoQ3Z6V281T0ZMNm9zUXVXQmtVT3dQaWh1RV9aeG5VZlZvV3N2dFl3ZV9ZT0RRVGlBbg?oc=5
-
-○10月9日 ソフトバンクG、AI活用産ロボの主役に 競争軸は「自律化」 日刊工業新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6NFJVODVLSWNnRzkxb3RfWlloOGtTMm1Kcko3TzB2SnJSX3AwSGNHUGhBdXlKSllkRlZzcVA5M0dlMnRQQXd4Wmk5Q2I4b01DcFJwbkZLenltUG8?oc=5
-
-○10月9日 生産ライン 競争力の源泉（75）不二越機械工業 設計・製造DXで連携 日刊工業新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CQVZndV9QRHEyQjhlaHZSTTgtMjJDaHRybS1jTFJOTjhXM3U0SFNOb0o2aGxYc1EzOGhNUTFHWFdNbk5aeWNjZGQzQi1YNEhTSC1wa0VaTC1WQlk?oc=5
-
-○10月9日 中国、過熱する教育競争 親の不安が改革の壁に 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5PUVFwMmxsb3YzOFVCNzRwQm5uV09iM2tra1NjamtmYUtMTERfX0tuU0tUMmxoODJsMFFOdnpYcTl6ejJyNElIcHlLQlRMQ3prTkVVblRNdUJOalNBOEFFb3dXaldYVHI3czRFTQ?oc=5
-
-○10月9日 グループ最大の物流拠点 パナHD、競争力を強化 京都・京田辺 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uLXpzMldKZGotbExJYWZpaXRYR1hRdEpJRXhvRml1aktNTDZ5VVBOQ1lwTUpKcEhyQjEyaE16U3lfdDREZlduUThZS1B0WFgtU2wzZXBKS0dYS2ZfbHF2TWJSc2JnYldR?oc=5
-
-○10月9日 大林らが工法開発/トンネル覆工補強効率2倍に/炭素繊維を縦横編み込み 建設通信新聞  
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBidUs5bXlYRkJWaGk2M2xYWXV5cFZZZDJrdUFNaFIwQUk4ME8wRmp5XzlXZmRDSlJnU1dOSXZjOFA4S1dDcnQ1TzFQdlpYOWRDY2RaUm1FTDA?oc=5
-
-○10月9日 SHIBUYA109渋谷 「やみかわ系」ファッションのキャンペーンを初開催 繊研新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwNENielNYVnJ6VGZkcmwtVEY1Q0dSQzBQUWozZ05tYXl1ZFZVMkF0ZVZlSXNVRjA5cTdsWXFZbWN3N3ZjYTJZR0xFdWpmWDcwVmlkTXFiNA?oc=5
-
 ○10月9日 ユニクロ、フランス1号店のデファンス店を改装 ファミリー層も開拓 繊研新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZcjJGbUdGMjJjZi05clZ4cE5tbE0yc3EtcGRhSGNTT0VVOURzRzZMTWZ0S1BpU196T1B6QUhaMXg3NnhUc3IyWkRzREcxdWhBTlE?oc=5
 
 ○10月9日 Deff、Xperia 10 VII用アラミド繊維ケース「DURO」発売　Made for Xperia認定 - ITmedia Mobile ITmedia  
   https://news.google.com/rss/articles/CBMib0FVX3lxTFA3LW1mSFNlc3hwekdxaG40ZFUtcnNLa2RDMzNzVm1MOEZfSUxWc20wQ3NXR0d3cjVOV0dKWWpvQld3Y3Rzb1RsdTFUUnNSVFpaeGl5U3ZyMzBaNGRrVlB6MW1Gb0VpWHQ2b3hyWGFDY9IBaEFVX3lxTFBnQTVZZDRMN2J6ZWN3NEpyUk9RT0Rxdkdub3RxYnhfR0JnSWNTLXBuWVhzc3VVTUdRNW9KS2g5cDdYY0xyYWcwUXh4OFdTU28zZ0xFNmNkb1V5U21yN2duMVdZcGNaY3Iz?oc=5
 
-○10月9日 ファーストリテイリング[9983]：2025年８月期の配当予想の修正に関するお知らせ 2025年10月9日(適時開示) ：日経会社情報DIGITAL 日本経済新聞  
-  https://news.google.com/rss/articles/CBMizAFBVV95cUxPZUdjWlNqN3A0MkxmYktXdmFIZ3BOaWdFRnNFQURTVXdnX1h1OF9hUWlIVzhHMllIV3hLaXU5V1A3VXU0Zmc5WUR4cDNocWR4RXNwRHNTZ2o1SndsRTN1NFBVYlo2NDZ3NnI0TVNTazRTbkRCeHlNX2VlYVMzeURIZkJicnpGQ3NDOG4yLTdOMXpTejN5NXhhb1lsM1haZzlaLW55ZHc1LXZOVEhQb0lTNkIwTmV5UFo0UktCc0gxMi1kV0FTYndGbU1ITVQ?oc=5
+○10月9日 ファーストリテイリング[9983]：2025年８月期 決算短信〔ＩＦＲＳ会計基準〕（連結） 2025年10月9日(適時開示) ：日経会社情報DIGITAL 日本経済新聞  
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE4tNDhsR2E0RERIbGtOUVJYNGlPVGZtM1BRdmJHTEptTFRLeW8wTkdmZjVVUllkMk85UEl1STNQZDBIbGszSXVkeWRobGRhdlN6WVhfZjFCTEhzdS1IbmtZSG83V1FuZ0FiT1E?oc=5
 
 ○10月9日 ユニクロ国内外で好調 ファーストリテイリングの26年8月期最高益 日本経済新聞  
   https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY0xVSGpRV3YzakpyRy1qQWE1WjcwRFU0bl9vaG5PbGVKeVJYcE9Tazl6MDdiSWs0R3ktcjRjQ2JmcGhBNndKWHBHRHIyZkxlZkw4UVVsTV9GNHJ3MlZRaHRpdXh1UUY5d2lLZFhDaUZvZmxwak9aTkI2d1lLM1BFdTJ0WFJEQ0RTd3VmVGQ5emI1bDlwNUxDR3g2cXNEMFI4Nk1HX1BqYm4?oc=5
@@ -38,20 +14,11 @@
 ○10月9日 決算:ユニクロ国内外で好調 ファーストリテイリングの26年8月期最高益 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE0yTGNQOUFzU3c5M3FzdDBJQ2lQVTVfWHJaTnJNVzRQWUhqVHhQRG5HOWJ1Y2tvWVJQbHoxTjZOajQ5X1NMVE14aEVHTFNaQjNyYkZDV3ZYOG9ESzJpUUVuYjc0ako5VDBlYkE1TA?oc=5
 
-○10月9日 フクビ化学工業[7871]：熱可塑性炭素繊維複合材（CFRTP）のNEDO事業完遂に関するお知らせ 2025年10月9日(適時開示) ：日経会社情報DIGITAL 日本経済新聞  
-  https://news.google.com/rss/articles/CBMizAFBVV95cUxOTHdCRFVRNF9ZX2ZWankxVFpDaXB2TVY0OXJxeXNkdWVBV21ScGtVQkwwSm91NW9zLVFCLW56WlFmVWRSOUFJUXNHVVdsbXdsUEQwbWI1SlByZUJ0V19WbGhHcFpSUU5xdmQ2c3ZHelVZX1NYVFBfejBqcTNKTnhHcjZhX0tYYkVobUhnN0hYRkJUQnFKV3RaVkp6bkRnNC1DTWlFVFFpSkhIN0dQTU5mb2RoeVcxNXdYWGpISjNORTFMQkJMRmt0UHF5REg?oc=5
-
-○10月9日 ユニクロ好調、アパレル世界2位が視野 売上高3.4兆円で過去最高 朝日新聞  
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxOLWthY0RubGFURU1qLXNUR1NYZlR0eENvd2tqeXZJcmZubUpTWkJscGtZM1p2RU1zZVBpcXpDSGlTMktwV25jTHh4RG1nTVpHNnhKaHhuUFo1WVhodEY4aUFaQWd5cHhvODd1ck4xSDR1RTZ1bHk5QnRyaVNicUx2ZFloblhOZG8?oc=5
-
-○10月9日 久光製薬の純利益23%減 3〜8月、競争激化でサロンパス振るわず 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNWlUMUg5UE5iQ3dIZHpqXzVtTE9QVE9Ed2paZ2RjSU1jUFlhb29DNWx6RHduVmRXeVhaZ1ZRWTZRT3FOX2ZMRXZHVlpjUkg0dmI5eWhJNWJkb2hVUWpiaHFET1F5akRqeXo3UlNpdE5hMlpnXy1lTFprc2R5aHlIaUtRLUp5UmFKVnpaQjQxd1JQek43eG9uNkhrTkJKLVNkZXlUaW9jVEg?oc=5
-
 ○10月9日 決算:久光製薬の純利益23%減 3〜8月、競争激化でサロンパス振るわず 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ra2FhRTdKZ3hha09QWEhYX0ZSM3FoM3plOHhPeEdGdjA3LTJYaTh2VDl0c282M1FJZVdxMzRkc3VBN000MFdkYndTZHlibXFTNWg4alVsMy0xelFsMGlZR0ZLUDFkUkI2VmlaZg?oc=5
 
 ○10月10日 米中でAIロボ競争過熱 ソフトバンクG、スイス社事業を買収 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTNnSUlaVXU1MnNDdWJWT1o4N1Z4RDQtQ0sxZWJTaUk3RDE3ejNXZEE5RWlpQWlKV1dqOEFpY3RfeUFtYmJxdUpyeEFseTVaYWp4ejVjcjRPaE15cXc1Zktxb1o1OXJMV0NKMkl2blNCb1lrd1FkQndENnREeFNSMlo2dmRra2hvei1DWE9OMEk3aGZQaTR3VGN0bWRSdGktWGc?oc=5
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE4tNHVkcGJhdEhFa0Fod1JNMER1eWUySUJEd2pxQ1JjQUpGYkUzazE4RUxJcWhJZXNIekZ2WWMzYXdKQ0JIMmJXN1dQX3NOdDNxdFNaMGJfVjRlRWNCa2swMWxoNWNVdEs5dzUySw?oc=5
 
 ○10月10日 美容医療グループが62億円の申告漏れ 業界拡大「都心は過当競争」 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yT1ZsODBhdEFCZGVmM19fV0dULXhqSmV1ZHVvZ0dCNTl4aHRLSXJwaW0xSFFzYlNfQWthMERwTDloN2o1UURpTHNfSU9ZdThtV2pqdk40OXE0QjdOQS1aSEtJUEh5dUE?oc=5
@@ -68,11 +35,11 @@
 ○10月10日 アゴダとGSTC、日本の持続可能な観光に向け初の共同研修 観光経済新聞  
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VWlpkNVhNSEkwdUJobzRmaFVTOGJObUpOQ2gyblFHdGlhMkZKelNTVnVGT3BTUmxCQ2pQRERJX1czYW5JZjVGY2tfOVN4d3k1ZUlidQ?oc=5
 
+○10月10日 日越観光ワークショップ、ハノイで開催へ 持続可能な地域の未来目指し 観光経済新聞  
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SSnFqczRUZ181N3FibmxZZzViSkJnWHg4c1VISy1GcU55MkthekkxN21RZ2Z3QmUwT2hiVEpMeGFzMGE2Yk1iQXlXRm1kM2pCMzJPeQ?oc=5
+
 ○10月10日 ファーストリテイリング株価9カ月ぶり高値 26年8月営業益8%増 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBtRFc0cGxoajIxS1VnLU1wdFZBT2JzNG91YkdYWlFSZUR2YTY2SE1HX3hVRWJhNzd3cmV3YXlMSkxmTWtOMnpuNHhPTWdya1RobzF2emRTd0VLbjBPWG9IRVNmMllsYTY0VExSaw?oc=5
-
-○10月10日 貿易赤字は「悪｣なのか プラザ合意40年、関税では米赤字減らず？ 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaeUtPNDNTMFlNQjhwNHBUQlM5SHQ2Z21kdkRxTzlpemZfeGZ3ZUNEWURSZURaMnRuQ3B4YkNVdjRoYkFPUFNJSWpUT3JkcEZ5ZG1PN1dqZTUyMjdzb3VZeXBRYVViUHM?oc=5
 
 ○10月10日 プレスリリース：持続可能なまちづくりの実現に向けて 北海道・佐呂間町で公共ライドシェア『ももちゃんタクシー』の実証運行を開始！ 2025年10月10日から2026年1月末まで運行予定（Digital PR Platform） 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuazROdVIwLVpqdmhsQ3BneTlfN2JVWmVuMUZXa2p2OWtkM2x2V0lzazYxbC1LUlNkSHZrWWNvbURWSnMwTGkwbmlLemVQZnpubUkyMy1XcmpoV29xSlB2eW9aNVRVZ0VX?oc=5
@@ -88,6 +55,9 @@
 
 ○10月10日 日本政府、OpenAIに「著作権侵害行為」を行わないよう要請 Sora 2での“アニメ風動画”問題を受け（1/2 ページ） ITmedia  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9MRXRKUm1PdGVNQ09QNmExQm9QUmdHUGZlbkRwVTNrc2NHdG05aS1FWkdmU1lTRmR1cFluMjdFb0Y5dmxyZ2NELUlmblB2MXNyNW05TGlpbE1GSkNLT3RxRmxxcDhERy13THdzTg?oc=5
+
+○10月11日 M!LK、ツアー中の衝撃エピソード暴露＆リーダー吉田仁人にクレームが殺到!? 疾走感あふれる青春応援歌も披露 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZU2dFM0M5MkFlQUJFNDZ2NDRCUXZXTDczZ1lONDF3Zlp3dlBFakY0SGJGOElOakRYVTJVOXF5MDhBZ1VGemU2Y0JDcTdmZ1lhX0E?oc=5
 
 ○10月11日 トランプ氏、習氏と「会う理由ない」 対中関税の大幅引き上げ検討も 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rZ1pKQWxqRmpMUGYwUXdzMlZnZ2x3MzNwN21MS1NaRWtYZlJMX191M2xwSU1WNG9UY25ZeHp6bUJUeEhsOEdKc3lrSmltSi1IVHpsVDUzMFV6T19oaEozcko0RWM2VDA?oc=5
@@ -113,6 +83,9 @@
 ○10月11日 米中摩擦再び、トランプ氏「100%追加関税」 貿易措置で応酬 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE00alo5SEwyZmRHeW5Gc2tsZXRFTVZUOG85X0VIbWpKZmE5Z3k5ZWV3NEpQcDNyQmNYQTY4ZF9kWnd0bHNGaEVmQXF0T01XanFIQ0NmT2IxdTg5R1plVzRrT2VsdnRGZE8zUEdIYw?oc=5
 
+○10月11日 キノコのホクト、若年層に的 星野リゾート・ユニクロとコラボ 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5NTmFUMU1FNl9pX3NZM2RsOTZuRUxCenlKV1JRUUo2VkUtejBwcTdna3NPbTBSbm5NZWE0N25GdVFrQVFoRjlkeTVqTHhONDYwY3Ftcy1DT1hNV1RHTFlrS1lzOWxtT2V6dktPbQ?oc=5
+
 ○10月11日 トランプ氏、中国に「100％」追加関税 対抗措置で 貿易戦争再燃か 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsbTVwM2oxUDJsYVk4R2dkRGdjSjczRU52eVdwQl94ZzRYd3NYYUhHWTlwUTZBbV9QTXFPMlJmZXRLb3RrM3g2eW9IbHdBYjYtSjhOaUdfZG9uT2Q4Vk5Nbjg3dEU0bUtJ?oc=5
 
@@ -122,47 +95,62 @@
 ○10月11日 米中首脳会談控え「圧力」強める中国 「100%関税」どう駆け引き? 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WQkhWdkJSdk1HOWRid1lHdFJEX3I2ektIM2ZybXVDb1NhWW5veGdfVXZWV1hlcXE1RjUwTjN6S3M0dTFRZ0RZZWhGQ2RzUVhZYkFDbVo2b3lNdzB0VUdoeTdGSkhCWE16?oc=5
 
-○10月11日 首脳会談控え「圧力」強める中国 米「100%関税」にどう駆け引き? 毎日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzX3dJYlR6Smo5NkZnRDRLeGVrWWtZXzJuZFZ1SnFBMnZDcXZ0NGJRcHRscmQ3TnllWEpwXy1MeXhlT1J6RHBRRi1kcWVyeV9FRm1QYXN3S0VrYkJQTUFJQnc3dFlXRjg?oc=5
-
-○10月12日 Snow Man佐久間大介＆バナナマン日村、ユニクロの“30億円赤字事業”に戦慄 人気の秘密に迫る 山陽新聞  
-  https://news.google.com/rss/articles/CBMihgFBVV95cUxQVXZ2ZWpuMHk4SmhpSzI0YXJRUE1mX0E4RFRQNFZMbzJLejRuUWpfWk95dmVwV2ZjclhXdjJvUzRjanZWbWItY191R3N3U3dLbkwtTTExeEcwTENRRHcyWnh1WXI4eGNKSEJJMmJJdVJiM2hvNzQ2Tmxqb3BCRTZlRzZRMUJ0QQ?oc=5
-
 ○10月12日 Number_i平野紫耀、「ルイ・ヴィトン」ファッションショーに4回目の出席「心を動かされました」【着用アイテム掲載】 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE85ZEctYnV2TkFkZGdWZnI4aDhEcm1Qc092V2N6TDN5S01Ebks4emdjR1Jnbk53aVNoWW43VjhBUmVoTUFMU04xcXZmcERwNFFXNEE?oc=5
-
-○10月12日 73歳・夏木マリ、美脚輝く個性的なファッション「なんてセクシーな御御足」「姐さん、それはさすがにヤバすぎでは…」 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UWXRYVTZheGhEb0FIaWxGQm1MNW9NUUtJLUdFSkZZa3RIMVVwVXY0Y0l4VXFNUWtmWnlEWER6VHUydDB4Wl9LcGg2S0V3bDF1ZGc?oc=5
-
-○10月12日 King ＆ Prince高橋海人、ミラノ『エトロ』ファッションショーに参加 バーガンディ着こなし存在感放つ 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TX2R6SEtkcXZoVkFIX284WVluTUl4VGZ3WTZYR1l6SW5FSXNtdm1jR2xQdWdvb1RaQjZrbk1XNFBZcXlJQmhwWENKbEZzYm9jLXc?oc=5
 
 ○10月12日 米中貿易摩擦、再び激化 トランプ氏「100%追加関税」 中国はレアアース規制 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5udFRqWnpyaEJwN0lZTF85ak1zZ3FwQ1QxUmFRbVEtb0NLd0tyWHlWTnJ1NFhSLVlSZVVVQ25zWU9DVFpOT05OZmtjMk1WaUs3RDBONkJKRVJvWE9yYjY3TjBCclV4VUkzY0FQZg?oc=5
 
-○10月12日 ダイアン津田、娘・ここのさんから手紙「家では父親なんです」 『ユニクロ』“父の日篇”登場 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE93bF8wNWxpSUg5VjBEUDc5Ql94c0U2WldrV3dHOEFpd2pPcUNESWQwOWY2NVIwV3RJVWNya2NIcE1VVEFsWVExeGc2YXVtOUFpUkE?oc=5
-
-○10月12日 トランプショック：米中、報復連鎖再燃恐れ 「対中100％追加関税」 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE84eWIwVmJFZC00R3RNUUlRcTZxdEd1RS0xZWNRZWczdGRqWjFURVIxUWpuT0c3UDU0WHQ5Q3lMeVViUmx1ZU5KNXAta1VZUnpqa1pIYjdpRmhpck51elRqcjJKZmVtRi1P?oc=5
-
-○10月12日 白バイ隊員のファッションショー 警視庁の採用イベントで業務紹介 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCUnFTam9RVDVCRlhKdXgwVDdsSWRhc2dicGlqR0IzMk9jdG1fZE5YdG1pdXJIRWl6Z2Mzc2RSTldvQlc1b1BHcnhmQWQ1aUlLYnc?oc=5
-
-○10月12日 「ユニクロはブーム」 柳井氏が忘れない30年前の教訓 日本経済新聞  
+○10月12日 「ユニクロはブーム」 柳井正氏が忘れない30年前の教訓 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFB4cjFLaUlYYjExaGxlYnhvRGEzUVFjRS1taDloTjIyVlVIZF81b1E1THVzdm1HaERxTmtoUlA0eFFxUTlmbExaWkNLelNQX2E1ZEV4TmZJSk5sZ2czbUdsMy01bHk3cmxQN2xneQ?oc=5
 
-○10月12日 おいしい、これ何で…来てくれた人、お店の人と気軽に話して 地域の人が集まる交流の場、桶川でお寺マルシェ 実行委員長「ハードルを低く、持続可能をもっと楽しく」 埼玉新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iR1hhbHh4bkRHSjdid3Y3bGY0VnFVRWhaVDlHdzRRS1B2WEc3VWQ3NURIQ1NsNmVsdGdrSW9mbkZTRGJ0bnNGb013WTBYcF9JdGFZdnh2cw?oc=5
-
-○10月12日 中国、米関税に報復示唆 「相応の措置」と商務省 山形新聞  
-  https://news.google.com/rss/articles/CBMihgFBVV95cUxQR0ZfZm1fU1dZVFRuckFHaTliVnRHU3FCc1VmNTBmWGhYMFhKMUJSUmZUUUN1ZEk3cGNXMmpHQ1FxeUM3RHowNlZjSjV0Z2lnQ25KQlUyYlZ3TVZ5V0Z6V19uMllxalN0cWVzMEh6YmlieDcyTzR3Mm1CUW5lUGZNcjVvVk1YUQ?oc=5
+○10月12日 中国、米関税に報復示唆 「相応の措置」と商務省 山陽新聞  
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE12UWZJUWo3ZHptcjhpakF6WkNqVmxSN1ViaDk3ajRfN2tIMFlOWTNpdjdWQ0VYTFVnbHNfQmVzSXc0TlhweS15ZHJ5V3VBU1hrWU1HSFVKQkk?oc=5
 
 ○10月12日 英ファッション誌、BLACKPINK・ロゼを除外したような投稿で物議 チャーリーxcxの投稿にも批判の声 山陽新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sbGZXZzRhVGRpVWxwN3VEWlhrVGJnN1YwMndSOW03X0Q2cXlSTVg5OXMwRHF6aDhZUHhNc0F1dkJ1U21ONDJVVTVueEVidW1qY0prMXMxQU8ya1VreXY1bjY2UFN2cFFn?oc=5
 
 ○10月12日 中国、米関税に報復示唆 100%の追加関税なら「相応の措置」 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5MTDFaLVRHbXRaLWprYm9mNEN2T1B6M0xKbVVjM0xtaDI4dTlLQ0dhbFdLMTdOVDF3MDRBYk9PaWxVWF9pOHJwT2J0YW9xcy1IRjd5Y2tucm9ycDkzNDJ4cDltWDFJWVViRGRaTQ?oc=5
+
+○10月12日 大阪万博、持続可能な取り組みを表彰 脱炭素部門の大ガスなど受賞 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBMOFJCMjNnS0VNVXNRNHFlZE14VjRKc2F1SUFlZGtrYXJybEJIMVJFWGxOZHFWM2ltWmZsUDVZQ2VSZUhiWXdfRndzYlRkYUJMdjhPRXFkUkxpYWhuTXNGNDZEZ0E0QVNYSTBscg?oc=5
+
+○10月12日 ［社説］米中は無益な関税戦争の愚を繰り返すな 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBIcFExeEFkSldweGlqdGI0Ung3Z0NpanZrc210ZW43VlhueURqZU9rOElCcmFvUDItN3Y4Ukl2UzJmdDI1QzRfbEZyZzJ2bzZRM1U4NGliQkNUZk5pZmpsTmR4SUdjSFg1RlR6VQ?oc=5
+
+○10月12日 著作権侵害しない措置を｜四国新聞WEB朝刊 四国新聞  
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE51VE9mV255UGR2WV90cWtDWDlXdlZDZVZPdmktMjVlWWlqa3JsX091OU5zbTVfcmJ1OGFndU5LbTFybmd4WDJ5NGtDLVluM0xabzV3cGZGVlFIbElTb0I3Q1E1aWtVNE5mZzB6cUg4S1NVclh3M2Vn0gF8QVVfeXFMT1FHWU9jZnhnTUkwaDA0V0d5a2szUHBVbGIzaUZOOEJXaVUybmp3NmlXbWtyVktuX1dZd0JiRVlRX3NiZG1MVy0xU3V6M293SDRQZ1h6VHdZcElEVmlNRmx3UUxFeXhlYnE2Zm5JRHpTS05fZndISVVLMDd4YQ?oc=5
+
+○10月12日 米中 対立再燃恐れ　関税・輸出規制で神経戦　レアアース 交渉の鍵に｜四国新聞WEB朝刊 四国新聞  
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE5XUUFSNkd6aHZhei1ZMnRvWDdKVUNYR1Q2a25kRUZtQXA5Vk8xQVdNVXNXaTJtbTI2MXpOd0Eyd2gta0VpQ2hmQUFiZnMtenRPTzRFSG9VQTJJUVRxZGhwakVuWUV4RHJ5bTJoamhPLUlXYUdYaEVv0gF8QVVfeXFMT2xYVU1uMDdnY1RjZUd3dE1FQ3BsdVc3SzlMOTAxb2k5SFdORHhmMFBRVHpUdkh0WDA4Mm8tQWdiMW5fM3dTb2trZG1wWWxNalljejRZcVpld193bk5VU255WGZlZEZiMVlYcER3aVBjMUR6dHdjWmxzTFVETw?oc=5
+
+○10月13日 Snow Man佐久間大介＆バナナマン日村、ユニクロの“30億円赤字事業”に戦慄 人気の秘密に迫る 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEU0ZEZlczMEh3VHlnVVlpd0VUdml0eVBheW5VaUljMXpDVU9Sdmltb1Y0aTUwN2dfZV85ZWNSZTZJSnpidlQwN0Q2NHdxQ2lXVGc?oc=5
+
+○10月13日 持続可能な未来へ：JA全中 「国消国産」へ積極的に発信 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iRG5MdWFtV3BZUmlSWldiZWlrUTZVTnBSbTFRVVEwRFZFdWh5RmdLMGFHVEhBNjdncjVoY3p1QThWUTlnY29HX3gxdzZlTmVXeEZ6Y0JBMk9fdEJTOWw5QXhYbllwaW51?oc=5
+
+○10月13日 ダイアン津田、娘・ここのさんから手紙「家では父親なんです」 『ユニクロ』“父の日篇”登場 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE93bF8wNWxpSUg5VjBEUDc5Ql94c0U2WldrV3dHOEFpd2pPcUNESWQwOWY2NVIwV3RJVWNya2NIcE1VVEFsWVExeGc2YXVtOUFpUkE?oc=5
+
+○10月13日 ユニクロ、好業績は「ブーム」か 30年前のデジャブ回避へ 編集委員 杉本貴司 日本経済新聞  
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOFVZeVRjUDhabGlrRTE4TktZbkVvR3RFaXNrUGNIcmNNOTBzNjRDaURRbE9OdlZoRkZacHBjVTN6T1RwaXB6MlI1MW1XbVZZNUlnblhZRkpMdkJNVlh2Q1k1dlBFdjZfZy03UndZUzdEeE51R054bFhaZTlqbElSZTViS3NsMEYyQXQwcW0xb0t3QW96eXZDdGk0bzM4VHljY2VyejFrd3k?oc=5
+
+○10月13日 ボトルキャップを繊維糸に 日本山村硝子など、国内で再生工程完結 日刊工業新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rSEt0VzctTW55cmhpbVBuM2NpV0N4bFFPdm4tYWF4X0pVRE43ZjAwVG5iQW8zMnI0M1RFcS1jb3hGT1FmbW1xdkREUjR3YzdXRGpKNjcyQUlBM3c?oc=5
+
+○10月13日 中国、米追加関税に報復示唆 「相応の措置」 日刊工業新聞  
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE1VV3U3SWJzdVFUd2VYUnlPOEpzRExhUDJJT1d1d0p3U2dkc3Y3TjVFVHo5dTU2X0E1aXY0UW44OW44M1RXZzg2dUl4N1lYZTgxVHJ6dlZaUXRLSlV4a0FGU0ZkQy1RNVhxcG5DcU05S29mZ0lh?oc=5
+
+○10月13日 対中追加関税「100％」 米トランプ氏、来月から 中部経済新聞  
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE5iUlFYNEcxaW1Dd3A1VFhZWXV5NHVsd2hwMEFTdTkzNlRLcjc2TkJxSjdJVDd1cGl6d0Z3WUVBaGQtbkJYRWNFbHRBLVE0OS12Nlk1b3lVc1BkckFJVFE5dGt3Mm9zSmhXY2MyUThRNGdqelk?oc=5
+
+○10月13日 米中関係「心配いらず」 トランプ氏、追加関税巡り 山形新聞  
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxQYXRuR2RWSnV6b0NOZE1xc2NPbXByQV9vYVJqZVBUTXFQamdBWlM4ZmQtM0E0SXliazY2aGJKck9mekdTVUllaGNuNzA1R21DODBCYjBOZkY4U1I2a0lqLUdCWHpZOGVWbVFycHJrUEhXSXdzQ0plT1FoSXdHbjZwWWtiUzdJOXdZNWFjaw?oc=5
+
+○10月13日 米中関係「心配いらず」 - トランプ氏、追加関税巡り 奈良新聞  
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE56SnFJd1NvRThvYkRTaHhrR3RzcGlkMS0xR0dLbmlBLXVPUHFvWEpvRjZsb1VLVmc3X1JLSmJ5R0R2cGpvUjZDWnd4N1FXR2Z6aE0zWmdUMnk4ZTRsdjZzNFN1eGM?oc=5
 
 【自由民主党】
 該当データなし
