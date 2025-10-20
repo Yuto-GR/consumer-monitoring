@@ -1,13 +1,4 @@
 【ニュース】
-○10月16日 東谷商店社長 東谷正隆さん 故繊維業の新しい在り方に挑戦 繊研新聞  
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lMkVacTZCYVB5WkxBNjFlbDFSSXRDOV9pSWZBcTZBOEp1NHlwVTZwUVpIYlV5SUxzNHpFX1hLQ081ME9iOXkxX3pHTWRxQnNlY2hfRXVJc0ZLbTZQaEt5ZTdB?oc=5
-
-○10月16日 価格競争に米中対立、反日懸念も 激変中国ビジネスどうする日本企業 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sT0RKZ1pISWVGaEJSSVlGdTQyMHcyNlc0UnJfYVQ0Rlh6ZWk2YWtHNnRIRGZuMlZfOFpsN0JCNTE3eTFVZnZaTjZhNzFjaTJKcUVhWVF6QjB5bzJ1Z2xqYzV4NURJS0lK?oc=5
-
-○10月16日 今夜のNEXT 米中貿易対立、関税チキンレース再び 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE04TlNQN3V1WWJwX2pPTTR3dzlkM19RTTZneURLdnQ0NlVLV1BVVURCMFhKbnVjelhPUzR4Z3NHSTlpMVpaT0pvSU1mU2hoT3FwdF9SczhSbkFhS1lkTk8wT0ZtNUVmejk5SmU1VQ?oc=5
-
 ○10月16日 【アフリカ開発会議】日系企業増加も政情リスク 進出競争「長期関与を」 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE03XzZEbFBxOXNSVm9FU3JJT0wwUkNhZmdqV1haOTBmMnQ0eThfUHZaRk81Rmt4V052S2drSWVCU2F1d1ZQdXZUY1A4ZmxfNjk0RXc?oc=5
 
@@ -16,9 +7,6 @@
 
 ○10月16日 国内粗鋼生産10〜12月、8四半期連続減に 関税影響は軽微 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFAwR1dXU3B0amJCZUlkTXVScjV6LVBNUEVYN2E2bkY3a05rdmgyb0FaNk1fWGdLN09RT251MTU5cUJQSGM4akd3dTNoRXV6QzJLcXQ1MEI3UFBpZkNPZ0MxX1RjQ2cwRU11RkhFTA?oc=5
-
-○10月16日 「関税合意や防衛力強化」が議題 トランプ氏訪日でグラス駐日米大使 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OWHJMaDdwU3N5bElXWkV6bjlmSVRWa2I0V0tCR05SaUljcDRXRm8yejFzQnRSMEhteTdZSWkyTUtfODE3QmNRTVlWNDJMZGw3ZnMzSGtVbEtucUQ4SmxFZ3Eybmp3NzA?oc=5
 
 ○10月17日 「デジタル図書館」を提訴　著者・出版社、東京地裁に　著作権侵害「ただ乗り」｜四国新聞WEB朝刊 四国新聞  
   https://news.google.com/rss/articles/CBMid0FVX3lxTE1rS1ZFX0cxUkp1SzRfY2RMVGlZV0pwYWlVZ0pCR2xvazlXUzhvRDc3RGJSTmxzUGVNTDUwWHJyVk1Qb09aN2R5eVpVaVJNZ3FCa0p6QWFCNkVZOHNGVkRrOWVrM0lNV2dzUE5ibW80VldjaHlHY0Rr0gF8QVVfeXFMTTkyLThVTjAxekViTWczdFpfUExJMGp6Q1RoRE5mZXVxR1FoenAybDR3QkdZMy1abHd1Qm5mMlVYczJtWDFHUlpIMjJVT3Y1NGFvb0toZ3N2SVVfZ0ZySm5sQUtrakJhUV9abHNWZVNialVmWmxZYlA0LVJBRw?oc=5
@@ -38,12 +26,6 @@
 ○10月17日 ヒトの脳細胞で「生きたコンピューター」、商業化へ競争も 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE00amgydG1aaVRGYm9pUHlGaDV6bW5ONlZZRU8ydjJyNUMydTRYSVFpc0F2M2IteVpWdk50Yy1Nd09yaGJadnR1MS14T3pqS0MzdEFLaVQ3TG0zOGhSMUhVa3ZzV0lFWTZqS3JacA?oc=5
 
-○10月17日 コメ4000円時代、供給リスク常態化 25年産も集荷競争 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9ITWt2eHVWd2c4OEtRS0tuV3hLMF9hWm5hZ2VrNUIzLWF3MlRKd2dGVEF3Xy1VazNkd2Q1VjB6MDVDOGlBN2pxTGxwUWhiQUdYcGowUjZycDVYZ1doMl9mYzFlbVJkMjZXY3Z1MA?oc=5
-
-○10月17日 パナＨＤ、京都に最大物流拠点 関西９カ所を統合、競争力強化 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLRjRmSWhyblJxVThlRUljb2hiTE9HY0RiaFpCRVY4czNDeGNUZmpFQnhpNXN2Yy1JRnhNMFJ3X1pFMmtBWFJodjJtajhVcUFtZWc?oc=5
-
 ○10月17日 帝京大山下教授、台湾政府フォーラムで基調講演 持続可能な観光へ「デジタル変革」と「高付加価値化」の重要性を強調 観光経済新聞  
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MSjc1Zjk2bldPYkNfcVB4b2Q2cktLT0NyTFBGdmJpS1BxSFA4ZUxOTEpUWGlDZ195SU5LRWJvLWwzQmhESkRNeVlQU2cwRWxTNTZ0aw?oc=5
 
@@ -53,14 +35,8 @@
 ○10月17日 渋谷区が競争入札参加資格登録説明会を開催 地元事業者のビジネスチャンス拡大へ 建通新聞  
   https://news.google.com/rss/articles/CBMigAFBVV95cUxOYlhrODdjcjNhdnZPYkloQll4R3ZhS3BjUHQwaFp4QmdUZkprellxdkxBQmxocUE2VEhiM2g5eU1BblNYZC1rYmNmSVBJc25sRXdzbHIyTy1WRldCT3JjUWNNVVZNX1lHNUZQYWNVU0JwWV85QTRtbDlQY0o0SlA3WQ?oc=5
 
-○10月17日 好業績の米企業、関税が影 7～9月8%増益へ、ITがけん引 消費財はコスト増で苦戦 日本経済新聞  
-  https://news.google.com/rss/articles/CBMimAFBVV95cUxNak9IMGlLdVpFNzdyVHFScm9IbHZXeUxnOGYtaDNMdU1mT1NkWHltRmREWG1BWmoyb25yeWRFbDNUUElESVlIbkNIZ2RCdzBFb0hyMzhTcXI3czRZdEZuNVhYVlZ0N05hOTcxNG8xdFhxTWNDWHFOVmFDVXYxRUtwVlhUMkNsbGtia0FFTlRab2h2ZTlKeEIxNw?oc=5
-
 ○10月17日 カナダ産菜種、半年ぶり安値圏 対中関税で輸出が半減 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9iZXJILVhha3B0d1JSUFYycld5Q1RrU1B1UXprQ2Y0MDZiTTc4eW1ES3RDVkNjdi1zT2lXdFdLUEtqM0R0amNWVjg1REJXdlAxOVNCbUJTblZxYloxck1kenFXTGtMUUhvUmtyOA?oc=5
-
-○10月17日 米が自動車部品関税の軽減延長か トランプ政権検討と報道 山陽新聞  
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxQQUV0T0VzYnZrVU0zeW04NHYtUTh6SzBjWVlVbWFrckdnSkJrN2FsYjZaeE1qS2lJMXdmZ2F0aFdCR0F6Q0llSWwzRUhxaXF6UTVTajlVVDNjYUxraVNyWlYwNHVEMXJxR3FlbTMzckxvdWw0djNEckdnT01ST3daZEZYa2x2eFE?oc=5
 
 ○10月17日 営業利益1%寄付を通じてサステナビリティ経営を加速 朝日新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zQTJmZE5oNFlYVndZZ1cxNmV0VHhnRnFCMk16R0JRbHVlUmJUeGNZdEJjT3FxT3JUd2ZLdWdNUHJ2ckFpalN4QnBWOUh2WDkyMGFiN3JVLVlwbWs?oc=5
@@ -82,9 +58,6 @@
 
 ○10月18日 米、車部品輸入関税の軽減延長 トラックには１１月に２５％追加 山陽新聞  
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QSDJVTjZvbkI2OWdJdmFDQnRBZ1dDTHJNdXltZmVFTlh6NmxweUhXTXVBcGhaZWltSFZUZTdzUGJGZ0FTZ2hld3BOcUhvT1ZKVzNzUDdySURzQQ?oc=5
-
-○10月18日 プレスリリース： 台北ファッションウィーク2026春夏「Fashion, Action!」開幕！（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkYXE0eEFzVDhvUDJzUDZWY2d6Wk8zY0RsVGNYTVBxbWl4MjRNeUk5UVBxT2JIcXBsdWZMWGpMSmZydHRTUmdGTkpGTnpNSG1qdGVHM0JYN0tCTHJvR2xWVUxiQm5Wc1N0?oc=5
 
 ○10月18日 持続可能な農業を情報発信、現地ツアーに管内農場３ カ所視察 十勝毎日新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qVkRxeGE2SVI4cHQyaVNWeVItSjBuSDJGT3ZkZGdPNGhIMzAyTHNOZVNVNl9mUFpZeG9lS19vVXNxaDBTdU5ROGFXVW12WGoyeHhXdks2V2VIS2s?oc=5
@@ -110,32 +83,44 @@
 ○10月19日 いすゞ、4割が完成車輸出 米トラック関税の影響重く 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBxUnVYRlZNanFkdW02NXlCOHNJc3BDR2R2dUtaNzlYVzNCZVFNYmg1eFdzYjRsU1hLUVlYeFVUd0Q0RC1mdXZ2QkZROGVMbXFpTWxuTGNtVTUwRXlLRjRWU3c0S1BwS1ZwLVNtQg?oc=5
 
-○10月19日 大泉洋、宮崎あおいが“天使すぎる”とまさかのクレーム ドラマ撮影で耐えられず笑顔に 山陽新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTFB0eVh1WWU1MjhnNEpydVRwczVBUE5UNWtpU0tWWVJhTHlDRWtPWjVYV0wtblBuXzRlSE5Pc3pneE1FQmdlODFZeVZZNjNkNjlXMl96SDZpQTNWVm02UWdkTVJaMVBWSEF0Q2lUYTNQUQ?oc=5
-
-○10月19日 73歳・夏木マリ、美脚輝く個性的なファッション「なんてセクシーな御御足」「姐さん、それはさすがにヤバすぎでは…」 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UWXRYVTZheGhEb0FIaWxGQm1MNW9NUUtJLUdFSkZZa3RIMVVwVXY0Y0l4VXFNUWtmWnlEWER6VHUydDB4Wl9LcGg2S0V3bDF1ZGc?oc=5
-
 ○10月19日 ファッション業界に四半世紀 マスイユウが見たロンドンFWの光と影 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RV0lmUVZUa016UUlEak44V1F6UmlrWmE2OFpYZmR4SmhLVnl6N3Y1X3ZwVl92S1hEcS1uSlhZT1VXdzhoMXFLdEUzQldTZG9QZUdVT3I2RWpSM2w0RC0zcEhWQjRFa3c?oc=5
 
 ○10月19日 航空機部品「関税ゼロ」1カ月 日本勢に追い風、供給網見直しも 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1US01CWkMwNjFsSnFHd0J3TXNuMHpsamZFREltUENfVk9rdE5VdUZzeEo2bDVDYy1BLUNVM1FDcWpzekZnR1VyQkdadENDVG1Za2llejZjZWxWZ0Ztc2draWJRVkMyenBDaUhZag?oc=5
 
-○10月19日 【山形県鶴岡市|12月21日】高校生が未来を紡ぐ 地元シルクを使ったファッションショー 「 SilkGirls' Collection 2025」AddWillが高校生の挑戦をサポート 山形経済新聞  
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kNUJRaE8wNmtIeDJIRHNIc2p6Qmd1bkdKMDQ5aFVfVk8zMWxqS3RoS2dMV0ZJMEtjZUx4YjhrRkx4UGh6NWdFZy1XNmJqWk0xUFUyQkhR?oc=5
+○10月19日 第3部「SHIBUYA×SEOUL」03＝渋谷ファッションウィーク2025秋 シブヤ経済新聞  
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NcEMwOVJBZTBoai1zMTM2MzVjX3BDZDgyX1FXZkZ3MmtWSlhNT0RKYlQxTmFEaEFhQ3lvVjZuZEo2VDZGN1BSUmk3RWNJcDVPY1IyOQ?oc=5
 
-○10月19日 韓国ファッション誌主催の乳がん啓発キャンペーン、“不適切”指摘に謝罪「重く受け止めております」 山陽新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fR3JtTVV1ZU5fTGxxZ3piNTRSRnhjdk82TmtXVGNBMXFHWm1OUGtWN1BEUmJoWG1rVk05OGU4Q2VSeU0xaHdvSVpDaURPMEpkMlIwRTFqaWFONXlZRGZ4UkRVUktDRW1J?oc=5
+○10月19日 第3部「SHIBUYA×SEOUL」02＝渋谷ファッションウィーク2025秋 シブヤ経済新聞  
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yejlnUVJNdkNyZmdoeEwzZUdCaGkwVnpreHhYdnZEMnM5Z0pyY3hOQTFpcEkxRGgyaUdsSUQwM3liOEdGMVVzQTV0SGtBV2xEbkQxZQ?oc=5
 
-○10月19日 Ｋ化粧品の代わりにＫファッション…１０年で「嗜好」が変わった中国 : 経済 ハンギョレ新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mUzlzTEhOMl9oc19KSWlkOV9YMHNjM2pEdDgzMzc4Q3BjWE8ybDJhV1JQSERubVRKbDlSZE5tWUJUV2QxR19XNVVFbTI4WlQwalRjTmRYVXR3bGs?oc=5
+○10月19日 第2部「SEOUL LOOK」から「LUV IS TRUE（ラブイズトゥルー）」＝渋谷ファッションウィーク2025秋 シブヤ経済新聞  
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGWVI4VDd4UWUzM3l0NWdfMVJLbkYyQ3ItN1dodmFObENwTUU5VGlUQnhURXA0dEVUdkYwMmRMcWtxS2tVcTNJWlZhbzFYeFlLdFd5Uw?oc=5
+
+○10月19日 第2部「SEOUL LOOK」から「LETTER FROM MOON（レターフロムムーン）」＝渋谷ファッションウィーク2025秋 シブヤ経済新聞  
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE95cDhraFd3UXhBYnNwajJPZGlOOVkxMnl4YjAxSkpfWWNkQUNBeXFUdHU4TkZ5SmpOTnlYaEdDTUxHYlVUaTJGNFZ4eERITmJPNXowYw?oc=5
 
 ○10月19日 第3部「SHIBUYA×SEOUL」01＝渋谷ファッションウィーク2025秋 シブヤ経済新聞  
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xZ3hIODc3OEdCNFFrN1dZekUwOVNwdVUweVE3NTV2SjlOWk9OS2FlZ053LUhRbzJ3NzlESWJhRFJzZ2ZKOGZRcUUyenQxMks1bkk4bw?oc=5
 
+○10月19日 新世界百貨店のイ・ドヒョンさん＝渋谷ファッションウィーク2025秋 シブヤ経済新聞  
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YYm1SUXNScXFXRF9taEJzMzBUdEhjQTVZekRndFdHckNmRElZMkpzc0p6aUEyYlNrNVU5cHJrWkxDeDBIUk1Mc1FpMU5NMzhpODBsZw?oc=5
+
+○10月19日 第１部「SHIBUYA LOOK」から「Barbour（バブアー）」＝渋谷ファッションウィーク2025秋 シブヤ経済新聞  
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE15cHhBUVdkRm1mdEkzQ2F1RmNGdTh6dXVEajJlaWVOOEN2WWVCVUdIWFg1eW1iOGRWVl9VOWdrQzljUVI3bGpsSFRGR2RSMVpvZUx1Zw?oc=5
+
+○10月19日 第１部「SHIBUYA LOOK」から「TISSU ROUGE（ティシュルージュ）」＝渋谷ファッションウィーク2025秋 シブヤ経済新聞  
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aVEtiU1BSUDV4ZmZhcWVDZXozbHk0SGJLRHN1S0hZYmpmRXE1VlZBdTBqUUdpaWRPWnFVcDhyMUpLYjduUlJxUS1xS3Jxclh0NkVjcQ?oc=5
+
+○10月19日 実行委員長の大西賢治さん＝渋谷ファッションウィーク2025秋 シブヤ経済新聞  
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE83ajNYUThSMmdrOGxXLVZnRnl1OFhHZV9mbmhfaER3LWJhSFRCVEtMT3dXcURhWTNVUjBYek0yV0RJREt4RVNOakNCcjFIOVpwYVVnOQ?oc=5
+
 ○10月19日 日韓ブランド競演の路上ファッションショー 文化村通りがレッドカーペットに シブヤ経済新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE15WnNVTVVlNGJodVdyZzhaWElHdDlzTFNxM09SWnRNekhVY0dzeVdOa3h0T3hWZUxqbzlNVE4wc1Z5bFFmZzlUYndNU1NPWlNkYWc?oc=5
+
+○10月20日 米国とＥＵ、２７日に首脳会談 関税交渉で大枠合意と報道 山陽新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE40MFExQVVqamtoVEZpV2hxS2tNNFFlRWxzU2hoSVZPenpoT3V2WnBib0RpS09mNV9fSTc0dzZYX0tON0QxS1gzaXAxdjRDR2VOZXdXNUQycFRtdldPSGZydXB1ME0zVUxP?oc=5
 
 ○10月20日 【ガルアワ】市川團十郎の長女・堀越麗禾、大型ファッションイベント初登場で堂々ランウェイ クールな表情で会場を魅了 山陽新聞  
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sdWpjRmViajhrRHdqVGV3b202U0l0SE1MMVV5OV9McmZmVHdZcWt5cmJYLWN0VGJ4NUtMVTZpcWx2c1pWOWZlbGNTM1NVNHJ1RGJvRExwVzRTb19S?oc=5
@@ -143,11 +128,32 @@
 ○10月20日 ワインを揺らす地政学 「新世界」台頭、気候変動やトランプ関税が影 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBzY3RZZXR0OTVQLWVuZUc0aEQ5b3RQRUpSbmdqcE45WXF6VklNUjI3UHZXRHlDallLN1M2dWZhVHptc3dZdFZqQUc4NzFxdGdWYTVVZXFHNjZvUGNuVG5PQV9sTlh1TnVsZHBpSQ?oc=5
 
+○10月20日 ワインを揺らす地政学 「新世界」台頭、気候変動やトランプ関税が影 日本経済新聞  
+  https://news.google.com/rss/articles/CBMipgFBVV95cUxNSTVWLW9OVnYzRmRzdHhnMzFsRFJKZnJEVnFQSGw1b3dhaWRGeWVrTDM1YzM0RmNwNHBPUTBtbTRpclBENENCN1ZyVUl0Rk9JbFRPYzBxRXlrRExxZEswTGZIbnhMZDE5UkgxY21kYXZvdjNabWNISXNMSFBCaXNORHRrcDlDcGpBM2lVQVpuUnctLUVyZXNnbko3Qk1sV01tRXRmYnl3?oc=5
+
 ○10月20日 ファストリ柳井会長と新取締役が語る経営戦略 ユニクロ軸に収益拡大、 チーム経営へ 繊研新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEekpPWjhkN3QtZ0ptQ2ZlLVBpOWp1ZkRQUWZBLVRPblA2U1A3ZnlxWVBNMHVJS3R4eGR1MW16bzJsQ0VfS05XcVY1TGxGaXlPX0VQZl9IdjV4M0k?oc=5
 
-○10月20日 ＷＴＯの技術的障害通報が過去最多…高まる「非関税障壁」 : 経済 ハンギョレ新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zaXZ2ZlJycmlVWGVqckxZb2ltaG42ZGtURHMtWTNacVlwb1ZnbC1YY1h3ZFFEcndTclBvV0JEbG5xQktUX0FNbG4yRzZiX1F6N0NFbDFsNlZDbEE?oc=5
+○10月20日 韓国大統領室「米国との関税交渉にかなりの進展…ＡＰＥＣ期間中に妥結の可能性も」 : 政治•社会 ハンギョレ新聞  
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmVERpU3dUcnJlZlBtbllScnRPVlNFTWlsVDBpbHRQdm83ZUNELTJMZzlXWVQyNWZNLThFc2E1OEVYbGF3N3hBREc5SXRRTGpNcFM3OUt5TG5qek9LYWc?oc=5
+
+○10月20日 トランプ関税影響も設備投資堅調、2026年度の建設投資は5.3%増に 建通新聞  
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxPdE01d3o2U1JWZ0Mzcjc0QnhEdUZzbm9YVW9SZXFSaDVEbWIyYnFrcDVZY2R0UFJZUU1iTUdGd3dZQ0dhZjM5Q3dUekhsWFhQQnlLYkdOa2gzVmRScW81cFp0RnJhTTg4V2Y5WXlJdTFZYVJESEg2TDVmNEFoMlByUA?oc=5
+
+○10月20日 米、木材１０％関税を発動 家具２５％、日本は特例措置 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JVWtnbGpQcWNUWTV2RFJXWm84Tzh4QXBjbXRpY19kUmZiZmZoMlhDdDNScmJWcjZZbU11bWRmTklJb2Q3QnRfZ3NlM3dvei1oREE?oc=5
+
+○10月20日 米国相互関税への対応策は 県とジェトロ岡山がセミナー 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YWFR3RGVFV1pSOUNNenhjTFhNQ0otYTQ5MkNqX3pPcEgwN25EUWZEeVV0VnpNSnNMN29qUnd2RzNpSWZrcVRMUWI2Tmc5dkROMEE?oc=5
+
+○10月20日 プレスリリース：2025年アモイ国際ファッションウイークが壮大に開幕（共同通信PRワイヤー） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPdE40WkhZalhxNzhyYkR3cE1IUGRGZTZXSWRrTUYydF94cGRSVFBIUFJScjVVNU5MZVVadGEyWHZ2RTRGaGZRTDNuQ1FvSGpwWFpkQ2s5YVJGV0dlNHRLV3pYcnZKRnRw?oc=5
+
+○10月20日 【スポーツ×ASEAN×SDGs】ASEAN諸国および東ティモールの高校生他88名が来日し、スポーツを通じたSDGsへの貢献と持続可能な社会についての理解を深める招へいプログラムを実施します。 愛媛新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GRGlmZXRVLXhpM3h0TjRtWlUyWWcwdHRIRktTNUNnLXlXWTZBT2owNEo4ejBrVzhUelc3UDJXWlhtblNVOEI4VkF3NktrMmZGeGVuTWRCdnZ2STQ?oc=5
+
+○10月20日 今夜のNEXT 激化するEV価格競争、勝者は誰に？ 日本経済新聞  
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1uREt6U3JSVkNoaldqaTJMNVVtVzNZTThsOHZFVXM5WklQMExrN25LQVFSTXU0bHZRQlZtczVneTB4R0F1OWl2UXo5YjY3azNMdER6S1JXODdNY1l1SDl4NWVNNEI1d2NzM2c?oc=5
 
 【自由民主党】
 該当データなし
