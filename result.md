@@ -1,16 +1,4 @@
 【ニュース】
-○11月5日 ”食物繊維×たんぱく質”に着目、ファスティング専用コールドプレススープ新登場（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xX205cEMtV19xYnJzT2RvVVJ2TS1wVmxkNXNjTjRFSEQ0SG1fOWtxbHpVcWNiekktOXhVTmVWYTJRMHY2QkpTdTgwYUQ2cnI0VWxIcmVKX0pfX2dpdGlhbzhjbHBVTzdQ?oc=5
-
-○11月5日 Getty Images対Stability AI裁判、商標権侵害認定も主要な著作権侵害は棄却 ITmedia  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9zanlBT2pGMFdELS1HX004VTBqdUt3aDVPbnJzZFV0NzAxXzhrWEtQb1ZoeElxYlFnNThJckM2VXYwcTFMVTBDN2lYWmFQM0t6UFZxNGNtQnZLZFpfdTYxbE1LWjNZWDhjYVJ0cw?oc=5
-
-○11月5日 トヨタ中間決算、2年連続減益 トランプ関税が利益9千億円押し下げ 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3MjFQUkJMU3VycVI1R21BdThoZlg5THp4MEs5THdZV2Q2SzF0MkZrWklhbnJVNVR2d2I0NmtsQmhIOVFMaWZqeVQtdE03YUFxTWlJZkEzbXMzcU95c1VPREtkMUloQ1k?oc=5
-
-○11月5日 日英、サイバーセキュリティー協力覚書 製品安全基準で初の相互承認 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE4xV2ZDOFc3aThoMlVyUEpkT3FWdHZ6ZVVpNERNV0VlRG03cFZ4Q2F3UGloQ0ZaSDNVT0dqeXNHZnhDQnQ3U0FXSTc4aDBkbTA5S1RhNmJtR05aTXBKVUZfeDdqUGRwQlNhdDlKTg?oc=5
-
 ○11月5日 ユニクロ、10月国内既存店売上高25%増 気温低下で冬物好調 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE4xLTljWmhCQTU5YkktV3JFSGhkTGFJcEtYQXFOaHRDR2NLNFJ0MENGWVhiQjF1S2pSRVczbXo3OUpQTVExZXpXUEFSUlJjZzZmRFlUX0JxRXFDVExsLXZoMTM0VHJSYmR2M1FraQ?oc=5
 
@@ -35,9 +23,6 @@
 ○11月6日 浦和明の星女子（上）小磯校長に聞く 競争ではない勉強とは 「ありのままの自分」で頑張る 朝日新聞  
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MM2lna2hOTHNEeXhmRkpIRE1NWVp2UHZyZFJhSWx1a0tnSms0V1MxZXQ5UkpzZlZLRUtNRTFXbmxOQ1NWWUxDNHEwN3Q4ZWZNWExtM2Nn?oc=5
 
-○11月6日 香川県丸亀市が「世界の持続可能な観光地TOP100選」に選出 「大江戸温泉物語 ホテルレオマの森」「NEWレオマワールド」の循環型観光の取り組みが貢献 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNlNXRFVzdjZVU0lQN1RPT2lld19KcmVfQy0wTzlXWEFaeTJwdGR5anFHR2RjM3BnYmZMYTZ4WUJSeWRlT214cWlVVXUtTmxSa1E?oc=5
-
 ○11月6日 日本刀の模倣品や時計などを押収…空き巣に関与した疑いで男4人を逮捕 都内の住宅に侵入し現金20万円を盗んだ疑い 埼玉新聞  
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JQm5lc19iamZNOXVIU0F6UkgwNTZhSjRGN3M2NEdMdGhQUGNBQUhLT0o3SDUyX2tWc2wtZUVaNTNQdnY3MHlnOXhiRFJVbE5MalJYZjRwOA?oc=5
 
@@ -58,6 +43,9 @@
 
 ○11月6日 トランプ関税を疑問視 米最高裁、合憲性巡り弁論 政府側主張に「不適切」 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBfSUhVanZPWU9QRTJoQnlNbVBrMGRlSGZUaDVmTnZudjRrcjR6VmRFTksxOWNfRjNWY3VVVUV2OVFHMXduVkZjNWxQSkRJb1dFVEZ6M3VvRVRQZ2xLalhpdlZnbER5SEc5NEpOUw?oc=5
+
+○11月6日 子供服 専任接客員を配置 ユニクロ、千葉・柏の店舗で 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1aTmRhLWNib1piOU5QaG4zS01lbGNoTmI1YWpPTmNtRmpJUnVFZzR6TmRCZi1ITFFXcDV2VTlQbTNEVHRXVElidWlEUjc4QjFvTlRkU3RPTHlYalVPTmFpbVdqUkNHbGlicEZIZQ?oc=5
 
 ○11月6日 《マスイユウのファッションロードトリップ》香港「YDC」 地元の新しい才能を発見！ 繊研新聞  
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LT2MyZDh2bnhMVGpta1l1bUQyajRSZFI2WFA4d0k4R1ZVeHpnSEdNTU9yRlVLd3ozbjc0eVIyQ1ZUMWRBVWpCbGlReHRXQWQxWU94Unc3bXY?oc=5
@@ -116,6 +104,9 @@
 ○11月7日 多党時代、それでも必要な政権交代 公正な政党間競争のルール整備を 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zaG9FNTlwMXhOTGREMVNTbTN0WmxGQ2dDbVIydWNKZnJZY21KUGVWV0s1SUxZZV9ON3lXenNTY3NRQjhvejAwQTRzcFkybUFaMmRHQkhLRGRZVG5aT0p2N2NUYjZlZnM?oc=5
 
+○11月7日 「競争」から「共創」の社会へ トヨタ内山田相談役、メッセナゴヤで講演 課題解決に一層の連携を 中部経済新聞  
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE1BVVBMcTVqUUFROUZwQVB0bkFIZnlPMlVlcmFoNGFLMEZsdTYzWHZLUUJocnp4enpjNjZibVp4M3RfRFE3MWhWRVhDZk1Mb3otOHF3Ykp4T09wYjlyQ0JQaWhGc3k1N1VXb2tMY3F0bGhteGc?oc=5
+
 ○11月7日 トランプ米大統領、関税で「第2プラン必要」 最高裁で敗訴なら 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE16RTFnTTI2MHdIS3JqX2h0S0F5ckczRzljT0lnR0VtVm1OOWJpdXJORDdJcHlhTEVlNnlmSWNCVG14SGZlUUJwdnRjdEFHLVk4RldlZDVqemo3NFZQMThYa1BGSnU0SFJvVzFhZA?oc=5
 
@@ -124,9 +115,6 @@
 
 ○11月7日 Microsoft AI、超知能研究チーム立ち上げ スレイマンCEOは「AGI競争」を否定 ITmedia  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9CMkhINTYyWThabmJCcHBDNDNNOHNscTEyVENRcm1PekRhN2V3aDdvUkY0ak0zMTg0MGlWUE1LdXFvZXZGejgyaDV1di1JbmFJX1VVYnZSSVU1ekxUMV9vcE9FbEgtaFpLSHFJTg?oc=5
-
-○11月7日 トランプ氏「第2のゲームプラン」に言及 敗訴でも関税政策は継続か 朝日新聞  
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxQRjF1UWlJb3U1a2pJUGUxbFk1ajc3OTZEaFhyWThWaUNFbFdwNmRLMGdrUXNad1Fabjd2dWJuZC1sQVZzUU14VS1SQ2FBV2pmSmhNQkxOY2ZNU3czbHBMdjJDNzYwLWVwS01PbHRnZk81SnNJaDVMcGFzMl95em1JdmI5aU1BN00?oc=5
 
 ○11月7日 10月のファッション小売り商況 中旬から秋冬物売れ出す 訪日客の増加も追い風 繊研新聞  
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Ja1VCalVxamZQRC1zSEdaYVg2bGdnNzBYLXFFYlRqQmNKOG1aczR5b2FYY0V0eVhaN3lpZ052NUR0MUtiUl9PVE4zbVUxNm9TYVgtQURLR1JIY1dRZ0h0cQ?oc=5
@@ -146,11 +134,11 @@
 ○11月7日 決算:マツダの4〜9月期、452億円の最終赤字 米関税が直撃 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBqamlkVzBRVDA0c1ZyVmhOZ2ZmVEJJb1NxMHNOWVpxNGFKQ19sa2VmS1dkVDlxTFRSUC1JUlFJcGtOakp1RGVJNHNGdUdyNTdyWHpYQnNFSjZkTV9qYjM1Zjg2YXpFeXdTNGpzYQ?oc=5
 
+○11月7日 北山宏光は“ファッションチェック大魔王” 6年ぶり主演舞台の見どころは“咳” 山陽新聞  
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsMUF6S2hWUWJFMWlNM0FrMTB1cEZiSWhzRzVSeWFVWVhlOWdVUGtNbHV1elQyc3FibzlFem0zdld0Z1FHU1U1Zl9ldHVWZUVtelZKYjZwN1lBS0xI?oc=5
+
 ○11月7日 中国の10月の対米輸出25%減 追加関税下げで年末に輸出増も 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE42QlBoTE5aQ01YeEI4VFJuOG9EdEd6cjZBVjBrMzlBMXdmZmtPVjA1VkFaOVViOUFwV21PN0daWGtTVXpWRWprd212MU82dWNPVTlISmdFSWpNS2I0TlFkRDBmWnVfR0ZLOWM4cQ?oc=5
-
-○11月7日 Beko Day 2025：国連の持続可能な開発目標10周年を共同の取り組みと世界的な団結で祝う（共同通信PRワイヤー） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jSTNfVjBZNnNPNFM3SHhqTkNyTW5Yc1hkYW9QZTUyRWhlRU5rak5BSVg2NkpYTXFOMTY3ZnItcy13aUlpVUtpLXdQNDFiZEFidWZtQlA2QU5QNzQ1TjR1RkstQ1Ftam9h?oc=5
 
 ○11月7日 ユニクロやしまむらに押され、大苦戦のインナーウエア老舗企業 今後の勝ち筋は……？ ITmedia  
   https://news.google.com/rss/articles/CBMickFVX3lxTFBMZjNKUFZnUXN0OXU3RWNfSWhmWnFKak9MeXVjNWRpZmRQb3FtNndlNGlwamJHdUlrS2pxcWlSTkhGWDN4WDJqQXNJa1NlSWRYZVJLSlZMdnd3ZXlHV3Q4TUlQTmNuX3U0RElqUDZRZUNIZw?oc=5
@@ -188,32 +176,26 @@
 ○11月8日 初任給競争もう古い 優秀な若手は「年収1000万円の到達時期」に着目 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBqRUY2XzJtNjZQYThOMXZPQjJ1dFk0VGxRYW85Z0FibmVjWXVTOVlNcHJqWERoeFhJeXFVWk85OG5xYnhLVHl2b1dIWnRNeXBDWUJjTGkxSGxGdVIwLWo4ZExXS2hjUk9KeHBBSA?oc=5
 
-○11月8日 トランプ関税を最高裁判事疑問視 大統領権限巡り、年内判決も 山陽新聞  
-  https://news.google.com/rss/articles/CBMifEFVX3lxTE1xYUdCTXdHdUtBWkYtUXZNdWxXbVZpS1VFRThlX2hvQ1A4NERzeE5MYjVaSF8yQ2xZN3JRQUZfSHBjNktHdXY2bHpNSnZDTFZvLW5xSXB2RnZ5Q0JHRTFIUG55X3B3bHBQYXV5WTZqSDhVWGoxYkk2ZWlicmE?oc=5
-
 ○11月8日 「持続可能な燃料」消費を35年までに4倍へ 日本など19カ国賛同 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83eGtpWC1zNmV0N3BEdGxXNDI4bDBDV0RYQzg5Vi1wMmo4c3psVkdRU2FkMktXNC1ubUpwdTRfTS1YU3hPNV9NUDJ3YzhiTVUtUzdCbEFTMnJacndOemhHcFN1WV9xZlk?oc=5
 
+○11月8日 着物リメーク衣装でファッションショー 魅力や活用法発信 繊細、優美な作品披露 山陽新聞  
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBISkFqbURpWnJkYmNPRlo1YUpJWWRZd2pla3Ayb0pWcmpQYlpST3pyRVVuOHNYaU9Rc2lDNDJfUXY3X3hudnhDVFRVd2hjZGpnNEhieHh1NFc?oc=5
+
 ○11月8日 2児の母・畠中清羅、6日間“ユニクロ着回し”コーデを紹介「お洒落ママのお手本」「全部可愛くて選べない」 山陽新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE9EM1g0MGVBVFpqbFdWZDZkeUZJVlpzSGI1ZVJkVlh0a0pHMmprOE1qVFBiUUFaY3BlRThpZVVmRFZ4MTNuNHZYLTBVNTJtd0lvak1oU204Z3A2bUJNOGFGeHFRdE15b3dUcHFGeGtRNA?oc=5
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE4xa0tyQWZHME9WRjJpUzF1elg2RnVrODgyNy1PTHdfamtZZ3d3aVFBbDRQc1pUdWZFQkt3X0txQUlqdVhoYWY3dl9vWEdfU3NGV3VCUWh4LTZxaTY1eWlwdF83Rjk3THljYWVMQkJmZw?oc=5
+
+○11月8日 2児の母・畠中清羅、6日間“ユニクロ着回し”コーデを紹介「お洒落ママのお手本」「全部可愛くて選べない」 山陽新聞  
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE9vWXpSN2JYeWdaaGZaSHB1aFo4a3VYd1FST250bk1PUEpDb2dZNWNlcFBaVjlFMEdEOG8wQTB1ck0xQ051ZDhlQkpCR01vQTQ3WFpKV2E2WVNPenE5WHdTdERUemsyWU9mREF1MWV2ODl5NEE?oc=5
 
 ○11月8日 M!LK、ツアー中の衝撃エピソード暴露＆リーダー吉田仁人にクレームが殺到!? 疾走感あふれる青春応援歌も披露 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZU2dFM0M5MkFlQUJFNDZ2NDRCUXZXTDczZ1lONDF3Zlp3dlBFakY0SGJGOElOakRYVTJVOXF5MDhBZ1VGemU2Y0JDcTdmZ1lhX0E?oc=5
-
-○11月8日 着物リメーク衣装でファッションショー 魅力や活用法発信 繊細、優美な作品披露 山陽新聞  
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mWkJxRjU4dHBuMXgyNi1HbDk2cktKVm5JaS1IYkg3b0Z3Y21kS3UyTGVDNGRIV3QtVmFtYjBjTzhSTmdyY1ZiVHdrZWYzNVM0VjFFb2tCX0o?oc=5
-
-○11月8日 「ユニクロ入ってみたけど…」矢田亜希子、友人とカフェ満喫のプライベートショット「おしゃれで素敵」「親近感湧きました」 山陽新聞  
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WVUZSdlpMQkpDek9GeWZ4ZHFBaG5qd0EwY21iWGx1TEJpdTF4TGFjaHE2YW5OeTRZS2xFNUphcjdTbVNyT1ZOMGJLa0xxanlsRXNLMW05OWVaUWh3aVFOQQ?oc=5
 
 ○11月8日 【Qlipperランキング】SDGs・ESG・サステナビリティ ウェブニュースランキング（2025年10月） 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRblZyQ09GSUM4Zk0wZHVCNmk0WEw3V05xXzFvT0xkOGlLM3VtMlBpYXlVVHAzZFJ3azlhbGM0MzhvdnFYRF8yekRydGVDWDR4cHc?oc=5
 
 ○11月8日 「ユニクロ入ってみたけど…」矢田亜希子、友人とカフェ満喫のプライベートショット「おしゃれで素敵」「親近感湧きました」 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nMTQtbkgtaUozVlpmUmtRWTg5Wm1hbGRDRVRwY3FJMUx1SXhEdU1iWGZPclZsRmYyWG9iQjFLUFJwSzlubGd1THJ2U1NtSFdka0E?oc=5
-
-○11月8日 豪華モデルやパフォーマーが集結──広島の街を舞台に一夜限りの大規模ファッションショー開催（株式会社アクセ創業100周年記念） 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vTEFKZHkwYlNPbVAtZWRkYWdGUU9JbzZyZDgyWFFUY3pSU2Fqc2FuQ0pnbDJmNTNtNkFQU3ROZ01UUUotMkd1dy10YURTUnJkLXc?oc=5
 
 ○11月8日 田丸麻紀、お気に入りのユニクロ品を紹介「ユニクロに見えない」 "秋らしさ全開”の出勤コーデに反響「すてき」 山陽新聞  
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE11UW1ibWpXdzBqUmNTTllpdmhxWHBiVFdqMjNrYWl4R1Jzbm5FNmJMczhLZWp2cUdLQ3lJN1hZT1FGRFBkTXVkM0kwZl9WRUJKWXM5N0ZxdjgzeDc0?oc=5
@@ -224,11 +206,23 @@
 ○11月8日 大韓航空とアシアナ航空統合で一部路線の移管手続き開始 韓国公正取引委員会 観光経済新聞  
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE91WEhrVzBELUFnWGo3V2pYTGlXa0k2WXdzVFZkcS1vMHNhcDNaaUdTVGtOU21jUTdxMlVpMHNOLTZIOFpYa1hXN2hMWmxBS3phR1VzeA?oc=5
 
-○11月9日 ゆうちゃみ、”万博ファッションショー”登場 大阪ヘルスケアパビリオンのユニフォームで御堂筋歩く【御堂筋ランウェイ】 山陽新聞  
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YdjJ3SGt1MmZyUThtajB3TVVnZWlFYzR2V2dKNk1Uc2phTGdPblpxOWpYN3NoQmstUHFvWjI0cHhQZzlxZWowQ1JMMFRzN0N1V0RWMUxISjBVc3M3?oc=5
-
 ○11月9日 ナップザックで抜け感コーデ Y2Kファッションと好相性 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBITWJrT21tWUJzdUxFQUhoLXhKZTdCNjRXNFkxcXFiWGdRanY3ODVPeWJfUTRNeEx3dVJWaW1Fd2Z0OGpWWks2UTVjLU1SODQ0THZZWjZxVU9iTnpNR3dGbkc5aGlTTVl2RC1PbA?oc=5
+
+○11月9日 【ガルアワ】市川團十郎の長女・堀越麗禾、大型ファッションイベント初登場で堂々ランウェイ クールな表情で会場を魅了 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YOFNhUHVPSzBDamlBc3RsWDlhZnMzbGQ2YVZ1NTlhVFNubllBVWx4aFU2TkllMUxBc09ycTVtZGk1a2N4STZKYXpOSnoyOUp4emc?oc=5
+
+○11月9日 AI巨額投資は持続可能か 財務から浮かぶ不透明感 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9CTXBQRGlwMThFNm10NDVtUC02N294em1wZUlOanVGblBPbDRVOXNKRVV2NGVQSFFYVXplQzBuUl8tUVdOYXhpOHo4LV9UbFdYVDkwR2FVM0c2SVc3VGhWR19nekY3SE1DWHRQRg?oc=5
+
+○11月9日 関税敗訴に備え代替策検討 トランプ氏、発動遅れ不満 山陽新聞  
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE84eTBpNXVycWVZamg0R3puaGRubmJZNDdwdDlSUnpZQ25sd2p6QWhBR1VYNW5TdzQxbmxnN3BhOXBaWU1jNGN1UUdrbXNucEZhd3VjaUtaeG0tT3ljcUlHZVM0TW9heUNXWmkyTy0td09Pdnc?oc=5
+
+○11月9日 トランプ関税を最高裁判事疑問視 大統領権限巡り、年内判決も 山陽新聞  
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOEg0eTdmMzhrejhQM1RCWkl2QnRBQ0VKdVp6TndvdTBLX3g5TzBEZkxKWU05MkRTektPaU02MVBvTDJPSlJEUGxJVk1LMWtRNGpKc2c0TVJ6aEQ0ZU94anFMOHdNUENBSkF1bHZ4MENEMFVleW5MdDJrWWQzZWZDb1FkX2hGM29n?oc=5
+
+○11月9日 対日関税「米が修正意向」 １５％の特例適用と赤沢氏 山陽新聞  
+  https://news.google.com/rss/articles/CBMie0FVX3lxTE91cVl5R2pzNWlwN19rVjVZRjN2OW5UZG5EZFRVTnVqWUlhZGNxc1pkUHpXSUdkMEJxQ3g5MGlLc0tvM0pqckZkVVBTc2xlUE9mSTg0Q0pQSWpkOWJFQm1uejdxdzBKLTNjUTRueGRoZ2ZJQjB5Z09ZU0NDRQ?oc=5
 
 【自由民主党】
 ○11月5日　政調、税制調査会　小委員会
