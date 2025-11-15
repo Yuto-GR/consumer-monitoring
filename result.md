@@ -1,7 +1,4 @@
 【ニュース】
-○11月10日 決算:自動車7社の関税影響1.5兆円 4〜9月、販売台数はトヨタほぼ「一人勝ち」 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5qRHBRam1tWmdjaHE1a0NuYVBmWEhsWTRpTEs3UXpmRHVRcEpBeEEtSlhORzZaNjY1T0dPaTlieno5Z3FsaXhhUW81ZWZOa01NMVZ0NDg3amNmNGNTcWw1T08xX3Q2VEZWSERxTg?oc=5
-
 ○11月11日 テレビ東京系「シナぷしゅ」現在成長中 キャラクターなど、丸ごと知的財産化 赤ちゃん向け番組、初の事業部 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEeDVlZ3NuSkU0U0Z0NjVJV256VFRsVGlmNTUxUXlaY1BhYXZKanJvRTBsb2ItV1EtbGJrcDIweXVJZUhoS1AwQzF0MGJ5cThUUERXamQwTVJhdHIyQmw5QkMwOFlQbDNG?oc=5
 
@@ -17,9 +14,6 @@
 ○11月12日 ユニクロ柳井康治氏に聞く「世界でビジネスをする」真意 日本企業「飛躍のヒント」とは？ ITmedia  
   https://news.google.com/rss/articles/CBMickFVX3lxTFA4OEMyWWhOcDFHZ0l4MTJ4NmFlNFNZSEY1S2NPVWRfVlBfdV9kbWZ3ajEwc1J0V1A4amQxUDdfR0w4bXJ0ZlloQkN6a29KUVhMVHVCYmlhbzB5TEVGME1xX1BuWnlQNXRpTFg1aUhYQTZ5UQ?oc=5
 
-○11月12日 香川県丸亀市が「世界の持続可能な観光地TOP100選」に選出 「大江戸温泉物語 ホテルレオマの森」「NEWレオマワールド」の循環型観光の取り組みが貢献 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNlNXRFVzdjZVU0lQN1RPT2lld19KcmVfQy0wTzlXWEFaeTJwdGR5anFHR2RjM3BnYmZMYTZ4WUJSeWRlT214cWlVVXUtTmxSa1E?oc=5
-
 ○11月12日 老舗がタッグ、繊維のまち発信 山辺の２企業が連携、セーター商品化 山形新聞  
   https://news.google.com/rss/articles/CBMib0FVX3lxTFBJLWFPYWxRa05lbS0wOTQ5YnFjc000aWtnbHNhYUlFcHpkTmRsOFltS25KczFaT2MwemlZVDRkR2VIUUlLZVA5aE1yd1lUZWMzT3BPdHhhTzRaMnFVcVJPVTlkbWowS2V4SzhWN2RqYw?oc=5
 
@@ -29,20 +23,14 @@
 ○11月12日 《攻めるが勝ち！紡績再編のゆくえ②》佐藤繊維 産地を超えた協力で国産を守る 繊研新聞  
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JTzdDTHNiSVN0NGJMV3NQazJkV21lemtJVkg2TFFmX1lJcDNTRll2OVlyLV82bVg4MWNmdURUVDBRYzM3UF9uOHdPVkFycFRjSjNhWg?oc=5
 
-○11月12日 【母の想いを娘へつなぐ吸水ショーツ】“そろそろ来るかも”の不安に寄り添い、温かな安心を。体温を蓄える「αオーラ(R)繊維」使用の『オーラtomoni吸水ショーツ』がMakuakeに登場 繊研新聞  
-  https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUNnR1VVX1owYURzWnFELWdaU1RVYmJId3d0VWVyRTdkM24xcW5xQ2lfWWdpTnRYRjcxSWg3Y2o0RGxGQVFVejFGWXIxdS1DQWpwSjRWOEV3TDZMcGFxQjUzd2xQX0NIU2JzNk0yYWVJQ2dYbVhtaHBTOVMyc1RyRjdSdk5MUDdqQXdwSE5Za1VkMGF4Vnp1RnpFTUJzUnVTNTEzbTNveXEyUTJHa3c?oc=5
-
 ○11月12日 公正取引委員会、自動車用ミラーの美里工業に下請法違反で勧告 下請けに金型の無償保管や不当返品 日刊自動車新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Ka1R6SG9WWFh4UUlLdzlzdTd3QlBSM2k5bEVwcnZ1eGdoemVZNDZhak1EN0FDdlBvN3FWSmpfN1pxYXVVWVFXb3RqNUJQVmptMHc?oc=5
 
-○11月12日 トランプ関税、まぎれもない巨大な歳入源 毎日新聞  
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE5sdjFqSzZobmZzM1lVUVNnNnpCaW90dHJiRWZjTjEwSFAxazNuU2dtY3Ntc3FqQ25VS1Y2OWlpblJCLVE0SWpQRzl6MV85S194UzZaX3hYbGY0cVNHRERNN25ucWNPTGtiRWRqcVAxRUtBMkt0dHl3ZFBIbVVmVHc?oc=5
+○11月12日 学生フォーミュラ2024、京都工芸繊維大学が総合優勝 3連覇達成 日刊自動車新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZZ3hNcXZxbU43VnhSZ0pZanVUb0JvNzAxaGplS21PYzRKOC1TYk9YQzhGLXlCbmw4RVRCUlJfY2NCbTQ1TFg4UUh2RF9TTF9SVmc?oc=5
 
 ○11月12日 アズビル（ブース 5−50）azbil’s road to the future シン・オートメーションがつくる持続可能な未来【IIFES出展各社紹介】 オートメーション新聞  
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wLWFpN0xCSl9VM0VTb0FEbUNKd29Xdm14TWtoeHpkY00xaEVCaVJ5bkVnRWN6V3picUdmRnhaY2N5a0xqeXRWaXpKSEVQOHNzRDEwdmx2R0g?oc=5
-
-○11月12日 ブラジル牛肉、トランプ関税でも輸出拡大 中国やEUで需要増 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5DdGZtRC14dkVBaDRYZWVpTzBqSWJTNmVSUFdZdUR3bW9oSkdvWmtyUGFReTRFTUN6RDFxOW1MTDd4UmZpbFo2eDVJenhwNkZfVU5sX1BqajVaNEtIa05GWmtYX2F1S1MwbmNqMQ?oc=5
 
 ○11月12日 ホンダ、サステナビリティレポートを発行 日刊自動車新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zLVJVQ2lRUE94V2FtdEo2MWdnTVVvc25zMXZiZzFfMWo5aGxrN193TmZZYnV4SWFCVnYtUUFMY3hMNFoxRGt0VkZfSG11cmVKTVE?oc=5
@@ -59,11 +47,14 @@
 ○11月13日 生産ライン 競争力の源泉（80）関口工業 表面処理に参入、内製化 日刊工業新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE44UHo5bElfUnRaZUh0NUhSUTlGamtEOEFBXzFnNlNBMk84NXp6aUNlUGtVV3VhOWFaR2hRRGJ6OHBSQ3F0aXRNT3BBeE94ZWdQV3dLQlZHSjB1NVk?oc=5
 
-○11月13日 45歳・押切もえ、“カラバリ買い”のユニクロお気に入りアイテムで秋冬コーデ紹介「魅せ方がプロ」「ユニクロの着こなし世界一」 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BZ2J1a1JrR1dSV1FCdC1KQThyODM3bjctT1JkQ3pGZXJWNURPZ0lYanBIdlJwYU8xUTN3YzUxTGhQcjhtaUtzS0FULXNfTUhEb1E?oc=5
-
 ○11月13日 経営ひと言／三井ホーム・野島秀敏社長「木造で競争力」 日刊工業新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XNjhkWGljSWNjTzdvUXZBTWt5N3pfNk9uN1ltYlBvbGVwWElnWFRTd3hCYmo0WlJCWDM1VzBkMi14b2M4WkRERkRJYnpjNkdBUnQtOVRkOXZ6Wjg?oc=5
+
+○11月13日 66歳・安藤優子、“ユニクロ品でまとめた”オールホワイトの私服コーデ紹介「ロンT､クルーネックのセーター､白のワイドパンツ､すべて#uniqlo」 着こなしに反響 山陽新聞  
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE9qMFZnVlplWExieHRzQjQ0b1dTNzA4QXliYlEtSkYtVzRvYjZnek9LQXEwUHAxMUxhdVNlNTFmcmc3VmxyUHV1bGZWWVBkZlRLMG5HaWtnbF81SzVXY0pVbmU0OFZLVjZjLUo2OEhDNA?oc=5
+
+○11月13日 66歳・安藤優子、“ユニクロ品でまとめた”オールホワイトの私服コーデ紹介「ロンT､クルーネックのセーター､白のワイドパンツ､すべて#uniqlo」 着こなしに反響 山陽新聞  
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxOcTliR0hjdHczZVpGQWQ3XzJvRTdHOGpUVThjdkxIazhKVm5HcXp6b1MtQU5xRVpmLUliOGIyTFpiY3hPWEk2cHJWVFZ5MEdHN1U1YkJlSTJPY01ZUV85V21vZEFlbHFuXzBwMUxLd2dLQ3FKTVBQZ3luZ1NDVDZGbkNCdGVkdw?oc=5
 
 ○11月13日 ユニクロ、「UT」から「たまごっち」とのコラボレーションコレクションを発売 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFAzZW96Y2hqblloVDhSSllwV0pMLTBpVnpfRFB1Q0N1Y1daRHU2eWZhS1BGaFp4WkFvMTY1Z3lQa3FYcUNNMnRGNFJTMGdIZVE4TEpTU1hUWDdvRXVvTUZuMzZ3QVE5MFNMS2JnMg?oc=5
@@ -74,26 +65,14 @@
 ○11月13日 フエニックス・コンタクト（ブース 6-39）電化 × ネットワーク × オートメーションで描く、持続可能な未来【IIFES出展各社紹介】 オートメーション新聞  
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qa3BHQVYtNDRKbG1sNjNVeWUyUEVVcEdwTDByQV9rVTJ4Y3F0X1FYTENSZWljbVpkcUY1dmNybGFwTlJjZDJhTTFIWkZVYnhXcjJQRTh1V1o?oc=5
 
-○11月13日 プレスリリース：AVATE（アヴェーテ）、パリ・ファッションウィーク期間中のショールーム出展を初開催（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JQWVtMk02d2RSbHRHYlJzQkJidHNENVhLczR0UUVfRmxUY0cyN1hWcUxsb1c3TEMzVmZHaC1TSGV5WGFjems1R0NINmJuU2FNRjFTYTVrNXMyMFhocG0zY2ktdDQ3RmZM?oc=5
-
 ○11月13日 セーレン、ユニチカから買収の繊維事業子会社「NBセーレン」に 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5raHp5dEQ0dkRKckFsRjU4Z3g2aXZ4T2YzT2I2MjhRRm5meFdrTXBTenQta3ZoRTdHQjdZRUZlOEJCbUM1em94TGVua01LUGRIVC1UcC0zUDk2YVRIczBWSjNvbTBrWjNCcVlvZA?oc=5
 
 ○11月13日 中国通販の京東、7〜9月55%減益 出前競争で販促費2倍に 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9ObnhUOW5xX1lWa2hlM3hhSGlVenV5MlAtSDd1WHJOcEduMXU5X25HdVNrWGxFZEpzd1Z1OHhad295S3E5U21PcXpBWDNIRkZZSklrWlA3LWNYYzVoVWU5Uks0YUh4emJXamx6TQ?oc=5
 
-○11月14日 連載「突破口 競争軸を占う2025」（7）日本流の試練、新興市場 共存共栄目指しつつ現実解へ 日刊自動車新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE83d3RELVBxNHJtVGlXajZncV9JMjgtT3dDYllGQ2U5bWhRTDVobHZ5OTJxZXZiN3FjZEN3al94aUxITXNoTlZKRFhzODU5dHFtVWc?oc=5
-
-○11月14日 板谷由夏、“センス光る”ファッションアイテム身につけた秋コーデに反響「抜群なセンス」「アクセサリーきゃわいい」 山陽新聞  
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XZldMcTRlZXYxZHEzdVExY3FZWk5HNVpaMy1nSlkxdjJVZDhtdmJpLWJEcWtaQ2VyaDZhQUwyUWVFSFRVU01hU0owdGFKZ2U0NW0tM3FObWpPOWNr?oc=5
-
 ○11月14日 K2 Pictures、台湾・TAICCAと共同で国際競争力を持つ映像作品の開発推進へ 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE94WUFTN21JR0J4SWNfWnpCWjY2WFZpbk1hSnpUdmFfWE5nNlVLa2JTaTNqbW93WEtqdlgwNm9QSjd6TzRPU0MwOFc2OV8wdzdlMFE?oc=5
-
-○11月14日 日産、ホンダと車両開発へ 協業で米国てこ入れ 高関税下、コスト競争力向上 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1hZ1VuUG05V3dCS05tbG5JdDhra1d3LU1LU1pLTDdDSTBHb3pjNWhFd3ZGMHNIZTNIUTJtX1lPUi00VUU0WW1XRVM1V19hN0JDV3hsUEVkbndSQVhvNElScll5UDdlOVpzU0RCdQ?oc=5
 
 ○11月14日 核の軍拡競争復活か チーフ・フォーリン・アフェアーズ・コメンテーター ギデオン・ラックマン 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9LT3V1UlVoUnVfTFAzUGo2YlBSM0VacDc2M1RfREJUUy0yaWZGU213SXBHaTBWaEtrTjZRSjRCclI4NF85QkJiVHkwT3N4bXd4RHFRc3BXN2psWjg2clQteVZwRlczQ2lmeWdvcA?oc=5
@@ -104,14 +83,8 @@
 ○11月14日 「給油過疎地」全国に　暫定税率廃止　価格競争で中小ＧＳ苦境｜四国新聞WEB朝刊 四国新聞  
   https://news.google.com/rss/articles/CBMid0FVX3lxTE1HalRPWWdMY09oZExtYnJkWWdYN2tlWlVPaUYwYkVSc1FPRmVaZDVrZ2lMNTk3YTJ6VXQyYlFkSklpeVp0enlvLTBSRHppRWJKeW1GZmYteWF0Z0ZHTE1YOUlXZkE0NGhEakhwQWpuS2NUUnk3Q0cw0gF8QVVfeXFMTWxURnZMUEdJbGNUSTQ4c0xoaE13cDlCY3NPbFRLaWVGa0p2cW53VFlNc3hSVFl4R0xoaWdTR2RZSUtMZVNiZmM5UVVHYV9tdUZlWkIxVFpVdHhwM1hmYU1zX0JvQzZOazZQR0dUODF5WnpCTGU0N2JSWjA1Vg?oc=5
 
-○11月14日 いすゞの純利益、９月中間１１％減　米関税・円高影響｜四国新聞WEB朝刊 四国新聞  
-  https://news.google.com/rss/articles/CBMid0FVX3lxTE1IOUdzblRHa2YwT202cVhaSVBpem5KVHZiZHNUNlZ3dW1SMWxIbUR2MWduOHh3WVhVWTJUdVQ5ZFpHOFRUMTBTVV91OXFfOWd3cXNXRVJJUWpKM2p2a3QzM3l6ZDVtQWVlSzg4WUNLUEZ0bWdmU0ww0gF8QVVfeXFMT1VHR0ZFV1ZIbmdOMUpKdlFtNU9qNHBzNnJZYUtTd2RhdmRoOXNlX0RnUVZmUElVVUlMYmJuQ2ZCeWdicTFxa3l2aUs5YlV1WENXMHNvMm15a2NveVAwYUNSTk9Xb2EyMlZMNTVQWjlYa2Y3Z0pTT2Rxd2ZxTg?oc=5
-
-○11月14日 米関税が招く「プロジェクト中止」の悪夢 ハードウェア開発を直撃する影響は？：3分の1が「製品の再設計」を決定 ITmedia  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBsbWtQbS1qaXlmSVhTQ1lJU0o5a2ppMUlfRWVTRFlnUVBHQlJwVkxfNUtlSWpXUllFaW5sWDBxd1R0MkdOejR6dDJEclFILWpObGtHYTJ2My1fM3NCY19HallldU96dUxoWFFfUA?oc=5
-
-○11月14日 日産、ホンダと車両開発へ 協業で米国てこ入れ 高関税下、コスト競争力向上 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdDhiVFIwTG1PWGprbzNzaEdjVXc0eHdDazdDdWhKVmY4YzFZc2FsVmVoOTZCNzlRcDQtV3pmREFwQl8yS2hMejRpRnlaNFplXzlEQlJUNHhiX1p2UXA0dVZXU1BSNWZtbmVmeEV5aHJBT05mUWNxVm9YSG93aEd2ZU5SQWVyNUtwRmJGSlhsZG9CMVlITGR4cEJLenQtcE1CMkl5VG51VFk?oc=5
+○11月14日 県出身２次官が講演 高松 財務・新川氏、厚労・伊原氏 持続可能な医療テーマに 四国新聞  
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXVvYlltVHlnb1NRb2hkUElIaGNqMWx6cnZ0OWRLYWFUY2I3WmZndXlpYlNHNlpDWUlUZFQyQU9SWVVvSHF5VS1QVVgyZlJxVVhmOGJBWDR6NzdCZElKOGdWQWVLV0V2YTVBbS1FLU1hb1dlOHltcWRWWVk1enlaRkxJVE9aNnRO?oc=5
 
 ○11月14日 イタリア、低価格輸入品に課税 国内ファッション業界保護 日刊工業新聞  
   https://news.google.com/rss/articles/CBMidEFVX3lxTE54V0xlQ1VKYVIzaWVsN3U1TlNRTkdHV1B6dVRmSWppbWgwQldYRE9Mbks0X2lyMHYxTWEwTWtZbDlYNzNtOVkwdk9FQ3V0TklmR1QwTklpZ0RZTTZZWDFMUnJ4a1YwdUtReGRhODBRNGFhMl9k?oc=5
@@ -125,11 +98,11 @@
 ○11月14日 繊維事業子会社「NBセーレン」に 日本経済新聞  
   https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM3F3YUpEMGVxOG1QOWZBdzUzdEFxY3NWS0Z1N0tQMzBid2ozaVYwUlZwcmZDZFZ2Y3pqcHlFNHhGZmJjWHhveTU2ZTRPT2NjSkVkTEFHMnYtQU55WXBHeDNxXzRaaU52RDNYelZYYnZuTEhWOXZudmdzaXk4S2NhQk52bFMwRzVsQXkwdkdUaWI2MWxWWDh6TnY3VzJkLXQ2U09DZER5dm4?oc=5
 
-○11月14日 櫻坂46山川宇衣、人生初ファッション誌撮影 さくら色の夏服で透明感あふれるショット披露 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mdEtfUGl5UnJnOGt5WjdjLWhhY191elhTZEY4TUxRQzVqblBIQjVGMjNNcGhvZVBoRUZNSGNyNk1UTDRHT2dsWWFYTHl6N1lFTkE?oc=5
-
 ○11月14日 石川県済生会金沢病院が運営するがんサロン ファッションで内面まで大事に 繊研新聞  
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zamhaVkNXaVpkelFVbWp0ZUxYR3BNaDlKVkQ3ZEZYTzVpcS0zVVhXbk1TZXM2bi15MW9GQkJvUEJyVEZHUXFGRl9fV3BoazB3bnV0eWRjdzZGS0tmSE1wQQ?oc=5
+
+○11月14日 「第41回東京ファッショングッズトレードショー」開催間近！雑貨業界の未来を彩るキャラクター、ファンシー、ビューティーの最新トレンドが集結する注目の2日間（PR TIMES） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oMnAzcGJERWFEX0g2VjBIcF9xV21scUlhOGZwU1JuQUtVdmpvMDM0MW1GV2VldmZvMGhrcE95eFljVHVpU09FRFdEOWNjYWlRdjB6VHZMRTNyTTlOel95ODd0ZEhKNURj?oc=5
 
 ○11月14日 フランス、狭まるSHEIN包囲網 米関税余波で中国製品流入を警戒 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5VbTBPUUdGNkRNSUJlVzhWM1lOc3gxNVA5SWx5aWZhYzNKT1ZjWEdsckFuVWhndVU2cW5KdXNMNzZ6Y2FuQmhNTGhvT3pWUGhrQUJyRllldzktOVh0OEFTTFpfUDRTLW1FYmtjbQ?oc=5
@@ -137,26 +110,77 @@
 ○11月14日 高校生の留学率1位の兵庫県、スポーツ・ファッション分野でも支援 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5La0FtMjdoU1Zkem51RTB6VDRCVkFOU2xuQkFHUjlNd0psajVYZEJTWk5mRFFNVGpYblVUTWFBVG9OXzZtRkRfZkJKSElOVHVZaXg4MlNteTRJY0gtNXM2QUZTekZxQkFoNGM2Qw?oc=5
 
-○11月14日 米、中南米４カ国と貿易枠組み - 食品関税引き下げへ 奈良新聞  
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE45emxHS25rRmliVFdmaC0zaHBrQWZSRjJBVl9LNmgzbmNWTzhYSEs3cUlRdG1jN3A5UHNqeEtvT0w3ZUtJa1hPUUtOX0x3WWE2U290dkZhMFJlUER1Z2xWNWEtRTI?oc=5
+○11月14日 名鉄電車内や岐阜羽島駅を舞台に 「尾州ファッションショー」開催 繊研新聞  
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xOUNYVFFGN3E2SVNkb3pjYnA1M3BpWGZNLXVaQVJVd2NtanJnSTJ6M25MVFNtV1RMLWxZSXNvMmRUSm9hU1liV2l3MFdraWt4T3FWTS1fblA?oc=5
 
 ○11月14日 コーヒー・バナナ関税下げ検討 価格上昇で米政府、エクアドル産など 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1sd0VGVURDYTJSalhRUFFESUkwWlNTR3dNcHI3S2VsNGs0bVpGWE9uMTNIN2IwOUhKMlpESXhZUUpzLTZuZ3pMby13b1gzMm5FUi1iN3oyc1lSVy1LMmYyMVlhVDR3U1lHSzR1UQ?oc=5
 
-○11月14日 米、対韓車関税１５％に引き下げ 半導体は他国と比べ不利にせず | | 全国のニュース 佐賀新聞  
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yTXVoWmpPMENYR3VzMzFtOF8wcERFdHZpNjZRV2RkVTZlcm1zZVBSSW04MXdaQ3J0bUE0RndVM3djU2hwXzZfb3FCRHpQLURMOU9aejNR?oc=5
+○11月14日 愛知県蒲郡市でTGCプロデュースのファッションショー 三河木綿など魅力発信 繊研新聞  
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ENEtmOERrbk9RUm5ndG5ZOFBISTNZb0ZhTzJfZm1FVFN0aVRKZkdZTExpTkVhTmdUMnJRSHJHbzVTNnhtMnNKMFl1VXNxY0J6QWFR?oc=5
 
-○11月14日 米、対韓車関税１５％に引き下げ 半導体は他国と比べ不利にせず 山陽新聞  
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxPSWhLRkpYVU40QmhiLVI1YXNsR2c3X0Q3SC1Bem1HVzFjR3hieHpWdlhKMm1NRHNJeWF1V3puaWIyQ3Y2bVJSTDE1S0RTcWpnV3hxZWV5WV9PRFJTZ1lzcmhaSmdQaU15MFIxU2IyWXJoNUJ0RklGQ1RjYnBZdl9ubDdsSU5aTHM?oc=5
+○11月14日 決算:東レの4〜9月、炭素繊維落ち込み純利益33%減 自社株買い500億円 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBEVmxadWtPYklRTzNyczdNS0VJelREUnQ5Sm93SG5FUEtaUFpHMlFMUkJFdFd3ZURBUzFmOXlHR3VWcENVV2JaUy1tU3FNZUJUNFJmVUVSR1lpUkxhenIzU2Ewbmx6N1piMlc4YQ?oc=5
 
-○11月14日 米、対韓車関税１５％に引き下げ - 半導体は他国と比べ不利にせず 奈良新聞  
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DMVB0MzJGd1FSSmM5VWd4R0lOM3ZuWXp2bktLSUdNRmVab1lxbUhhSUxRUnRtX01BRjctalVTelY5ZjgyUWpRaHZWajNXZXdEUk5ZNS0yYTdDN1NtMXlzd2ZPMmY?oc=5
+○11月14日 インドネシア、イスラムファッションで影響力首位 輸出企業も 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9TdGpmaVJnaGxOUXpyNUJzUmZEeVh2allmZEJZdzFGdm1URXk4VlgxeGxsSk5iZ2d4OHZ6NjNaaDJUR3B6Z01wV241OGI4SG1SYnBOS3JoOXIwMGV0RzV0SGR4elFWYkNvT1l0TQ?oc=5
 
-○11月14日 持続可能な物流のカギは"現場"にあり――エフピコが挑む物流改善の最前線 11月11日に物流改善発表会を開催（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LMnhsRmxOYjhTVGJFQzNFb25kbWdWMndpZ3pmLXBIQkp5TnJfZk9yRTJIcVdXR1NSTDFsUFVpLXZhUHpuUldLQnZUNVpDcFdkTkpZaWdvSVdPSXJkVkx1QlRweHZ4NFNV?oc=5
+○11月14日 新聞協会会長、AI検索の著作権侵害「法整備を急ぐ必要」 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE96eVh6cXlwZ2dkMzBMdDJVd3VOdndyS2w1YnRHTGYwdWxSTEhHaFVnUXlaeU5TNzM2azhodE9Fd3I1dWh5Z0xPRkpDazZKTUotMVR2WjRJWjk5ZmMtTjV3a2ctS1ZmNkFzS0F6LQ?oc=5
 
-○11月14日 プレスリリース：JICA海外協力隊発足60周年記念式典を開催 天皇陛下より祝辞を賜り 帰国隊員のトークセッションや世界の民族衣装を用いたファッションショーなども（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WcXZfeTRKMzNSMGlIV0l2ZHE1QWVNZjJKYTNfb2Nac2hfVGl6ZTBBZEtTa1Fjb2E4eU5Pd3hhZU94UGNMRzkxekx5ZWR3QkZUQWM1enFsQWlNY0w1clAtQ2R5ZTJnaGNf?oc=5
+○11月14日 決算:ユニバンス、26年3月期の純利益上振れ 米関税に伴う駆け込み需要 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1WdUFLdVRyckFMcnp3bjM5c1lBc1UxQ1l4WE1MMEZZOXo1Y2o3Nk9mdk1sOGN5WXg0MW1xVzBsSHRXNHpoNmdnZ1VjS3ZyTkRDeUs4S3ZnamVTZkVPckY2ZnNpUVB4VmoxV3R0NQ?oc=5
+
+○11月14日 持続可能燃料「4倍誓約」 COP30前に19カ国支持/日・伯・伊が主導 ガスエネルギー新聞  
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qcW1rSnBhWEl3RVRaN2VrcnNLUDh0bzJoU0hacUcyNU1NdkRLdkw4TGpvak5yV3pHUEtIUDMwVzJrQnlicFVmQ3JUM2dzUXc2SHdB?oc=5
+
+○11月15日 日産、ホンダと車両開発へ 協業で米国てこ入れ 高関税下、コスト競争力向上 日本経済新聞  
+  https://news.google.com/rss/articles/CBMiogFBVV95cUxOeTVvMEFlTUtqNEhfcUNMRWlwNTRFMFo3MFFtM0JiRTNQYnNKMTYtazRpRFZaWGZOTi1VN0dqNDh2blBHbU1TR0Y0OHM3LV9hTnZDV2UxZFAwaW5JRG1xQlJWM2xqYnZudUtyTmpqa2J1dTVNOS1YWXk0YmRwdkpRc1BQeHdaamoyejk1VzA3cDJuT2ZIQXZBeTRvTGkyMmRfRWc?oc=5
+
+○11月15日 「ユニクロ入ってみたけど…」矢田亜希子、友人とカフェ満喫のプライベートショット「おしゃれで素敵」「親近感湧きました」 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nMTQtbkgtaUozVlpmUmtRWTg5Wm1hbGRDRVRwY3FJMUx1SXhEdU1iWGZPclZsRmYyWG9iQjFLUFJwSzlubGd1THJ2U1NtSFdka0E?oc=5
+
+○11月15日 米、スイスと関税交渉合意 税率39%を15%に、米に工場建設条件 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xSE9pSzJMRmxTNWtKU3N6a3ZmLTJXVURqdmpLbnhBLWp2bDhUTzdsZGhRSHoxOHJwVGQ0NTR1M3hGaGRBaGo4Z3RIVVNhbVh2RVUydERsWXU5bHNzU2Y1XzAydk8zTTg?oc=5
+
+○11月15日 コーヒー・バナナの関税下げ 米政府、国内での高騰受け エクアドル産など 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE0yZE1vRWYtWUE1cGpWSHNMUmE4SERIR0RJSkotMlpVR1BMeUtyaElKMURnZnVMYTRXTFZWT09GVW9NaFJJNmtOUnM1M3RFbFlabHFTMUhOOHFvRXRFYURzcVkyQ0IyT05qbUVFQg?oc=5
+
+○11月15日 上場企業、逆風下で最高益 4～9月最終 関税の影響吸収、AIの恩恵拡大 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBNWlNqN0w3NWVVS09qTlhYTHRjVHNNaDZFZ2hHcDlxOTM3ME42TXFHZmZlZDI5eWJ1dTl6My04dTNRNjNPRkFOSVVlajdwWmw4a29rdlpVZjZ4NWZ0RTlVZ2lZdmpPOGN0Y2pLQg?oc=5
+
+○11月15日 仏、官民でシーイン拒絶 米関税余波で中国品流入警戒 百貨店出店に猛抗議 輸入小包に課税検討 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5CWXhReXlmVmtCZkhHckw1SHlUSklDeGg4TEo2VXVxaVF5QkpuU095dVZ1b3VnUFgxSW1MamJ6MjhISjhwUG54cWczTGZsU1lLVzVHQ29kNFA2aDEwbkN2YnhWSi1ZV1V0MU9DbQ?oc=5
+
+○11月15日 ウォール・ストリート・ジャーナル：［社説］レーガン氏とトランプ氏 関税巡る違い 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BTXI3NjVYZXlZYVZGaG1aUEtVU2VrN19acDhGTDg2MjNnVmFXNnJDcVRJYjYwbWxocnNTYk1HUEljN2tPMWFsR0pkZm5DSjA0dV9mQmRtZHVFS0NKaVRiUk0zX0RwYVVQ?oc=5
+
+○11月15日 ウォール・ストリート・ジャーナル：米関税収入大幅増、DOGE効果は薄い 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE13dVhvVm11Y3pMTVlEWGhEVGI1LVRsSEI0WkNaYmppb0d5U09JX2x6SnhjNjRPVFI1Zm9aYzNwcGNENzZkcHZIbzFrYVJjd0Z6ZTBJc184clBFcGRqR0oyOHNFMlBNSjdT?oc=5
+
+○11月15日 イスラムのファッションリーダー 日本経済新聞  
+  https://news.google.com/rss/articles/CBMipgFBVV95cUxQbUxSd2Y3blJvdUJ1LU0wSU9ZdW94U0dnX0h1bnpyQ3J3ODgyazVFU0RFRGVMWFZTLWktU3lNR09jOVA4ZTVSVUs5ZXZIR1RQZm9uMFg5U3hGSHZVUl9pUlBXOUd4bDAzY3l2bFVXOUlvbHZXWUZIRThQVkNtOXMyS0xuaGtZZE9UM0Q4ZW15UmZlU0NKZ2pnd0dFajNGRnozZ3A2c0t3?oc=5
+
+○11月15日 【ワシントン条約５０年】持続可能な取引推進に貢献 日本も議論に積極参加を 愛媛新聞  
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGSWRESmZPWUs5bGFSVHBUQnNwN3Z4S3p5SVdYMTZ6X2NWLThZNjgzMmxzZFRuSzhEaTdYdGlzX1BncVhXNWhnNFJyOGRidDlaUnlOSnhpMHRJYkZMaUNQXzFWZw?oc=5
+
+○11月15日 米国、スイスの相互関税を15%に引き下げ 30兆円対米投資約束で 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9DTG9vVnNEc19IcHJMMUh0N2NFMmY1cWhUTEVQT3N0bGl3N29OU0owSzNoaXY4V1M4NzdfbzdZQU44Z0kweWxYY0tFQVZxcV9DVzNxdkpuLVRnbGtHdnR2RFNyWUltQWxQbTRvYg?oc=5
+
+○11月15日 三菱UFJのデジタルバンク、AIを標準装備 リテール競争に新たな号砲 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE45RFpxeVRuSWVMZlZKRnJYLUh3cFFBZEhxVHoxZEpmTzRJSWk0eUd2eXVOeDVmTF9kSDdHQ0M0WHNNM2xzZGQ2SjU3Nl9pZkpEWUZmT2x5bGpKRWZfSnprWTdSalhCc1F4a1p1TA?oc=5
+
+○11月15日 ラグビー拠点に響く四股の音 競技者の確保、「競争」から「共創」へ [福岡県] 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wamxIM2hDNGZBcGNiaEI2OXhKWW44VHhReUdlNlFxRDhuTW53UzE3ZVJiSUtYSzd4TjlYLWh4cnN1dXA5aHJ4bkU4aW1JdENPTklaejNPYktmUU91LW04ZkIxNlNfUmc?oc=5
+
+○11月15日 【写真】米、相互関税から特定農産物除外 輸入コスト下げ物価高解消狙う 南日本新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ES3NyazJueE1SOUJkZDJTUXpieXJ5LTVFTDZ0VDlXVzFOZV9OQjBmUDZvRkN5R1haNlNHbThYTnBGN0RZa2FRRlNSX1R2OHUtY0VVWnJKN0loTGk4LTBPa1dtdG14b2tR?oc=5
+
+○11月15日 繊維産地・石川の工場、観光客の心つかむ 見学だけではない仕掛け [石川県] 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzTDdfMng3c0c1djVQSVdoakwzc3FoOVV0enZlWDhpM2tteldDcVlOQUJWc01tTkRtbVZUMzJKTG9jSXNGNTRpTWZ0Z2h2OVJmbl9UTTRVU2l4SzRkdVZjNDJoY2w4eTg?oc=5
+
+○11月15日 米、相互関税から特定農産物除外 - 輸入コスト下げ物価高解消狙う 奈良新聞  
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Vc2xDVGl6WFpZZnZxUlotYjZCMmprVEpXM0h0YU9HRlZsSXdESzdXSXpZQUhCa0RtQmNncWg3WE5Ic3VIVGN3c0thNjJKQUV1ZG9WbUlTdk5MV2lQWHdrTVlzOWc?oc=5
 
 【自由民主党】
 ○11月5日　政調、税制調査会　小委員会
