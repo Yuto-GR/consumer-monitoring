@@ -1,7 +1,4 @@
 【ニュース】
-○11月11日 テレビ東京系「シナぷしゅ」現在成長中 キャラクターなど、丸ごと知的財産化 赤ちゃん向け番組、初の事業部 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEeDVlZ3NuSkU0U0Z0NjVJV256VFRsVGlmNTUxUXlaY1BhYXZKanJvRTBsb2ItV1EtbGJrcDIweXVJZUhoS1AwQzF0MGJ5cThUUERXamQwTVJhdHIyQmw5QkMwOFlQbDNG?oc=5
-
 ○11月11日 くらしナビ・環境：CO2は「持続可能な資源」 佐賀市清掃工場、周辺に農園や養殖場 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1scXlMa0E0ZXBaY1Q4QmZheUwxUTVQT3Fhd1RXSWZqemVqQWNuMUN4N1ppLUdtcVZSbHZoUk41T3pSbDZTczhpclZCMjBBOVhvTjh1eW1IbWZDWkc0ZWNWelc3eDZJaGtO?oc=5
 
@@ -10,9 +7,6 @@
 
 ○11月12日 廃棄衣類を繊維に再生 帝人フロンティアなど、コンソーシアム設立 日刊工業新聞  
   https://news.google.com/rss/articles/CBMidEFVX3lxTFBaOVpXUDVOeGZJOHhsTHYtUV9nVFR1SVI4NVpPeXNWZlpYQksweXAtUFZuZGFYSGdRNG5NZktvT3E4UjJKdy0zeGRHR0ZQb0dzVjVMTDhnZTlMYVZwOGdXRTlaS3lpU09oaWgwUUtueF8xejBr?oc=5
-
-○11月12日 ユニクロ柳井康治氏に聞く「世界でビジネスをする」真意 日本企業「飛躍のヒント」とは？ ITmedia  
-  https://news.google.com/rss/articles/CBMickFVX3lxTFA4OEMyWWhOcDFHZ0l4MTJ4NmFlNFNZSEY1S2NPVWRfVlBfdV9kbWZ3ajEwc1J0V1A4amQxUDdfR0w4bXJ0ZlloQkN6a29KUVhMVHVCYmlhbzB5TEVGME1xX1BuWnlQNXRpTFg1aUhYQTZ5UQ?oc=5
 
 ○11月12日 老舗がタッグ、繊維のまち発信 山辺の２企業が連携、セーター商品化 山形新聞  
   https://news.google.com/rss/articles/CBMib0FVX3lxTFBJLWFPYWxRa05lbS0wOTQ5YnFjc000aWtnbHNhYUlFcHpkTmRsOFltS25KczFaT2MwemlZVDRkR2VIUUlLZVA5aE1yd1lUZWMzT3BPdHhhTzRaMnFVcVJPVTlkbWowS2V4SzhWN2RqYw?oc=5
@@ -41,20 +35,11 @@
 ○11月13日 〈スマホ新法、競争の行方〉アップルの牙城、崩せるか MIXI、アプリ外で決済 ゲームや書籍、収益増期待 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE8zN1hCWXNtdHRTMDFwam9sRnFCTklhVXBIX3RYZHQ1WHhVamNibVNER3ZlQ1RoQ254cTJPajFiYWgzUFI5Mng4ekhtTk4xYkU2NlpZb09wYzNCZlFTcWdGRVFUNGVwZWxDMHU0Sw?oc=5
 
-○11月13日 〈スマホ新法、競争の行方〉アップルの牙城、崩せるか MIXI、アプリ外で決済 ゲームや書籍、収益増期待 日本経済新聞  
-  https://news.google.com/rss/articles/CBMimgFBVV95cUxQdDg5QWlTY0xZUjB5TWJZQ0lxaHhhMXlKMGZJYnE5dE9DOXZ0N0VlUHp2d0l5UEdHQS1vOVg5WFhrdEJYNUVSbjdiSDIwcktYajA0VDlPMDYwOXo2a0V5V0Q3TkJScUpLMUxzajNqcFN4S190dFQyR2JJOEtTaUdXZFB5cEtydm1QWGZOU0ROajJIMzl4WnJweExR?oc=5
-
 ○11月13日 生産ライン 競争力の源泉（80）関口工業 表面処理に参入、内製化 日刊工業新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE44UHo5bElfUnRaZUh0NUhSUTlGamtEOEFBXzFnNlNBMk84NXp6aUNlUGtVV3VhOWFaR2hRRGJ6OHBSQ3F0aXRNT3BBeE94ZWdQV3dLQlZHSjB1NVk?oc=5
 
 ○11月13日 経営ひと言／三井ホーム・野島秀敏社長「木造で競争力」 日刊工業新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XNjhkWGljSWNjTzdvUXZBTWt5N3pfNk9uN1ltYlBvbGVwWElnWFRTd3hCYmo0WlJCWDM1VzBkMi14b2M4WkRERkRJYnpjNkdBUnQtOVRkOXZ6Wjg?oc=5
-
-○11月13日 66歳・安藤優子、“ユニクロ品でまとめた”オールホワイトの私服コーデ紹介「ロンT､クルーネックのセーター､白のワイドパンツ､すべて#uniqlo」 着こなしに反響 山陽新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE9qMFZnVlplWExieHRzQjQ0b1dTNzA4QXliYlEtSkYtVzRvYjZnek9LQXEwUHAxMUxhdVNlNTFmcmc3VmxyUHV1bGZWWVBkZlRLMG5HaWtnbF81SzVXY0pVbmU0OFZLVjZjLUo2OEhDNA?oc=5
-
-○11月13日 66歳・安藤優子、“ユニクロ品でまとめた”オールホワイトの私服コーデ紹介「ロンT､クルーネックのセーター､白のワイドパンツ､すべて#uniqlo」 着こなしに反響 山陽新聞  
-  https://news.google.com/rss/articles/CBMihgFBVV95cUxOcTliR0hjdHczZVpGQWQ3XzJvRTdHOGpUVThjdkxIazhKVm5HcXp6b1MtQU5xRVpmLUliOGIyTFpiY3hPWEk2cHJWVFZ5MEdHN1U1YkJlSTJPY01ZUV85V21vZEFlbHFuXzBwMUxLd2dLQ3FKTVBQZ3luZ1NDVDZGbkNCdGVkdw?oc=5
 
 ○11月13日 ユニクロ、「UT」から「たまごっち」とのコラボレーションコレクションを発売 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFAzZW96Y2hqblloVDhSSllwV0pMLTBpVnpfRFB1Q0N1Y1daRHU2eWZhS1BGaFp4WkFvMTY1Z3lQa3FYcUNNMnRGNFJTMGdIZVE4TEpTU1hUWDdvRXVvTUZuMzZ3QVE5MFNMS2JnMg?oc=5
@@ -80,17 +65,8 @@
 ○11月14日 日産の米国苦境、商品･コスト競争力で見劣り ホンダ協業で補完 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1PUW1YeUc3NXNYUTdSU29TX1RSY0xEd3NWNmJPVjlLbkdxTVV2NGphc1FJNWF1OHN5bGhfMUR0OFFfbjJwNGllMzZGUG5la1JGWGxFSDVUQjkwY1NOQldFTVozSHNqaDNLWnhfZg?oc=5
 
-○11月14日 「給油過疎地」全国に　暫定税率廃止　価格競争で中小ＧＳ苦境｜四国新聞WEB朝刊 四国新聞  
-  https://news.google.com/rss/articles/CBMid0FVX3lxTE1HalRPWWdMY09oZExtYnJkWWdYN2tlWlVPaUYwYkVSc1FPRmVaZDVrZ2lMNTk3YTJ6VXQyYlFkSklpeVp0enlvLTBSRHppRWJKeW1GZmYteWF0Z0ZHTE1YOUlXZkE0NGhEakhwQWpuS2NUUnk3Q0cw0gF8QVVfeXFMTWxURnZMUEdJbGNUSTQ4c0xoaE13cDlCY3NPbFRLaWVGa0p2cW53VFlNc3hSVFl4R0xoaWdTR2RZSUtMZVNiZmM5UVVHYV9tdUZlWkIxVFpVdHhwM1hmYU1zX0JvQzZOazZQR0dUODF5WnpCTGU0N2JSWjA1Vg?oc=5
-
-○11月14日 県出身２次官が講演 高松 財務・新川氏、厚労・伊原氏 持続可能な医療テーマに 四国新聞  
-  https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXVvYlltVHlnb1NRb2hkUElIaGNqMWx6cnZ0OWRLYWFUY2I3WmZndXlpYlNHNlpDWUlUZFQyQU9SWVVvSHF5VS1QVVgyZlJxVVhmOGJBWDR6NzdCZElKOGdWQWVLV0V2YTVBbS1FLU1hb1dlOHltcWRWWVk1enlaRkxJVE9aNnRO?oc=5
-
 ○11月14日 イタリア、低価格輸入品に課税 国内ファッション業界保護 日刊工業新聞  
   https://news.google.com/rss/articles/CBMidEFVX3lxTE54V0xlQ1VKYVIzaWVsN3U1TlNRTkdHV1B6dVRmSWppbWgwQldYRE9Mbks0X2lyMHYxTWEwTWtZbDlYNzNtOVkwdk9FQ3V0TklmR1QwTklpZ0RZTTZZWDFMUnJ4a1YwdUtReGRhODBRNGFhMl9k?oc=5
-
-○11月14日 59歳・RIKACO、“カラバリ買い”のユニクロ品など秋コーデの購入アイテムを紹介「参考になります」「買い物の仕方見習わせてもらいます」 山陽新聞  
-  https://news.google.com/rss/articles/CBMihgFBVV95cUxQUnJMd2pNd1NERS1Fb0VBWi1yWTdVSUdReXRSS3FaNmpLcHhXQ0dkWWk4U2NNb1JqaVNUZkVsNGNsMUt2RW13dS1KcmJHYk9CNVlZLWNfbmhMNGRYYUJrbnNJRlNCSFltbWdKd2ZoMnl5amNZNHFmbGdZZENhYmxSMk84V0QzQQ?oc=5
 
 ○11月14日 混紡繊維から綿のみ回収 阪大が新技術 日刊工業新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QdjZ0UnROeDNRVHlYUHdXWjc4T2dVZnJnanZTY0FUN2RqUU5PNnlMZXkzeWtKMlRoRE85a1Bncy1HTUJKWGpCME45cmFQOVJ1eVE2Nm1TVFRVU3M?oc=5
@@ -104,23 +80,20 @@
 ○11月14日 「第41回東京ファッショングッズトレードショー」開催間近！雑貨業界の未来を彩るキャラクター、ファンシー、ビューティーの最新トレンドが集結する注目の2日間（PR TIMES） 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oMnAzcGJERWFEX0g2VjBIcF9xV21scUlhOGZwU1JuQUtVdmpvMDM0MW1GV2VldmZvMGhrcE95eFljVHVpU09FRFdEOWNjYWlRdjB6VHZMRTNyTTlOel95ODd0ZEhKNURj?oc=5
 
-○11月14日 フランス、狭まるSHEIN包囲網 米関税余波で中国製品流入を警戒 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5VbTBPUUdGNkRNSUJlVzhWM1lOc3gxNVA5SWx5aWZhYzNKT1ZjWEdsckFuVWhndVU2cW5KdXNMNzZ6Y2FuQmhNTGhvT3pWUGhrQUJyRllldzktOVh0OEFTTFpfUDRTLW1FYmtjbQ?oc=5
-
-○11月14日 高校生の留学率1位の兵庫県、スポーツ・ファッション分野でも支援 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5La0FtMjdoU1Zkem51RTB6VDRCVkFOU2xuQkFHUjlNd0psajVYZEJTWk5mRFFNVGpYblVUTWFBVG9OXzZtRkRfZkJKSElOVHVZaXg4MlNteTRJY0gtNXM2QUZTekZxQkFoNGM2Qw?oc=5
-
 ○11月14日 名鉄電車内や岐阜羽島駅を舞台に 「尾州ファッションショー」開催 繊研新聞  
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xOUNYVFFGN3E2SVNkb3pjYnA1M3BpWGZNLXVaQVJVd2NtanJnSTJ6M25MVFNtV1RMLWxZSXNvMmRUSm9hU1liV2l3MFdraWt4T3FWTS1fblA?oc=5
-
-○11月14日 コーヒー・バナナ関税下げ検討 価格上昇で米政府、エクアドル産など 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1sd0VGVURDYTJSalhRUFFESUkwWlNTR3dNcHI3S2VsNGs0bVpGWE9uMTNIN2IwOUhKMlpESXhZUUpzLTZuZ3pMby13b1gzMm5FUi1iN3oyc1lSVy1LMmYyMVlhVDR3U1lHSzR1UQ?oc=5
 
 ○11月14日 愛知県蒲郡市でTGCプロデュースのファッションショー 三河木綿など魅力発信 繊研新聞  
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ENEtmOERrbk9RUm5ndG5ZOFBISTNZb0ZhTzJfZm1FVFN0aVRKZkdZTExpTkVhTmdUMnJRSHJHbzVTNnhtMnNKMFl1VXNxY0J6QWFR?oc=5
 
+○11月14日 ケーキにクレーム…買っていない男逮捕 「ケーキを購入したら溶けた」と主張し、店からケーキ代1万円超をだまし取った疑い 仕事がない42歳、他店にもクレームをつけ「いまだに連絡がない。返金して」｜埼玉新聞｜埼玉の最新ニュース・スポーツ・地域の話題 埼玉新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Pbno2cTVoLXpWSlZVR1c2ZW8wanAyLWo5cm5zaFZGUVhtUC1qSXhkRE5nRl8zU0xiSGxqSjdEX0Y5b0J3OFNVYVQ4S2huSzdDX1BGeDN3TQ?oc=5
+
 ○11月14日 決算:東レの4〜9月、炭素繊維落ち込み純利益33%減 自社株買い500億円 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBEVmxadWtPYklRTzNyczdNS0VJelREUnQ5Sm93SG5FUEtaUFpHMlFMUkJFdFd3ZURBUzFmOXlHR3VWcENVV2JaUy1tU3FNZUJUNFJmVUVSR1lpUkxhenIzU2Ewbmx6N1piMlc4YQ?oc=5
+
+○11月14日 プレスリリース：［ふるさと納税 意識調査］ファッション好きに聞いた!ふるさと納税で「衣類・雑貨」7割が“アリ”と回答（PR TIMES） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qM0kteWpISlRuTXlQRFpKNlk1dHg3QUExVkUySDl4ZHh2MVYzR05MWmRYUkc5V0FOSHFiREdSNWhoQ1dxTFNqU3htZzFjTWJaTDlyWHYycmlJckFWMDZ1TDhVRk93MV9i?oc=5
 
 ○11月14日 インドネシア、イスラムファッションで影響力首位 輸出企業も 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9TdGpmaVJnaGxOUXpyNUJzUmZEeVh2allmZEJZdzFGdm1URXk4VlgxeGxsSk5iZ2d4OHZ6NjNaaDJUR3B6Z01wV241OGI4SG1SYnBOS3JoOXIwMGV0RzV0SGR4elFWYkNvT1l0TQ?oc=5
@@ -128,38 +101,38 @@
 ○11月14日 新聞協会会長、AI検索の著作権侵害「法整備を急ぐ必要」 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE96eVh6cXlwZ2dkMzBMdDJVd3VOdndyS2w1YnRHTGYwdWxSTEhHaFVnUXlaeU5TNzM2azhodE9Fd3I1dWh5Z0xPRkpDazZKTUotMVR2WjRJWjk5ZmMtTjV3a2ctS1ZmNkFzS0F6LQ?oc=5
 
-○11月14日 決算:ユニバンス、26年3月期の純利益上振れ 米関税に伴う駆け込み需要 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1WdUFLdVRyckFMcnp3bjM5c1lBc1UxQ1l4WE1MMEZZOXo1Y2o3Nk9mdk1sOGN5WXg0MW1xVzBsSHRXNHpoNmdnZ1VjS3ZyTkRDeUs4S3ZnamVTZkVPckY2ZnNpUVB4VmoxV3R0NQ?oc=5
+○11月14日 〈ターゲット2030 持続可能な未来へ〉豊田通商が車載電池再生事業を強化 回収から再資源化まで一気通貫 日刊自動車新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IdDV5QXlSTjhGM2ZfUE52Nk90OVFMSFhJWmhObnIxaHAxTDJ1TTNMVUoyQ1RZdVhkcGI1UnMtVW5GQ2JVcEktdVF5ZnZVVU1zYWc?oc=5
+
+○11月14日 〈スマホ新法、競争の行方〉アップルの牙城、崩せるか MIXI、アプリ外で決済 ゲームや書籍、収益増期待 日本経済新聞  
+  https://news.google.com/rss/articles/CBMiogFBVV95cUxOcVNkQ1Fla3Q2NU5MZDItak5OZmVjQ1BaUmFHM2M5a3Y2Y0dDbnhNNmQySVRLSE5lQ1NzUWRfSEJscFViNDdpVUNTbFkxV0FuSGQxUndOdS1SRHh5OV94SVFXVEttT1R5VkFHcC12UDJjSmYyMVgtLVJDWDdjUDFpZWVhMk5ZZnVvalVjd3dqOGExV0FnbUduX0JUb0FGRE50NGc?oc=5
 
 ○11月14日 持続可能燃料「4倍誓約」 COP30前に19カ国支持/日・伯・伊が主導 ガスエネルギー新聞  
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qcW1rSnBhWEl3RVRaN2VrcnNLUDh0bzJoU0hacUcyNU1NdkRLdkw4TGpvak5yV3pHUEtIUDMwVzJrQnlicFVmQ3JUM2dzUXc2SHdB?oc=5
 
-○11月15日 日産、ホンダと車両開発へ 協業で米国てこ入れ 高関税下、コスト競争力向上 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiogFBVV95cUxOeTVvMEFlTUtqNEhfcUNMRWlwNTRFMFo3MFFtM0JiRTNQYnNKMTYtazRpRFZaWGZOTi1VN0dqNDh2blBHbU1TR0Y0OHM3LV9hTnZDV2UxZFAwaW5JRG1xQlJWM2xqYnZudUtyTmpqa2J1dTVNOS1YWXk0YmRwdkpRc1BQeHdaamoyejk1VzA3cDJuT2ZIQXZBeTRvTGkyMmRfRWc?oc=5
-
-○11月15日 「ユニクロ入ってみたけど…」矢田亜希子、友人とカフェ満喫のプライベートショット「おしゃれで素敵」「親近感湧きました」 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nMTQtbkgtaUozVlpmUmtRWTg5Wm1hbGRDRVRwY3FJMUx1SXhEdU1iWGZPclZsRmYyWG9iQjFLUFJwSzlubGd1THJ2U1NtSFdka0E?oc=5
+○11月15日 ゆうちゃみ、”万博ファッションショー”登場 大阪ヘルスケアパビリオンのユニフォームで御堂筋歩く【御堂筋ランウェイ】 山陽新聞  
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxONmlIck5QUll2SzVFTzI3bE1VckU3VXJvRngwY3BEcjlmQ2kyeTdabEJ5aFdDYlhHb1JUZHlxYmhtN2ZtSjFYOGlrR0NWallmVlN5V1YzYjdqcC1IbVBqSVRTOVFIUlJrUzZyUWx1V1h6c0sxcjZuMllIOTBNNU9MdGtXa3lmQQ?oc=5
 
 ○11月15日 米、スイスと関税交渉合意 税率39%を15%に、米に工場建設条件 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xSE9pSzJMRmxTNWtKU3N6a3ZmLTJXVURqdmpLbnhBLWp2bDhUTzdsZGhRSHoxOHJwVGQ0NTR1M3hGaGRBaGo4Z3RIVVNhbVh2RVUydERsWXU5bHNzU2Y1XzAydk8zTTg?oc=5
 
-○11月15日 コーヒー・バナナの関税下げ 米政府、国内での高騰受け エクアドル産など 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE0yZE1vRWYtWUE1cGpWSHNMUmE4SERIR0RJSkotMlpVR1BMeUtyaElKMURnZnVMYTRXTFZWT09GVW9NaFJJNmtOUnM1M3RFbFlabHFTMUhOOHFvRXRFYURzcVkyQ0IyT05qbUVFQg?oc=5
+○11月15日 櫻坂46山川宇衣、人生初ファッション誌撮影 さくら色の夏服で透明感あふれるショット披露 山陽新聞  
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE52cDZOZnNVX3Q3SEdtb3FkdGdxb0xZMlVpS0lnNVY3MHVQcENpU0RVNnVRM2dhTy0td245Zi1mOHZheXdlbWpMZlhsTzVJQ1lfTW1uN2tuZ3BWNEt6ZFJtZUFjc1p6dVFGcGphdDlKcw?oc=5
 
 ○11月15日 上場企業、逆風下で最高益 4～9月最終 関税の影響吸収、AIの恩恵拡大 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBNWlNqN0w3NWVVS09qTlhYTHRjVHNNaDZFZ2hHcDlxOTM3ME42TXFHZmZlZDI5eWJ1dTl6My04dTNRNjNPRkFOSVVlajdwWmw4a29rdlpVZjZ4NWZ0RTlVZ2lZdmpPOGN0Y2pLQg?oc=5
 
+○11月15日 〈Market SCOPE〉コーヒー豆相場が急落 トランプ氏が関税下げ示唆 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9kc2lOZm5vcVdqZGtjc3d0eUJyWUlLeTA2TzFrUjBpTlR6cXNvNE9ZZmhhelFOZEZNNDUtZlpUNElqajZRdmtid1R1bFRCbmc2czlPOW9YbTZjTS1GTGNSYmtlNFl4VVgyLW1Hdw?oc=5
+
+○11月15日 コーヒー・バナナの関税下げ 米政府、国内での高騰受け エクアドル産など 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE0yZE1vRWYtWUE1cGpWSHNMUmE4SERIR0RJSkotMlpVR1BMeUtyaElKMURnZnVMYTRXTFZWT09GVW9NaFJJNmtOUnM1M3RFbFlabHFTMUhOOHFvRXRFYURzcVkyQ0IyT05qbUVFQg?oc=5
+
 ○11月15日 仏、官民でシーイン拒絶 米関税余波で中国品流入警戒 百貨店出店に猛抗議 輸入小包に課税検討 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5CWXhReXlmVmtCZkhHckw1SHlUSklDeGg4TEo2VXVxaVF5QkpuU095dVZ1b3VnUFgxSW1MamJ6MjhISjhwUG54cWczTGZsU1lLVzVHQ29kNFA2aDEwbkN2YnhWSi1ZV1V0MU9DbQ?oc=5
 
-○11月15日 ウォール・ストリート・ジャーナル：［社説］レーガン氏とトランプ氏 関税巡る違い 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BTXI3NjVYZXlZYVZGaG1aUEtVU2VrN19acDhGTDg2MjNnVmFXNnJDcVRJYjYwbWxocnNTYk1HUEljN2tPMWFsR0pkZm5DSjA0dV9mQmRtZHVFS0NKaVRiUk0zX0RwYVVQ?oc=5
-
-○11月15日 ウォール・ストリート・ジャーナル：米関税収入大幅増、DOGE効果は薄い 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE13dVhvVm11Y3pMTVlEWGhEVGI1LVRsSEI0WkNaYmppb0d5U09JX2x6SnhjNjRPVFI1Zm9aYzNwcGNENzZkcHZIbzFrYVJjd0Z6ZTBJc184clBFcGRqR0oyOHNFMlBNSjdT?oc=5
-
 ○11月15日 イスラムのファッションリーダー 日本経済新聞  
-  https://news.google.com/rss/articles/CBMipgFBVV95cUxQbUxSd2Y3blJvdUJ1LU0wSU9ZdW94U0dnX0h1bnpyQ3J3ODgyazVFU0RFRGVMWFZTLWktU3lNR09jOVA4ZTVSVUs5ZXZIR1RQZm9uMFg5U3hGSHZVUl9pUlBXOUd4bDAzY3l2bFVXOUlvbHZXWUZIRThQVkNtOXMyS0xuaGtZZE9UM0Q4ZW15UmZlU0NKZ2pnd0dFajNGRnozZ3A2c0t3?oc=5
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBQaGZpY1VPdU1oTl9KdExFaXFWVVVqTG1ZSkh4R3R5Tl9GSEk0V1ZiTnRYVnVBcDZzd1Y0emQ2RF84TlRoNUwzY1BIT0h5ZzBVYmNORlQxdUtvdHdSV1FEenIwdFhiY2V6c082ag?oc=5
 
 ○11月15日 【ワシントン条約５０年】持続可能な取引推進に貢献 日本も議論に積極参加を 愛媛新聞  
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGSWRESmZPWUs5bGFSVHBUQnNwN3Z4S3p5SVdYMTZ6X2NWLThZNjgzMmxzZFRuSzhEaTdYdGlzX1BncVhXNWhnNFJyOGRidDlaUnlOSnhpMHRJYkZMaUNQXzFWZw?oc=5
@@ -173,14 +146,146 @@
 ○11月15日 ラグビー拠点に響く四股の音 競技者の確保、「競争」から「共創」へ [福岡県] 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wamxIM2hDNGZBcGNiaEI2OXhKWW44VHhReUdlNlFxRDhuTW53UzE3ZVJiSUtYSzd4TjlYLWh4cnN1dXA5aHJ4bkU4aW1JdENPTklaejNPYktmUU91LW04ZkIxNlNfUmc?oc=5
 
-○11月15日 【写真】米、相互関税から特定農産物除外 輸入コスト下げ物価高解消狙う 南日本新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ES3NyazJueE1SOUJkZDJTUXpieXJ5LTVFTDZ0VDlXVzFOZV9OQjBmUDZvRkN5R1haNlNHbThYTnBGN0RZa2FRRlNSX1R2OHUtY0VVWnJKN0loTGk4LTBPa1dtdG14b2tR?oc=5
-
 ○11月15日 繊維産地・石川の工場、観光客の心つかむ 見学だけではない仕掛け [石川県] 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzTDdfMng3c0c1djVQSVdoakwzc3FoOVV0enZlWDhpM2tteldDcVlOQUJWc01tTkRtbVZUMzJKTG9jSXNGNTRpTWZ0Z2h2OVJmbl9UTTRVU2l4SzRkdVZjNDJoY2w4eTg?oc=5
 
-○11月15日 米、相互関税から特定農産物除外 - 輸入コスト下げ物価高解消狙う 奈良新聞  
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Vc2xDVGl6WFpZZnZxUlotYjZCMmprVEpXM0h0YU9HRlZsSXdESzdXSXpZQUhCa0RtQmNncWg3WE5Ic3VIVGN3c0thNjJKQUV1ZG9WbUlTdk5MV2lQWHdrTVlzOWc?oc=5
+○11月15日 米、農畜産物を相互関税から除外／国民の物価高不満高まり政策転換 四国新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GTlZIUkFDNWMwdXQyRl9XM0VUTklGSHNKTHpIYW9wVlNXcnlOWTdDNWNPQlZVMVRXQzJ3ZlkwU2tWbkx1N045R3B0N3lseDlRNUhZQlYtYk9LQkVtREMxZHdxZDlxMHc3?oc=5
+
+○11月15日 トランプ氏、相互関税から一部農産物除外 米国民のインフレ不満意識 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UdFJIVldndXVvdkJEZ3U2b1gyd1VBOFZtSE5YSXlabGFDXzhkYUxxd1RqNDR3amVXR1hyQVdXSThxMFBCV2J1aUVLM254QzZ2dDVkOTlublFqM2ZQdHJ1TW9RWG55TE0?oc=5
+
+○11月15日 米、農畜産物を相互関税から除外／国民の物価高不満高まり政策転換 四国新聞  
+  https://news.google.com/rss/articles/CBMirwFBVV95cUxOVTZHTGdIVC1iY1kwM1NOcDJxNTlQWXBiY25aWjZxZDNlUVJUWHF5M3U2NVhLT1JnUXNoM1RGVzNvNmdEcVdaWjZnX0Q2bUZEMGhiQVVuZ2RZNVB3ODVtMDc2VEd2Uk91MTUzNy01WFBabWFTRGlsN0gtbXMxREkwYVhydW5seXN0Um1yQV9Wd2o1SF9qV1luZXZmY3N1QkJvTGdQMUtYQXpuMlJvc0FZ?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 富士山経済新聞  
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QZTZ5SlpTaUY1OS1rZmp5YzE5ZC1xQzJJa0ZLaFN4djhqSEYwVHA4dmNMQ3lWbFFHQU8waHR4U3pEeVRJV1FjdnhOWEVyclhyZ1dN?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 外房経済新聞  
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xMHBMMmRNQ3A2cUFaVVkwZldFalhPeGktZlhrbUZLZ2RVRUxCaUN5WXE1djhuWlI1WUtDYWotNk5ScE5xYVNPQWp2ellBTUNWTy1F?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 香港経済新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9obm1RM2J4RG9oc1lIcERSTEZuOFlxYThQb2x1LUZKNDlfVFViT0dnMVpNTnF0QnA0T1kwMlhSanFENXNBZ3R5OWZUMnZCOFBGZHR0NjNB?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 松本経済新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqaXRFRDZTczdUZ1k2R21ZYmNjb3h4RHVMRG1BbUVUc1o5cWIxeGF3R3otU2NBTnkzS1c5amN6bXdESEl6WkpZSUJCWVhtRi1RLUY4clNXWQ?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 自由が丘経済新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UYXYzV1M3enFaTy1vSFBFVlJZSmVSazZudHFZNWhmMGJMMERxZDVaa3NPVFV4MGJVaHo4c0tRN0QwbWEzZlozTTExZllQU05kLXM2djRldw?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 熊谷経済新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMN1BMWG5vOGhvQ25Sbl9nMFZzeVFIY19CclpKako0bXNFMXlJdzFjdWRNM3BVNXFjMVRVOTd4djZITGl2N3lGcUlJM3I3bXZTZ1FVa2Zn?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 松戸経済新聞  
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YYWtkLUdIX3RhSXVZT2ZVa2ZEcHRZUFkyOFFMWU4xSTE2cTNycVNKcUxQVldKQWVBWWRnSHUyNzhuWnl1ZEc3Nm9RVl9PTVdkWDJHVg?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 豊田経済新聞  
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tZnNGRmdRN1V2dmJwbDgxaEZfNU91VHdqVXk1UVlMc2VaRFBrWXJWelFOZEIzaWZjRkxMOVhpRy1rbmVraE5TTFJvT0xaa2Y2T0tR?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 横須賀経済新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Fc0l3aG5jaUlOMW9oUG1GSkFGYkt0YlVrOU9KV2F2bmNodHdSa09oWjVESDVTU3h3VTlnUkFqWE5QYU5mcHdEemVBaEZUT2YwRDF1b2xR?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 姫路経済新聞  
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yWWU5U1dtcFQ2czd4Sk13c0RTNlFKS0htaFFOX2dyZGRPWWEzTmdXcWctak1MaUY2anpxbnpMczh1STNDQnpvNWxkMVhneGxGaldB?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 弘前経済新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCTG01T0FXS2o1cGxnTXVESVdZaHNXSV9XQkxaUmMwWEdxY0d5elZ6RmQ3dzRvbGJ6Z0tSSVZnTGNPWDVGNnh5dXVnUlJibGVhWkVvbkpR?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 仙台経済新聞  
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GSDdTUER0Ui0zLXJUb3NKaExwNjVEU1o0aGxHakFnS2U2RmVuWEFRU1VtX2Y4VXBpR2dtVnY5QjQ1YlJVOTlYVUZuejdOVGR0TWJZ?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 大分経済新聞  
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Db1lZR2FLVWtkQTE2NUIyaTNGcDdrX3AxelRFYXNUMzlvRTBfNGJxYTZYWFVhaTVscnhCRWVLWDBqNWc5Tml0MTZmZkJPRmt5?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 八王子経済新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uYVRCc243YzJXMXNtdGU5VklQSlpySC1wU3AtMFlVcDBKYWt0UW5IbGM1QzNkOEpUdWRKS2Y2UkQtYVJwRGVZZHpCQnpDNFZORkd3eU9B?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 盛岡経済新聞  
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5MHJzeWhZd19vRXY5d3JtWkRaSkNReUYtMTVtVGlHTUNPclB2V2xUV1RueXNXN1VHZ2lrNmZuZmw5MnlXWXJHcUZfVkx2Ujk4bHVyNA?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 逗子葉山経済新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVSzZweWFrOUk1dUNPT3NHX20wV3hCSHBNLWU0NFFQQVpQM2xMOThMRGZMTWh5akZFZDlSMTJrYzRaYzNTQUktTkZYUnNLNXJ5bFFqckZjUFVkSEk?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 神戸経済新聞  
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qWkNIWFo1eGVoRHd0VW1VSzJVY1pfVFpFMFNobVZRRXg3VkZwSjZOTkdsQXp1RnRoRnRvOEZjVUdGMngzRkJiOVp1ZmlSN3ht?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 小田原箱根経済新聞  
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MZVQ0b2JYUld2bWZlQVJySll3NTBPTmJYZ1J2ampsUzhPTTBxdTJGMTJ3dHdQZWttd2VBQ3Bnam9MSHF4dmdvZnlLWjVBVEdkdzh2NnNYTGNwbTA2ekE?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 銀座経済新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oYnh3OTU2S0FqenJ6UHFfdEV4QlV2c0UxUFFvVU5uaWRySW50Q2hzTmtnTHo0R0dTZ2MtSjB1WWt0Y3NaVHFMZGhLeGF6R2lJSlE?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 千葉経済新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OaWpVZW1xWTE4d1RrN1FwQWRaT2xPQWV1S2g2YkE1WHFhSU9jRjYxYnBmQjg5OWtoNHg3Zzk2aUx3TG5NdjF0MVQyMFZHY1UwaHc?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 高田馬場経済新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wc1VIOVFndUMteTctYzVPYTVEVVhCV2t6U1VZUTZuRXAtNmpPMkJKTDNWQlQxZWlwSjd2NlZnWFNGTGtlQk1VaDFfQkViWFRjcVlIclBpMHRKTDQ?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 東大阪経済新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE95anVsMDdaRVNpZzVfWmwzM3dKSVJHTkZ0ZzF0NmxQM0ZKQVhYUm94VGs5UVhNM3FSUUJqRVd5VGlLcGxrSGVmZERpRkVvRGdyZ3hrcGdEbnJjeGc?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 沼津経済新聞  
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE1abUNTZG0tVUtqb25GMU1PU2F3RUNJVHZ0dTQzUGVyQ0NxVFJJcmFrM001NlNnLTZIdWxpZkVYQlo3dlZyOVp0b0R1WVl3TXM?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 中野経済新聞  
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aRlZPQmt2ODlhM0ZCZjRka3ppN3VvWVpjREN6UEk3WGFyZVprRzBydHBQd2FJd3FCYjNMMzBSdi1xam5DV0JIMGRZaFhxWGQ2VUVj?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 高松経済新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rUUZpLWRzT0NZVFV6d0thUGRuMVZtQkUzS043VjZOUC1acEFCWUtrZVB3THV5bVlxd2ZseWc5V3R3c1lsbE1CVGpPaTRRRDJ5eXkwVEQ4SQ?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 湘南経済新聞  
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MRWZaMDEwZUM1NHprSU5MZjltSU9sNHU3YUZLUC0xbGNxRXFnN0IzMjNZWlhYSFJUZWw1VjF4eUpHNTBSaHI4eXh4Q1hHR1o0NkRz?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 加古川経済新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jOFVSOFRWRlloRk1wckhFX2JWbVF4dEJEelYyclZHMmtTV050TG0tYUJ6b2tKVTRDNFhub0x0WlNMb1NfWDBraXZ2ZzMtTUQ5NFhiVHJ3?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 春日部経済新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ncU5NM0hjeHZjZktHa3hTRGFPeEs1NHJJcHlGNVNEOUhRRGtZWkdLdUtqbG1EUmhkN0hibm5GNWFncTdOZTVFanp6akZLN3FBSTZLWThn?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 水戸経済新聞  
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yUXM4UEJxZkRRLS1OdzVUdGVMMDRhbXppWE5kME5GMEpNY0NTa19yUDZNQ0cwVmVPMzB6c3h0QzZpS3F5Ukdpckc2ODQ4TWtT?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 西多摩経済新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDdWFhVkExb0w0czkxeDRHTU1icXlNRjNyaEUydFZqMVBBdFl2cDU3U1Z0RGRENVhjSjFnZXRuX1U1eHFLNmh3cWQteVUzbFVXeEpyVmg0NA?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に ひなた宮崎経済新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vendsMjk2SWZia1RscXJyM2dYdE9uLW9HUnZVZEd1elNWLUM5VG1oSWp1cXRqR0dRZWpkV0ZXZWlGNm1lWWJ3bjhZMkFtM3N6U1JJZGpB?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 習志野経済新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GN2l5ZVF1QUJFS19CeWx4OUVxWUFnd1FtUGp3aEdXRWZxWWhnRk15b0p1Zm40blNOX0JYeHdzZDdfdlVEYWFsQmFyQWotUmRNVGQwbkFOSQ?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 福井経済新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GSzJnRzdhSl9rVDdaRXJuUjBmdWtINnNBa1FYbllYTnZla0p1WTkxazV0ZU1hd2l5cWVfM05DZ1E5V1pZTTdZX0JySmZKTmZ6cGc?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 奈良経済新聞  
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sdjQyMmFHM2xEa1VWcWRHOXMxdXctZmRxanYxNWI4M19EUkhUT0NHLVhlM1dINGtVUkszajduanJMem1HSWh6d2NEN2xWa3lC?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 調布経済新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2bjhJM3VUX3NFTnVFbnhhSFVMcG8tRnllcUJGdjJBRVJUMno0c1kwMHBhT3VHbEJabTljeUs2azE3c1AycFAyRE1MTDNOUWdGa3c?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 二子玉川経済新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE55Vl9DQzcyUWFvTmtxcld5RjJrUnEtVjgxcGRXMFI3ci15YllJR0hrdUNxS2t5VkJhR25YNWlZdEZkdmJmakJMYk11TzdveXUyLWRlaDBn?oc=5
+
+○11月15日 米、農畜産物を相互関税から除外 国民の物価高不満高まり政策転換 山陽新聞  
+  https://news.google.com/rss/articles/CBMilAFBVV95cUxQeHlSbkR0YUJWcWgzQ0FiSTQ4anNaYXV1Zk9DdjVjanJaX2c0RUpkUTc3M1hHM1Z2czNEMzFRZ3JQNmxaZ0JJVTlhT0oyU0ZpNk5hVUMwSTBoX2xVMWdYVWU4VzRhU0s1WE1XNzVreG5MSHEtb05lRDN1VW5Hd1RKajA3TG5hdFgwMExxNGtUZlVCR2Zo?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 奄美群島南三島経済新聞  
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2cEktdHhaSHJhcXZDUEd3MXIybTVJbGhucWNoXzNETnBjMTlOTVdqNWRtbXRXTElqTjlLaVl0azRrcXF1dm8xYmw1NFFZcm11RjZ5c2VhNUs3elJWUkZUWGNXQQ?oc=5
+
+○11月15日 米、一部農産物を相互関税の対象外に 長崎経済新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhSWFsbVktM0FLNmxiVTEtczhlUERIMVJIbDMtcGtRekR1QjNQeTdmVldfVC0zZ3JMSkxuNFRfYzNRZ3QxVzBtenItdWxnZVFkVWkzeEZR?oc=5
+
+○11月15日 トランプ氏、「相互関税」の対象から数十の食品を除外 コーヒーやトマト、牛肉など BBC  
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aWEhUSThCWm9ub1JfX01vYi1tUkFRakg3bVQwclVUUlh5R29Db21zZWxNSnZhQU9JcEZ6VHNMUU1Ob2gwR1gtRmJSWTgzaE9nSEYwUFgyVWFZLXQxX0U0?oc=5
+
+○11月15日 トランプ氏、食料品220品目超の相互関税撤廃 価格高騰に対処 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBEWXByb3RvNmdwNjF2OGF1S3p4YkVQM3ZZY2FWblF4LVFNcXF4NkYzVUt1c0pCTmF4aHJnUzVNMFZwemJMeERleTU4SlVNYVJyRXI4VkFlNDFHT1JrQ1hjSllFanRhWHRBTTNWaA?oc=5
+
+○11月15日 米、対スイス関税15%に下げ 30兆円投資と引き換え 米産食肉に無税輸入枠 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9YQ2VCbDdxcTBTd3NFQXU2U3BWRUdpVThmUHF1eGtRSzdCMGlsUS0tTm1QZmNQMk92RUNmZnpfeGVDcmMtbVRUSUJIRXNYTVdQNGNzVWNzaHZueHpOSzVnQnhvWTNGRnFuVEN2Yw?oc=5
+
+○11月15日 アップルを訴えたフォートナイト運営トップ「世界が競争失敗を理解」 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8taDBVeFh3UGZrUWNuVlFjTXhLMHFfRGYxbDJBbDc0S0NYU09EWXhCWjY4dGVKS0VYNG1vSFVpWnlLV1dMM3pPV0JQcG15M2RvY1dBU3BmdFNTbWNLeWFyb0JrS3VBM28?oc=5
 
 【自由民主党】
 ○11月5日　政調、税制調査会　小委員会
