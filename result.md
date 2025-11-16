@@ -1,16 +1,4 @@
 【ニュース】
-○11月12日 「1店1人以上」のユニクロ 「一体感」の住友生命 障害者雇用の今 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPVUpCVVM4cDFBeWt5MTlfazRtSnVuZkJjemMtRWNBcnR1b1E1YkpwOVlJTExfQnBKVjAtLWRmMl9YRnJGRnQtYUViZ3ZxVGNrSERMLU5CbXRCQWxtRnpwZGd3YUg4azRy?oc=5
-
-○11月12日 《攻めるが勝ち！紡績再編のゆくえ②》佐藤繊維 産地を超えた協力で国産を守る 繊研新聞  
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JTzdDTHNiSVN0NGJMV3NQazJkV21lemtJVkg2TFFmX1lJcDNTRll2OVlyLV82bVg4MWNmdURUVDBRYzM3UF9uOHdPVkFycFRjSjNhWg?oc=5
-
-○11月12日 公正取引委員会、自動車用ミラーの美里工業に下請法違反で勧告 下請けに金型の無償保管や不当返品 日刊自動車新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Ka1R6SG9WWFh4UUlLdzlzdTd3QlBSM2k5bEVwcnZ1eGdoemVZNDZhak1EN0FDdlBvN3FWSmpfN1pxYXVVWVFXb3RqNUJQVmptMHc?oc=5
-
-○11月12日 アズビル（ブース 5−50）azbil’s road to the future シン・オートメーションがつくる持続可能な未来【IIFES出展各社紹介】 オートメーション新聞  
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wLWFpN0xCSl9VM0VTb0FEbUNKd29Xdm14TWtoeHpkY00xaEVCaVJ5bkVnRWN6V3picUdmRnhaY2N5a0xqeXRWaXpKSEVQOHNzRDEwdmx2R0g?oc=5
-
 ○11月12日 ホンダ、サステナビリティレポートを発行 日刊自動車新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zLVJVQ2lRUE94V2FtdEo2MWdnTVVvc25zMXZiZzFfMWo5aGxrN193TmZZYnV4SWFCVnYtUUFMY3hMNFoxRGt0VkZfSG11cmVKTVE?oc=5
 
@@ -20,14 +8,11 @@
 ○11月13日 〈スマホ新法、競争の行方〉アップルの牙城、崩せるか MIXI、アプリ外で決済 ゲームや書籍、収益増期待 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE8zN1hCWXNtdHRTMDFwam9sRnFCTklhVXBIX3RYZHQ1WHhVamNibVNER3ZlQ1RoQ254cTJPajFiYWgzUFI5Mng4ekhtTk4xYkU2NlpZb09wYzNCZlFTcWdGRVFUNGVwZWxDMHU0Sw?oc=5
 
-○11月13日 生産ライン 競争力の源泉（80）関口工業 表面処理に参入、内製化 日刊工業新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE44UHo5bElfUnRaZUh0NUhSUTlGamtEOEFBXzFnNlNBMk84NXp6aUNlUGtVV3VhOWFaR2hRRGJ6OHBSQ3F0aXRNT3BBeE94ZWdQV3dLQlZHSjB1NVk?oc=5
-
 ○11月13日 経営ひと言／三井ホーム・野島秀敏社長「木造で競争力」 日刊工業新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XNjhkWGljSWNjTzdvUXZBTWt5N3pfNk9uN1ltYlBvbGVwWElnWFRTd3hCYmo0WlJCWDM1VzBkMi14b2M4WkRERkRJYnpjNkdBUnQtOVRkOXZ6Wjg?oc=5
 
-○11月13日 ユニクロ、「UT」から「たまごっち」とのコラボレーションコレクションを発売 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFAzZW96Y2hqblloVDhSSllwV0pMLTBpVnpfRFB1Q0N1Y1daRHU2eWZhS1BGaFp4WkFvMTY1Z3lQa3FYcUNNMnRGNFJTMGdIZVE4TEpTU1hUWDdvRXVvTUZuMzZ3QVE5MFNMS2JnMg?oc=5
+○11月13日 生産ライン 競争力の源泉（80）関口工業 表面処理に参入、内製化 日刊工業新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE44UHo5bElfUnRaZUh0NUhSUTlGamtEOEFBXzFnNlNBMk84NXp6aUNlUGtVV3VhOWFaR2hRRGJ6OHBSQ3F0aXRNT3BBeE94ZWdQV3dLQlZHSjB1NVk?oc=5
 
 ○11月13日 フエニックス・コンタクト（ブース 6-39）電化 × ネットワーク × オートメーションで描く、持続可能な未来【IIFES出展各社紹介】 オートメーション新聞  
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qa3BHQVYtNDRKbG1sNjNVeWUyUEVVcEdwTDByQV9rVTJ4Y3F0X1FYTENSZWljbVpkcUY1dmNybGFwTlJjZDJhTTFIWkZVYnhXcjJQRTh1V1o?oc=5
@@ -44,11 +29,14 @@
 ○11月14日 日産の米国苦境、商品･コスト競争力で見劣り ホンダ協業で補完 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1PUW1YeUc3NXNYUTdSU29TX1RSY0xEd3NWNmJPVjlLbkdxTVV2NGphc1FJNWF1OHN5bGhfMUR0OFFfbjJwNGllMzZGUG5la1JGWGxFSDVUQjkwY1NOQldFTVozSHNqaDNLWnhfZg?oc=5
 
-○11月14日 混紡繊維から綿のみ回収 阪大が新技術 日刊工業新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QdjZ0UnROeDNRVHlYUHdXWjc4T2dVZnJnanZTY0FUN2RqUU5PNnlMZXkzeWtKMlRoRE85a1Bncy1HTUJKWGpCME45cmFQOVJ1eVE2Nm1TVFRVU3M?oc=5
+○11月14日 県出身２次官が講演 高松 財務・新川氏、厚労・伊原氏 持続可能な医療テーマに 四国新聞  
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXVvYlltVHlnb1NRb2hkUElIaGNqMWx6cnZ0OWRLYWFUY2I3WmZndXlpYlNHNlpDWUlUZFQyQU9SWVVvSHF5VS1QVVgyZlJxVVhmOGJBWDR6NzdCZElKOGdWQWVLV0V2YTVBbS1FLU1hb1dlOHltcWRWWVk1enlaRkxJVE9aNnRO?oc=5
 
 ○11月14日 繊維事業子会社「NBセーレン」に 日本経済新聞  
   https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM3F3YUpEMGVxOG1QOWZBdzUzdEFxY3NWS0Z1N0tQMzBid2ozaVYwUlZwcmZDZFZ2Y3pqcHlFNHhGZmJjWHhveTU2ZTRPT2NjSkVkTEFHMnYtQU55WXBHeDNxXzRaaU52RDNYelZYYnZuTEhWOXZudmdzaXk4S2NhQk52bFMwRzVsQXkwdkdUaWI2MWxWWDh6TnY3VzJkLXQ2U09DZER5dm4?oc=5
+
+○11月14日 石川県済生会金沢病院が運営するがんサロン ファッションで内面まで大事に 繊研新聞  
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zamhaVkNXaVpkelFVbWp0ZUxYR3BNaDlKVkQ3ZEZYTzVpcS0zVVhXbk1TZXM2bi15MW9GQkJvUEJyVEZHUXFGRl9fV3BoazB3bnV0eWRjdzZGS0tmSE1wQQ?oc=5
 
 ○11月14日 フランス、狭まるSHEIN包囲網 米関税余波で中国製品流入を警戒 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5VbTBPUUdGNkRNSUJlVzhWM1lOc3gxNVA5SWx5aWZhYzNKT1ZjWEdsckFuVWhndVU2cW5KdXNMNzZ6Y2FuQmhNTGhvT3pWUGhrQUJyRllldzktOVh0OEFTTFpfUDRTLW1FYmtjbQ?oc=5
@@ -59,11 +47,20 @@
 ○11月14日 コーヒー・バナナ関税下げ検討 価格上昇で米政府、エクアドル産など 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1sd0VGVURDYTJSalhRUFFESUkwWlNTR3dNcHI3S2VsNGs0bVpGWE9uMTNIN2IwOUhKMlpESXhZUUpzLTZuZ3pMby13b1gzMm5FUi1iN3oyc1lSVy1LMmYyMVlhVDR3U1lHSzR1UQ?oc=5
 
+○11月14日 愛知県蒲郡市でTGCプロデュースのファッションショー 三河木綿など魅力発信 繊研新聞  
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ENEtmOERrbk9RUm5ndG5ZOFBISTNZb0ZhTzJfZm1FVFN0aVRKZkdZTExpTkVhTmdUMnJRSHJHbzVTNnhtMnNKMFl1VXNxY0J6QWFR?oc=5
+
 ○11月14日 ケーキにクレーム…買っていない男逮捕 「ケーキを購入したら溶けた」と主張し、店からケーキ代1万円超をだまし取った疑い 仕事がない42歳、他店にもクレームをつけ「いまだに連絡がない。返金して」｜埼玉新聞｜埼玉の最新ニュース・スポーツ・地域の話題 埼玉新聞  
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Pbno2cTVoLXpWSlZVR1c2ZW8wanAyLWo5cm5zaFZGUVhtUC1qSXhkRE5nRl8zU0xiSGxqSjdEX0Y5b0J3OFNVYVQ4S2huSzdDX1BGeDN3TQ?oc=5
 
 ○11月14日 決算:東レの4〜9月、炭素繊維落ち込み純利益33%減 自社株買い500億円 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBEVmxadWtPYklRTzNyczdNS0VJelREUnQ5Sm93SG5FUEtaUFpHMlFMUkJFdFd3ZURBUzFmOXlHR3VWcENVV2JaUy1tU3FNZUJUNFJmVUVSR1lpUkxhenIzU2Ewbmx6N1piMlc4YQ?oc=5
+
+○11月14日 プレスリリース：［ふるさと納税 意識調査］ファッション好きに聞いた!ふるさと納税で「衣類・雑貨」7割が“アリ”と回答（PR TIMES） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qM0kteWpISlRuTXlQRFpKNlk1dHg3QUExVkUySDl4ZHh2MVYzR05MWmRYUkc5V0FOSHFiREdSNWhoQ1dxTFNqU3htZzFjTWJaTDlyWHYycmlJckFWMDZ1TDhVRk93MV9i?oc=5
+
+○11月14日 インドネシア、イスラムファッションで影響力首位 輸出企業も 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9TdGpmaVJnaGxOUXpyNUJzUmZEeVh2allmZEJZdzFGdm1URXk4VlgxeGxsSk5iZ2d4OHZ6NjNaaDJUR3B6Z01wV241OGI4SG1SYnBOS3JoOXIwMGV0RzV0SGR4elFWYkNvT1l0TQ?oc=5
 
 ○11月14日 新聞協会会長、AI検索の著作権侵害「法整備を急ぐ必要」 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE96eVh6cXlwZ2dkMzBMdDJVd3VOdndyS2w1YnRHTGYwdWxSTEhHaFVnUXlaeU5TNzM2azhodE9Fd3I1dWh5Z0xPRkpDazZKTUotMVR2WjRJWjk5ZmMtTjV3a2ctS1ZmNkFzS0F6LQ?oc=5
@@ -95,6 +92,12 @@
 ○11月15日 イスラムのファッションリーダー 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBQaGZpY1VPdU1oTl9KdExFaXFWVVVqTG1ZSkh4R3R5Tl9GSEk0V1ZiTnRYVnVBcDZzd1Y0emQ2RF84TlRoNUwzY1BIT0h5ZzBVYmNORlQxdUtvdHdSV1FEenIwdFhiY2V6c082ag?oc=5
 
+○11月15日 ウォール・ストリート・ジャーナル：［社説］レーガン氏とトランプ氏 関税巡る違い 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BTXI3NjVYZXlZYVZGaG1aUEtVU2VrN19acDhGTDg2MjNnVmFXNnJDcVRJYjYwbWxocnNTYk1HUEljN2tPMWFsR0pkZm5DSjA0dV9mQmRtZHVFS0NKaVRiUk0zX0RwYVVQ?oc=5
+
+○11月15日 ウォール・ストリート・ジャーナル：米関税収入大幅増、DOGE効果は薄い 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE13dVhvVm11Y3pMTVlEWGhEVGI1LVRsSEI0WkNaYmppb0d5U09JX2x6SnhjNjRPVFI1Zm9aYzNwcGNENzZkcHZIbzFrYVJjd0Z6ZTBJc184clBFcGRqR0oyOHNFMlBNSjdT?oc=5
+
 ○11月15日 【ワシントン条約５０年】持続可能な取引推進に貢献 日本も議論に積極参加を 愛媛新聞  
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGSWRESmZPWUs5bGFSVHBUQnNwN3Z4S3p5SVdYMTZ6X2NWLThZNjgzMmxzZFRuSzhEaTdYdGlzX1BncVhXNWhnNFJyOGRidDlaUnlOSnhpMHRJYkZMaUNQXzFWZw?oc=5
 
@@ -120,16 +123,16 @@
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UdFJIVldndXVvdkJEZ3U2b1gyd1VBOFZtSE5YSXlabGFDXzhkYUxxd1RqNDR3amVXR1hyQVdXSThxMFBCV2J1aUVLM254QzZ2dDVkOTlublFqM2ZQdHJ1TW9RWG55TE0?oc=5
 
 ○11月15日 米、農畜産物を相互関税から除外／国民の物価高不満高まり政策転換 四国新聞  
-  https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTBlNzhWcFFic2NxeWhkS3dmQ2tabDNuS2dvdzJCLWZmOU5aSm9uVzFPMWZYQnFwVVpQYXp0OXNDaDNEVXRKa194SVMzMlRMN2ZiLXlfcTUzcWlBTFlwbi1ITWtYZ1p6SVA2ZF9QbC12cWFlV3NoSFFybFNMM0J5LU5RMDZ5Z0JTVV9JVC1PeDdJaG9RRW5idkVBMmRoUzRqTjdJQzRSOHI?oc=5
+  https://news.google.com/rss/articles/CBMipgFBVV95cUxPd0F0UjV1M25qMmtzTFlNaVZpS2ZYa1U2aHZSOFotSHJuREE2cE1fVFQzQUVIdndVeW8ybVptTEN4Qmg3QV9kSGFoMC1ONUVBczhSRHZnZUlYaDRYN0hDcHlrbkhJU20zNEE0a21ENnNEM3RQeWpTbDRfbEFMck9MdEZyLThzWGNBTDNwR2FHWnk4ekpsWHJDTjZxQzZHVmdoVzlkVjh3?oc=5
 
 ○11月15日 K2 Pictures、台湾・TAICCAと共同で国際競争力を持つ映像作品の開発推進へ 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE94WUFTN21JR0J4SWNfWnpCWjY2WFZpbk1hSnpUdmFfWE5nNlVLa2JTaTNqbW93WEtqdlgwNm9QSjd6TzRPU0MwOFc2OV8wdzdlMFE?oc=5
 
-○11月15日 米、農畜産物を相互関税から除外 国民の物価高不満高まり政策転換 山陽新聞  
-  https://news.google.com/rss/articles/CBMilAFBVV95cUxQeHlSbkR0YUJWcWgzQ0FiSTQ4anNaYXV1Zk9DdjVjanJaX2c0RUpkUTc3M1hHM1Z2czNEMzFRZ3JQNmxaZ0JJVTlhT0oyU0ZpNk5hVUMwSTBoX2xVMWdYVWU4VzRhU0s1WE1XNzVreG5MSHEtb05lRDN1VW5Hd1RKajA3TG5hdFgwMExxNGtUZlVCR2Zo?oc=5
-
 ○11月15日 トランプ氏、「相互関税」の対象から数十の食品を除外　コーヒーやトマト、牛肉など BBC  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aWEhUSThCWm9ub1JfX01vYi1tUkFRakg3bVQwclVUUlh5R29Db21zZWxNSnZhQU9JcEZ6VHNMUU1Ob2gwR1gtRmJSWTgzaE9nSEYwUFgyVWFZLXQxX0U00gFkQVVfeXFMUFN0YmEzOUNYY0wydXpDd1FOMGNCdlo0QzUxckdxYWxHVm5CWUdXTXdIOGE3OV9OcWk5cmhpN2FUMHhuTXNHMW5zQWZDUm1MZEdiTml5ZlpaLUVSSW9kQ3dwM0o2NQ?oc=5
+
+○11月15日 渡辺美奈代、ユニクロなどファストファッションもMIXした“50代コーデ”に反響「ホワイト×ベージュコーデとっても素敵」「決まってます！」 山陽新聞  
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxORmhEQ2ExRjF5cGdvWnFVWEVLOTg4cFY1Nm9YbWNWaWtISndqd3oyempqQlV5UjBhSEEtQ2oxWGRvUGhTaG10R1QtUVNRV25xR3JPUG1iT1NZVGJsRHF2WS15TEZpN09nckNDOGRibWJLbTMwRHJBOHNnampLcjBCZXZ5WVRQZw?oc=5
 
 ○11月15日 トランプ氏、食料品220品目超の相互関税撤廃 価格高騰に対処 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBEWXByb3RvNmdwNjF2OGF1S3p4YkVQM3ZZY2FWblF4LVFNcXF4NkYzVUt1c0pCTmF4aHJnUzVNMFZwemJMeERleTU4SlVNYVJyRXI4VkFlNDFHT1JrQ1hjSllFanRhWHRBTTNWaA?oc=5
@@ -146,128 +149,38 @@
 ○11月15日 アップルを訴えたフォートナイト運営トップ「世界が競争失敗を理解」 朝日新聞  
   https://news.google.com/rss/articles/CBMickFVX3lxTE9EQmNFNkVnWF8yek9GSnMtV0h0MktreWtzSUl0NmNVVHl3dEdOQ1dnN2duLUF1RFh0TGdYemNnVHR1ZFZVRVdjenZFd3pfV0JmT2xFMW1RX0xtWDJBTHZTSzRGRjV5N0JKQUdZU01sUmZQdw?oc=5
 
+○11月15日 米、農畜産物を相互関税から除外 国民の物価高不満高まり政策転換 山陽新聞  
+  https://news.google.com/rss/articles/CBMilAFBVV95cUxQeHlSbkR0YUJWcWgzQ0FiSTQ4anNaYXV1Zk9DdjVjanJaX2c0RUpkUTc3M1hHM1Z2czNEMzFRZ3JQNmxaZ0JJVTlhT0oyU0ZpNk5hVUMwSTBoX2xVMWdYVWU4VzRhU0s1WE1XNzVreG5MSHEtb05lRDN1VW5Hd1RKajA3TG5hdFgwMExxNGtUZlVCR2Zo?oc=5
+
 ○11月15日 香川県丸亀市が「世界の持続可能な観光地TOP100選」に選出 「大江戸温泉物語 ホテルレオマの森」「NEWレオマワールド」の循環型観光の取り組みが貢献 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNlNXRFVzdjZVU0lQN1RPT2lld19KcmVfQy0wTzlXWEFaeTJwdGR5anFHR2RjM3BnYmZMYTZ4WUJSeWRlT214cWlVVXUtTmxSa1E?oc=5
 
 ○11月15日 自衛隊制服のファッションショー 仙台経済新聞  
   https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0SXpvVVljd19hZ0o2MUVUVGFNNWxtdGctYnp3bzVpQlRUb3hBU05wSFU2M3NscGNJOGZYbXk4N052OWRaRjdyOV93Xy1zaUMtbUFB?oc=5
 
-○11月15日 自衛隊制服のファッションショー 習志野経済新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0SExsVkNJM1lvLUlXMl9rQW1EcTkwb2hZVWhCY1k3OHo0X2lhVlJGWDZiRnlTRnhqYzY1RFJMbmtnVlJlV0FPcUljbzVBdzBDZlBSYm9TVQ?oc=5
-
 ○11月15日 自衛隊制服のファッションショー ひなた宮崎経済新聞  
   https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqRDFBanpyRV9BZ0pGUV9aR3dlWGNCM2RPcVhFbUdPYTRYX3FnaE44QzBZZDdPbHVpd0owclpwbUw3dDY4dURtWl9QRm9IV3lBNEJKQXFB?oc=5
-
-○11月15日 自衛隊制服のファッションショー 八王子経済新聞  
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RMGdmR3VWbkM5X1d1VnBsT0UyRHZoOWpFUlRmMjBuQnhIN2l4aThxMERRdHMwU1hYcUhEcEdEUC16VHNKdVBJTHlia3N1TGdLdVlVaEJR?oc=5
-
-○11月15日 自衛隊制服のファッションショー 松本経済新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1Um5kaUp4bW9NdEdfNDlrRGxFV3diMWpQSU5mNVNaRkdyTjk3M0hOMnhMU3hCVGJpNmRyV21YZmw0a1hEMGVfUEpVZ3g1UHB6d3h3TXNPcw?oc=5
-
-○11月15日 自衛隊制服のファッションショー 相模原町田経済新聞  
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxdXZHQnpUZ3VJZHp1cUJONWJjTjVLVkhGLVRESk5PZERaV0dKN3dFRkJDdk1ESGZzTDktRTg1V3FnTkpVSTd4NzRlVVRXeUg0RFNLXw?oc=5
-
-○11月15日 自衛隊制服のファッションショー 長崎経済新聞  
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XS0EwcWU0YWRaVUdILVd5UERTR3NUWXBtckNUU0JiQ2UwZXN0d0NsaHhDcUVOc3V6LUtpYzQyRGczeUtYMENRcjZZcUpZTEFyRE9ka0tR?oc=5
-
-○11月15日 自衛隊制服のファッションショー 小田原箱根経済新聞  
-  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sVmhzZ2JFTE1zRGJ2R0cySUZHWFQxclFNRkRJdnI4eHNKS3VqMU1PVVVkdFN4S21fSFFyM0JsYWlfWC1CT0VobjNDdzRBOTdCcmtoaHl3bnQyOGNYNWc?oc=5
-
-○11月15日 自衛隊制服のファッションショー 香港経済新聞  
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE94eG55akJFM0c4bl8xQVI3dXdLcW5TZ1loSFJyQ3VxVHVKWmZDRUx5enJpcFgxdUc2VTluUkRSeVVhODRic0ZDYmxvOC1GRzRzc3VFVFBn?oc=5
-
-○11月15日 自衛隊制服のファッションショー 鹿児島経済新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE4teEVyNWphYzRIenQ2Q1lfUmRudVI4ZGZON3JzZTY4NmtHeEpVemlsdGtYbnlHLXp5Rk83LWtsVTZaX1Bnclp1OERtSUpuSHJ6MXpUeWZMQQ?oc=5
-
-○11月15日 自衛隊制服のファッションショー 福井経済新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCSUxOYXFMTGc3ZXVYS0QtWUt4VGd5RGlzWVJmbnBabXRlczEtWUdDRUw5WTBISDFFbkZtdDNiUTVzRmZyMXNVbUsxeG82OXQ2YUE?oc=5
-
-○11月15日 自衛隊制服のファッションショー 梅田経済新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zcEsxVnVWVXhyb0FJbzNhOFV3Mkh5NU5qUEZvVWR5bml6YXNJQURRVGVPdjN3c0dhQm5lcTZTS2RUQ2t6VEs4VWhMY2RGMFNEQ2c?oc=5
-
-○11月15日 自衛隊制服のファッションショー 沼津経済新聞  
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1eVBGWDc3akEzdUdsUk91cHhqUXlIR1N0eENPSklpbml3WGtwWUNtZGdZdzVlTnc3U0hIZDVPRnBWcXVYbjZ4b25HSVQ4QUU?oc=5
-
-○11月15日 自衛隊制服のファッションショー 浜松経済新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE84TEdmazFNZWVPYXM5d2dlVHhXTVlhcmVudTd5Zkx0MHhxMFBzcnRTa1hCUldHWk9CeDUyZGtVRlZZR0xoVWt5RGpaSDlXbDNPQ1l4MkRzZw?oc=5
-
-○11月15日 自衛隊制服のファッションショー 岡山経済新聞  
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kS1l6SDEyejB3TUhWeGFXcjVhMGJRWDNVTFJxVDgyX3BCbGFTOUhFcTJUdUdVNFVfRkJOU0k0MS1ObmVJaFhvSHphbWdPOTZkOE8zLQ?oc=5
-
-○11月15日 自衛隊制服のファッションショー 弘前経済新聞  
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaSFlDRmJjRW9qMmxrdDFIVVltdnVZS3Y1X29iNWRRcG84cUFPR1ZLalk5MnVKWDlVZ2VWYUhDRlBkeHpaQW53cEJuWlh1RFlVTThvMDZn?oc=5
-
-○11月15日 自衛隊制服のファッションショー 大分経済新聞  
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEY18yR2ZIY0RROTkwSGFZaWpzRjdJbEJBREU4NnpiT1FpSU9paW5qa3RjbG5rdmRvRUhfRDA0d04yV3AyeGI4dEF0REZTU3Jj?oc=5
-
-○11月15日 自衛隊制服のファッションショー 銀座経済新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jM3gyb0JrMWlDYTh1Z3hQbFdUQUdJbC04ZXVmNUtnSno1STFBdFRDalFKckM2V2NhaVN6bmN3SkczRFpQTDFMUXpuazRrdnpSQnc?oc=5
-
-○11月15日 自衛隊制服のファッションショー 熊谷経済新聞  
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nbnlVeXBFeTV2RTA4Smh0cndldEltQk52RDc4dmIxdXczRXptaEJNbW84R21SbUhxdzBrX2lEbWpQdVpHUTI0eFJPQW5SNVh6Zzk4NE1B?oc=5
-
-○11月15日 自衛隊制服のファッションショー 松戸経済新聞  
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BcW9feC1jaW4yaWkyajEwMUNMTUhVWU1QREczdHpHZXJnTGFkRktOdTg4VUxvTG13ejM1M1M0RzNMWmxWZmlIZ3JySnUtRVlfYTYyYw?oc=5
-
-○11月15日 自衛隊制服のファッションショー 水戸経済新聞  
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE84S1dsUU1UT3AxVmFfdV9MeXVRUzhfQjJac2dJMGxTTVhPMjdKM0dIQ1ZTMG0zY21FTEpIVWRCZlgzN2tHVXFzdE1weGNPbDlT?oc=5
 
 ○11月15日 自衛隊制服のファッションショー 神戸経済新聞  
   https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ITGFaWkhzSURDandDVm5UbGQwQmFYeE5pRkE0UEFVRDh1Q2hocEVBZnRPajhINTJieUtkbkVqcG52Q1M5NUV6alhoYXZOWmxX?oc=5
 
-○11月15日 自衛隊制服のファッションショー 奈良経済新聞  
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhUE0zekxrbGxBaUVNcjJaVGVHUmtkNWxydGZiaElZNFlPc3A3ck1vS29WSDN4S2diMWJ2dTJ1Vzg1RUNpQ2owMWZDcTBJUmZP?oc=5
-
-○11月15日 自衛隊制服のファッションショー 二子玉川経済新聞  
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE43TEdaYjd1VHN0VFZKRG1TSTd0SWgzcHBBVnFIQ3BIMnFVczFLOFlHVmM0dG9wMzhHSm1yeWxMNWRyYkNTcGNiTHRLSXNUcVR4eWpiNW5R?oc=5
-
-○11月15日 自衛隊制服のファッションショー 西多摩経済新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wWmNCMkpfdTNwdFhBdGdXM0tkUl9RbjJnbEhTYURSeWpvTzZmZnJXVUN4WTNlNUlSR0JEUl9FRGg2Nzd5REs2RlFEV0x2ZFY5dWY5VU9fTQ?oc=5
-
-○11月15日 自衛隊制服のファッションショー 品川経済新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jQXB4dEd1aFlRTlM0NmtSbnFGOHpKNHQtQ2hVMDVPN1BHa2pjbmJEeHB1b1VkdWw4UjVfUkJlMVBQMm1CdTV1WGEtWVg2amtxeEJSdkd3cw?oc=5
-
 ○11月15日 自衛隊制服のファッションショー 盛岡経済新聞  
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NZXZYdHVQblFoU0YyUWtRS0U0bGVfYjJLcTRlWkhvTTF1YTFOeGFPU280eURXdkZUOEo5X1RyTmRpTnJaajJXOE4tT2NrU2tMdjV5Mw?oc=5
-
-○11月15日 自衛隊制服のファッションショー 逗子葉山経済新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NMmhtVkFrSFVsU3B6d25BVkdzR0dhN0JHMHh5VFhndzZzeEFEWW9ZNnZOU3lsX1pfdnBJRmFtQ1JwcXhqZVBDUmFSWlBnUEJxeUxLdnRlMlZBSzA?oc=5
-
-○11月15日 自衛隊制服のファッションショー 自由が丘経済新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yTFRrWUJOQnJCRWNoZG5ab1F5ajBaRk5zQzBERVlFdWJGX3Q1Mi1pdXlucDl4RHM1WTVBYXN3c3ZCYkZRMlJORkUyMXU4SFVxLXBmeEV3SQ?oc=5
 
 ○11月15日 自衛隊制服のファッションショー 高田馬場経済新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LemVLM0Nqd2dGMDdvYlFtY2NmZ1BqcVI4b3loeDZYV0hKX1d4VE1JRjNEYzJaT3lVRi1FOHI5Nm9RNlhUN3NzenhhMFg1QkhXSExwRDdqZ1JaS3c?oc=5
 
-○11月15日 自衛隊制服のファッションショー サカエ経済新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nY3VPQ0hpbmlUc2hjNXhwZm5feFVNZnU2TEI3RXQzdGJDSDhvZnRRVEZ4OEs1UVF0dE13M1g3OEZSNXJlaGRDWXRvUDlQellsRWc?oc=5
-
-○11月15日 自衛隊制服のファッションショー 富士山経済新聞  
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE43aWVfZlFUenJaRUhsMmN0MVc1VzZoaGVLNDFueHJwNEs5WkIwNC1QcU1JbW9xN0J3eFphZGp3UTFia240NS04VXRIb2ZJbkJ4NkFz?oc=5
-
-○11月15日 自衛隊制服のファッションショー 外房経済新聞  
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE15b1pQWUtyYnVrOXVCWWU4Sy1VUU5tcGVIYmpwWWp4RjNwZlZnZDdMdWpJSVN4YkxjVTdvNTJjVWZTdFFHR1lCTVh5Z19VQWZmWGhN?oc=5
-
-○11月15日 自衛隊制服のファッションショー 高松経済新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SUmNCNjVjb2gwTmNSZkZGSGJNYk5QV3Y3OVVNZGRuRVJ5X2tuTVJkMzNFRVdQeHJZQXlkaGZYYndpUUw4c1lpT2VTUkFCZFR2TjFLSDNwQQ?oc=5
-
-○11月15日 自衛隊制服のファッションショー 東大阪経済新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wX3NjdWtPSVYtanNYdmhHNmFZWGhUWEM0QUNjWEVqSnRhVnE2VTNvT05UWHdwTXI0YmNfOXlKUkNCRktUTkFWSmZ5a2JDSEtWZzBITWVHVm1iVFE?oc=5
+○11月15日 自衛隊制服のファッションショー 加古川経済新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJWFJfb0RXbVAxSkk4blJmZnNrSjJhVEUyNHNEaGpNTUlnb2RmM3ktX2dZZmtyV0hIb3ZUNENnSThrYl95Y0JmSkdxajBoWm5KRDNOUVV3?oc=5
 
 ○11月15日 自衛隊制服のファッションショー 姫路経済新聞  
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE00XzI4ZEhTazVzWXFITHlBaWx4LTdpaDRicHM2OGZJcjVtYU80NTgyMFdVZVhYWUIybDdhLXNzdW9MTHJzNGpmR1A3aHhjTUtkdUhV?oc=5
 
-○11月15日 自衛隊制服のファッションショー 横須賀経済新聞  
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yTGt3WlBnUy1NNHJUbmRlZ2EtMzBwendqTENDQlVWSHVoMnRrTDNTZmlwS3lkd2U3NlFGTUFWM3ZZck1FX0xuZnR0eDROMWJ4VUY3TWVB?oc=5
-
-○11月15日 自衛隊制服のファッションショー 春日部経済新聞  
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE11U1U1b1BZVmNGaFNfU3JaSi13dHk5T0xMTmRmZk1GMVNMaDQ5bEVpWWRFb1lDUzBvNlBwQm4zZTdpckdSOFNsYzM3aDVaUEpGRVJZV0Zn?oc=5
-
 ○11月15日 自衛隊制服のファッションショー 中野経済新聞  
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OY1RrZW1UTXBheHVJUGNxenM3aE5uUXktN1dZZTRhNnhDOERkaGlHRWJnWTQ3d1ZZS1Ewc19NOER3c1FfQnJLZ3d3dWFXUGRka3B3?oc=5
 
-○11月15日 自衛隊制服のファッションショー 鳥取経済新聞  
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBydEZaV1o4TkN2NnRaUXRzTVdrckJVUzROT3RzQTlXYjhGbkZveTBTdTJpblI5SVRtMXZUQ3FsdGNzVl9vU1hQa3RwUmlJZHFpTGxfbQ?oc=5
+○11月15日 自衛隊制服のファッションショー 千葉経済新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fTXEyWWpUQUVBanRjbVBLTVpzeDJBcU1rdkdUUk9nU0p4VlNUdWVQek80My1DNVVNWVN6cjVKS2ZTckZ4eWQ4cXdhOHVBMl9xVFE?oc=5
 
 ○11月15日 自衛隊制服のファッションショー 奄美群島南三島経済新聞  
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zODFNeUtHbkJfd09TUmN4Mk9DMVhJc0pQZWJKVnYwbk5YN2hmNXpoSjJiY3FBOWFhUmtRRGE1bDlZTU41YXlXd3pJbjNDZDZ0eFNOTzRic3Ywc0l2VkRfUDRucw?oc=5
@@ -281,8 +194,11 @@
 ○11月16日 米、対韓車関税１５％へ下げ　日ＥＵと同等、文書明記｜四国新聞WEB朝刊 四国新聞  
   https://news.google.com/rss/articles/CBMid0FVX3lxTE9Sa3VaMHdmTHF1bG5keUpZUHRXSEkyNWpBNHNwX0JieTY3SHJFWlRCNElMRzd0Wkozb0dFejJZODg5TGNSekVOQ05GMVNQcVVQQUlnUGtoel9jWDRVdTExeTZjZUdHXzhOV0dKZ1BaQnF3aVFfNnhv0gF8QVVfeXFMT1ducXpndG5RalBGSFY3ZE1ETUg2X0xFR3UyZHd1WmhRbkZtOW55ZHVhcXpYUTdWTEgzZUM4SWJoRUdScTYzNzZoRjRNZWRBdkY5cUJNVzVFY2ppNmJVemdrS3VSWWZZbndOc2dkUUprdXRzMm5HdWpsOVpyRw?oc=5
 
-○11月16日 トランプ関税、輸出への影響顕著に 17日に7〜9月実質GDP発表 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9jY2pvZlZyZ2pWV0cyUDAtTTJDSlNtbE1GREdEOThXb2wxelNzakwzV1ZiTjJBUTd0U3VSVTN5aXdYMm1ldERDOE1KN1BNZ3l3TXZ1NDhnOTFqRkU3VlRpQ3BDYzVmN3hDUUlFcA?oc=5
+○11月16日 17日 7～9月GDP発表 輸出にトランプ関税の打撃 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1Rc2U4eVVfbUVvYXlINkYyNTBLcXJnMzhxbkJkV0pxcDBMOXZFT2J0azI1WGxiUG1nTFlGUWFIUFZBLVh3WGNJQmYtcUtieGoxQ01BNVJMT1RZQngyN21veFFtYWVTcUtvU2pMOQ?oc=5
+
+○11月16日 ダイアン津田、娘・ここのさんから手紙「家では父親なんです」 『ユニクロ』“父の日篇”登場 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE93bF8wNWxpSUg5VjBEUDc5Ql94c0U2WldrV3dHOEFpd2pPcUNESWQwOWY2NVIwV3RJVWNya2NIcE1VVEFsWVExeGc2YXVtOUFpUkE?oc=5
 
 ○11月16日 （フロントライン 経済）半導体２社、人材獲得競争 ラピダスとＴＳＭＣ 朝日新聞  
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE55X0dCcXl4VTdkY3BHNVN1b0NKTmpYLWZyTndxbEhzVmpQOVRHUlZXcXVUMVpPYjVsTmxkVXRfdktSRVlaakF4blhRQXVrbXNrbE5VRHBtX1NVd3Zv?oc=5
@@ -295,6 +211,12 @@
 
 ○11月16日 木村多江、迷子になったエピソードを報告 秋ファッションに注目集まる「素敵綺麗お洒落かわいい」「美しすぎます」 山陽新聞  
   https://news.google.com/rss/articles/CBMib0FVX3lxTE1TbzNESXlNMi02UFFqSGhTS19mSFA4TWlvQW10Qi01dzVqVzliVEs3QTJSYmdGSEN4czNVckdLNlF2MGdnclkteXVsTmpVMVNzcjlqN2tVMHRmQnlEQlFvZy1Wc0d0QWtPZDBNUDFSRQ?oc=5
+
+○11月16日 口コミで看板変える葬儀社に要注意 過当競争の業界 霊安室争奪戦も 朝日新聞  
+  https://news.google.com/rss/articles/CBMigwFBVV95cUxNRGpyOHEtUXFyZGVocmxyZW04TzItT204VFd2X2Y4RUhoaWx0aWs2aWs2ZEhtN05fSTFST2FrMkN5Q2ZFM0hwcTBlZTNyUlBPZ2l3dEhmb0Jkb01QRllPWVJpZ2RMeUt0UzRSaHhXOEY0MkRLZmhWanlYbWI5ZWpUdXNfdw?oc=5
+
+○11月16日 米レース「NASCAR」車両が走行披露 高関税下で日米交流 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE94NDZwVEMyLUFPaWsxMEtHX1dNLUFOZ0lQbnRyT2EyWnFrS0U0SFgzQURWa1dSNUhjMkd2ZUNhZ2dXekpMZ0JWR3pZblI0QkJBRnRwTWdYNzFfYmtEWEtIN3NCQk1oU0pkRU9mcw?oc=5
 
 【自由民主党】
 ○11月5日　政調、税制調査会　小委員会
