@@ -1,54 +1,9 @@
 【ニュース】
-○11月21日 アニメ輸出にもトランプ関税の影 ＮＹイベント、値上げで買い控え 山陽新聞  
-  https://news.google.com/rss/articles/CBMickFVX3lxTE1qT0JEVWY1NDlyNDcyeFk3Q05EZERHd0VoQmE3MXA2X2RnRVBLNVhYaXM3OFNmRlBQZ0U4M0oyOTZmM2VZcDZIbTE3WVc3MURSTmFQa3p3NlhVU2FYeGt0eXRfem8xVmdRSlprb0V1c1QzZw?oc=5
-
-○11月21日 【本革の未来を支える選択】カワニシカバンが“バラキズやトラ”を個性として採用。革のサステナビリティに挑戦！返品保証付きで挑む「素材との共生」 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZRndfM3V3TGN0WGtpQWJyYl9LdWhNdloxbVNvWnVFX3VIOVNJcUNzT1ZNdERFRUR2a3VENlB0ZVpSRm5SenV1c3hwblFuZjBRVEE?oc=5
-
-○11月21日 関門エリアが「世界の持続可能な観光地 TOP100」に初選出!フランスで関門エリアの魅力を発信&両市長を表敬訪問 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE50NTBEOTI1aXQ0R205RlRFSEV3Q2pNS2t0Mk85QzVESlM1SnBnYllsUWJFUEZER21pTjFJZG9TUHAwNVBpeWQwN2p2dlRQell3dlE?oc=5
-
-○11月21日 【座談会】豪州LNGの現状と課題/今後も重要な供給源だが、国際競争力失うリスクも ガスエネルギー新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xcERTY01OVzJiNmNfamxhNnpkR1JLcmRKMG9wckVSTTlFdDFVeW1HT2hndGkzVmZJQWtTTDdnWWRiaFJRYXRESEstUE9TUjNpb1F5V1FTSQ?oc=5
-
-○11月22日 （決算トーク）「関税影響小さいトレカに期待」 バンダイナムコHDの浅古有寿社長 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE51YkNyaEhzTGRHeTZHdnR2VU13cnlEQzY4T0E4b0llaUVrMV9LS0hfS0F6c25uRElORVBKVTFyMzJDQU1vR1IwSWhYQWxtcDFCYnRjbXBkTHhNb2dWajNZMHR3V09LMzBhQ210YQ?oc=5
-
-○11月22日 米経常赤字４２・９％減 ４～６月期、トランプ関税影響か 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xakNxLWZHcFQxNGhGdjMxMm9xMFlBRHpGWjByWVlDa2hhLTNabEV0bzA5aVoxZnB5SnhEMFNSZlhJcFFPM1Fmc0RxU1pQSEdsdVE?oc=5
-
-○11月22日 いすゞ純利益１１％減 ９月中間、米関税や為替で 山陽新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE11RWdMdmpVS0ZGY0pRbWFfQnNvdGRlNUxobUVmQkpWdDdxTEtPU2dic05WMk5EcTdDWTV6RF96TWlYT3lKZzA0UDlJdVVxZ2EtSktxczlRV1dSSVU2aDZjWTI0Um5SMjE4eUY3MnotVQ?oc=5
-
-○11月22日 日銀、現行の政策金利維持へ ０・５％程度、関税合意影響見て 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sa2I0dGRDN24tTFU4LWc3TVE5ZnctQ0FFemNVMEtCaFozMzltS3NJeXdUcEljVkVOOElhOVBUUkVFWHFBODhmbnk1bUY1VF9tbnc?oc=5
-
-○11月22日 ブラジル産の農産物を関税除外に コーヒーや牛肉など追加４０％分 山陽新聞  
-  https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcTVwZTh0NGQ1Rk9KZXFpLXR2RjZQVDBfSlEyc2RYSzJaRnNZTFI1MFdFSEcwcWlHQ01aMjlGS1VjUkV2bjNYREJFa1VaVVdONmxBN2FJZFRVRkJUd1phY0ozR0dmZWVLdmIxV1B2MkFRLVhPX0NueExnYW9hMmR5ekp4SUFnVXRn?oc=5
-
-○11月22日 日銀総裁、利上げ「情報必要」 米政権の関税政策の影響注視 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VRlVsQ2dGRUpRaXZidXY3ZjRKbTVFeWpHWkJxQjEwb25fd1pFdTRQUHpVdjg1LVYzS2FJbm9UbmNEY2J0MWM5REUtaW1Senhrb0E?oc=5
-
-○11月22日 ユニクロ、梅田に「西日本最大の店舗」誕生決定 LINKS UMEDA店→グローバル旗艦店「UNIQLO UMEDA」 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE93QlVDQVM1MEktTE1oemVINVVoTk1rR1VQRElud1RreEVaSFI4dTlZX3ZaWWk0NmVrWEJnV2RiWGo1S1FEZ1p5QUpJbmQyS0JYVXc?oc=5
-
-○11月23日 Ｇ２０、米抜きで首脳宣言　トランプ関税「経済分断」｜四国新聞WEB朝刊 四国新聞  
-  https://news.google.com/rss/articles/CBMifEFVX3lxTFAxMXdSd3VYVE51SGhsVTdWZUUtN2htQU1KMTBiczZnRE5oM1p5R3JKZ2JWOHZ2ZEh1blhDS3VZR2tPMC1ySDRNM3hNcXBvaFZBZnJ1SF9XMlF6cndEWVhVQUNhNmJaN2lyRmtRS2pOQkYzQ2xBYVUwRlA0aUjSAXxBVV95cUxQMTF3Und1WFROdUhobFU3VmVFLTdobUFNSjEwYnM2Z0ROaDNaeUdySmdiVjh2dmRIdW5YQ0t1WUdrTzAtckg0TTN4TXFwb2hWQWZydUhfVzJRenJ3RFlYVUFDYTZiWjdpckZrUUtqTkJGM0NsQWFVMEZQNGlI?oc=5
-
 ○11月23日 原発再稼働が遅れる東日本、次は北海道 産業競争力も左右 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1TRG5WQUgzQlVMQUpHUGpzMG1zeUhOMWV2VDZqdXdrcEhsMXhHTkZIbmkwTERJNFB6LVE5b1pwSlJMVUN3VTM5TGNPdjBQQjM4VW5CXzZXcDZETmlEVHFXcFlHUnVkY0NFV1o2MQ?oc=5
 
 ○11月23日 原発再稼働、東日本は遅れ 電力料金が産業競争力に直結 泊が次の候補 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjhuR1VEZy0tSzNWeDFycENBSDVidTB0TWk3S3ZBX0VuSmdBTUtaZ0pfbFlVUFNPM00yMlU2MmRtblRveGZ2ZlZTOUMzdl8tVndEQUFTb2pKS1kwVE85d1RiT1RCZlI1TnNKdHd1Sm9QbHkxeDNkaGNCLXJkTDVvNDVBbU8taXRHS0RlQnFucTloTThLd1FvYW5PVWJlWXM5Nmc?oc=5
-
-○11月23日 人材獲得競争が激化する今、「選ばれる企業」へどう変わるか。 | 鹿児島・九州プレスリリース | 生活情報 | くらし 南日本新聞  
-  https://news.google.com/rss/articles/CBMijwFBVV95cUxPZFlyUmlPcmU5NnRlcjNkd0JTa1oxZkdtazRmblkzX20xb0tZWkpsRTYtMVA5SHF3TFdHQmZIOTNZSVJYQTdOT1JJXzZ1bGc0X1M1UHQ3OUFDY2tGV3pCS2hFbTNVZnpqRE0xUEs0T0RVM0NCcXJBSVVqMGhZZU0yN1FycmhUTXFZeFJlVmJ3OA?oc=5
-
-○11月23日 米関税影響「まだ限定的」 日銀・中川委員、AI投資〝修正〟リスク言及 観光経済新聞  
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE96TEYtbzNaeE1hU0w3V1M2SUs0Y3o0bzlGbEZHV2RsMFBzZ1EtUXJzTF9nT1drblZ1WTVpNzVxQUFsN2hOWnBkaDI0Tnh5RzBUWnk4WA?oc=5
-
-○11月23日 【セミナー開催告知】検索順位で競争に勝つ！SEO基本マスターセミナーを名古屋で開催(参加無料) 朝日新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaQ0NmeHR2ZUNCZE9rZEZZSENaQ2hDUHlSNUZvcEpQcE45ZktrQmtocXFuT2dic0JxbUpIc09ZWC1uT3pqVGp2cFJTUm1FbXRwcS03QnJURmViS0U?oc=5
+  https://news.google.com/rss/articles/CBMipgFBVV95cUxORWZPM0dCcFRYVnFRQ1RlZFlzMjlxYk9qRjJUeEthT2JsX09PVHBwZ1JKbnh4UmZ1LS1aU3R4RU1KSGpyMTZaYnY3ckhPR2RqWmpubzFvLWg4b3lfVHJ1SkRYX2VzSnZub0dZRWJKMmNzZUhuZ1R4eDUyakU1eDNyMktiUEptUWFsbXdkQjQybklPY2tqY2g0UXg5SEQwdFZNMEhub1N3?oc=5
 
 ○11月23日 K2 Pictures、台湾・TAICCAと共同で国際競争力を持つ映像作品の開発推進へ 山陽新聞  
   https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSV2EwY2h5N203SHYwMmlHMGJjYmNaYmVYemhTbDFYV3hsNGh5ZmpNSW84ZHc2Rk9GbVlUUllvTDdvODhWRWs2V09oSjVWOUIzYndrckl4cndHbWZNcGN6Tg?oc=5
@@ -62,20 +17,17 @@
 ○11月24日 持続可能な社会保障（1）給付の低下と負担の上昇 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE41MTViWUlYTVpXVWZBVVM4bDg1QXJBOU94TWE3dFpfNFYwZHFOLW43bDk2V293NjhPdUdTZDZqSUNyZnVrc3Rwd1BXOVc4M001VFlyT1I3SUh5MFF3RFFDNFY0b1llaUtYVjl3bw?oc=5
 
-○11月24日 【岡山大学】World Robot Summit 2025で標準性能評価ドローンチャレンジ決勝進出！ 持続可能な社会と地域貢献に貢献するロボティクス技術を披露 山陽新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TS1JBQW13dUliZHB2MXBmbHdyc0dxQUFxcV9SdUo3Rnk1UEJHc2pjNHpGdFV3WmNycHpPS3F6UDU2TndLcmxDaEM1d0FCNFVmY0JhbS14MnMxd2c?oc=5
-
 ○11月24日 トランプ関税訴訟、「大統領の暴走封じ」も壁か 前政権を阻止 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBJTHJITmFvdkVGNm9xV1ZKb0xHblhKRldkQm53aDNtZ2U2WEYyY0ZCMDlVLXJoTWUwMXNLNFRtbU0xS1BNOFZFaWRjVFNKWGZtb1dtQk1Hei1WM2hzZFd5RzRoMlFmOUdfYjU2dQ?oc=5
 
 ○11月24日 関税影響の適応進む 日本企業、価格転嫁で吸収 日刊工業新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE05aUdCcmdWNlJkQVlZdVN6RWdldThiRWhDSi1lN1NoRkJBZDNXNC1rNjE1cnVZNDdjTVBZa0x2UjZsLUZRZUhHZmdVaHBzT2tCV2UyclNTbVBIbHM?oc=5
 
+○11月24日 生産性の「健全な競争」目指す 山岸浩一建設振興課長 建通新聞  
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxQNUxCWW9oeVFZVENUMG53Vkk1V2xiWDNKQ0VRQ05aZmNrQ3d3QzhVN1lZX240Mlg1QjBVSW9qZ1hZX2o5N3BXdHVIOG9YMUY2Qm85ekVCS3NlY2wyanp0NHlXQ1BENkU5NW0xaTB5UUpJQTJDMlNvVEVrVjJRX2VGbA?oc=5
+
 ○11月24日 著者登場／丹下英明氏『地域で生き残る中小企業のためのサステナビリティ経営の進め方』 日刊工業新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DN2dSLTI0a1R4ZEFZd3lSanBES3paTmtNNk5URlRWc0lWTDltQ3lyREhqX1JzcGdpdnpaMER0TXhSZWdBVElFSW5wakxrZnU0ZTZRZi1uSEprVkU?oc=5
-
-○11月24日 井原でデニムファッションショー 不登校経験者らモデルに挑戦 山陽新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WdWFwcjdWLTNIdDdrR3Jvbl9YTHNWaW00OVktQjh1VUhTaEN5eEJCLU1QQ1N6RGg3Smo0UGh3VHNMa0E0RUlGRXRXQWxid0VnaXVZRVlxNHBaeW81U05DZ3pRYi1IYUhK?oc=5
 
 ○11月24日 米中「関税戦争」の源流に「国家の恥辱」あの戦争の歴史 朝日新聞  
   https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmR4YktMZEhWdXlxUFBEUFpFZDFtZVVRU0VZZ0lwS0pPZGRrbzBlTXd3X0p3eVNQVXkxTnlRc25XOVlBckJ3eGZ1QV9Nb2FYVjdKQzFvZUhlOVFmU3JSdUhtQjRQOFptNUEtMmdqRTJzZW5GVTdpbHJUdkd0MVRValZQaw?oc=5
@@ -98,9 +50,6 @@
 ○11月25日 香川県丸亀市が「世界の持続可能な観光地TOP100選」に選出 「大江戸温泉物語 ホテルレオマの森」「NEWレオマワールド」の循環型観光の取り組みが貢献 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNlNXRFVzdjZVU0lQN1RPT2lld19KcmVfQy0wTzlXWEFaeTJwdGR5anFHR2RjM3BnYmZMYTZ4WUJSeWRlT214cWlVVXUtTmxSa1E?oc=5
 
-○11月25日 櫻坂46山川宇衣、人生初ファッション誌撮影 さくら色の夏服で透明感あふれるショット披露 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mdEtfUGl5UnJnOGt5WjdjLWhhY191elhTZEY4TUxRQzVqblBIQjVGMjNNcGhvZVBoRUZNSGNyNk1UTDRHT2dsWWFYTHl6N1lFTkE?oc=5
-
 ○11月25日 持続可能な社会保障（2）急ピッチな負担上昇に備える 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE0teDZLMWpkMEJOeVNXbkxiN0pvRzEwMDdmN3hmUF9oX09ITTMycm1PdGg2X1ZUeS1PelI5NVByUWNpQmFnblp0Qk12Y2I0enZaUmxPclJPY2ltVWRxdjBwbGt0TTE1VHl4THY1dA?oc=5
 
@@ -108,7 +57,7 @@
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1YNGxCUUE4bTJYeV82ZDFoYjltZTZfUVlXTUVvV2tLZlFJdWNrcTdScHN6TmhwX2pmeVRFY2xMNmg1U3l5WWhWRi1mZ1RTazEwMklBREhoVV85VnotTFU5MmRfOWFNX0J0MTBwdA?oc=5
 
 ○11月25日 バルコス、ファッションM&A強化 3年後に売上高100億円へ 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiogFBVV95cUxPU2l5UEJYN25XNnlxV2QwMVZtYWQwYU91ak1BSVgyUzZ4bDZuVmhzVnZFcmZ3aVY5VVRYeVFGblRab29Del9SLTFCRGJvM2luYVRYSC1RS1hLbHVsTW1qdGZMUlVySDgwc1J3QTdLYVMtM1ZWaTJLOWR3ZGFmcTFyNFFLU0FTa2tWVXJSbVpoeExnMy1ZZnpuQUZpUW94NzJRc1E?oc=5
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbEdhSWo0WFltUlRWR1ZRSW43N2w5Y1Jmb3NfS1I2TkFqcVh5YUZOT0JILV9oRV8yYmY1dGZEbU9waHRxWU9COW5rbXpRbGZBX0JZdzBheVFaQUVBdmlpUEVsNUlTelVHYk4zengyQ2ROVHlDUXh5QVVsR1FCazVBcDFIcmRiamtCMkRWdkloc2F3cUJzajBxY0J3S2NJU2R6SmZpSEs1MmE?oc=5
 
 ○11月25日 米、農畜産物を相互関税から除外 国民の物価高不満高まり政策転換 山陽新聞  
   https://news.google.com/rss/articles/CBMioAFBVV95cUxNUVhWYnhTUTlOck15YTVvbkpmcnhjQWUyOG5aZzVlb0NMRnpad05jT05ZQWFyZ2J4Q0h0Q1huSUx1Ti1mR0NibWV3c2pYN2IxbC1FRGRlVElqenIwTHNSSnp5VkRpZ0RidENRTjRzcFA4blZSVUo0eDhqVFRjczV2dDJMTFhLeTJBUzRfR1cxZkwxVUhfWTZ2c3hxdURBMldl?oc=5
@@ -116,23 +65,68 @@
 ○11月25日 競争激化する国内キャンピングカー市場 多様なアイデアでニーズをつかめ 20年で保有台数は3倍超に 日刊自動車新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWSGVNS0U0QmZxcWdGd0p4b2cxblRQbWZOSDdzbzI4dE1MLVJvaGxoNlFGSXhMeHFTNlVDdzVkc2N5aGZZbWQxU3RlcXpVNS1TMEE?oc=5
 
-○11月25日 米国、EUの鉄鋼関税引下げに「交換条件」 デジタル規制の緩和要求 朝日新聞  
+○11月25日 米、EUの鉄鋼関税引き下げに「交換条件」 デジタル規制の緩和要求 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yZk5rVEkyRUQwc1FmUFJweDhKcFVLNHk1LXhNQUNubE0tRDJiN3BWeXN4MFdYMTFmTXhkNFlvQnJDdm1RUTFJS1JqSFR2eHZlcFZSWC1zcE1yS0lTUGFycTF1aDM5Mlk?oc=5
+
+○11月25日 米国、EUの鉄鋼関税引下げに「交換条件」 デジタル規制の緩和要求 [トランプ再来] 朝日新聞  
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxOOU1VY0VtT0dKREhLUVlKNWEyTm5URzRVZzJna2FWWjJZTlhkTGJQLUIySHR4anBQdWdBOE1UaDBZY3lhZVFWYkoyalFoZVJMQUN1dnlDTTRRb250TFpTSU93YmxwRVBYd2RaWW9VZi1FX01ZVkpyZmh6VS04YWh6MWNKUUg0Ulk?oc=5
+
+○11月25日 持続可能な除雪へ、ＩＣＴで負担軽減 今冬の県管理道路、担い手不足に対応 山形新聞  
+  https://news.google.com/rss/articles/CBMib0FVX3lxTFBDbG9ELUN5cEhIMXNUX0hqY2t4MXU3MVFrNUw1dlZNUHJXWmIyWjdzaGJNU0s4c1hxN0FnV2ZiNGlaOWxYZmhJdjhWQUFockFGZUh5UmN6RlpYNmZ3M2JzNXM3Y1VPcWphNDBNUlhYNA?oc=5
 
 ○11月25日 「ダークパターン」規制できるか 消費者庁、契約解除など議論開始 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1jelFQTlI3OEZOZkZlM296ZGs3NDBUdGRDVnJHWms1T3E0SmR4S1lLS3pydXZTSnJxdjMteXF6Ym9PSF9RZzlJZlJYZEowSUFtUlJjTV9zTTlFdUZBdWtTUkl0S3ZMUkJYN2p2dA?oc=5
 
 ○11月25日 ソフトバンクG株価5%安 米グーグルとOpenAIの競争激化懸念 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUpFdWhpVDJoU3B4dUExZmNYOV9hV0s4TlN1dnRQejFPa0kzRUtfUllxdkFZbVl1cTZ1VG00cWhTRkZGYnJ1THdDNlk5SlA5X1RuN25kY0VuakZ2Wl9YcGZVUTdwcEQ5ZzJDU2xSa0MyTk1WdWpjMWJyQmNqNE9MVTQwU0ZOMnE0bS1lY2tHcEtCZTRQR2NDZHBmZk53V2RBeFE?oc=5
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTVVHSllfaWQ4UnU4VGVzLXkwSENfMDg1VTZ4SUF1QmRRVU5HUHNheGJfQXRlMC16a0xuRWdkUGdRbmE4ODA0eGhuSzZ4TTBmNEpfcmxUZU9veGNObjVybVc3cUExSWRRekV1X3NwV3VhU1Z3eEFMbXI1QzNRS3J1Vks3ZmhJQTBwUHBoUlNUT0gzSU5wMzFiTUlJNTNFV2E3NnNNZVRiQU8?oc=5
 
 ○11月25日 ソフトバンクG株価5%安 出資先のOpenAI、Googleとの競争激化懸念 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE94c3QtUldFenl1S3QzUzZweTl5SEdxV1VaSjhGTkFYRHdNUlViUG9jQmM5RU1raC1MNzRVaEhmZjlWZHFkTFRXSkhkUUVMOUZWbWJ5YWZ3Nm9WajhUUVN6SjJDTUtTSFF4TUNyNA?oc=5
 
-○11月25日 米、EUにデジタル規制の見直し要求 鉄鋼関税引き下げの条件に 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1UazROVVhsRnRhRHRSQm5haGcyNHU0Ri1LLTJqWWY4QVlQdHJSQ3NKRmlxM0dja2FyVWFwZVpTd1dFeGRGY3lDMzVOX1lvNndMaVRZSDJpYTNrX0hJOXFYdFpCZEZKSzNoSGVwUQ?oc=5
+○11月25日 巨人の田中将大が減俸で契約更改 来季へ「競争に勝っていかないと」 [巨人（読売ジャイアンツ）] 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02ZGVZRFZzWEV3SGtTYmlMemlyTEQ0NzZwUVhIODJ5VFlURXR0TnBicjYwbGE0dDFMbTN1S0RMM3BZRnR6X0xET0ZuTmh0OURRc3cyNXE5NEdtM1NjSVpPLXRmOGFKdUk?oc=5
 
-○11月25日 持続可能な除雪へ、ＩＣＴで負担軽減 今冬の県管理道路、担い手不足に対応 山形新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTFBDbG9ELUN5cEhIMXNUX0hqY2t4MXU3MVFrNUw1dlZNUHJXWmIyWjdzaGJNU0s4c1hxN0FnV2ZiNGlaOWxYZmhJdjhWQUFockFGZUh5UmN6RlpYNmZ3M2JzNXM3Y1VPcWphNDBNUlhYNA?oc=5
+○11月25日 設備投資推進へ減税案、投資額の8%を法人税から控除 税制改正で [トランプ関税] 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0Rk83bTRlTEdPeDd2Mjd1VWlmc08zSk5oU0IyVE05TE5pbXY5U1JBZ2paR1hlUEdNWnhXRGg4bkhQZ0ktbUlNdjV1X2xVODBhaXluSUo3NGRvUHU0VVlaU0wxcnBVaUE?oc=5
+
+○11月25日 バースデイ、「ファッションセンターしまむら西友大森店」店舗内に 『バースデイ』POP UP STORE を11/26（水）オープン！ 繊研新聞  
+  https://news.google.com/rss/articles/CBMirgFBVV95cUxONUFFT3FiMjFBZ0ZTUWVnc3ZRb25ybnQwVlJTcmFwbGFWSzlTQlVKNXRhRW82eHhyZEdUbmR2TnpSQ2R2TTZmbkhUZzVTQ2MyeEp6ZExwNl9pajkxWnhCV2RzVlhWUVBxeTRvQk1kS1VtNTlkS1c1eXVGLWZhN05MNEw1bVNEUHBIYkpleFpubjZUMzFCY2EwTnpFZDFjZ1Jnakhkb1RLLTQ5cl9wWEE?oc=5
+
+○11月25日 大阪発「サステナブルファッション・プラットフォーム協議会」設立 官民一体で循環経済の実現を目指す 繊研新聞  
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkempvNXl0WklhcU9xWmE2aEgxUS1Td05Wd1R6bjNOaXZwRldGNlRITzZ1ZkY2V0w3dndyWHd4a2p1MC1jemxhMk04dFRpSDN0WGJyQ21vbTQ?oc=5
+
+○11月25日 「ファッションセンターしまむら 西友大森店」が2階に入る「西友大森店」外観（写真提供＝しまむら） 品川経済新聞  
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFByY3NkNDBZcGxMdTNfeU5NNlpHX3hNNEJDX0FtRnlMTGRSY1ZGN0xEN0NQVHJDV3h5a2tuVHR3dng1TXhoN3EwNUIzY01iOHBLMmdrNEw1dGw?oc=5
+
+○11月26日 EUが海外からの投資規制強化へ、中国の競争力に対抗 日本経済新聞  
+  https://news.google.com/rss/articles/CBMid0FVX3lxTFBnUFZJNEtNWkhZNGdKQmQwSnJnenR2Q002UTRaR2ZLR3h6bmxDVGc2TExDR3g3bDM1SERHNm9jN2Y2eHREZXNTN0V2Wmk3dTRZTUVZWS0xV0ZES0FVV25VMEpCSTVNMUd2WWZ0eHI1SGRoNnh6MWk4?oc=5
+
+○11月26日 米、EUに「デジタル規制見直しを」 鉄鋼関税下げの条件に 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBkb19fRklwWDZreE9HN0ZlTlRfZ3p5eFN6akJReU1BVC1aM3F5Vm1QT2dxSV9ydFJULVppTzRGemx1MzRqTDVxZGpPZ3N4Yi05LUdHUldWVTJaNWpHZEFOS05TdjR4cGZvZE8xbA?oc=5
+
+○11月26日 国内設備投資に8%減税 経産省、来年度税制改正で検討 関税影響なら15%優遇 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5Sa01UQlZKcmRXaktaMXh5Smp5NWVQQkFfNjNhRUQ4T3B4Z2hKVnk0eEZFMnlZdDRZczI5ZzhzRERKdUlXQkU2MWFiR0VSQ0RtdGJ6bmNCMEF1Zk1LMFZCLW1GelJFU19pbE4yMQ?oc=5
+
+○11月26日 決算ランキング（1）SBGや日立、AI恩恵で増益 4～9月、最終損益増減額 車は米関税で悪化鮮明 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE10M251b0lJeHRIZDBoS2pWdmRiaHMxUnI1Ql9WdlFsY3liaGJFUS1pT2VVc25NakxnVkpaMUZGV3RqT0U1ZXRrVjdBVHZKV25IUVJnSEtmaXByX1Z3UndVS21wdURQdFV2Z3JQdw?oc=5
+
+○11月26日 AIモデル開発に巨額マネー 価格競争、投資回収難しく 米エンジェル投資家ジェイソン・カラカニス氏 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE82cU9UamVVemxxQk1CUjJPSXF5bkxPVDJlRmREUE55MHRrcG9Ob25BWXp6QnlObGxKWWk4UUlrbEVMWWphU29FWUtDelE5V3N0eThfZXJaSDlsZHFiTjI3RXhBRllfR29DaXFsYg?oc=5
+
+○11月26日 合理的なサステナビリティー 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE0yUF9nRjRiTV9iaEdlOEliQzV5QzNnX1JkOWVOS2NvTUhISzVUdTc1aExnV2p5SUwtenJDd3VvVXIzZklaRkhpclQta0VqMUt0WDBTU0Y2VHpXd2RNNFo5T0VZWE1tZXM4NWZtVQ?oc=5
+
+○11月26日 持続可能な社会保障（3）「インデクセーション」の視点 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9YUE5KaS1CdURIR3VBUlVMcW5PVVVjaG5ocUxqdkpmaXZsTDZFWkQ2Mlk1Z1RiTGxRX1h5dG11cHowNGd3dE5tcUwwR0kyazNCVEZNc3M3al9PMkJ5VXB5ZUx6elFDV2dzUDBRag?oc=5
+
+○11月26日 国連機関「持続可能な観光地域」 小豆島２町、中四国初選出 産業、文化、自然で振興 四国新聞  
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcGdlVVBUSWpEQnVaczhaTnlHdk1CNC14ZWV4TW5xdDhkNzc1RDBnTWVXSDRmZzI0c2JDUlVpaWVsM01vTnFfWG9TUXE2RTRhQVRXNHJqR3RWN2pMVWVUcG5qNW1ibVV2d1RhVHprZU85TDJwOFlXczJMck9LWTRham5IUHhRYmt3?oc=5
+
+○11月26日 兵庫の上場企業75%が増収予想 26年3月期 トランプ関税の影響額は引き下げる動きも|経済ニュース 神戸新聞  
+  https://news.google.com/rss/articles/CBMibkFVX3lxTFA5ZmZYLWhsSnZkby1QZFBzUFpSNW53N1BFVkNYb2lUN1dRTGVVYTJIQnkzd0lPZkwtLXhxcExyV1VKdG9laFUtSEJHT3M5R0g2U0kteVZ5SF9WTlRQLXBZbFUyOC1jNG1zRkRsTHlB?oc=5
+
+○11月26日 MNインターファッション26年秋冬素材 月別の気温や着用シーンを意識 繊研新聞  
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaYnVlWHBpbXRfYmp5M3F5SGdZd2k3OFBoeTVGMWtGSXlMNDlDYnJxWkF0U1NPbGI5ODhfdGdpNGpKaDBReno0V01KV3VhS3VKdDVTNFlzcTRFQXhNanc?oc=5
 
 【自由民主党】
 ○11月19日　政調、税制調査会　勉強会
@@ -144,15 +138,16 @@
 ○11月21日　政調、税制調査会　小委員会
 　部会等重点要望ヒアリング
 
+○11月26日　政調、税制調査会　小委員会
+　主要項目① ・令和8年度改正に当たっての留意事項 ・個人所得課税①（所得税・個人住民税） ・個人所得課税②（住宅ローン・NISA） ・インボイス導入に係る経過措置 ・納税環境整備
+
 【経済産業省】
 !!!!!!!!!!!!自分で調べてください！！！！！！！
 【首相官邸】
 指定したキーワードを含む新着情報は見つかりませんでした。
 
 【内閣府】
-○11月21日　第10回 支払手段の多様化と消費者問題に関する専門調査会【11月28日開催】
-　https://www.cao.go.jp/consumer/kabusoshiki/payment/010/kaisai/index.html
-
+該当データなし
 【消費者委員会】
 ○11月20日	消費者委員会本会議（第475回）の資料を掲載しました。
 　https://www.cao.go.jp/consumer/iinkai/2025/475/shiryou/index.html
