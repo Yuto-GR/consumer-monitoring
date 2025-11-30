@@ -1,13 +1,4 @@
 【ニュース】
-○11月26日 EcoVadis（エコバディス）のサステナビリティ評価でシルバーメダルを取得しました 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SbEh4VzFRUTdNa0tPWHVXQVd1N0J6UkExenVScGlMekQ5a0xxOUdSNEJydTNVOVl3M29pV3A1YVNJVm5iYkM4bkdDVTZQZmVjRGc?oc=5
-
-○11月26日 累計700社・2,000件のサステナビリティ経営を支援、エスプールブルードットグリーン 朝日新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HZHlub1FGZjd6X3pyR3hYOWlVd1R6QmVwM2RUOV9UY21rdWJKaTlkbVJKeUtPV2dIX2hsWS03U0JwM1gyVTVZOGxKN3JiLVdRbWJfakFEUkgydEU?oc=5
-
-○11月26日 工作機械、予想外の輸出最高 米鉄鋼アルミ関税運用がビジネスを翻弄 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE8wVWpscl9RRVpOTXJsVm5NYWVZNUtwQk1sT3J4aHh2NmZoOUlfWnNjWXZsTU9LN0k3RnIxLTZjYU5GMnZ1aDFiaUpCallyMkVuVzllbG9mZ1VSOWZ4NW1NUU9KQTV5VklmMU4zRA?oc=5
-
 ○11月26日 米関税の「影響ある」３４・９％ 岡山県内の自動車関連企業調査 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JSy04RWZZbFNuUHZ0Y2JRZGZOZjE3XzF2d3QxZkU3d1BuVkM2TzZ5c2pJRjdJV19uVmkxODg1Q0NIT05Fd3BmY3B5RlpadkRkaWc?oc=5
 
@@ -17,14 +8,17 @@
 ○11月27日 米関税訴訟「暴走封じ」論点 トランプ政策、最高裁判断迫る 議会による権限を重視 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZRHNmYXlMdm1paFhoUXdJd1BEd0E2MEU0NFZNR1pUVjk1ZzNEQ3JwTHN6elRDRmdPa1J4RVYzLS1BcXN2RWkxU2IxalVwNkQxTFRsVW9CMFBQUHJsQmdiVTRjX2hTZmtNWHdqcA?oc=5
 
+○11月27日 工作機械、海外受注最高 10月21%増、米向け下支え 関税の影響見通せず 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1zZXg3STdvbWJFdTZJdUhoV19RZ0hwcU9LZ0ZQeVlwLU82WjN1LUVhMnVocG9aWEpPMTFmZXFIYTE0aGxVcVpIM2VEQ3Nnc2dfd1BjWWVvZVpXQVJJaHBEUS0zLUVOdzQxRzhwcQ?oc=5
+
 ○11月27日 次世代造船、国内5社連合 世界で競争力 まず液化CO2運搬船 郵船など海運大手、設計元に出資 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1lcThyNi0zXzk3LTd3elVNcnIwSGpVS2g2ZE53NXhUQnFMNURsT3pJV1RwalJvYmNLdnFxOFhFZkgtUkZ5MlNtUDJGQVpmb0pObE1LZEllNlQ3akFWajRxWXpiRFJpUkR2QnE1NA?oc=5
 
 ○11月27日 生産ライン 競争力の源泉（82）クアーズテック・秦野事業所 ロボ1台で4人分作業 日刊工業新聞  
   https://news.google.com/rss/articles/CBMidEFVX3lxTE5GdS02YkxPMDFFcGRJZGs0V25lWnA3UV9ocjlEbG9vRUsyVDFWcDltQ1RFSW5FOWM0YjBTcnBhNkhQc0xiYUM3eXFLVXplcEw2eWktb01IOFVIX0JaUS1tN2FkRGJIWG1VUkR6Y0NPbnNIaFFV?oc=5
 
-○11月27日 生産ライン 競争力の源泉（82）クアーズテック・秦野事業所 ロボ1台で4人分作業 日刊工業新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iS0M1eTNsaUVKTk0yZTBSODVzbkpPTkJubE5sOU1mNk8tM3pPZndxWVpLLTlNVVFYaUVSaUs5c1puTnVNSWduQ1BaRGR6ajJCbVZjemdrOExCdnM?oc=5
+○11月27日 持続可能な牧場経営を 美瑛「ファームズ千代田」継いだ、モンゴル出身・アバラゼデさん ／北海道 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qSmxCRENOV3ZMUGE3bGczSzdHcW1MTDVKYUlBbld4TkxxSEhWbVZObFRveklYSUJiVld3LXFkZzIwTWw0WHRwTDkzZmplS2RLUlVnVWtFV1dsZ2hkSDRBOHVoQWk0b0Fa?oc=5
 
 ○11月27日 これからは環境に優しい農業が大切――持続可能な栽培の実現目指す報告会 志布志のピーマン農家が語る収穫量最大化の秘訣とは… 南日本新聞  
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZM195TzRmSjRZeGJkblNRb0lFWnJobDJfTFZ2Wk1MQnpnWmpfMmNRWE5nNmZ1ajNfTGRTV2JIMVpQZzdQeFZ5STdsN3VKLWxGSlVxbkRzOGU?oc=5
@@ -95,14 +89,14 @@
 ○11月28日 大阪発「サステナブルファッション・プラットフォーム協議会」始動、目標は年間8000トンの衣類回収 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lNlpxUTlTZm1CZHZ3QTRhX002TXlLSFMxUWs2bmxKU3JreGtYUEQxNEJJR2EwNE5BOUo1UG1tbDN3UjFaMzJlTHpZbE1FazdCYkE?oc=5
 
+○11月28日 プレスリリース：メルカリ主催「グリーンフライデープロジェクト2025 ～リユースファッションパーク～」にdigdigがパートナー企業として参加決定（PR TIMES） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CdEJpQ2ZUaWw3MjNlVnJrWTBFeWJ3MDRTYUFkYXNjcVNhdDBOeFRrWUdnc2F4ZVg1b2V6SnQ0QlltQjF0dHR5Mk5EOXJvWUpGZ3ozVGdwYmdQcnFoYV9GQjJiNWpEdi1Q?oc=5
+
 ○11月28日 JBICとNEXIを資本増強 日米関税合意に対応、財務・経産両省 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5QODdhUkJ2MDllU0ZmSVVxVFhGZDh4Yzl3UmJ2YkwyYllING1mNXl1YzNtOHNSOE1rSUY1bERsMDFDQi1ESHlvSzdvNk5aVEZNMkRKNGUwb1NYaUpDWFZ4ZFRCZTVUeXczV0Y2Nw?oc=5
 
 ○11月28日 決算:AIRDOの26年3月期、減益幅拡大 競争激化・コスト高で 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBCX0hHcHp1UUNNWTYtNlp2cG5wTl8tS0FTbVV6QzlTYTIyRVBjWUthU2p1WEhrV1FMdk9NZFV4R3llWHhYSmFycUtpNWNiOTZOWE9IYzhiSXhQazU4T1FLNHJlYy1YQ1RVR1hYaA?oc=5
-
-○11月28日 次世代造船、国内5社連合 世界で競争力 まず液化CO2運搬船 郵船など海運大手、設計元に出資 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiogFBVV95cUxPR0JoQ3NUeVVKNU92SGs5ZHJvNDd4Nm5GRlhwcDk2VzZXem9TYjVDNERPUTh1RjR3WkFGbFZnSWpKS0xNYUtUYUVOWlZLdXlQdWFrUnpaR2R0M3JLYjNtc3VMdG9fRmNUSjBTVjA4Z1oyWGZrYVY3eGRJblJCazItRmZ6SUJ2eFEtTThBc0VZNUtwU2d5SXNIcmczWEdVa1pxdVE?oc=5
 
 ○11月28日 政府、人型AIロボ開発へ 「人にできること何でも」米中と競争激化 [AIの時代] 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4Rk1uY0Zqd1BGeVZ5dC0yTFJoeVNwNXpqUVRDUEdUMU9oNUpmdkhDM2VobnNPYmdZWjJhbW1nc29ZYnpaSEY4RDMtN1lBTU5MQ2duY2VkT2g1RG9GUFM4RzcwMFdYbjA?oc=5
@@ -175,6 +169,24 @@
 
 ○11月30日 「ユニクロ入ってみたけど…」矢田亜希子、友人とカフェ満喫のプライベートショット「おしゃれで素敵」「親近感湧きました」 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nMTQtbkgtaUozVlpmUmtRWTg5Wm1hbGRDRVRwY3FJMUx1SXhEdU1iWGZPclZsRmYyWG9iQjFLUFJwSzlubGd1THJ2U1NtSFdka0E?oc=5
+
+○11月30日 櫻坂46山川宇衣、人生初ファッション誌撮影 さくら色の夏服で透明感あふれるショット披露 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mdEtfUGl5UnJnOGt5WjdjLWhhY191elhTZEY4TUxRQzVqblBIQjVGMjNNcGhvZVBoRUZNSGNyNk1UTDRHT2dsWWFYTHl6N1lFTkE?oc=5
+
+○11月30日 スヌーピー×ユニクロ・ジーユーの「コラボアイテム」おすすめ3選【2025年11月版】（1/4 ページ） - Fav-Log by ITmedia ITmedia  
+  https://news.google.com/rss/articles/CBMia0FVX3lxTFBaakJhV095aWFzV1NWZFVTRzBxWWxNQkVFcFBibW1RV0hkbmg1aHByZXZwRHd6TGNpdjZwY1BrdDEwVldUNWJCNkxrXzFCa1h0bE5RaFhOZTlxY0lORzRHZUpscFRIeU1vUWxr0gFkQVVfeXFMTXJ3VWJpNGVUUnZSeTNlR1ZSSmJKbFZPZjVIbUYteHFyV1R2MUtfV1ZOc2NodzJNbXQyTXlzcFpfSEtZdVcxbFJrMXFBdlhQQURnRHFSank3LWRBYzZ1WWlRTjRPOQ?oc=5
+
+○11月30日 スヌーピー×ユニクロ・ジーユーの「コラボアイテム」おすすめ3選【2025年11月版】（1/4 ページ） - Fav-Log by ITmedia ITmedia  
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwR2Y1VHhNcElhbldBYVp3YTdyS3A2ZkZsM25pNlhKSVBYT2QxSkY0NDBrbVhJYy1FWXVtUjB1NE9NTExaS3FtVHdrYnUyV3F5b1VreXJ6NzVjXzlMMmpKVGhDYVfSAWRBVV95cUxNcndVYmk0ZVRSdlJ5M2VHVlJKYkpsVk9mNUhtRi14cXJXVHYxS19XVk5zY2h3Mk1tdDJNeXNwWl9IS1l1VzFsUmsxcUF2WFBBRGdEcVJqeTctZEFjNnVZaVFONE85?oc=5
+
+○11月30日 「金利ある世界」 激しい預金獲得競争に 県内地銀は三者三様 山形新聞  
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE5LTXJGbWpTOU1uTkdEaU5PYjVEMmgwSHpKdFhjcDNOTWRMQldocEYxMlotVjRaeTZfMHgzemh2LUNBRUNwRGZ0WjQwQlRXVjR5NDZtOTRfcnFuQ09WclFyNjdkeDRBaFk1NkczT2Z5UQ?oc=5
+
+○11月30日 土を再生し、土に価値をつけることで地球を救う--農家×大学×専門家が挑む、地域循環と持続可能な未来への新共同モデル 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqYzluRG9iVlVQTEtMTHJzUUlmZkdOZmVxVjQzVTVVbUtMQndUemRLTlY1QzhDMkZyRE1iOTFudXJucmNzUDJNOVlWenZsX0dnZmc?oc=5
+
+○11月30日 ユニクロが企画…イチローさん、内田篤人さん、錦織圭さんが参加、さまざまな競技に挑戦するイベント 小中学生90人、野球、サッカー、テニスの指導を受ける 埼玉新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZdFNKMTJKb1dUZi1WeGd0VGJsY19NX0o1T0VXUk5BUm55TnBQNl9pZnZhQ3h2NC1CNFFwX1pTNGpNNWtybjFKalFUc3BCdTBpY3NJSlNDaw?oc=5
 
 【自由民主党】
 ○11月19日　政調、税制調査会　勉強会
