@@ -1,16 +1,4 @@
 【ニュース】
-○11月27日 フィンランド競争・消費者庁、フィンエアーに罰金760万ユーロ 観光経済新聞  
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zRWpsN1VLQ3dqZE9HOE9zYllRWjdiaUF1NEdfTGlXLVBYNXZhc2thaFFGU1JRNEFlZVZ3SU9pNFpuQ29FMF84Rm5jbmpsV3hKYnBSMA?oc=5
-
-○11月27日 ファストリ取締役にユニクロ塚越大介社長 取締役の定員拡大 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE00OFlUWmVaUlhHTEl2MHFzOXdrZEFwdmI0Z0VMbndXSnBPUlgzalNCWEp3X1BKajFKZHhxY1RqYWNJb1lnTmY0MDY5N1VqemVkdTZ6S25ya3FhWC1TcVFtSXJnekRNUXI2SDQ5cQ?oc=5
-
-○11月27日 インド株が最高値上回る 経済改革、米国の高関税で加速 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE45OWUzZjM0SjBIR0xxaXl1anFBclNlYW9hWDlnUXJvSDJyOVNEc1ZKR1lPV3phckJHVEpNbWtQN1h5dG9RRFAzOGhpdThXbXNEc0lBOVp3VkJveGlMTWVOM1dLVDB5SkJoWHZZQw?oc=5
-
-○11月27日 関西企業26年3月期､純利益1%増 万博特需･米関税負担軽減で増益確保 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5odHN4eG80RERKdlJmUVJSR01SdllqX3phTVpXa19OTHF1ZmFNSXVSNzFwbzdSYkhwNU0xQ1BLSVpWbUtWTW81aGo0aXV6QlQ3b3JZbU1rRGlpb3VCNl9pcHNkLWFfbHdUbmt4UQ?oc=5
-
 ○11月27日 【中間決算】コロナ、競争激化で空調・家電が伸び悩む さらに原材料価格高騰など重なり赤字に - 新潟県内のニュース にいがた経済新聞  
   https://news.google.com/rss/articles/CBMiREFVX3lxTE1uQ2FrNjM5WjhGLWxKUzk5dFo1eVNxSzBCYm9GZndUNEFXQzFrdlFjc1l6UmFKRGJENFFEVlVjOWw1TzVu?oc=5
 
@@ -74,6 +62,9 @@
 ○11月29日 日米関係「良好」低水準 内閣府調査 関税交渉が影響？｜政治｜全国のニュース｜富山新聞 北國新聞  
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WSXJvRUVibVdNOEJpaG1NV2dMVENwSXJORTgtbV9JX0Z6R0JMUWNBdFQwZmhteTJaQjF2SjZjRXlPR2FLMy02ZlVaV1hUbk9hQ0pSNkdQUQ?oc=5
 
+○11月29日 AIRDO、67%減益 今期単独営業 競争激化やコスト増 日本経済新聞  
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2ktUWs4ZFBCeEJPOFlEdDlSR0d5ZnMtemVtbC1Gak5HX0YzdmJHYmIxWmtic2duZ1Jyd0F2Vl8yOXp0R2hfUlR4S3RDaW9RSllUM0dmTElnTEdXZHlkdmUwY1kzdDZaeEhMN1ZPaS1leUFBclpEWWVwNUV6Y0JYNzVzZEVKYWsxR25TUTFrUFVrUDNLbDN1VGFNUDc3N0VybVBnM3k1cGM?oc=5
+
 ○11月29日 ＮＹ株、２千ドル超大幅下落 米相互関税で世界同時株安 山陽新聞  
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JcENqNUFnSGl6TnpUVE11dHhwYU54RkRRTlczTzBnMUVJTjJmSWhLZjNVeTFtMWUxUjNkblhISlVZMDJTWjY1ZW9qM1ZkMl93ZXo5UjVUSXhTdw?oc=5
 
@@ -82,9 +73,6 @@
 
 ○11月29日 香川県丸亀市が「世界の持続可能な観光地TOP100選」に選出 「大江戸温泉物語 ホテルレオマの森」「NEWレオマワールド」の循環型観光の取り組みが貢献 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNlNXRFVzdjZVU0lQN1RPT2lld19KcmVfQy0wTzlXWEFaeTJwdGR5anFHR2RjM3BnYmZMYTZ4WUJSeWRlT214cWlVVXUtTmxSa1E?oc=5
-
-○11月29日 AIRDO、67%減益 今期単独営業 競争激化やコスト増 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2ktUWs4ZFBCeEJPOFlEdDlSR0d5ZnMtemVtbC1Gak5HX0YzdmJHYmIxWmtic2duZ1Jyd0F2Vl8yOXp0R2hfUlR4S3RDaW9RSllUM0dmTElnTEdXZHlkdmUwY1kzdDZaeEhMN1ZPaS1leUFBclpEWWVwNUV6Y0JYNzVzZEVKYWsxR25TUTFrUFVrUDNLbDN1VGFNUDc3N0VybVBnM3k1cGM?oc=5
 
 ○11月29日 eWeLL、コーポレートサイトをフルリニューアル、情報の透明性を強化し全てのステークホルダーとの対話を促進 ～採用、IR、サステナビリティ、「今」と「これから」を届ける～ 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RUGtIRkZHUzhxODRBSnNYd0dTREN3ejk5TmVVNE1CX1hhX19seW9ZWC1HaHNRTU45VXJJZ0wzUFBNeGtwOEZKOXZpcFo2UGtwZFE?oc=5
@@ -122,9 +110,6 @@
 ○11月30日 トライアル、1000円フリースで首都圏攻略狙う ユニクロの約3分の1 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBnT21jaUV2OFp3b002VUNRbXJPN2tiX1RJTmJGZDZJZkVmRHBTNVpGYkpSVDNRZmliWjFkbjNRY1pKQVoxa0dTTmRTMFI5eTlINGJnLXlhMkt5X2hERFJuMjhkemNPdjRXS1Q1bA?oc=5
 
-○11月30日 トライアル、1000円フリースで首都圏攻略 ユニクロの約3分の1 日本経済新聞  
-  https://news.google.com/rss/articles/CBMipgFBVV95cUxPb25fN0h0VTQ2UzdMQ2x4N09yN09oYmRwU1BzelVJR0NsUnpvSEd0S1RWeHBzdE5SN1VHaXF0MjhqcnJnbklCOEhyMmVZLW1mTXpVb0pOTk9XcERsVVhEV1AxbkJSVGlOZGV0cDlqOUpGRzVCTmplSUJyNTBlOFF6WDlRUkZMNnNlVUdLM2xWbjYwVURqal9GdVhOV0g1aFFIc2RfTzlR?oc=5
-
 ○11月30日 ウーマン・オブ・ザ・イヤー2026 大賞に永山祐子さん 持続可能な社会実現に貢献 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1wY0NlYmpqcXhZeVFpUDgybl93VmxkU0JoenBTSmtWVE9xQUdSRk5ZVThwWHJESk0yRTFTUGg3aVJSWV95NVJjSFNHSHVsdHhrd1dMdXZQTWhrVUJFeWY3WFlkdE1tazhKQ3NKbw?oc=5
 
@@ -152,6 +137,9 @@
 ○12月1日 着物リメーク衣装でファッションショー 魅力や活用法発信 繊細、優美な作品披露 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wZFRVU3FXdnBfUkNyNFJPaVl0aUZ5WGlWTWU4S0NHamdDa0FpeVlpOEs4c0syZnRpM0VOa0pRRU5pZFUtaDhYZ3ZLN0xJaVFYYVE?oc=5
 
+○12月1日 K2 Pictures、台湾・TAICCAと共同で国際競争力を持つ映像作品の開発推進へ 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE94WUFTN21JR0J4SWNfWnpCWjY2WFZpbk1hSnpUdmFfWE5nNlVLa2JTaTNqbW93WEtqdlgwNm9QSjd6TzRPU0MwOFc2OV8wdzdlMFE?oc=5
+
 ○12月1日 中国の国家公務員試験に学生殺到、競争率84倍 高失業率背景に 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBna18tdldUMlJUMjVMTlNFMU9oSW52dlNxY2kzQndhYUR1OGM2SjZzb21HQXpvRjZXdndYbHdpU0tUSVlELVhKRXUzWmJRc2tKVG9rbDBQN3VpQ182R0VFQnE5UU8xNEVGZTdfUw?oc=5
 
@@ -173,8 +161,47 @@
 ○12月1日 タイに拠点を置く日系繊維企業 激化する中国品との競合、 巻き返しへ 繊研新聞  
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE04TWI3dHFqQXBOcHFlTkYwbTA1VndfZVZYdFBia1E1RXU1WjlwcTRBWlJFOUhIZ3NaMXBtTEx5OUYwNklwZUI1cVp4YVNuSmFCR0p3Yg?oc=5
 
+○12月1日 米、農畜産物を相互関税から除外 国民の物価高不満高まり政策転換 山陽新聞  
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2RBVEhnQkR4aHkxNFMzdVJUMHMxWFZfeERVdktwb2ptbzByMnEtVU16a0toQThZZEg5RERkVlB2aWJVS0J4Mk9nckhnbUhEWXhVS2lHU3V0VlQ3Y2FtU0Zwc1VCOXVyLUNOLUlhZjRtN2RqMmNVYTNsNVZ0MzNGZ0p1c3g?oc=5
+
 ○12月1日 M!LK、ツアー中の衝撃エピソード暴露＆リーダー吉田仁人にクレームが殺到!? 疾走感あふれる青春応援歌も披露 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZU2dFM0M5MkFlQUJFNDZ2NDRCUXZXTDczZ1lONDF3Zlp3dlBFakY0SGJGOElOakRYVTJVOXF5MDhBZ1VGemU2Y0JDcTdmZ1lhX0E?oc=5
+
+○12月1日 創業58年の老舗繊維メーカーが、写真を送るだけで、世界に一つだけのオリジナルグッズを制作するサービスを開始 神戸新聞  
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE5NOUsyaUw0eUl4bmM0Wll0QnU4d1JOWElJMlJTbnhWWDlDYTQ2MzI3RXpvRjhYNFFScklPcGw1Q0pjWUQxT04xai1FRTYyQ1NrZm5NaTVSUzJrVGZ6RExHRW5rQnBLVjM4dG5mc204Y3F6Z0VOQTk0?oc=5
+
+○12月1日 日銀の植田総裁、今月利上げ判断 米関税「不確実性低下」と指摘 | | 全国のニュース 佐賀新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTZVhqR0RMLUg4cHQwVDMyanBmSnZHajFWa0J6UVEtSFVHckU3STNaVEtNaDZwQjAwbjJJelhlOF94MUxDaDlzV1hpV25LSXM1OEJVTG5n?oc=5
+
+○12月1日 「100億ドル投資」公表のトヨタ 米政権に接近するしたたかな戦略 [トランプ関税] 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zQl9CUGFiM1l3T2hHVzU2bk5tZjJ6UTVZVHRRZ1JOeFFCNEI3ZTYzX28zSjI5SVBoUFQ5N0YxNWFVcms3QXRlTzM1MkJwZTZQLVE0MFRxTW1FcU1tZUp2dUZqZFhrSWs?oc=5
+
+○12月1日 ユニクロ、「UT」から「K-POPグループ BABYMONSTER UT」を発売 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE05OHJlUlFTZ2o3ek9lYjY0Y08xZThtOFNYbW1XVTZoWHF4SzJ4aVJrRTBlSk1VTlJDREt2Ty1KS0UwLURoLXpOY1ZmNll0OXJvZ3Z0cElfbHBRM0QxTkxaQm00cGZ2WGdiME9CTw?oc=5
+
+○12月1日 プレスリリース：中小企業者等の国際的な知的財産戦略の構築を支援します ～INPIT外国出願補助金（令和8年度第1回）公募開始のお知らせ～（PR TIMES） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TUFJFZnVxQmNja01iNHZaVmxtaEhKWkhpVGJGN2NmUnowWHotb0syN0VtNmZRV3dCT3JVMktmZFY1eHRLM0Z2MXd0R1Q0Y2sxZUhQdGdwOUh0SldBNEhNLUdOblhXVzRo?oc=5
+
+○12月1日 タスマニアの持続可能な水産品を紹介する「Tasmanian Seafood Showcase Dinner」を東京で開催（PR TIMES） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yRldCVWU0Qm01d1JzY2VsZTFWM2ZNb3d4LUtENnFwbFFkMmpmR2tfWGRfc3cyV2M4YlM0RjdRTUFZZFNzMFJ5YzQxa1pnZTR6clVmN3ZCUkFuaGpGY2VXYlJwRUEtTFBf?oc=5
+
+○12月1日 毎日新聞、米AIパープレキシティに抗議 記事無断利用「著作権侵害」 共同、産経も 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BRE1jYXR4MmtySlhkRF8xNWhYWFVzcWZTM3p1QXNlR0VWeUduXzRURk82dkM5UUxPN00tRkdEQlNsZUIzaUd1N2h3MERCeE5sMHBUbGRkZ3hsZ1J6VjFfX3lTZDZnM0dC?oc=5
+
+○12月1日 生成AI検索サービス、なぜ著作権侵害？ 「ただ乗り」防ぐ法整備を 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lY2VjcHdVU0dKUFEta1Jmak5IUS1WQ3JDMUd5ZEJBM2lxSEVqV0o0R0t1RVA0UVNKbTBraXQwdkdKa200c1Jkekd3aGNpZ0w1UF9nemNNLVcxUzRrS0tldUJ5RUQ4NnlE?oc=5
+
+○12月1日 米AIパープレキシティは「著作権侵害」 共同通信加盟48社が声明 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE00RlJSLXZ1b1IzSEVjb3FiYnY4WkYzTWk5UnhoYUc1OEFwQU0wMExJT1BWZ3BUSG9KRmFTNHZsbTZnXzJiQ09hTmUyMERXSVRRRTl5NXhVNjNZMmUyTml1cVluT1N0ZHc2?oc=5
+
+○12月1日 【Qlipperランキング】SDGs・ESG・サステナビリティ ウェブニュースランキング（2025年11月） 盛岡経済新聞  
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE11U1dWc3FfRmgtQXkzT2M0V0h0VVNIaGRhSlNGUWk0QlNkdmNkemlCcnpOOFJ3emstZTRHWlpjT3FVZm1iZkJ4SGp0LUtlc1RfZXhfZw?oc=5
+
+○12月1日 広島・横田県知事が就任会見 米関税は「重要問題」 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBLcEhPN3dNNmp4Vk1xNGVpR1ozOEdDMVlIekJHWFpFNjZwLU11MnM1dDhyOThxbmE5U3F2b0VfYTBUNmJvcldVQTFaSmtpbGJZTm9rVUp1TTVQUVZKM19BbEZkM2tQSzR5c1ozaQ?oc=5
+
+○12月1日 帝人と旭化成、傘下の繊維商社を26年10月に統合 事業拡大へ 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5sbndpSGt1WHh4WS1yeS1qaVl4WUtiRGtYMGw1NnZjb08wWWRWTEg5YjI1eHkyUXI2R0Y3SWlXSnktMzdkcXl6bmctV29Xc3lTaU0xdzBRaGotVm1pYlVQTllPX0xlVEVpcWpkWA?oc=5
 
 【自由民主党】
 ○11月19日　政調、税制調査会　勉強会
@@ -201,8 +228,13 @@
 指定したキーワードを含む新着情報は見つかりませんでした。
 
 【内閣府】
-該当データなし
+○12月1日　第10回 支払手段の多様化と消費者問題に関する専門調査会【11月28日開催】
+　https://www.cao.go.jp/consumer/kabusoshiki/payment/010/shiryou/index.html
+
 【消費者委員会】
+○12月1日	第10回 支払手段の多様化と消費者問題に関する専門調査会の資料を掲載しました。
+　https://www.cao.go.jp/consumer/kabusoshiki/payment/010/shiryou/index.html
+
 ○11月28日	消費者委員会本会議（第476回）の資料を掲載しました。
 　https://www.cao.go.jp/consumer/iinkai/2025/476/shiryou/index.html
 
