@@ -1,15 +1,9 @@
 【ニュース】
-○12月16日 【来場受付開始！参加費無料】「WWDJAPANサステナビリティ・サミット2026」を1月28日に開催 朝日新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTWVRWdGdqT2hTSWVQUmNMMEM1VG9ZTlhlV0w3QnYwOTYzOGZwVTByM3QwZFFBc0NSZ3FWdElPQkI1RmRjTTFYSVVSYS13dlVicE43aTN6Qk44NUE?oc=5
+○12月16日 【海外コラム】トランプ関税、峠越えか 物価と次期指導者に注目 米ジョンズ・ホプキンズ大教授のケント・カルダーさん 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3WTZjQ2F2RVBCNHRFZ1VodG5hV2V6TlBxY2o1NWhaTk9JOWhOWHpleXJES2dXQmZxRlI1THBOX3FKd3RJdTFXeEQxZm0yMUw1aWc?oc=5
 
-○12月16日 NEC、サプライチェーンのサステナビリティ変革を加速する「Supplier Portal」の実証を開始 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1TOWZGTno1Wkpna2JvOVNuNFIzY2hwZ3VFT0lQdE1UajJ3MEFKbHh2NUJodFhDRHR3Nk43eWFFemJyMm9BV2o5OWREX1VsSlNYN2Vzalh2WjBtQVB6MFpjTzRNMDhBQUF3R3g4TA?oc=5
-
-○12月16日 「キヤノンサステナビリティレポート 2021」を公開 ～共生の実現に向けた統合報告書～（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRUmlvSHZ4ZGZVbDFkbFFTcFdYWndQcmhKLVlNemFyN3N6VzhEMkNTbWNVZlpaLUs0SDVoWkFHZHZVTmRQSTJqSFdYczVSelRLbGtrNFNEZW8zOVBfNVpOaUYzQ3QtdXJp?oc=5
-
-○12月16日 クボタ花田晋吾次期社長「2026年も値上げ」 米関税相殺へ価格転嫁 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1DV0hKM1RCYm4tY2J0TlYweURYOHFHdGtIWExDOWE1ZXprUjIzVGt4cmNsY01qSzdXejVOOWk0NjlhRjBHR2I4V2JRMnJkeXZmdHFockRRazN0T2IzZmhKYVE2OFdhTnZsaThPWA?oc=5
+○12月16日 岡山・児島の金融機関、繊維業支援 日本経済新聞  
+  https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOHowM2JuY2d2NEE0dm9LNkJ5U01iUzBLREFqLVlNSFYxUTAxNVFfdGE0dmpGbFNwbW9xaXRGai02cnN4VWgxZGZmT25mSjBIdVZrdG8tbmV0WldfeGZ4ZS1vVWVpSjJlbkttTlh1RGN0TWg0eEczQ29yLXhGdWhrNVNGQkdOdGRFLVlVSGUwLUtvOWRLZGd3QmtqTGxtWV9sMUNGdEVwang5UQ?oc=5
 
 ○12月16日 トランプ関税、東北・新潟企業の2割が「何らかの影響」 東経連調べ 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE16dmdYQTc0dmFuVktWSndIeWRXdm50M2lVOWtqaUF2bUpGc2JuV1NrQ3FwQzJzV3E1TmdsQXJsX1lNMjBkbVp1UUZKRm5PSERxcXhnRTRaTWpoUlc3STU1M2E1STdrMm8xSGR4VA?oc=5
@@ -20,20 +14,17 @@
 ○12月17日 米産車「逆輸入」、課題は採算 対トランプ関税「貿易不均衡」是正狙い 各社検討 朝日新聞  
   https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZbnVRVlB6LUNsaFg4ekU5d1ota2d2RGtTSEpjTVlmdWktbTNoOS1qT29fbG1Rd2VFbFNGMXFrWGFyR0xjeHRsRld0b05EcWlUQUJTZHRyTmZHU0Rj?oc=5
 
-○12月17日 ダイハツ、年度内にDXグループ人員2倍 競争力高める 日刊工業新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuaDhVVUVGRkpDdnpwN3BUa2ZDOVFqR2JZLWVsX3JPY29uZnFiaFlWVDUxbXU1Tjd0UlBNSloyV01kSUdHbmd1Nk9nbzIxbnlrQThWNFVTc2N0b1k?oc=5
-
 ○12月17日 （学校をひらく）山藤旅聞さん：４ 持続可能な社会、ワクワク実践 朝日新聞  
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Lc2cxenFaZnphX2otRlp4cEFxT2FWOWxVeGlnT01FZUR1QnZRMk1tcUNaZUFhTEVabzd0WnNUYkc1ZVBDT05PV3FfekwzeW1mMk1YVjlieXgxckts?oc=5
+
+○12月17日 三菱ケミ、日米で炭素繊維増強 高性能品2倍に 日刊工業新聞  
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE5Sc3NLR0I3UU83cW12QUVxZkRZcEJXQUtqX0FCenlNMEltSXFCYVptM0pTbGhlRWZFYzZfQjc2RGxnOF9PUmNIUGxkQkd5NHozd3Ezd0NwQnJDUTdycmNwUENKNnJCdEdybVBpa0RfeFVkVmVP?oc=5
 
 ○12月17日 トランプ関税訴訟の最高裁判決、米財務長官が「越年」の可能性に言及 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5wckNIMHRrcy1YTG56Y0UtMVN5SDRxcmUwVUR3b1lDdlN5dzZxc0hYTURUdmROMDBJQTA4eEhBZlFwWkQ5VTl1bUR4RWFScWd6Q3FRNnhHc2JCelUxRzY2a05raHByN0JaNkJDdA?oc=5
 
 ○12月17日 ウール使用の下着ブランドを立ち上げ 寒河江の佐藤繊維、第１弾はニットブラ 山形新聞  
   https://news.google.com/rss/articles/CBMib0FVX3lxTE4yZjdGaFJVRDNtbzg5cGxfMlZiM2l1Y0NKYmM4VVd1YkhGX2RkblBpZFFmdzk0V013TkNOd0VwcUhQRzhpV1hmSEVzT1o0VmZtTEYyalJiT2l3WTJnMHdkOFpQREUybTZYS0hhVF9ESQ?oc=5
-
-○12月17日 トランプ関税裁判、判決は年明け早々か 最高裁、政権に不利な判断？ 朝日新聞  
-  https://news.google.com/rss/articles/CBMijwFBVV95cUxNTGVOZlBkVjRsQjZleU5pRVNaR21xdHpkWFNnWTVNSVlLUTJFbXBLbnVvUTh6RmMtZnhlWDNQNDVDTXFSdno4X0pWTFo3UFViV3NqdElnR2U5RDlaT2d4ZGwxZ2RZYUl5bDNWbUZsRVQyME5KRVJFbmZYdENwWms3MVotdm9OQnBycGJiNlF3UQ?oc=5
 
 ○12月17日 「暴露系」起訴内容を認める 文春記事をＸ投稿で著作権侵害 南日本新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE85QzgyNlgxTUozN3RIOEgtMWRRNXlYVTNuRlg0MzJqSHIzcmFVQW9ZX1ROckF2WVdXSGsyYURSTDY5ejMzX041cGFsT0tObTM2UXhWVzhocVE1Q085RkxzWTlLREZER1NH?oc=5
@@ -58,9 +49,6 @@
 
 ○12月17日 東レ、炭素繊維「トレカ」など10〜20%値上げ 26年1月から 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5nWnpBNUpBS1hGLVJveUJrVGpaZ2syc2F2cTJGalgxTjZYNldyUkp1aGNOWW5taUdRYVZ2enNvVkUwNG5FZlJleXdRTnFFMklHWUtBU3dSejdxRHlFOWVWMmlGZGp6ZGpBZnRMMw?oc=5
-
-○12月18日 香川県丸亀市が「世界の持続可能な観光地TOP100選」に選出 「大江戸温泉物語 ホテルレオマの森」「NEWレオマワールド」の循環型観光の取り組みが貢献 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNlNXRFVzdjZVU0lQN1RPT2lld19KcmVfQy0wTzlXWEFaeTJwdGR5anFHR2RjM3BnYmZMYTZ4WUJSeWRlT214cWlVVXUtTmxSa1E?oc=5
 
 ○12月18日 スマホ新法とは アプリの配信・決済の市場競争を促す法律 日本経済新聞  
   https://news.google.com/rss/articles/CBMifkFVX3lxTE5PYTVBWnVNYUIzN1ltMlZ0WEViRl9veHRWWnRxUFJxNG1ROXg2VEVMYl8zWWVWWnF0MW50bU1ZbVp2d0o0Um5UcmNkT0JDM05DSmhOUmM0NGcxT2hzOG16YjJ4ZGdKcFkzQ2Qwbi1vbVBJR3lfb0Jja25Xazc0Zw?oc=5
@@ -96,19 +84,13 @@
   https://news.google.com/rss/articles/CBMib0FVX3lxTFA2U0RpbmtobWpuV1JUWWpZdTVqOVQ4TEpJaG1TR2VhQ3BqQWVIRy1TcEdTdm1MTDBSQnRsYzRFdXVIZmpHNU1UVVVVYm1jTmNEeUE2clVzQ1lsZHhTbWJqdDdIN0ZiMWU3TDBoaXpNNNIBaEFVX3lxTE83YUpoVFhmcjlVbkF1U1ZZTTRWY2t0S19qV1JUWlYwN1BJcjZQa25XV0J1bDFST0I1bkF2bFE3cjhLZ2doc3NqOExMTGFvR19JbzJDY19HTlI0VmJZbU44dU1SNEdHSWF1?oc=5
 
 ○12月18日 繊維の一大産地・広島県福山市発の新たなエコアクション 山陽新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE5CMkZXeEdHZzNPLXdQcURJRWw0X0xoS0pWWXRHWkhnM0dRVmhuYnFHTllrdFl3djdIWU05ajlodEdsRHRrLUJucHotT1FOMV9iT1FHTUpxVFNtNUZCYUs3Q3FScC1nRVA1dU5SWUM5aw?oc=5
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlS2VHSFd3OGhNcVJMYXQxRkwtVUd1ZkhBb1BLYnU5SXZVRHMyejVUdVM3c3RYSGlSdm42R05faXdtZFUtdlRJczhZd1NIbmQ3T2xMSFFXLUtUZm11?oc=5
 
 ○12月18日 インドネシアの日系企業 品質向上や合理化で競争力磨く 繊研新聞  
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zSUMzdDhLLVp5WnlBOEtZSnNsdWd4Z243cVlMd3AzQy0tRlgtUlZqNTRxMVZXc09yY0lYYmprOHVIYjBDR1FSbHRJYy1oZUN0bTEtbU93?oc=5
 
-○12月18日 インフォバーンが事務局を務める経済産業省補助事業「グローバルファッションIP創出プログラム」の最終成果発表「UNFOLDING」を、2026年1月16日（京都）・31日（東京）の2会場にて開催 繊研新聞  
-  https://news.google.com/rss/articles/CBMirgFBVV95cUxQZnJJdndvQ0cwT3dneEVYcHRaNHREa1hiQ2xDVWhDa2JBWEZEQTFLWkhQVTZtdGk4VHhRQzdDSEZkVnRZNm84Tk1JVlV4YzhPWEZWVFNQd1ZySVJkMFB6LXBrbGU2TUlyMlJqQTFrZDJ0UG10T0U3blI4SU1jcHZzQXhILVFpRXRMN2ZidklIbjVJVzJaLWprbm5ZSFNTVmV4RFEzV3BOUnhUaTFLcnc?oc=5
-
 ○12月18日 タイの日系繊維企業、高付加価値シフトで存在感 インドやグローバル向けも視野に 繊研新聞  
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MUlBYYmlIaWFxb3dsbXdyT3lKRmFNTHh2WnBzVjJVdEhTdkZmNXB0dWdXYW5EWHVFc3JyRGEyZFN2TlR5OVlhUFE4TFdXZmY4ZkdIRQ?oc=5
-
-○12月18日 日銀、０・７５％へ利上げ議論 米関税影響、賃上げ動向確認 | | 全国のニュース 佐賀新聞  
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGMXg1MkVtN2ltMnNDN3hMWlhPdGxLWmZlVVRmUS12T2hOLTN2YmI1a3B2RVNES1NmSzJ1aFFmUi1YUmJGalBoaEFNbG1SNHBrcTNDUXhn?oc=5
 
 ○12月18日 日銀、０・７５％へ利上げ議論 米関税影響、賃上げ動向確認 山陽新聞  
   https://news.google.com/rss/articles/CBMia0FVX3lxTE5CNHR1SUMtOFRPYmUxTkEwMjVKX3lGZ21teDlOVHMxTmg3MXNSamZJV2VUcHBNUG9SUnRzamd6cWhOUmxGWWNlOEtGMmFHVFdLM1NTa1g2el9jUDRFMUZ5Rk0zMmFlcklvczU0?oc=5
@@ -118,9 +100,6 @@
 
 ○12月18日 日米、5500億ドルの対米投資で協議開始 米エネルギー省も参加 [トランプ関税] 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TMi1rcThSQzdiWUJsY1NZMklUcjk3UVFabGlUd0szYVpQNVlwZjhIZXZjMkhTc1ZGUmlQbUpvZURnMzl2S1FXSS0xNnNoQkRXVmdHOXM2b3hqYWtjUkFHVkxtemxFbzQ?oc=5
-
-○12月18日 プレスリリース：［Map Camera］ ファッションブランド「4 Silent Birds」のMODEカメラストラップシリーズ「STRIX」の取り扱いを開始しました（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TTUpRLU54QTBjdnBBTzYtbEUxR3EwMWd4M0VtZXZ3ZzM0UFFFYlduX0dQNlA5MVdoY081cGxoOG9sNEVkcUlJU0g2dm1VcHlSRnpzWWZmOW5qNDFFNS1iUEQxNi14eXJw?oc=5
 
 ○12月18日 中国海南島、関税ゼロ商品７割 本土から税関独立で自由貿易港に 山陽新聞  
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE56VGhPLXpLaTB0Tm9QM1JBSVJIbFRuQmVrMDhoQWJoVS1KQ0F4N1NfQ3Z1T2QtcExWSGF3TEd5WWlIUHZrbkxPMVNvY0QtV3FrV210dUpkRmMzdmRG?oc=5
@@ -155,6 +134,9 @@
 ○12月19日 25年のファッション界は「人事異動」の年 日本勢も存在感示す 朝日新聞  
   https://news.google.com/rss/articles/CBMikwFBVV95cUxNNGRQVDhvbThfNEJyQThCbHRZUF9kQVNDeGFweUxqWTdDR2x5aGpaUUtqLWV2bUxpVGx6SWJOVlFwcUpkd3NJWnZ0aklVY1dpcXdmb3NUclJhd1doMkoyd2VESEx2cnpmS1RiQndjYnl2MXpLbktuV2hFQ2RvUF85MUJHaGV4cDZ2eDFZcFhiQVNMdjg?oc=5
 
+○12月19日 いらなくなった服はどこへ? 「繊維ごみの首都」パニパットを歩く 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SVkpTS0hzVTJfMklITkRNR2VjN0xaZWpIMXFKb1YtbGR6bTZSTTJCbHVDZTRrT1ZidXZScFRweU9SaDFwb0d5ZXF6MlYtc1RORlVxLU1OMG5NemVKbzBDYkktbU9GTTJD?oc=5
+
 ○12月19日 ダークパターン対策協会、制作動画を教材に授業 埼玉県立高で生徒に啓発 日本ネット経済新聞  
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kUU5DaUZzTFFteVdIeTZsRGpaUFF3dWFEU3ptQ3loOVloZ2hWa0FJdlVyNEE4U0xHTDB4a3RRS25QR0dJYkZVSkpGbDE2cTNKNDJEeU53?oc=5
 
@@ -164,9 +146,6 @@
 ○12月19日 実例から持続可能なまちづくりを学ぶ/奥村組が技術セミナー 建設通信新聞  
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtV2IwSUFZTE1rdnVUMnBQdFV6c1RGcVE4dmJ1NFlpcGNRWGlMcEF5Rllha29sVVBZSkg0QmlTRkI2dWNudGFxZXpHV3pxaUFBU3YzNnVESm8?oc=5
 
-○12月19日 【きょうから】年末年始のユニクロ、「ラブブ」「たまごっち」限定アイテム＆先着ノベルティ配布 セール商品も発表【まとめ】 山陽新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52RFU0aFdVeEw5aUNSXzBTcWw4LTBZYzYycmh1VDlwQjdrRFp5ZHhnTmFOaDY4LU93UG9uOVNCYTJGaElzQkRFWUJ4MVpfODVISXk4ZFpqbUxIcEpvTVowYXVocl9BR00?oc=5
-
 ○12月19日 決算:米ナイキ9〜11月、純利益32%減 関税コストが重荷 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1mZ2dzeENWZ0UtcVYtZ1A1dzNkSVJIUjVMNEI5TGxCSW5zZkM5QWdhZVpFREYzLVhDN0RHcFpQSXRzTXhVSHJMdnphS042LUE3MWxOOUxSLTBxeUxneFJRZEV0Wm9DaXdxbF9VRg?oc=5
 
@@ -175,6 +154,9 @@
 
 ○12月19日 地方には〝装う動機〟が要る ファッションイベント来秋再開へ《プラグマガジン編集長のローカルトライブ！》 繊研新聞  
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Xc09tc3IydFFKZHlNaUowT0p1M1FTTDlkWWMwY3ZGWDRyNGxsY2Eya3pLZ1d3OUp5aTlhVVd3RG5hcUhsSVh0WTN0RmdpVFNvZ0IyNEZpRF8?oc=5
+
+○12月19日 リミックスポイント[3825]：蓄電所事業のサービス拡充に向けた提携を実施 ～持続可能なエネルギーインフラと低炭素社会の実現に貢献～ 2025年12月19日(適時開示) ：日経会社情報DIGITAL 日本経済新聞  
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBweWpMZ19wbU5Uaks2Mm15U2FWWlJFZy1lUFZTcGpua2lsUEFUNVBhZk0zM0pHdFYtVkY3SWpPbGw5dnYzemkwZy1oMzVaTUJzRGJEamJ6cGJyNENZYkh6bkxQV3BTTHJvQXc?oc=5
 
 ○12月19日 南野陽子、ディナーショーでファッションショー 男女がすれ違うドラマチックな演出に会場どよめき 山陽新聞  
   https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQR1dqM2drUGRlN1psaExyUW1JQVZkZ1VzdGFLQURFaDJjVElDWU4wODkyNFBmT1hIZmhnTER3T2ZYc1pLQ1dDRmhnQWVvVkFVUnZ4VDViYjBsam1y?oc=5
@@ -194,8 +176,8 @@
 ○12月19日 舞浜イクスピアリにファッション・飲食など11店舗が12月に開店 浦安経済新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FbHR5TjBncE9rbkNaRHFDUXpqb012cDhiSU40YnloMTVxMy1EcURFV0dzaEpnejZqSHdlWWdwZkFuRnVNLVd0M1BCcXowY0cxY1E?oc=5
 
-○12月19日 日銀・植田総裁の会見一問一答 - 「米国関税の不確実性低下」 奈良新聞  
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jNDhrNW8wQjB5cndZZU1VODVpZmZpaXhyZGg3Umtmc19TdV8yb19GZUltTzRHSnI4YWFDbEJDN0twMkNyZXdUOS1hbDlXR2tQVEFQOXhYVjh3WkxOaWZWRDVVZVM?oc=5
+○12月19日 南極大陸でも「競争激化」と指摘 ニュージーランド国防相 山陽新聞  
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxOVkxLYVhkQ2dWTjJDVzcxQzNHZXF4S2ZEYTJpRVQ0R0JKQUxDOXdYakl0TDZjMGxpUlozM1lXZi04ckdTV3g0OFFhdHh2LXJjaDlENXJ5Y1pDY3ZabTVlc1ZFbFQtVzZBODVwLWxySnAtbFN0dkFtZExfdERpa3ZHVVJCcVRETkE?oc=5
 
 ○12月20日 クローズアップ：日銀、悲願の低金利脱却へ 米関税、打撃限定的 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Sc0JNVy1MNlZ0UUVXckRXYTU4UXh6ZDZRVEdTbVRwMTZEQlA5RUYwVFdRbDFJZzRhdmRJTDk4SUN4cUxWOFdtZFh0dFBhMUIxNWhFd0hFVzdpeGIwY0o4WTN6YlJ1dE5C?oc=5
@@ -205,6 +187,12 @@
 
 ○12月20日 アイデアで競争に 奈良新聞政経懇など合同例会 井上氏、AI時代を予測｜奈良新聞デジタル 奈良新聞  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IZHRXUzhES1ZOdTNidG9MRHNFclR6ZVlvcFVucERWUS1iek5NWnVnSkh0XzBmQTJtcWRpbzRnWFhsNTB0Y2hwNlVxTVhmZDQ2UENqSnUtREpVeEFEN3hn?oc=5
+
+○12月20日 「スマホ新法」を巡るAppleとGoogleの動き　App Storeの競争力が上がる一方で“iOSのGoogle化”が進む？：石野純也のMobile Eye（1/3 ページ） - ITmedia Mobile ITmedia  
+  https://news.google.com/rss/articles/CBMib0FVX3lxTFBaZURxM0FUNUU0aEtTRzRHeC1Nek13R3FJUll0R0ZNM0hYUU1obUdGSXFvT2RjbWtLcmFlbE5faU5SMXA3YXBxeXVvMWxKbXRraDNNT1hQcE15a1RzandUMTlfdFJKS2N4Q0IxaW5YZ9IBaEFVX3lxTE9nbDZ0Q1NWODV1UFMxSUFPSHp0QVVtRDdWbkZId0FrSm5faVBzb1VJSGZyRFlqdC04TTI2ZjhrWkhEaEVPdjJjU2p3VkhXb0JIV3JHTW42WDNxN2ZPd213dnZXd1o1cFY3?oc=5
+
+○12月20日 中央アジアは大国間競争の場に 日本とは“外交多角化”の一環? 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE54S1pIU3NYV2FsbXczc0JoS0kwUDVnYWYtbExGWENUdE15SUE3ai1mXy0wWjFRR0JVakRzRk85Q0hMMzFXdllSQXNmeFlRb3BoLWJWMFhqWFJkbDR2WnNBM1BzTEpwUXFN?oc=5
 
 【自由民主党】
 ○12月5日　政調、税制調査会　小委員会
