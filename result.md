@@ -1,13 +1,4 @@
 【ニュース】
-○12月19日 米国からの輸入車 車種ごと安全性判断、審査簡略化でパブコメ開始 [トランプ関税] 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuOE1BS2h2ejZlUWxhaTZvOEctNlBHOWVMUDRzcTlmNlA0M3pQb3JiLTcyYkkyTmdIQllvY1lGT0YtSXNSME55aXI0c294emVJb20yZjNGUVlEclRWUHlEUVo0TS1ZMjg?oc=5
-
-○12月19日 ＪＲ東海[9022]：公正取引委員会からの排除措置命令および課徴金納付命令について 2025年12月19日(適時開示) ：日経会社情報DIGITAL 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1hbWM0YlJoZ3RveGcxTERPaXlwVkdYZ1VQbmlScmtKemNrZHk2eWJYcWFOdzNXb2ZaSi1GRkhyc3pjYXF4ZTdIQm5fQlR3YzFBWVY2NzhZTnZURjNkLVpXdVlnZDE3MFRFTXc?oc=5
-
-○12月19日 インフレ減速は本当か 米消費者物価「実態反映してない」指摘相次ぐ [トランプ関税][トランプ再来] 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVNnk4S0Vtd01RTUtRaGxvMXBxWXZOSVJxenZ5UGRGOVhjcE5RdnF1NzRSR2w2a0EzWnk1UEQ1MjM2NTB3Ql83Um02TTlyUno2WDNIWTg0VU5QQ2syZjB1VFlnZTNlVjA?oc=5
-
 ○12月20日 アイデアで競争に 奈良新聞政経懇など合同例会 井上氏、AI時代を予測｜奈良新聞デジタル 奈良新聞  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IZHRXUzhES1ZOdTNidG9MRHNFclR6ZVlvcFVucERWUS1iek5NWnVnSkh0XzBmQTJtcWRpbzRnWFhsNTB0Y2hwNlVxTVhmZDQ2UENqSnUtREpVeEFEN3hn?oc=5
 
@@ -23,20 +14,11 @@
 ○12月21日 繊維の一大産地・広島県福山市発の新たなエコアクション 山陽新聞  
   https://news.google.com/rss/articles/CBMib0FVX3lxTE1vdDgydVNLUkg5NlBIVDl1bjBLYURkYWlxSmZTclhZQ0tLR1RJb1BZN2c4blhNZkJUMzIyQnpnWEFHbVVIWmxKd2xkenB1a19FMmpxZGNJRWgxTHc2dVRGN0dzeFVMYzNVYl9EczZNaw?oc=5
 
-○12月21日 経済協力強化へ枠組み創設 日本政府と南米関税同盟 | | 全国のニュース 佐賀新聞  
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GQVJMS1ZkT2UxeTYzckFUdWRSODBWMXU2bXREYXZwZ0RCSVBnZ19IaGliOVFHT0R6UlRBemR3SXFkN2pLRExfZzZXaEVKRjlxcFNkZjlR?oc=5
-
 ○12月21日 柏木由紀子、ユニクロのシャツ取り入れた“重ね着コーデ”を紹介「センスの良い服の着こなし」 山陽新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTFA4SU5EanVBNlR2aG5xcERDQlM2cGVKNWtidThGTE5YeDBfMU1NRVFGN3p1TTZRRk54UmtKd0twMU14M0FYVHFEU2hGOUdlVnBnSlNzZlRkVlNqaWxTMjhSLVpOblRVcWVSeDlsVU9QMA?oc=5
-
-○12月21日 神戸でシニアファッションショー 最高齢96歳「若返った気がする」 [兵庫県] 朝日新聞  
-  https://news.google.com/rss/articles/CBMikwFBVV95cUxPWkdYcnVBWmFYSVpLcFZkY3kxRldXVG1CTHpCMjFMcjZmRWQxNnk0WXd1TnMzZkRvajJObjVDTUpWTDVqLTM5TElxN0J6dl90aF9RdUZnUXdOWkZrM19ZWWFsbWFTNXhBSTVTcHBoQlNWWDRqR2hGT2JRWndibENTeDcxNkhUT3EybUpaUjlkUGpqSU0?oc=5
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NVVliY3pnOXViZ3NHQW0xVkU3bV82bFluLXVYUzl1anZ0dTlzZU84aWdlVzlCN2RNYmF5OWZFRU1zZDkwTlNrT0tja0JESGFReGlnM1pPdU0tWkdNTUF2cUhQODIxSnJk?oc=5
 
 ○12月21日 ２０２６年世界成長率２・９％ 米関税で鈍化、中国も懸念 山陽新聞  
   https://news.google.com/rss/articles/CBMiywJBVV95cUxQOUJPbkkzU0pNSV9PQXpPVVVMZ2pRX194R0g1MkhNWDhibGN3S1k2X0VMOXNna0lxVUZjOUc0YU50cy0wLVNmeEhNY1pyazM2ZkxrRGhmTzhydGl3ZU9rSHZVZ1JpdTlpajhlVUFUWTdKQ0dmd0d3cU15Vk16bWw5UWZRS2VjNWQwWGtaalBGcFZqOVJ4VXdCNW9WS3Z0WFgwYnVzQjh5T1c0SkltNlRXaEJlVl9Qb0NLM0l6b3d2UDRLYlo3QkkyWGxsVkZnQ2p6UHF2U3JHdU1iOVJuSkRZd0hnWElpZ19BTmFyUU5nd3RXZDcydzJmcHMyVjBnR1FDR2dFa041MWlvV1A0VnhUSEc3MzFZT0YtX1ozU3RRUXAwVnI0eGhaa0l2cXktcnpzVTl3dkY2NTB4ZjREeFkwT0pDdHVRcmFETUhJ?oc=5
-
-○12月21日 米関税にも関わらず…今年１１月までの韓国自動車輸出１０兆円、過去最大規模 : 経済 ハンギョレ新聞  
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Lck1aRm4ySDNJTlBxRlUyV09sbXFLVFJQaHg2VEFyWW5kajlGRzlCVm4tNTNuLXZid3pTRmpyWDIwZ3hBVzVtWGc5b2x2N1ZBMnkxN0pXQTAxaGg5?oc=5
 
 ○12月22日 香川県丸亀市が「世界の持続可能な観光地TOP100選」に選出 「大江戸温泉物語 ホテルレオマの森」「NEWレオマワールド」の循環型観光の取り組みが貢献 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNlNXRFVzdjZVU0lQN1RPT2lld19KcmVfQy0wTzlXWEFaeTJwdGR5anFHR2RjM3BnYmZMYTZ4WUJSeWRlT214cWlVVXUtTmxSa1E?oc=5
@@ -95,8 +77,11 @@
 ○12月22日 日本、バングラデシュとEPA大筋合意を確認 鉄鋼などで関税撤廃 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9RaFR3eXlpdnlPZWVibmYxRUhRNEFwcXF2LTNhUF92NllTT3VaaWRHU3phWWV1cjlGV1ctcnJON0JmTlJxSGZINHFDeElhdTFtT0VXSXA5Z3Jfa29MMkpxd05FY3ViVW54SHpCNA?oc=5
 
-○12月22日 【写真】中国、ＥＵ乳製品に暫定関税 「補助金で損害」最大４２％ 南日本新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QYzhvMzZkX1l1bXJKTzUzMkhiVGcyeS1rU3poZ0Q1ZHBwOXFfOTFWSDNpaFpvVlFqbnNGUV8zd0Z1eWtKa0NKaEU4XzdsSG9fVFhPY0Fpbzl4akRwTnNTenVuTm1PUmhU?oc=5
+○12月22日 中国、ＥＵ乳製品に暫定関税 「補助金で損害」最大４２％ 山形新聞  
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxPTFc3UVlpWUk1RGJYQURVTFJmYmJMc3IzZDByaExQMWlmbU1VQlBhU1o0WlRrNThqNnBwZ3ZxbVp0cVNlYnNYVkMxLVFGNF9UUWZEX0JrMElZUFJhZUZBc09uQ19wUC1qTXN2d244N3cwRGdlQjlPUUV0VlJoWHhiSGlHNG5abjNtTmJBdQ?oc=5
+
+○12月22日 中国、ＥＵ乳製品に暫定関税／「補助金で損害」最大４２％ 四国新聞  
+  https://news.google.com/rss/articles/CBMib0FVX3lxTFByOTJOX0dZOWl6MFpDbG96bGJUaWUxMjRfVG1YWFg5cTBPMUZtTmtnUVRwMERjdUJlQnVEZzU0LTdzWU03ck5vNi01T0RlWkRjZkpmSER4WXRrNm1IcnRtY0ZON2JKZ19oN3Q1QTFEbw?oc=5
 
 ○12月23日 【きょうから】年末年始のユニクロ、「ラブブ」「たまごっち」限定アイテム＆先着ノベルティ配布 セール商品も発表【まとめ】 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tTng5OFEtUzVUOU1OZ0d5ODhVdVF0LVY4ODNTNUF1dFpyMjVEal83ZFh0cmhfTVlHN240RkpuNHFnWEdjbXpYRUpxNnVIbG8xLWc?oc=5
@@ -104,20 +89,38 @@
 ○12月23日 セコム[9735]：サステナビリティレポート2025 2025年12月23日(適時開示) ：日経会社情報DIGITAL 日本経済新聞  
   https://news.google.com/rss/articles/CBMiakFVX3lxTE9NWWJHZ0pMZFVmOTFQdXBFTFdzdzFuTGRNSnFUcVlwSnUzQUI5bThBUVA5R2RFbHo4TnJDMzdJTC14emJVRE5sNFlqNUUyOTB5YU1LcWxjSUhQQTZPX2F6Wk96cXR5b3k1VlE?oc=5
 
-○12月23日 【名探偵津田】冒頭から愚痴止まらず「おーい！」 ユニクロの”ガチCM”バラシに「しんどい」 山陽新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE42LWpSTGh0TVpFSmFtaVBLVUJheDlXcEpaOFJ2QWEyeUZPWkxQWU1VS1ZmRTRBZzNjc3c3aVBJeTdoZjJPaHV1cDlkSGhGZ1otSS14WWVmS0cxNGpqbW9ET3U0Wk93RHA4NUt2cW0zTQ?oc=5
-
 ○12月23日 永瀬廉、大泉洋の行動にクレーム「ひさびさに悪い大人をみました」 山陽新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yTElGVXhhR3Jiandna1dQWGxXeHFTV0JQRFZOYl9KN2RPZm1KNWE0RDk4N3c2UlVmcmRLel83dzhtanNxaDVOUkE5aUgyY3BOQ0JDUDl3TmYzcFpPN0EydGxWZE9FM0Jt?oc=5
 
 ○12月23日 サントリー、「ジムビーム」主力蒸留所を1年休止 関税で輸出不振 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBCQUlkNzh6cHZRSGNjX3BTR2pOc1JsUWZFVEZGeEU1ejE0cVNKQzBPMGtXdjNSUmJ0SkNiS3FjTTUtYlVrLTNNZVdTcHpMQ1hJeXRRejRibW1uV2UzNWFPeVp1U0lEQmxNb01UTg?oc=5
 
+○12月23日 河合優実が“昭和アイドル”に変身！ 『ふてほど』俳優陣が”80年代ファッション”で再集結 山陽新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MbXVZcDRmam9MUVRhVHhBeHdySk5uR1d5Q3hOWUJseTRGdzdNLW1SUWhfWnh0RklZblNySjloWmhDN2pfM0xwY0lXUmh2WTNHcDdUbHI5VFVldmc?oc=5
+
 ○12月23日 清本鉄工（延岡）競争力強化 鋳鋼部門、日本鋳造（川崎市）と業務提携 宮崎日日新聞  
   https://news.google.com/rss/articles/CBMia0FVX3lxTFB4Z3R5M3JWSV9uTWZjSjd4cW4wZ1AweXM2Vml0TUhGZWNyZHIwQktpcWlpY2tuT1J4NWJ4Wk9BY3VKbVFmcDVaUW9WWVNWTGpLS0d3X3A5QmxRM29kaHJVdWdhTmp4VmZTVUtn?oc=5
 
 ○12月23日 ＧＤＰ下方修正２・３％減 ７～９月、トランプ関税影響 山陽新聞  
   https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGJxVm9CUTR3LURrcjY4MHdYaGJTbXVicW1nRkxIa1ZGUVlTNUxLT29IVHVGV2J1N2dWbHAyMEpLSDJ6OUpUdkZLdkNIS3JWNzQ5eFpMZGZmSDFUc1puU0VHUVBabHZYQms0ZXZqd1Y3Rm1scUF0WXAwUFk0Qm8zUmlFVEFOLTlRYm8yaDFBNW9uMXBIM29CNmVvUEtsMElNZlJMQTFzUXh0ZktC?oc=5
+
+○12月23日 《めてみみ》ユニクロ指数 繊研新聞  
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE12LVlCTnoyTG5QY3Uyb29BbXdPWVNlM0dzQlp6cHh1a1c5ZmJZRW12cUFOYkxiMFZUUXJVcGFWanJoOTFiaGpzQjV5eVdDb1k?oc=5
+
+○12月23日 「森林認証」受けた薩摩川内の市有林から建材を初出荷 持続可能な林業拡大を期待 南日本新聞  
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE00anN0b0lBMDJBVlFiTUpwaEpYa3hNdzdwNmVHZjNBRE03bWpjZlh2dl9BTExlX2FNUzBDRDRVNjFDa3RpVjB2N0toRVRPRTlmWFZGMFFVQXU?oc=5
+
+○12月23日 AI株高「テック軍拡競争には要注意」米資産運用大手CEO 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBJTFJpNjc1X19wT3Q3SDlNTkZhVzR0QU0yb0NORWRaNHM0OVQ4emtJbFc0elNxSEZ4WUdYbVVhWFFTNWFRWndwVWdQZFd5dmRoQnl3RlNwYmQwYUF1UGxVRXIzYk1XZ2Z2Q09hUg?oc=5
+
+○12月23日 プレスリリース：タキヒヨー×キンコーズの「サステナブルTシャツ」が発売1周年で進化。法人向けオーダーとキッズサイズ対応を追加し、課題解決の輪を拡大～「素材の循環」×「必要な分だけ作る」技術で、持続可能な社会へ～（PR TIMES） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sd1RkNVp5LXRLM0tXNnFfN01zRktkcElkbFlGUjJhUDJmYkpIS1hOSUxIaE1xTmpxUS1VYllmaWNDaXNJd1RibVBWdlFWdXJlS2JETUtzbi1KSVRSbmlnUEFPZ2gzVmk3?oc=5
+
+○12月23日 米ジムビーム、主力工場1年停止 トランプ関税が影響と報道 山形新聞  
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxPTFlOREU4a3VmRGlJTFBlSkpvRTNjLVV1UE90dzVoRVBuVUVnS2MzUnpJb2tJeUVBY3RSazZfMmJlQmhCWUxNWnBiR0FOUUREalo5OUZNRFNWMWRUVmNiYVJmaWdma3FDQ1hEMmhxLUJOZkxLVmNFT2FDSnlNZ2dHUFBhcW1QTGlFdDlRNw?oc=5
+
+○12月23日 ジムビーム、米主力蒸留所を1年間停止へ 関税への反発で輸出に逆風 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNZXgwY1pKZDNPTXYxWDRNYkNTN29hUWRFb0duSXJTTnBtRjJkNjVWUVRLNDVlbV92WHlNM3U0S1RiYk9vXzdGaUtyNXZ3RURqenhfTG81T05pdUg1ZkMwR1RDeTNzR00?oc=5
 
 【自由民主党】
 ○12月9日　政調、消費者問題調査会
