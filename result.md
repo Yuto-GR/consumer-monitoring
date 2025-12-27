@@ -3,16 +3,13 @@
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9PYTU1eDItb0VWZUR3U2pWX2UzNjZ3SnlVenV1OThhY200bWFQZFlPYm5iZDBqWGZfYlJEYTk5amxkaXoxSWt5N3lqNkRKNHBiVkRNdTBnVHVSWHNoMWI4OWxGdDFXTlA3UDFwZw?oc=5
 
 ○12月24日 孫氏長女、新興企業を支援 バイオ繊維のスパイバー、財務悪化 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiogFBVV95cUxPOUJwWDZaTUtPcWpzdkc3LTlDUnhielpEWGVfY25Jb3hiS2U1S1lQUExmamxhT0ZqXzNYWGdoWFVlSkRxbWxxX05sUmg2WjQ3Qlpnc1dnSTVrVVFLVjRBZ0pyeHdLd2pEQXM1ZXQxeWFZM2JibC1NT1F2SmFiUnY2RjBQaVVlYnRicS1lOWEwazNmNjhOcGQ1Z094b2hVZWtpUWc?oc=5
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTVxbzd2Ymh5cERnZUdtbkNCS1hva0tXRDJta1VDcmRyN25udkNYQVktTjVjQW1walV1UEtRMGdZbEFZQVFKRkhJNlNUN3p5MzNtUDJIU1luU0VCczk0eGptT1NORUpJalpMeWtXUTUzcmctYWVEc1lJNF92aVpTVlZrZTF0VU50WFczNHdSM1AxRWVuS1NKSEc4UDR5R041Y05yT21MdXc?oc=5
 
 ○12月24日 目指すは「食のユニクロ」 スーパーのフジ会長、原価構造を変革 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5aaTl5Z254aHZxOGFETU56aUV6d3VNWkVEWkVxSHF6aldtR1Q3WGZvV05DaUxxOTRjbDluWXlKbWFzRV9DazlvU2drTEdFd25zQ282WHh6LUhtUHpmT1F5UC05aExhU1JDSWNPRw?oc=5
 
 ○12月24日 トランプ政権、中国半導体への新関税「0%」 事実上先送りで配慮か 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFB4NWhZYWZTXzh0d0ZPYkdNdV9QZUJJaktwUEhEY3hOckttLVkzZmRjaG9EU3ZlLVdCZm03cWx1T3E5cW45eW13X1VIejFEdmtWNDI4VUtER01LOFo5TzhmOWNueDJNZlJabDY0Rg?oc=5
-
-○12月24日 米通商代表部、中国半導体に追加関税なしと公表 27年6月まで 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2c0ZDQ0MtWVdvZFFQWGR3SjZRZVM2c0JLMXV4b1ZfOTZzaVYtT3U1dEpId0Q5OU5teUxTRml3SWJIWWRUNXdXZmZtN0dIaVdFYU01Ul9aeXVHdXM4X2ZCWjdaWjRtLTdO?oc=5
 
 ○12月24日 「暴露系」起訴内容を認める 文春記事をＸ投稿で著作権侵害 山陽新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VZWlYY2hxb2pjY0FXbmFvb1ZsdU1iMEJfaWJkS3dRMlp3dEk5Z0dReXZzYmstMU9QT2w1SmxwNnV5OXdWLWJBeVpjVm5PZVF6ZUZJazNPR2c3ODA?oc=5
@@ -55,9 +52,6 @@
 
 ○12月25日 「持続可能な農業へ 企業と協定」更別村 西山猛村長～わがまちこの１年 十勝毎日新聞  
   https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KRzBVQ05fVW5SZ2RCVTlHdzUtazVPYUtUT3FYc2dwazdYc1REZmFhQUdpeHBteFNjRVdsbUVub1oySDBKR0lnMGtfcHo1WkJ2Q2NvZ0dNMGx5dHdKTmxabXhvZGxlQQ?oc=5
-
-○12月25日 ユニクロ、年末年始の旅行＆帰省時に役立つ「持ち物チェックリスト」を紹介 おすすめアイテムも 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tWE1faFR3OU0ydnN0NXp6S1E3b1ZGT29EOWVxckJncUhNMXpsOXQ4TDZBdHhmSEdrS1FlTUVtekhSVjFwOUgzN3lVbzZSMWUzS0E?oc=5
 
 ○12月25日 【２０２５年産業カレンダー】１～４月 コメ価格高騰やトランプ関税 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiUHZtNFo1QU9YdWpyRi02RmdHQ3RDQm5ZSjBVUGt2TGtReE9PMzQyYzZidUhmNUJPYWxwZnlFeWl0elRLQS1BbTFRQ2cyMWlIcVE?oc=5
@@ -103,6 +97,9 @@
 
 ○12月26日 ｢働きたい｣首位はGoogle 若手研究者50人に聞くAI競争 日本経済新聞  
   https://news.google.com/rss/articles/CBMisgFBVV95cUxQeGVKUVZKLWc4ZkhqOFdPMEJnQmxtcERkZlFUb2F2OEk1U2tBQlR1UE5admJWbWxCMHQ1QTFxNnhJaHdJenFwTHo5RHk4VFJkRlFUbzNBdkFGWklCR2Y5U2h1WVcxZFYyQkJrTjJFS2sxMlFnR25DTjhGS2hXeGdLNjc2WnRTeWJSOVBWTzU4VDRFSFRoMkNvaENmNHRNZHhRem5LMVZXR3F4bWU1ZHVSdjVn?oc=5
+
+○12月26日 持続可能な地域医療にICT活用 医師や患者の負担軽減 車で検査／オンライン診断 塩谷で実証実験へ ／栃木 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UdzRzbzdtbTZyNGRBbnNhT1BRVXotVW9rVmhfYWMwYlpSZm1UMEU5WDU3c1F6MlVtR25hcTM2Vjd5bEM2VVVQMlEyczBLZUI4TjByZHkxNDY1VTVRZk1vZ0xocWZfMHVM?oc=5
 
 ○12月26日 繊維・アパレル業界向けサステイナビリティー基準「MMS」 26年末に発効、 翌年末以降に義務化 繊研新聞  
   https://news.google.com/rss/articles/CBMiTEFVX3lxTE94clRxQ21wRTc1R0lmcm13VDdNQjhZZWE0Ym9oVkZodXpzX3h5UEphMWRqM3B6MnVmLU5iN0taRjlkWjE3QUhiRXcwZFU?oc=5
@@ -152,6 +149,12 @@
 ○12月26日 長野県企業、「関税影響あり」は2割へ増加も 不透明感薄らぐ 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE0zakprdWY0U1pNSkVzdE85Vjg0Y3FMMWUxWXktMHlJb1EtcEFzQjRmTjN4dU5kVWFQZks3TURUdjVHQ0lWVzVTWW1hQWgyc1VVaG05QVBUSVh5ZC0tc2U2QV9VUlJDVVQxdzhBbg?oc=5
 
+○12月26日 ＩＴ企業の規制巡り対立　米　入国禁止、追加関税視野　ＥＵ　「脅迫と威圧」｜四国新聞WEB朝刊 四国新聞  
+  https://news.google.com/rss/articles/CBMid0FVX3lxTFByVHJEcWxZOEFuaGxkb3FfOHgxM09GSmhvVjZWU1Q5b2prSlcxMEpVc2NlXzRtMUExVy0zVmxxVkIyenZ4a2VObHYtdHRZRmNPQ0F4OFVhUGhYTk1oNDBYNy1xRHNza1BMVzFmSkxvMlZ6dnl3R0pn0gF8QVVfeXFMUERxb2VRSlZtanNKTGRMdVZvM2VOMXJ6dE5YdGtmaXJZVXFyZG1STFpWLTRZajA4QWxZVHJ3WEE0MjVkejFKMGRwbzRRVjJDdlpUWGNPcE56VlJPdTNTbm5MUVNuLU0tYngtNlJZc0Q2dHpscmRTMG5UVmlSTA?oc=5
+
+○12月27日 柏木由紀子、70代のニットの着こなし術を紹介 今冬のマイブームは“レイヤード”スタイル「ちなみにシャツはユニクロです」 山陽新聞  
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE8yb18yTTkyVFhPemJEQUE0SUhjZDF4VWVDZkMySldqUXZtYm0yeTZ2SVJRN2lBcG9naXVtcHJFZjA2TFNyR2NGemhnV3dFTC1rSVpHZ2hQcHF3R3hMZFNjS243YmRYTURWRk41THN5Zw?oc=5
+
 ○12月27日 アンリツ[6754]：アンリツサステナビリティレポート2025 p01-p35 2025年12月27日(適時開示) ：日経会社情報DIGITAL 日本経済新聞  
   https://news.google.com/rss/articles/CBMiakFVX3lxTE5PODFhamtYSU1WM243OEtKMGoxLVAtOXRXazNjdUY0ZkRmaWpXSHhSYXlOOTVTUlB5eWh1b2NGd2taeUxhVU1YY3dpQnVueVJEbVBzTmNSSWVTRUV0SExjYjd5aE96NUF4RVE?oc=5
 
@@ -164,11 +167,26 @@
 ○12月27日 クボタ株最高値へ8合目 米関税影響、値上げで相殺に高評価 日本経済新聞  
   https://news.google.com/rss/articles/CBMifkFVX3lxTFAwUjA3SHVrdTMyNmUtMFVuNHRySzltQkRNNVUwSlhFU3NLUlRGM2VPbFZxYjd2bXdkU0FwMXJ2UEFBMzNtd2gyWi10eTNXQVJwX0NTaXh0cS1PYlZ2ZTRlTERXdlZpU2xYV3dIbV9UOGs3V192WmFlMGFDV0pPQQ?oc=5
 
-○12月27日 華麗に車内ランウエー 西脇高生、播州織ファッションショー JR加古川線で市制20周年事業 ／兵庫 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9admdsV090WWdSWmxLdlhIX2pyTkdiRVNuVVdWVG1MNThucS0yclZfdkZLaTVwNy1FOUZkN1otNUlxWlRlQTBURFNWMWpyTmtkZXoxTkNjOFBQenpLaGpsdmZoa2tGdGhR?oc=5
-
 ○12月27日 ロビンフッド躍進を支える「予測市場」、米国人の熱狂は持続可能か 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5mdzloOVNvMy1yMkdGbG1yc2VKUEc1cXgyMDBlVnlMWEwtOXpQSWIwY2tRQVZUYmlXZ2tuY3lqaDh5eVd3eFFxVGpnVTh1Mm84cGZ6MjBJQnBienJ3V1B5WUozTjBPZGlBdnh1bQ?oc=5
+
+○12月27日 【きょうから】年末年始のユニクロ、「ラブブ」「たまごっち」限定アイテム＆先着ノベルティ配布 セール商品も発表【まとめ】 山陽新聞  
+  https://news.google.com/rss/articles/CBMibkFVX3lxTFBpVGN2VEJ1Tm4xVGpDQjU0YVVsU1VNRVhzaGRwZXJnWXh0RVU2Z2xJZUo3bzRYWnFjM0V3RzNUU1A1TmFzWnpSQUZqdHROd0pVd3F0Z01DQXFfUERXUTY4Sm5NWUpGZ1FFOUpMdVV3?oc=5
+
+○12月27日 石破首相退陣表明で岡山県経済界 関税交渉を評価、政治停滞を懸念 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE13TVF6cDA0LV9iUnJWcF9Obk5EenNCWDRWRVJad3E4X1o4eWpLVk9GU2tHU3cyNEZObmZEbmxialpDRVE3R1pCYXJtYXN3LTRqS1E?oc=5
+
+○12月27日 ユニクロ、年末年始の旅行＆帰省時に役立つ「持ち物チェックリスト」を紹介 おすすめアイテムも 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tWE1faFR3OU0ydnN0NXp6S1E3b1ZGT29EOWVxckJncUhNMXpsOXQ4TDZBdHhmSEdrS1FlTUVtekhSVjFwOUgzN3lVbzZSMWUzS0E?oc=5
+
+○12月27日 病根は米国か中国か、ゆがむ世界貿易 「トランプ関税」模倣広がる 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFAwX2Z4RC1lMW1SR2l1d1ZVb2V5OU9ENFF6RmpmQzRBd1RSRVhLNGxuNTZ0WnlfOEd4eHZTUG9CczhuWTNDenRaZElOOU1FVHFyNXZicEdlTGJUVnUtZHRqM1lDLTNEMHN0QXo3SQ?oc=5
+
+○12月27日 暖かいけど着ぶくれしにくい「ユニクロのアウター」おすすめ3選【2025年12月版】（1/4 ページ） - Fav-Log by ITmedia ITmedia  
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IVGRGVWY5bE4yN3EwS3NYVlpONUhKa2syOS1BM3ZZaVdOb3VtMFJNWllJeFVqczZ3TzU2R2cybjFIVERBMC1UX2llU3JKejFTN09RUHplMkIxNTAwWHByMDFaUWHSAWRBVV95cUxNSFRkRlVmOWxOMjdxMEtzWFZaTjVISmtrMjktQTN2WWlXTm91bTBSTVpZSXhVanM2d081NkdnMm4xSFREQTAtVF9pZVNySnoxUzdPUVB6ZTJCMTUwMFhwcjAxWlFh?oc=5
+
+○12月27日 年末年始の衣類整理に役立つ、ユニクロが“商品”の豆知識を伝授「ワンサイズ下げて」 参考にして新年をスッキリ迎えよう 南日本新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4UGRnb3duaG0tV0tyalczVkdZLW1vTFpLX2podmZ3aHNHYWl2ZGRwVExCWUlxME1ZSmszdS1VTWN0emFnTGtlQXUtZGx4Y2plVG9Hb0lmbGJZSExTekhnNk1sUjRsYms?oc=5
 
 【自由民主党】
 ○12月12日　政調、知的財産戦略調査会　コンテンツ戦略小委員会
