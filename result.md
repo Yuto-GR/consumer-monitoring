@@ -32,11 +32,11 @@
 ○12月29日 EU、車の炭素繊維の制限撤回へ 東レなどの反対受け 日本経済新聞  
   https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ1JYY1VleTNPX1JNdE02SWNXYWh1VnVJYUhUT3cwVVBMR2hNNEhzQ2g5amFoS2ktaTVLQllkMlU1a3ZkSlQ2M2xIeUMzdEZtN0YzSHd5RllUaTVIWnJPTDA5cnlQcVV2bEFxN05JbkxwMkxzSERxbkhuU1hZRS1qamxBT2czZWZmZHp1dmJubk1hVThtSndNb2NGU3p6amFEYXc?oc=5
 
-○12月30日 次の主役、世界有数めざせ ファーストリテイリング会長兼社長 柳井正氏 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1JZGFkSjRNU1pwQ2EzZnRxMzhfUGs5Mk5jVkI2VmExRDZLRUJTa3NBcHhhWHVjT2RYdDkxRlcxWEx6N3VrMFZPVW80cHhFek1WVVh4c3NxWmt5TVNfcnhnWFJibi1BZUl3QUdINA?oc=5
-
 ○12月30日 ２０２５年十大ニュース 国際 トランプ関税、世界を翻弄 ウクライナ停戦至らず 中部経済新聞  
   https://news.google.com/rss/articles/CBMic0FVX3lxTFAtUEhHUGUtekxpemhMdHg4S0xEM05fczJNZUlYUENjdUdUZGktek9yWnRBLTdsRzZaekV6ajNBUDJuVzNRTlpsZFFCQzdIc0tjcUpGZHU4R1RDYm14eTZnOWVqcHZmcndSZDFtd0ZLWkI0R0U?oc=5
+
+○12月30日 「暴露系」起訴内容を認める 文春記事をＸ投稿で著作権侵害 山陽新聞  
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwYnJ5bjZ0MlNDMzNwYVdZdTl6bXlsZmVCRWVmaVRCOXhhZEljTDVtNzdBZEU1SnowOF9YTHBZbnlYa3JMXzE5TDBZWGp3bXVYdDBvY1l5Tnd1LVExUEE?oc=5
 
 ○12月30日 記事共有、蒲郡市が争う方針 著作権侵害で新聞各社提訴、愛知 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kZmZrMTRvNVVFNG1Lcmh1NmdFRHJoanFhT3Q2dHhqM3M0WE1yWGt3STR0bGpXY3Q0RTl0clNnaElsRzlKQk9kZmVMU2FqWnVBTGc?oc=5
@@ -45,7 +45,7 @@
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vdy0xRHpRYjVjMU91YjJJbDdmNFZrTzJrUTc3ak9CaDZkV1ZpMjE2RGNKRXFYb0VKSkhIUWhDQzN3aU1YcmNzM1lFUzhnMTB5UDBPaDM0clN1ZEtkX2xjOGJFUGVpd2tL?oc=5
 
 ○12月30日 正月休みが狙い目 採用競争激化で盛り上がる「リファラル採用」 [写真特集1/4] 毎日新聞  
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE11TUFZY0RucmVXVm1XbnJ4V19tQ2VmUkZwYjFHalJvYlg0WVRFanZ0cTNCaDhuSS1uR2pxczRMWHpzVGFpZXpab1dYanVUNXlNbE5qRWZuRG5STVBPaXA5VGJEN2Y?oc=5
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxQZjFJUFhabjZUY0FkUGYzUFdGSXdmakQxX2dUazc0VVotY0RfVllvR2xUd25wM19UNFJ5bjNZOEdXU2ZkN3VGT3hLRU5PZktLQ2l6QXo3NDNYYTdjRVZseVUzOUs2c3N6QVVkUEdvSVJpU0JfSWoxX1ViR3FaOGhBa0QxY1hZaTA?oc=5
 
 ○12月30日 日経平均、過去最大の年間1万円超上昇 トランプ関税で値動きも最大 朝日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NLXR6ZVR4M1YzRVhXaWNma1JIbFlyMEV3c2pYVnk5MVdISmp5bmFMVVRrbExXTGRGRFZhaDVaZTdEbHpsdFdNUUl3Z2RvX3Y2by1iWVZHSFJIVjFWUi1LUHdOQ3FBdkIt?oc=5
@@ -59,9 +59,6 @@
 ○12月31日 《ニュース2025》トランプ関税、影響軽微だが転嫁本格化による需要減を懸念 繊研新聞  
   https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6RXpCU3l3by1McGZhVU51ODh3eXJfYnhkeWt5anVPdzlfR1JnbFZrQ1VRaFNneG5PQ3RVbU9oUnpzUV92dGNQWDNjd2E3Zw?oc=5
 
-○12月31日 柏木由紀子、70代のニットの着こなし術を紹介 今冬のマイブームは“レイヤード”スタイル「ちなみにシャツはユニクロです」 山陽新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE1TeGFxVmp3V0tHVksyUGVRclJYUWNFczZjRUw1MDlwaVppTVpCOWhibzlza1V2bEVCVGVkNUN0OURCOG1FTDBmeWlrMEthVzFfM3Jxa1pEdERBVEdYR1VMWkFtRUloT3Byenk0bHNkVQ?oc=5
-
 ○12月31日 企業が国連と目指す持続可能な社会 磯崎功典GCNJ代表理事に聞く 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uTko4MFk4eWV3UmVSejh5WGZVMjl4ZzlJYnhrLTVLWHFjTkJ4dXgzUl9sTEZXQXNxQXhLQUhURThRM2RhM09KUS04amx4RlZnNDhrSXhCekh5cHRMZEdLdVpfUmFNYjg?oc=5
 
@@ -74,44 +71,47 @@
 ○12月31日 「軽くて暖かくてカッコいい」【ユニクロ】のあったかパンツが人気「見た目、動きやすさ、暖かさどれも最高」「履き心地がいい」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wRnRWcTRsZzYxcEludGdqRnE5eV9ObTJFUndEVy1iTlBLQ0pwYmhnMGIxTFVzSXR4d1RLQlktVE5pbEFYZnYxNVhrNFVNT2RBRENkMHlvY1NHOUhZQ0c1SWh0RE3SAWRBVV95cUxNLTNoS3lBX1ZDR1V3UURpZ3lJWGVRTU40QVQzaEkwSGtNeUdESXBlZE5zeXJCU3hVUmxfMVhXRXBwalNFN3doWTd3Nm9kUk85U1c0bC1GQ05qM2F3SVVuSExrbDVD?oc=5
 
-○12月31日 「軽くて暖かくてカッコいい」【ユニクロ】のあったかパンツが人気「見た目、動きやすさ、暖かさどれも最高」「履き心地がいい」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tM2hLeUFfVkNHVXdRRGlneUlYZVFNTjRBVDNoSTBIa015R0RJcGVkTnN5ckJTeFVSbF8xWFdFcHBqU0U3d2hZN3c2b2RSTzlTVzRsLUZDTmozYXdJVW5ITGtsNUPSAWRBVV95cUxNLTNoS3lBX1ZDR1V3UURpZ3lJWGVRTU40QVQzaEkwSGtNeUdESXBlZE5zeXJCU3hVUmxfMVhXRXBwalNFN3doWTd3Nm9kUk85U1c0bC1GQ05qM2F3SVVuSExrbDVD?oc=5
-
 ○12月31日 荒茶生産量がついに静岡を抜き日本一、ウナギ取引は国際規制免れ安堵…振り回されたトランプ関税 【2025年鹿児島の農林水産を振り返る】 南日本新聞  
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hVjV2XzVGM3lPTENpcWtOdzM2cmg2WFV1MFhvdFFCdFN1S29rVV9zQ2RsVFlZZXZwb2tNXzBrVnJ4TG5zYzhRendSWS1GNF9yTlZ4c01Ebw?oc=5
 
 ○1月1日 FT26年大予測 トランプ関税はさらに上がる？ 高市政権は続く？ 日本経済新聞  
   https://news.google.com/rss/articles/CBMid0FVX3lxTE9TVE1hd1ZDbEVOR0xnYlVkNjR3MEtOT0VYU2U0eW1sVFI4THppNU1EYjhkZW02cnprcHJsRXFHYzFYZ1FtUVpFV0EzYzF2SHlSdDczVUF3ZS1MeGFOUXlVYnB6eVNtbkVRcVp0Nzc0QTg5M1UyMGt3?oc=5
 
-○1月1日 「ユニクロ入ってみたけど…」矢田亜希子、友人とカフェ満喫のプライベートショット「おしゃれで素敵」「親近感湧きました」 山陽新聞  
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WVUZSdlpMQkpDek9GeWZ4ZHFBaG5qd0EwY21iWGx1TEJpdTF4TGFjaHE2YW5OeTRZS2xFNUphcjdTbVNyT1ZOMGJLa0xxanlsRXNLMW05OWVaUWh3aVFOQQ?oc=5
+○1月1日 “マナカナ” 三倉茉奈＆佳奈、ユニクロ＆GUでの購入アイテムを紹介 着こなし術も披露し「参考になりました」「重ね着技が光ってました」と話題 山陽新聞  
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yMW5wT3VPQlN3TFdKdnE5TmhnT3A5cFZEX1RfUHZrZlZhQ1Q4UGlmRGlVRjhRdWFZeFpSZXAyVDRkOGlTM2g0aUk3bktZWGthcXBZRU9iVmQyczhs?oc=5
 
-○1月1日 大泉洋、宮崎あおいが“天使すぎる”とまさかのクレーム ドラマ撮影で耐えられず笑顔に 山陽新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE5jYWxHT3BkVzRuYUtOeWZENXZ6ZnRQTDVCSFN6T1VJMUp3VEJYbEFIZGY4TVJJVm1MQ1dGNGVNSXNWSTBLZ05UOHJsMm5rU0Vhd2N6VFYzQTczVTNjT0dWcXljakIyZW9ycU45Q3ZMWQ?oc=5
+○1月1日 大泉洋、ディーン・フジオカのクレームに「ごめん！」 共演者の切実な訴えに苦笑 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDQUg1a0FHUHU3cll0SF9qWmIwaDBMMGJXQWI0UjZVZWs0dlVHdDh4cmtGaDYyUjd3cExqMWNJQkdpM0lWZjZKbVZXYURDUHRwQlE?oc=5
 
 ○1月1日 息子のユニクロ、洋裁好きママが“ちょこっと”手を加えたら…見違える仕上がりに「感動レベル…」「真似したい！」 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKcFVqLUxXOHJtOTUzdjhXdVRiZnUxOXZabFB2S3NDVjc5a2RnMUtBT0JUWlRHVzRFcEtUSXJWMVdZajc0dnZZdjlWYzhkbUhSVWc?oc=5
 
-○1月1日 “食物繊維不足”を一気に立て直す、腸活シリアルを厳選【年末年始の食べすぎ対策】 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE11VG1ES2NNb1RoaFY3MnFPSklKSTRQWEJER3gxbzF2LTBqcmhZTGo3R2p1eW9xQ2NyY0ROWGRSWXJKUHZBdkZmLXFobEYzZzgtOUE?oc=5
+○1月1日 大泉洋、宮崎あおいが“天使すぎる”とまさかのクレーム ドラマ撮影で耐えられず笑顔に 山陽新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hOGM1djRjVGhDWF9GLWdQanFwQ0JfZUM5V3NBN3h1Qlc1TmtBNGEwVzlEd2Jmc0V3T1FyMExOV3lTUm8xcTRiRmU3Qksycy10SGlNdmdaZjBQUVdUcjQwX3pjZ2J4dlRl?oc=5
+
+○1月1日 【ガルアワ】市川團十郎の長女・堀越麗禾、大型ファッションイベント初登場で堂々ランウェイ クールな表情で会場を魅了 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YOFNhUHVPSzBDamlBc3RsWDlhZnMzbGQ2YVZ1NTlhVFNubllBVWx4aFU2TkllMUxBc09ycTVtZGk1a2N4STZKYXpOSnoyOUp4emc?oc=5
 
 ○1月1日 目黒蓮、この夏挑戦してみたいサングラス明かす 普段はファッションに合わせてレンズ選び「そこも楽しみのひとつ」 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwdzBNVlNydXdWd3FTNmVRSlcxNHoyd2VFbEJEMnpLWWZ6cTJoWDBQTW5BOVFERjVlbVRDd3ktQXd1WmZNQWRET1I2dVdmVXBKUFE?oc=5
 
-○1月1日 倖田來未、TPOに合わせた“らしさ”全開ファッション披露「似合っていれば、年相応なんて関係ない」 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sYWtlS1gtQ1RSSXFERkRqSENRNFhqcDlVeGFPRmNHQWl1WnNfa205U21fOC1ORV80N3pOd0ZEdDBvVUJsX0NLaGhaY3BxaFVlZ2c?oc=5
-
-○1月1日 ユニクロ、年末年始の旅行＆帰省時に役立つ「持ち物チェックリスト」を紹介 おすすめアイテムも 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tWE1faFR3OU0ydnN0NXp6S1E3b1ZGT29EOWVxckJncUhNMXpsOXQ4TDZBdHhmSEdrS1FlTUVtekhSVjFwOUgzN3lVbzZSMWUzS0E?oc=5
-
 ○1月1日 きのこの山×コシノジュンコ、異色のコラボレーションが実現 ファッションショー『キノコレ』開催 コラボキャラ「JUNKO KINOKO」登場 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BckppMjl1SFNuTGlzTm1NRWVOM3gtRlFfQUs3X2UxLUQzcTZwUnR4LTlBcXk3eXZJTXpuQk5KMFRxVGpQOHRVRmg3Z2FQOTBQTlE?oc=5
+
+○1月1日 柏木由紀子、ユニクロのシャツ取り入れた“重ね着コーデ”を紹介「センスの良い服の着こなし」 山陽新聞  
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxPOXB2Z3JkRllZcjk0SDlDeC1LTnNlX2p5T1NmWUVoaDZrclJhOFhDU21YM0hXblIwbGZsblhnUGpvZm1zQXNzTlQtX3Y0Zl9wc2xVd3ZfWEgxZlRmUXlTejlxdy10clptdWdFQ2JhcW5HNEFuSXdpQ1FkY2FBU3hNelUwRmJtZw?oc=5
+
+○1月1日 次の主役、世界有数めざせ ファーストリテイリング会長兼社長 柳井正氏 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1JZGFkSjRNU1pwQ2EzZnRxMzhfUGs5Mk5jVkI2VmExRDZLRUJTa3NBcHhhWHVjT2RYdDkxRlcxWEx6N3VrMFZPVW80cHhFek1WVVh4c3NxWmt5TVNfcnhnWFJibi1BZUl3QUdINA?oc=5
 
 ○1月1日 第67回毎日芸術賞・ユニクロ賞 受賞者6人の業績 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IbGNuUzlPZURvamtQUHZQZjJIVW16aUJqaldLWnFZVVhseURYOWNfbW00VHh2cVd3MGNmSzYxR1FsbXNqTG1fSG5JOXJ1Nmw5TDFoczFwSXgzUUgtZXJIWFNDN0tfdklB?oc=5
 
 ○1月1日 【CEREMONY】Mrs. GREEN APPLE、きらびやかなド派手ファッションで“主役感” 主催ライブのグリーンカーペットに登場 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aNkV4d1RkbUhsdGZSS3hWQkhVcVkyRmk5ZGV6TEYzYm9IN3lybzdQeGkxMjdOMkdXR0QxUDJjbW52ZTRrYWpwQ2FiUWQ2aW1IYkE?oc=5
+
+○1月1日 年末年始の衣類整理に役立つ、ユニクロが“商品”の豆知識を伝授「ワンサイズ下げて」 参考にして新年をスッキリ迎えよう 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJWG1MODhyc1l6cm9jdWJranNuMXZHaTZjanVrS0E2aXBUczlvMks3aThqZ1JWSEJteU9qQmRpeUpQNjVVOXBGUm41QWUzS2NfZEE?oc=5
 
 ○1月1日 繊維の一大産地・広島県福山市発の新たなエコアクション 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0Z1FyZG5WRWJoUnhBdDdpb3dNZGFIR1p1MlFCOTBFcDBySkpqZEZwU0tPS2hUQVlBOFJ1ZVgxaGhDdUxYQW5VZll6LWZ1R3k0cHc?oc=5
@@ -134,14 +134,26 @@
 ○1月1日 「XLARGE」「X-girl」運営会社、SHEIN JAPANなどを商標権侵害等で提訴 模倣品販売の差止め・損害賠償求める 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lOUdDWE11M1dvSDFPcmZ1c0pWdU1KZlpMblQ1MmV4ZGRjV0FuVjZ5VTZyY2FPczFTMGVEa0NXUUtVSjBfaFhoYUdIeWNRVDhwQ2c?oc=5
 
-○1月1日 「暴露系」起訴内容を認める 文春記事をＸ投稿で著作権侵害 山陽新聞  
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tUVNWcFFMNWZTemwycmFEUHRaUXIwR0tncTlmRmlMaEtnR1ZEUGNrYkFKV1VJTTJQZmdER1p4QUVVOTFLcTFvMVRmMzNnbVEyVU9LdnZXanVKQQ?oc=5
-
 ○1月1日 新春経済座談会 岐路に立つコメ、持続可能な営農とは 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiU3ZfblJXVUFXb1REalNDYTZGNHdhOGU2c1U4SGJMMmM5LWJPbDRzUXdISmdKTU1QTVpOa0R2QllzdUR0eVlyRHlSNk1kb0EyWnc?oc=5
 
 ○1月1日 ＮＹ株、３年連続の上昇 - 米関税重荷もＡＩけん引 奈良新聞  
   https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCUVFLM1JGMTJIeDhMLWprVlY5MVZuS3BKbTR2WGp2TjRleldUVUVDa2wtT01iMnE5X0UzYzUybk50WDNDU1Zrdzl5a1ZkNEZfYVdnbE9OdFh0N3JkRy12Rlc4SWs?oc=5
+
+○1月1日 事業構造変革をさらに推進、戦略事業の拡大と競争力強化/東邦ガス ガスエネルギー新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WVC14SS00UzlNd0pFSXlOMjRNM0lKM0RCR1AtQXlWWU1GWHFEZE5aQzNrQTBna1FvVzdzNVF5RkhsZERlX1k4ZVRHekwwYkVOWU1DcGJmNA?oc=5
+
+○1月1日 ユニクロ、年末年始の旅行＆帰省時に役立つ「持ち物チェックリスト」を紹介 おすすめアイテムも 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tWE1faFR3OU0ydnN0NXp6S1E3b1ZGT29EOWVxckJncUhNMXpsOXQ4TDZBdHhmSEdrS1FlTUVtekhSVjFwOUgzN3lVbzZSMWUzS0E?oc=5
+
+○1月1日 競争力強化の支援を 連合玉野地域連、市に政策・制度要求 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HS01xaHo5dlh2WUcyUDgwaWc3OEtWVzZEa3Q3YkNVeUYyM1R1NEFNZC11NDNvUE02dzZmbXBjSG16R2p2aVdzY0kxd3VMc215U1E?oc=5
+
+○1月1日 駅伝365：駅伝厚底シューズ競争で「一人負け」 ミズノ、起死回生の一手は… 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE91YW1YZkZ5cWN0VGx1RERtTGduUzFRS25lcEJwVjhFTnQ5cGM3MjFBX3EwaklVZTlBNnZDeGktVlNaOFpLdC1TMWpneS13aTJ2TWEzbjE4NkJDSkVibUx0bHFiSFp3dGtP?oc=5
+
+○1月1日 “食物繊維不足”を一気に立て直す、腸活シリアルを厳選【年末年始の食べすぎ対策】 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE11VG1ES2NNb1RoaFY3MnFPSklKSTRQWEJER3gxbzF2LTBqcmhZTGo3R2p1eW9xQ2NyY0ROWGRSWXJKUHZBdkZmLXFobEYzZzgtOUE?oc=5
 
 【自由民主党】
 該当データなし
