@@ -1,13 +1,4 @@
 【ニュース】
-○1月7日 経産省製造産業局長・伊吹英明氏に聞く 繊維産業政策、 サステイナビリティーで大きな一歩 繊研新聞  
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YRHdONlJzQ0ZLZGdnOE5ueHlnelZENEdnM0FHdDFzNWdmendsLXhkYS1pT1A3X2FoLXRhUGdkOXhEUklBaFZCdWw3TE5fcE0?oc=5
-
-○1月7日 選手村整備せず、クルーズ船で代替 持続可能なアジパラ大会を模索 [愛知県] 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vb2RUaTE4YkpNTGUzWVBiNXFtaEhhZkdtaWhZYThRRExDdV9paHVqaWRFMXI3OFNqX2RGLWo2Z0RHZi1uZkpkVGxkZk1sRGhabVNtZS1QUWoyOGxBcmFRVTl6VnQ3bkE?oc=5
-
-○1月7日 岡山県立４中競争率 最低２.５倍 県教委２５年度入試出願状況発表 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nRlYyd2JLUjUxU1diV0gwSDBjemE4Q2l2QmdmYmVDeHlpcU95TzJKNm1yaGtQNEJYYkdBUTBxam9IaktkVC15cHdWaC1kbWtybFE?oc=5
-
 ○1月7日 トランプ関税訴訟、米最高裁9日判決か 「違法」なら20兆円返還も 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPNjltY3hwdDRoU2RTaFlFTEwwWDhCSkktMnRjb2hDOUJ3dDAwNkt4azlDTDh4akh0TF9ScWpydFJmaEVQSGJpaFZ4OTE5UDJhX2p3R1ZQZUNyN01TMDNRQk5SZXFBaDA?oc=5
 
@@ -53,17 +44,14 @@
 ○1月8日 日銀1月景気判断、北海道据え置き 米国関税・中国渡航自粛は影響も 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1LcHhCdXNhbTJ6bFpSbXVMcU9iY3ZFbm5kUGw0UXAyZl9hNEQtRTRnWjI3TzI5Q1dSVXlFTjd5amhGYThrWWdGLVVFVW90Z19KNVdzQzJRcG5EbEtTNElJUi1QVjhhNl9nM0kxcw?oc=5
 
-○1月9日 【求人】MYKファッション セレクト・大手アパレル向けOEM/ODM事業拡大のため、企画職・営業職を募集 繊研新聞  
-  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kMHR5WnBQWU5LWml4UVhLMGdON3pLOGNoTURMZWhJTm5HYS1DUUJuVjVidmF6eGN2NUZwX3lRYW9sTi01TmNOdFRvLTJxUFRXWE5DNW0yMDU3eEZOVTBVVkZR?oc=5
-
 ○1月9日 メキシコのインフレ率3.69% 関税免除も一部撤廃、再燃に懸念 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1BQWk1MGNabnFReUNndVVGbzJ3Rkt6bDVTTUR0UkQ1LWl1VnpnWk9LVThoS2FYNWZISzBYTldiWnZfWndvNTRaUUx6NkpyOVZwcnlnQlNtaTFuMEpoUUpRbXJMOTc5bzF6VVRZWg?oc=5
 
-○1月9日 （トップが語る金融 2026）クレカ、ポイント競争と距離 富裕層に的、「総合金融」へ クレディセゾン社長・水野克己氏 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1UZTdPV2F0QmY4TFZMaXBnQUxpTlRGay15UGFLc0ZqbWEwQUZTQjdGQ05aRHBvYUczUGpZU2s0MF9LaEtZeXE4ZUhvbE5qUGFkS2Ftd0VrNHZkQnhDeDZvVHVUMl8xRXdHQS01Sw?oc=5
-
 ○1月9日 「生活費低減へ競争促す」 米独禁当局委員インタビュー 価格独占阻止 M&A厳しく対処 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5qMFY1OTJlQjNWb1VJVVc5VmJnZUtLeDctZXRSSDJQUFpLV2R6a1diaEpzVjQ4anNCazZLMHZYdHc2b0tva1Vsai05dW81UmQtMlZ2a2lvWW9lYWZiV0VlaVFIMWpsakM5T1RwRA?oc=5
+
+○1月9日 （トップが語る金融 2026）クレカ、ポイント競争と距離 富裕層に的、「総合金融」へ クレディセゾン社長・水野克己氏 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1UZTdPV2F0QmY4TFZMaXBnQUxpTlRGay15UGFLc0ZqbWEwQUZTQjdGQ05aRHBvYUczUGpZU2s0MF9LaEtZeXE4ZUhvbE5qUGFkS2Ftd0VrNHZkQnhDeDZvVHVUMl8xRXdHQS01Sw?oc=5
 
 ○1月9日 10月米貿易赤字、16年ぶり低水準 トランプ関税で医薬品の輸入減 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE44YUhFOWY2clZONXZqWU9wdktqZHNRZXVSaWtqUmJzNWRPLU85OHhGV3gwck5VSm9DTDR4TmtjN1VtUjVRSUJPTlZIei1kUU5jYWJkY0RFaWpsaDlFemp6dVR3SXZnWVFpc3h1Mg?oc=5
@@ -77,17 +65,14 @@
 ○1月9日 持続可能社会へ取組推進/次期社重点・交通政策基本計画案を金子国交相に答申/社整審と交政審 建設通信新聞  
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sTUh4aFMxZEtKc3gtUEVLWWxnelpRU2tEVzl5YUNMVl9aSzdTTW1Wd09IQkpMa1FiblpCUFJoM2QyWnlCd3dVY2xfei1OMnBMSHlINXYwSVk?oc=5
 
-○1月9日 記者座談会・公共事業費は依然横ばい/持続可能な産業へ決意 建設通信新聞  
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlcXlIa0ZKa1YzZklJTDJtMWh3NXV2czdvNzlJWVBldkFsUldTMWd4d2xZNUdlbWd0Z0swX0ZfMHJwcUI2OVRZSnVhMVBscG42RGdEVGlSamU?oc=5
-
 ○1月9日 トランプ関税、9日にも最高裁判決 「税金返せ」の企業訴訟10倍に 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBiQnRkTjllaDdxQzMtYXppeVdZeUtHWDhOZ3otNm94SWxNYXZjcTUyVnBXX3FSLTBfUXlqNi1vMUFCSU94dFF2ZTRKRi1KZjhjalpZbG0wVWFQVmppVjlISkVoN2RMQnFiNUpNXw?oc=5
 
 ○1月9日 軽くて暖かい「ユニクロのアウター」おすすめ3選　復刻「MA-1」など【2026年1月版】（1/4 ページ） - Fav-Log by ITmedia ITmedia  
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE9fazFRVnBjSGcyU2hjQkFnNGZzdFRQM0NvV181aTFKVUpMbkNzQkNBbU9wOXBRTWNKdzVLb29SMDBuX2xzTEVBbV9kcVNZbXlBOURlSkVZS1dTQzlRM01kcE9OdTZrR0VXZlpr0gFkQVVfeXFMTzlzV3hKdDJSam4tU0FXTlV2WjRwekJZNFEwdXljU0xLS1p3MzhmS0hYd1ZOWUV5MHdLOGVmT3hHazhzOG5HYVY4SGhWSTdCR0ctQWJIRkVtNXg3UVExOGJLV1FtZw?oc=5
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTFByWmJERDFVWjNXb1o4NG81WDR1Q1JxLXVqU3pVQTQwaUhfUFJDVGYyTGdkeGxPMlVCbE5mR2dUMnZzNFVtQlg3aDB4UUNCeWh1VGNzbkdtZ3pzUVdva0hGTTVCckjSAWRBVV95cUxPOXNXeEp0MlJqbi1TQVdOVXZaNHB6Qlk0UTB1eWNTTEtLWnczOGZLSFh3Vk5ZRXkwd0s4ZWZPeEdrOHM4bkdhVjhIaFZJN0JHRy1BYkhGRW01eDdRUTE4YktXUW1n?oc=5
 
 ○1月9日 軽くて暖かい「ユニクロのアウター」おすすめ3選　復刻「MA-1」など【2026年1月版】（1/4 ページ） - Fav-Log by ITmedia ITmedia  
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFByWmJERDFVWjNXb1o4NG81WDR1Q1JxLXVqU3pVQTQwaUhfUFJDVGYyTGdkeGxPMlVCbE5mR2dUMnZzNFVtQlg3aDB4UUNCeWh1VGNzbkdtZ3pzUVdva0hGTTVCckjSAWRBVV95cUxPOXNXeEp0MlJqbi1TQVdOVXZaNHB6Qlk0UTB1eWNTTEtLWnczOGZLSFh3Vk5ZRXkwd0s4ZWZPeEdrOHM4bkdhVjhIaFZJN0JHRy1BYkhGRW01eDdRUTE4YktXUW1n?oc=5
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE9fazFRVnBjSGcyU2hjQkFnNGZzdFRQM0NvV181aTFKVUpMbkNzQkNBbU9wOXBRTWNKdzVLb29SMDBuX2xzTEVBbV9kcVNZbXlBOURlSkVZS1dTQzlRM01kcE9OdTZrR0VXZlpr0gFkQVVfeXFMTzlzV3hKdDJSam4tU0FXTlV2WjRwekJZNFEwdXljU0xLS1p3MzhmS0hYd1ZOWUV5MHdLOGVmT3hHazhzOG5HYVY4SGhWSTdCR0ctQWJIRkVtNXg3UVExOGJLV1FtZw?oc=5
 
 ○1月9日 生協の環境・サステナビリティ政策「コープ商品の2030年目標」設定 日本生協連 JAcom 農業協同組合新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5XdF9iT29YczJVSUY1T2lDZG9qcUlnSFVyUlU2clZHbTBqSy10RGpSWGZFRFNuMG1kUVl6cks1dUFOVGIzRHlWeVJ1Qi1GcmFMX013Nl9YbFVhV1EycE5aMjZWWVZRVFk4ZzlPRg?oc=5
@@ -128,9 +113,6 @@
 ○1月9日 まもなく26～27年秋冬メンズファッションウィーク 現地通信員の注目デザイナーは？ 繊研新聞  
   https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMR3lYcHRuOTVxY2RrSEdfRTV3VS10SHBhcmVnOFM1MFFLQUFzc29FNlNPN0lyck15YUV5UEJGdVdsYXJwQjcwV0FIWWQ2WW5UbUpV?oc=5
 
-○1月9日 トランプ関税敗訴なら交渉力失う ベセント米財務長官 | | 全国のニュース 佐賀新聞  
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yUTZhckVhbTRoUFU4OUtoUVZjSTVLNXBRb0tWNFJjckdfRlB0MFRYdmJ6WnFkZGRSdlBoTHdscUNzNnJseGcwUzB6dzBtRExoNWlEYkRn?oc=5
-
 ○1月9日 【記者座談会】公共事業費は依然横ばい/持続可能な産業へ決意 建設通信新聞  
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OR0JtQ0F0Z1lqc1NXMjJqQ0VoeklvcncyTFJQZGpDOW5TYmpmdDRkTk5HTUVoZ0dDNU5VQzJybktKZkNHdGVWaHpiWVVxbk9OdEZrWHEzaw?oc=5
 
@@ -143,14 +125,8 @@
 ○1月9日 トランプ関税は適法？近く最高裁判決か 敗訴見越し1千社が提訴も 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqX2RING5UcTlpV2h6VG1KcFNRMENqYmtjOEp4Qi1Oei1ubGJ4WVo2bGh5alJyd3dINEUya1lWSk1RNWdnVjJoaS1ySGl6M3FtOFhtNlkwTGpnSTl2YTJwc0xPMXF0M2M?oc=5
 
-○1月9日 「ふわふわでとっても暖かい」【ユニクロ】の防寒アイテムが人気「保温力が神がかってる」「寒い日の一押しグッズに」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZbDM0TTVTbnlmb09vVmROdUdPQnNsdzBWRmY2ZkVwcEFfaEJILVBvRjVLaTBOcGF0R0VnZDZuNktXeGNxd0FVa3NvLTJYb01LVDNTNmxkY0dCVzdMcl96bUJIZlrSAWRBVV95cUxPWWwzNE01U255Zm9Pb1ZkTnVHT0JzbHcwVkZmNmZFcHBBX2hCSC1Qb0Y1S2kwTnBhdEdFZ2Q2bjZLV3hjcXdBVWtzby0yWG9NS1QzUzZsZGNHQlc3THJfem1CSGZa?oc=5
-
 ○1月9日 竹内涼「競争と成長で互いを高め合える空気感をつくる」：FAGIGATE｜ファジゲート 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xYlN3U1hlVXVEQmw2dUlPV3NFdTJiVU1zN0Z0akNRZ2FDb0dzS1JJYmlZemxCRFVYMlRXYy1DTW9jMDVwV091S1cwdENnR3ZUTmc?oc=5
-
-○1月9日 トランプ関税、企業の返還訴訟相次ぐ 米連邦最高裁が9日にも判決 清算期限前に駆け込み 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQjhEVmZnQnIxVkNKSmVyLUpoOTJadEQ3MXpGeVhOQTlINzRlaC1kZllicEE1Qk5RODdEQ0o4NWg5UF9iZUs5QTVsUDVyaFlXeG5JWmplQjA0RzRlLV9pQmRMOTVJV3JVQnJiUHRyOWowUml4QTBqVDNiNEVUNE4ydGQwMUtTQXVVZXdIUzJCZ2puNXcycDdieXVscDJfalEyVXRpQkNlNmI?oc=5
 
 ○1月9日 トランプ関税敗訴なら交渉力失う ベセント米財務長官 山陽新聞  
   https://news.google.com/rss/articles/CBMia0FVX3lxTFB5WkljM01nRVA3UkdkYkMtbGtYamIwdVF1ZHdjaDVaYVRaQnNCSEQtWXhPRHdYaFc1WEZydU9MNk4xZU8zTkJsS2xvLU1DREc0OFJBRVZqRC1TMmhrTFNlNlBkcnRuZ3VIUnJZ?oc=5
@@ -161,23 +137,14 @@
 ○1月10日 CESに戻ってきた中国企業、本社移し関税回避も ｢トランプ後｣にらむ 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1IT0U3X3ZsLXlicnJVSkJIVUU2T2F2TWJxanZrN3RRbS1RWlFmRG1aRWVWMDh2YzUybE0zeFFNLVIzNmZNdTFRY0lid0F1VzlsRzJhc2hfenEyMkY2WDA5Y3pFZk5GR1FfUGhlXw?oc=5
 
-○1月10日 米最高裁、「相互関税」判断持ち越し 盛岡経済新聞  
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PUzN1UFBYUmMyMW5ISG1idVhraFR4UlZRMlFXZEFWczZMSGI4RnFBU3JWUjAtZjRYeXBjc083NFdiRmZnQTY4TVRkU1I0QkJYVWwyeA?oc=5
+○1月10日 車７社、米関税で７８００億減益 ９月中間、３社が赤字転落 山陽新聞  
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxakJ4WEJ3cm00emxaSUwwTm9UUklOWHJuc2hocWtJRlVaTDBFNF9ldDQ4dGFCT3hkdjZ2REJNM2VHcWxLSFBNTTdValVwVDBQV1FIRm9QenJzXzFRcWR2Y0dyOA?oc=5
 
 ○1月10日 米最高裁、関税判決９日は見送り １４日の可能性 | | 全国のニュース 佐賀新聞  
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ybmM3dE1DSTY4c1hxMkZlclc4eHcyVWsxNTY4UmxnWDhaX3B5ckVPVEdJeHBMaHA5eUlRWGtsS21nbmtib3IyY3phR0RidmV6OE5qb2N3?oc=5
 
-○1月10日 米最高裁、「相互関税」判断持ち越し 豊田経済新聞  
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBON0owNjVxY1hNUWJXYW96NlVxVEMta2FSRVpVRXg4eVZlcGxTOFhuMFdJQ1haWFlCZmMteTJvaEQ2TzE1X0ZGYWNVTC1lOFkzNGo0?oc=5
-
-○1月10日 米最高裁、「相互関税」判断持ち越し 高松経済新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VQUpZYWJxU0xqMW51SDd5bHhxMVpzVEh1RGRCZDVqRnFXa1VGbkZnTEJmeTl1NHBDd0ZtNE8xOFhFZTl5T0lXMzVBR0IxaU56QWtRU2dTRQ?oc=5
-
 ○1月10日 M!LK、ツアー中の衝撃エピソード暴露＆リーダー吉田仁人にクレームが殺到!? 疾走感あふれる青春応援歌も披露 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZU2dFM0M5MkFlQUJFNDZ2NDRCUXZXTDczZ1lONDF3Zlp3dlBFakY0SGJGOElOakRYVTJVOXF5MDhBZ1VGemU2Y0JDcTdmZ1lhX0E?oc=5
-
-○1月10日 「Bitfan」にて、ティーンファッション誌「nicola」発アイドルユニット・リコリリのオフィシャルファンクラブをオープン！（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4RzVCX21WU3laODVQNlNfSGlPNVJVSURZUEkwWHdNNjVZYk95T2lCRFF1ZGtvR2txTUVvaVRrRFp1YldWc0xFalRubEdDSTU0YjNZbnl4emkxYXIxNnJlZlZBZWE3aVpN?oc=5
 
 ○1月10日 「肌触りがよく暖かい」【ユニクロ】の“暖パン”に注目「足長に見える」「一度履いたら手放せない」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
   https://news.google.com/rss/articles/CBMia0FVX3lxTE9ROTNfSnR6YW1CbTFhdm5icDVDTXZjc2dPYXp5Vy1zSUYwOEpHa3ltY2o2c0NWNTZHX21HTWhjQ1M3N2hURWhWM2tITzRMcmd2X3FnUzhyMEVhb2oyczVDaUFhaElLUHduaGh30gFkQVVfeXFMT2x1dTcwNTJSaWFDWkhabnRld2QxTXBWTk9Nb1F0bm1qeXRxajBHUDNMV2lCblZqSTJHSnl6RWVYQU5IOXpLR1A3QldVblRtX2NHRTd5dloxcVF5UGdlWlE5eU9tSQ?oc=5
@@ -187,6 +154,9 @@
 
 ○1月11日 26年ファッション、日常に寄り添う上質さへ デザイン軽やかに 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5rRFYzU1BYU1RsOFBYNTNNcS1SdVJCUzhOeDBtYVdkdVZfNlplQXFOWm5uUk81c21rYVcydXA4ZW5raXRyQnFjTjczUnBTRVJzdzY0azd6eXpGRnRhdTV6Ul8zYy1PdzE2LUtfUQ?oc=5
+
+○1月11日 「想像の倍以上暖かい」【ユニクロ】の“超極暖”シャツが人気「冬の外出の必需品」「めちゃくちゃ肌触りがいい」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE45LVY2a01wc21ZWllfSE8xb0dfeTBnMFMwUlNOSUlsRDRaTjVzYlgtQktFVXNMUXN5RUpoQi05cjVoUkwySl81MlZHZ2lBUGtwOUppTF94NU80X2JUdC1qX01iNDVIdldLZTdz0gFkQVVfeXFMT0owX3VhMVNJWVZUTkQwZk8yR2JzQ09RMW1yTU94NERoeEpfcnlDVUFQRmI5QUVlZUZTU2E4STd3YktGV1dnbmdYbWJMajBzTDJEbTg3SExaX3U4TE1Ebk5xREhsMw?oc=5
 
 【自由民主党】
 ○1月15日　政調、税制調査会　総会
