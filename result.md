@@ -1,18 +1,6 @@
 【ニュース】
-○1月10日 ユニクロ、梅田に「西日本最大の店舗」誕生決定 LINKS UMEDA店→グローバル旗艦店「UNIQLO UMEDA」 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE93QlVDQVM1MEktTE1oemVINVVoTk1rR1VQRElud1RreEVaSFI4dTlZX3ZaWWk0NmVrWEJnV2RiWGo1S1FEZ1p5QUpJbmQyS0JYVXc?oc=5
-
 ○1月10日 「肌触りがよく暖かい」【ユニクロ】の“暖パン”に注目「足長に見える」「一度履いたら手放せない」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
   https://news.google.com/rss/articles/CBMia0FVX3lxTE9ROTNfSnR6YW1CbTFhdm5icDVDTXZjc2dPYXp5Vy1zSUYwOEpHa3ltY2o2c0NWNTZHX21HTWhjQ1M3N2hURWhWM2tITzRMcmd2X3FnUzhyMEVhb2oyczVDaUFhaElLUHduaGh30gFkQVVfeXFMT2x1dTcwNTJSaWFDWkhabnRld2QxTXBWTk9Nb1F0bm1qeXRxajBHUDNMV2lCblZqSTJHSnl6RWVYQU5IOXpLR1A3QldVblRtX2NHRTd5dloxcVF5UGdlWlE5eU9tSQ?oc=5
-
-○1月10日 ユニクロ、年末年始の旅行＆帰省時に役立つ「持ち物チェックリスト」を紹介 おすすめアイテムも 山陽新聞  
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Xc3JpcnhzalRnMzBHVDlvYml0WWNCUDIyaFVJOTZWSFRkVmVZdlczSGkxa2FSREtkUC1hanptQTZGMTNwQzY5MVVXd2owVFRrN3gtQVQxYWI?oc=5
-
-○1月10日 年末年始の衣類整理に役立つ、ユニクロが“商品”の豆知識を伝授「ワンサイズ下げて」 参考にして新年をスッキリ迎えよう 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJWG1MODhyc1l6cm9jdWJranNuMXZHaTZjanVrS0E2aXBUczlvMks3aThqZ1JWSEJteU9qQmRpeUpQNjVVOXBGUm41QWUzS2NfZEE?oc=5
-
-○1月10日 第74回日経広告賞「環境・サステナビリティー部門 優秀賞」を受賞 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ENXl1LVFGNFFaVThoSnB1cjU0QTRzQkZGeGhfWDZuV3FqeHVEOXFOQnd2VlpSYk91VjBSYVVJbElvbDFMQlV3VGtIbWRXREdQUHc?oc=5
 
 ○1月10日 社債「サステナビリティボンド」 ちゅうぎんＦＧが９月発行へ 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZSi1ndmJtczQyOS1pTzZlb1dpbURxbnlTcVJzNGcyX185UnNXQmtaX0NVYlpHRTVxcXZDVUxxcUxSaGpBMm5uX1J4QmVvYkoya2c?oc=5
@@ -31,9 +19,6 @@
 
 ○1月12日 展望2026／長野県知事・阿部守一氏 競争力向上へ再生エネ注力 日刊工業新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jOHZEQkQ5bkstdnhueWo2VWdkTjZMc3NqaVNDYjNmVk1uREt5N0gySlhiZGJxWldMOTlyNnlqYTFucUV2SnhMczhxcHo0VjZFelhOd05GNUdUWVk?oc=5
-
-○1月12日 春まで使える！　ユニクロの「フリース」おすすめ3選【2026年1月版】（1/4 ページ） - Fav-Log by ITmedia ITmedia  
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tcEpMSHhKRXdaUDItbXB3OXE1cDN2WW5qSFRnWjU4blg2WmNPZzVqOFpEOHVDb0V2OXFKLUo5Q01GS2FHdWM0NTJKX29PUXFpOVYybHltMzhsX2JpcmlvZmhKbUvSAWRBVV95cUxPLXBKTEh4SkV3WlAyLW1wdzlxNXAzdlluakhUZ1o1OG5YNlpjT2c1ajhaRDh1Q29FdjlxSi1KOUNNRkthR3VjNDUySl9vT1FxaTlWMmx5bTM4bF9iaXJpb2ZoSm1L?oc=5
 
 ○1月12日 「メチャクチャ暖かい」【ユニクロ】のおしゃれなダウンに注目「サイズ感も質感もいい」「ポケットもたくさんあって快適」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
   https://news.google.com/rss/articles/CBMia0FVX3lxTE9JQm00Y1owXzFiZUMzUTd6MmxqbjJUUG4xWW9oTF9FazA0cERDV0tnZGFxVDUyX1M4bTVabFVqamc3c01Dcm5uYkFzRmQtWXhJRW5LZmhDVkh5MWZGUS1XRUF3OUFwanpKM2pB0gFkQVVfeXFMTzVnM0FwbXZfWGlPbHo2NzM0M0JmZTlQNXZHZWZGYlBkVVNaX1NhT19RWElYb3ZJSWJyOV9OT0t5bXlLZEc4VzI0N3JSdzJwZVVXYnVwYlFOaXRQVnR1enJyZ3BsZw?oc=5
@@ -78,10 +63,13 @@
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE13T3NpcDlscFp2WW4yMEdPS3pxT1N5U0JZVTFyWlRLcFIzb0FLQ1Jvb2tGYXhURGt5VjAtbVNfSy1WOFQ3YnRMWS1xRnE1RmxlZXVfX2E5aS15NjUyeXVV0gFkQVVfeXFMTk1uc0ZuT19JYWlnNXliUXplbnZva1FubDVQMzhuU2Zsa0Y0SWRzSzJOUEI3SHZQd3kyQ2JGZWJWR0V1T1dVSzlNaWpmRTd3M25yb0hyaFBocHNPem01VE9WdlRFSw?oc=5
 
 ○1月13日 三井住友FG、米国のネット銀行閉鎖へ 金利競争激化で収益高まらず 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYlJNZUtrTDVyVm1vTWV6cEdwTkNnSEg1WGwzQXpyd2xYdktaeGF4MWI2dXpsWS1renpLMGxZek9SNkNNVmJmMklzV21GSFQzX0pXeVROeWpnVU1QTWx0YXZHQXNQeWdWQW55VEw5Y19sX0EtN0VtQUNXaDJkQ1RMYkFIZ1laNGxWaVpERmtzbUxzd2JwLUpMZ0ZOeXlGSWw2Y29tSEZrWWQ?oc=5
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY2xPZzRpdTJnR0ktYnBKTjU3eS1iQXFhRFc3eUVmeGJ0eUNmWkJzY2llcTJybFJXUGw4MUdBcVlfX09ENWk2Q1V0cjhtM0Q3TjZuRWdXRVRuUTJBckhyNFRhaDQ2V2g4UUU4dWJxbHcybWtjVk50V19uMGhNdlZEb2pDcy1uOEhYWW5xZXhFdl9ydFN0bmVkc29VREQ3dERhQVpvQjFlLUc?oc=5
 
 ○1月13日 三井住友FG、米国のネット銀行撤退へ 金利競争激化で収益高まらず 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE04bFpZSlpsREhHcFFtVDV2LVlPcXJXUkNhSDRDenI5MDVkdFBXMUhmYTBHRmN5R1ZQb3NIZjRGVE9DR3g2V1hLSldtVVdxVXk0MWNwaXpKNU5ENlhfNUpMVVBpc0VVWjBLeG1UMQ?oc=5
+
+○1月13日 米国防総省が「AI加速戦略」を発表 中国との軍事競争念頭に [トランプ再来][AIの時代] 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TdjNDdTZJOEdpRzhKSE42cFFIazluX3d1V2FmTEpQU1RQRXJueUNFVFZlUzh0eDJyNFdkekpTSXVZTkVRMmNKS2I1Sm5xellJOTVualFmdzBQWnNKSmZfM0h2Q2cxcmc?oc=5
 
 ○1月13日 米報道官、イラン空爆「選択肢」 取引国には関税25％発動へ 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hdldPY2R3dHl6OTE1QUptZGxnOXk5b3FzYldPQXB5YU8yWUJLTjZWczZZLTIxVGVCOG55WG9hTnV2LVNRdFB4NURpazltYnF6N1VVOTZ4eG5HVmY5NW5kb0d5Z3pFMkxO?oc=5
@@ -91,9 +79,6 @@
 
 ○1月13日 プレスリリース：ファッション業界の人材派遣・紹介事業を担う株式会社iDA。既存ツールとの連携でPORTERSを両事業のデータ基盤に（PR TIMES） 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOTGc4MkxVRGZtX3lISU1ya3hqdVl1OWY0Z1Nad1MyWGFEb1ZyQlVXZmxNWlhUWGNmVTNPVHFpclNRUk9uY2l3VUQwYkZmMlJsTzhUNVhBVm1FYi1RNjBwcHJBQnVGbm5m?oc=5
-
-○1月13日 前回も10～80代がランウェーに登場した（着物リメークファッションショー） 伊那経済新聞  
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE92RWpESFdySVdGd05wMnM1SWdpaGFVSHVFWndHamw4SXBSeHliTjJnUHZJUDR1ckg2Q0pFRTlkYTFnZ1R2WlF3MDhxMmN1NDFi?oc=5
 
 ○1月13日 日本ケミコン、台湾の競争当局と和解 部品取引の訴訟で 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE51eGI1MUhKWWFjRk1hNFZVRTltUnozd1VyS1dFbTNFclRkaTZZS2l0TUxGeGVTYk85dWVUV2xQaFdCOEZ4ZFh3T0xfeUF6TXBFbHh5blRDZ1ZlSGYtaWR0WUQwNWQyRllZZmhuVg?oc=5
@@ -113,23 +98,20 @@
 ○1月13日 「トータル・ファッション・デザイナー YOKO FUCHIGAMI」の作品を展示する「YOKO FUCHIGAMI ランウェイ」 仙台経済新聞  
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zOVlmR0hwUGIzcmRTNW0xcmMzaTVGZFR0bWpINTFZSkMzeEVGUlNZZHR6djUyVmQzQ1NhLXhZZzRqcGhzSjQ2cFl0TTJrUm5hN0RVbA?oc=5
 
-○1月14日 渡辺美奈代、上下ユニクロでそろえた“ホワイトコーデ”に反響「とっても可愛い」「お似合いです」 山陽新聞  
-  https://news.google.com/rss/articles/CBMic0FVX3lxTE5HVS0wdFNBWDdDNVNuQVY5X0U3YmdoSDRPMUxhT0FJZlNFN1FWTnZVbEplZTJJSzhLOFdNcDJjbmpuVmNWZFZJQ1lXRE9xWEpaM1FjWElsUWdJcGNQUHI5TmtUb293YnVCeXV6LUxpUWJ4cGM?oc=5
-
 ○1月14日 米、イラン介入強める 貿易国に25%関税 軍事行動も検討 デモで3000人死亡 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE8wSUJUcldlZGxKLWxYWVFXd0NieUhwNFRtYkZJR1lBU1oweG01dkJ5UjVlN2k5Y09DazNlcTRPQmRhWDdTT3R1bGdaWS1ROEdSUzVBb0FRNlpfZ2gzZW9RQ0p3a00xVlozT3RWWQ?oc=5
 
 ○1月14日 コマツ、来期は今期並み値上げへ 米関税の影響倍増 堀越CFO 設備投資やM&Aに力 日本経済新聞  
   https://news.google.com/rss/articles/CBMimAFBVV95cUxONWNqY2taa29tb3F1bE1tOGlWWV9JdVZGZXQ4X1NWRV9VYXVFdkljMlJ5Zk9uV0pxQ09BM3lWQ0hwbWtaOUZhLThaZVBORWVEMTRUeVZrUkZMNDNoNTFxME1ETnJ2SU9kY0xNTmJCS1ZHcVVlbVY5WFFoOUIxd0I2Ymx1d2dMVV9CcElFZFFwMUlQN291OERuYg?oc=5
 
-○1月14日 三井住友、米ネット銀撤退 金利競争で収益伸びず 採算重視、事業の選別急ぐ 日本経済新聞  
-  https://news.google.com/rss/articles/CBMilwFBVV95cUxOUkZIV0VWak9yUXBIeHlGbUlNUUZDUWN0MWJCWklYdHMxTHdQUEJLYVQza0l0NFRxbHZsd2diWlpJS19fdHRDeXFXeTdoM0lxeTJpMkJUWDlVWWpCM0NFUDVIaDlIN0Vad1cxTFN2YjNKV2hpY1NwQ0t6b25jdnpaYkxadHFKYVhORzJlQ0dzUWMxMGJ2ckhF?oc=5
-
 ○1月14日 Number_i神宮寺勇太、アミリ新グローバル・ブランドアンバサダーに ファッションは「僕が情熱を傾けるもの」 山陽新聞  
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nZ3BJYVByMDE3MjJDVVBwaG9GcE1VRWRCbUEtLWdPT21waXN4UkZHMjVhV29EYmE0bWVCeUNkQjZQVGk2UE1RaEsxaWR3T211Y0NMMWppb1cxVHll?oc=5
 
 ○1月14日 宇宙にデータセンター構築、米中の競争激化 AI覇権の新たな舞台に 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGU0U3d0VEsyeVlxZmV1MTF0QkIwM01ZZWZpSHppNVl6Ri1aSHlNeDZMZ1lnWVpnbmUweTNPNURhcHYzN1VoWF9TMDB4WU5rNmxoTFctbjRuYkhtVmVwak1FMHB4amNmMU5ndw?oc=5
+
+○1月14日 本川越ペペ、歴史に幕 食、雑貨、ファッション…34年間ありがとう ／埼玉 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HcGJ5YThBeU0tRzFtMjZncWZ2WHAtME9xRU8tY19oTTJFLXFjSy1SMHhqaXFsTzlzNG5rWmpnS3Zwdzl6WjNWa19mVFpzMlpXczItdTZ6LUVLZTk1NTNWekJyWmNoR1U0?oc=5
 
 ○1月14日 年頭所感・持続可能な公共交通NWを維持/札幌市長 秋元克広 建設通信新聞  
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBN3drdnFXQkRPc25iRjdMVEhUOXZqRVpCNXM5V2w2eXRiazV4ak5KQ0Jnb2hDR1JCN3FUTmlEN25KcFJoSjI3MkhaTWZsMGtTdEp0SUxnOTE?oc=5
@@ -140,8 +122,23 @@
 ○1月14日 “人海戦術からの脱却”が始まった みずほ銀行が描く持続可能なリスク管理 ITmedia  
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1kejVuYjBGSW8xVDBmbnJ4TFpFZ09JS1BCT2M2TFVVX0xHYlRSejZ3a3ZyVEVDaTFXdkFUMzJDaTlxODJLcFg0bUtIX0JJQnBYUWhKb3l2SldMYkpBYmoyRU9Cbkh5ZXNyZEhqQVY3SDJRald4?oc=5
 
+○1月14日 トランプ関税敗訴なら交渉力失う ベセント米財務長官 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGVzg0ejBZbTNtaWVYeElNdEx3eU9Bc2JRT3ZwRHE2OWFTdTBGTDRiR3BhSzVjUVNjRkMwWHl6YVJnYVkzRFJoOWdWVjhBOExVUHc?oc=5
+
 ○1月14日 三井住友、米ネット銀撤退 金利競争で収益伸びず 採算重視、事業の選別急ぐ 日本経済新聞  
   https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaUhRdWp3aXYySVYwSExFVk96TmFUV1R4aHdMbmN3YzF3ajJIUWRsZTdPRFFtYTd0dGZwTU91UTBLZGNwZndzM2pJRG1ac0NTMVkwZVJHWFljODVGdWdGcjdoRlQ2aDdybC0yYzJIdi13YW5RMnhHQ2JZdVZmSC00dXR1SXI0cUFubktueXRYa2JmLUY5QUlwXzUxcE9KTlJ1M29OdjBhVmE?oc=5
+
+○1月14日 米関税、９日にも判決と報道 最高裁、看板政策を左右 山陽新聞  
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5RMVJCLXNlTDBqc3FRVFhfLUZxelRBZHJHd0N4dWRBNndkQmZLaFkzcXNTTFhHcmwyUGdlSG9JTUZWVjh2eU5zQVZoajYxQ0YwTjFNTWdJSUVjMURHMnJSbzZVQW1ES3NaRGpnWG41RnYtdEVLcnc?oc=5
+
+○1月14日 三井住友、米ネット銀撤退 金利競争で収益伸びず 採算重視、事業の選別急ぐ 日本経済新聞  
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxONTVLcVBqU0Z6Uk5JcW1ETWhkQ2tWeDRkSVdMU3FMSnpxN2pPWHp6b2xvUE0zby1hQ2hxU2FaNDFaUjR2MHoyVGtnNmF6T1NiLTh4MGlkTGlKZU9RekJULXJUM0ZoVXZJMVowdGRLcEphMkJjcWJXeC1ib001WEtjWkxTV2tBOTlUbVgxX2ZiNHhxSGNISUt6ZjRmQ1NDREVweEwtWkdPbkg?oc=5
+
+○1月14日 【レアアース会合】脱中国へ公平競争促進 愛媛新聞  
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xQnBfOEFSZTBoLV9zNEk0dFVGaThaVkJjVVE0TXh5TTFhUUV3YUFwS0FjR0ViMnRUaEdRbG9sQzJ5VGJfdW82SHkxOHItV1VrOXE5Q2R3ODdzWVdPalViMFpGcw?oc=5
+
+○1月14日 ファーストリテイリング、最高益 日本経済新聞  
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMk9pejVHcTBqWnJWaDJiZFFDdjJJNzFOczh6Qzd1WmVvNlJPbmtrUjFqUWUyaXB3VV8xVWo3eFMzVjZkSlBFc0xsY0NRTVB4TTlUd3RwaUtoYU1YTk5kYlRsV0ZUWEVFNl96bFFqZ3Q3My1xMTBtUnlBeU9XWXBTeTZYOU52c0pnTTVhTWI4bTJxTzJWemZzQzJwSXpDd19GSGg4eVpfTkw?oc=5
 
 【自由民主党】
 ○1月15日　政調、税制調査会　総会
@@ -153,9 +150,15 @@
 指定したキーワードを含む新着情報は見つかりませんでした。
 
 【内閣府】
-該当データなし
+○1月14日　規制改革推進会議ＧＸ・サステナビリティサブワーキング・グループ（第2回）
+　https://www8.cao.go.jp/kisei-kaikaku/kisei/meeting/wg/2501_05gx/260114/gx02_agenda.html
+
 【消費者委員会】
-該当データなし
+○1月14日	消費者委員会本会議（第479回）の資料を掲載しました。
+　https://www.cao.go.jp/consumer/iinkai/2026/479/shiryou/index.html
+
+○1月13日	国民生活安定緊急措置法施行令の一部改正についての答申（1月13日付）
+　https://www.cao.go.jp/consumer/iinkaikouhyou/2026/index.html#lst1
 
 【経済社会のデジタル化への対応と納税環境整備に関する専門家会合】
 該当データなし
