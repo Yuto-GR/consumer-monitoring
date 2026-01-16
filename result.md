@@ -1,7 +1,4 @@
 【ニュース】
-○1月12日 公正取引委員会1000人体制へ デジタル寡占・下請け取引の対応強化 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE90dGVjdkZXTHItZTE2MXZvWG5iczFQVzNQZWh0anJqTGlTbVJPem80cFd2RTJ4RDctRHIxaWxvVFNYWkRQT09CY2tCSnBoRVpfTzV4R1VoM3pvOHY2NGk3VVZyNWVzRUJGdld5dg?oc=5
-
 ○1月12日 EU、中国製EVに最低価格 関税減免で貿易摩擦緩和も 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9VSWxDU000c1VkUk9TZldmazU2QUxBR3dyR3RPdzJNU1dyVGw3b0g5RUw0M1g3aG1iaU0wdXVQMk1PUFBsV1JZQVVveDh1cGV4Snl4REM0bTdzQnZSWGRHaHUydS1kbXNFem1vMw?oc=5
 
@@ -32,9 +29,6 @@
 ○1月13日 ファストリ時価総額、国内小売り初の20兆円 海外でユニクロブーム 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFA2cDZqaTVoanBKZ29LVlg1MjJOSmdvNGFmR3Fqc0xKUy1OWWg5Ui0wbG5LWGp2SWhoQ1BucUxLMjNVYi10N0tTWVVoeGc4Q3pDRng5YmROd2UxS1VYUGdwZFplTVhWQ3RnY0ZoQg?oc=5
 
-○1月13日 前回開催の様子（着物リメークファッションショー） 伊那経済新聞  
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hWUFYdFBicnFvX1Fid0pwc0RVSzktcmpqdUJabmRiWFJxejRVWjZfU2p6M1psMnRjc0dtZXRnaTM2MGVHbHBlQV9mYnd2YXZG?oc=5
-
 ○1月13日 日本ケミコン、台湾の競争当局と和解 部品取引の訴訟で 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE51eGI1MUhKWWFjRk1hNFZVRTltUnozd1VyS1dFbTNFclRkaTZZS2l0TUxGeGVTYk85dWVUV2xQaFdCOEZ4ZFh3T0xfeUF6TXBFbHh5blRDZ1ZlSGYtaWR0WUQwNWQyRllZZmhuVg?oc=5
 
@@ -53,6 +47,9 @@
 ○1月14日 年頭所感・持続可能な公共交通NWを維持/札幌市長 秋元克広 建設通信新聞  
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBN3drdnFXQkRPc25iRjdMVEhUOXZqRVpCNXM5V2w2eXRiazV4ak5KQ0Jnb2hDR1JCN3FUTmlEN25KcFJoSjI3MkhaTWZsMGtTdEp0SUxnOTE?oc=5
 
+○1月14日 ファッションEC売上トップ30社のうち50%が「ZETA CXシリーズ」導入【ZETAが調査】 日本ネット経済新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZMFJYVzJtZWdUV3JzaXhsYVZHcHVEYXVMaXV3Y05Yd1NTR0g5cXpRZDFBTDViVXBTSlhTV2VyeUFaRW4tMEJUcFdrbWlaTzVRZ3JfSENR?oc=5
+
 ○1月14日 米国のイラン関税案、対中貿易休戦が壁か 中国は既に反発 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9udW9QcDJWMEhEOEszMDFheHlaUEtKMWFKSXBNOGVSNmtzck1QTTN5N2FGNU9zaFUxbkVCTGZzN0RwdXo4cTZ1eHYxZmpQdFdfZG5LYzNFMkF6Q2cyZnJRbUxPTFBJdzJvWEtOQQ?oc=5
 
@@ -68,20 +65,14 @@
 ○1月14日 中国新車販売､25年最高も競争激化 リープモーター･小米がBYD追う 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1XSE9ncUQ1MFEyamRfcUpQbU9SVDNpbVdBaWtFYnh0d3huX05GOHU1RXNLcTRxUlFGX3dYYTJXYWpOTUpBWTcyNGVJNjd0T2x5dU9YNkFQMXhBdG9MUWJqNDJaYmpBdm1BZDlYZQ?oc=5
 
-○1月14日 【2026年 年頭所感】一般社団法人 日本食品機械工業会「国際市場での競争力向上へ」会長 大川原 行雄 オートメーション新聞  
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KVnptZE5IREU1RnNwOHRFTEVrSmxOekkyZmpZbFhxcXhtSUhMU0dxR1NIRGt4WU9xbUIzMldrZkJhYTZoMGoxc0J3end5UkNDYjJCUTd6cTM?oc=5
-
 ○1月14日 公正取引委員会の四国支所、松山市内で出張講習 改正下請法など説明 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1kcEItNEFwcDQwR0FHNXdpaWRzRjhmOUYzRE5UcHBVYzRPWWhzMGhLSnRWWEI2cWEzMEhVS0I3NGhDS1ctMGVVZjFWalhWT25tWHdOai1kbl9XOTJYOHVDVGQ5OVZTR3o0WHlJbg?oc=5
 
-○1月14日 【宮崎キャンプ・第１日】末吉塁「競争を楽しみ、一皮むけたい」：FAGIGATE｜ファジゲート 山陽新聞  
+○1月14日 【宮崎キャンプ第１日】末吉塁「競争を楽しみ、一皮むけたい」：FAGIGATE｜ファジゲート 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtNXBYUjFRVV9hOVE5ZnpnRDNoOW9EdEs2RmQ0UEdnT2dJNXVkUWlqWGZOSUFlZUg5S2hiN3BiWGVDT3ZEcUxJUW5wbUpXSUdyTVE?oc=5
 
 ○1月14日 空港の国際競争力を強化 26年度予算案 航空局関係 観光経済新聞  
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xZUIyc2dwSl93LVV0c3pwM3FpQm03dkU0XzQtUmNPRG1zRlVoSHF6N1JwUjdyZVlRX1pUSWIzWlBYZjB5UWNnT3Qzc1VMRjBDTWJV?oc=5
-
-○1月14日 【ルメール騎手が手がけるファッションブランド CL by C.ルメール】午年を祝した2つの新コレクションを発表 烏丸経済新聞  
-  https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tTWstdWI5NnRTRE01OEtaQ2tqNUhGQjlkVFVNN25uaXpQTFBEdmdURW51OU9QaHlCaXhLLVhtakhqbXEyTk05cXMxZHZib21FNTVMN3FB?oc=5
 
 ○1月15日 トランプ関税訴訟の米最高裁判決、14日も見送り 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9OcXk0dmlFQUJQUDJIRzlPVUR1TXYwQnhYTVVsbG1tZXVlX29pNTB2YlZrV2p0QktvaTVfd3NkZmVhR3dQMHRKakVCdGFnNFp1QVdwSm1Sa1gzOVZ5czJ1MXhaclRPNjh5cmMtNw?oc=5
@@ -89,8 +80,8 @@
 ○1月15日 ボビー・オロゴン、ロケで“クレーム事態” 今年で還暦…現在は主に投資家として活躍 山陽新聞  
   https://news.google.com/rss/articles/CBMihgFBVV95cUxOeEk5STEyM3lvdHdyRUJfT3VJcDB0WkUyMXNoUTBPM3ZSX1htbTBrQlZNbW5WWnBoX1dWMHRaRnU0RmxPWWtkOXdnTmNqMHJ3cjN4SGhlSWRPRlRXaV9BXzlFdkg3cWl3VFVobU8xa2dEVENYb1JSUF91bU5ZcGZiLURYcTJWZw?oc=5
 
-○1月15日 Number_i平野紫耀、「ルイ・ヴィトン」ファッションショーに4回目の出席「心を動かされました」【着用アイテム掲載】 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE85ZEctYnV2TkFkZGdWZnI4aDhEcm1Qc092V2N6TDN5S01Ebks4emdjR1Jnbk53aVNoWW43VjhBUmVoTUFMU04xcXZmcERwNFFXNEE?oc=5
+○1月15日 三上悠亜、ユニクロの“リピ買い”秋冬アイテム＆愛用ショーツを紹介「嬉しい」「ほんとに助かる」「リアルを教えてくれるのが本当に良い」 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwUGdqX2lfY1ViS2lWSjRqMElKcjEyTmFQSnpkOUJnYUxZNzd1ZG9yMHQwUUlVbTBXQnR1aVlqYUxJdjdlTGpfd0lZWVRXZ0hxemc?oc=5
 
 ○1月15日 香川県丸亀市が「世界の持続可能な観光地TOP100選」に選出 「大江戸温泉物語 ホテルレオマの森」「NEWレオマワールド」の循環型観光の取り組みが貢献 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNlNXRFVzdjZVU0lQN1RPT2lld19KcmVfQy0wTzlXWEFaeTJwdGR5anFHR2RjM3BnYmZMYTZ4WUJSeWRlT214cWlVVXUtTmxSa1E?oc=5
@@ -98,8 +89,17 @@
 ○1月15日 米半導体関税、NVIDIAなど先端品に25% 対中輸出に「上納金」 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE4zWlFZRll3MGxIeVRZakhGS1NUc0xHbGpoSDRXcU81dEt3SUg2OWFhZk84elVYWnU4N21Rd0k4SDlsUEFya1J2NGdPX1hvUWZ6UnJKREtLNTk5TlJncjB3dTFORFJLYlhSazh1QQ?oc=5
 
-○1月15日 「三重ＧＰＮの挑戦」発刊　代表幹事・朴氏の編著書　環境配慮、持続可能な社会へ 伊勢新聞  
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE84b1E5ei1UR3JBejFKZlpseTJsWmxrRk02aUlhM3cwa2pEZ2daanhadjcwZVprNmcyR0ZBc0JsaS1lZnMtNEdoaXo0Rl9MOWU1VENCONIBWkFVX3lxTFAxMElaT2dEMUZhNEpyenFLZkdFci13QklmSUdjUjI2UHJtT0ZqTEpUZHdZejNLMl93UUc2NGcwQ2NlRm9GVFo1ZFlmVGdOSFBNUGFuQ0dNV1ZoZw?oc=5
+○1月15日 神奈川県開成町の遊休地を特P駐車場として運用開始 地域貢献と収益確保を実現し、持続可能なまちづくりへ（PR TIMES） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5a3Rfa2VkWHpCWGJ0NEVoMm90TU5GNVJ1QlJHUElZT0ZkbGVWcko4MC1iVVBFOVBEVDdxNkQxcHd0UXdsdzQ3di1KQVZ1OGpSS0lpZ2gxaWtacThvakpSMUNJMG1nWjgt?oc=5
+
+○1月15日 「うちの子がなんでレギュラーじゃないの」親のクレームに疲弊する教師たち 北國新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ya1FVSUxSeTNnUXByUUx3ak1pV201WTZKN3lMZzJNWUpIY2QxQU1KNXJCMXBlRzAzaVk2QXNpVzgyNFFwSWJYWmtpQXBRdC1PaGE4QTJDVQ?oc=5
+
+○1月15日 ユニクロ「UT」×集英社100周年で『ジャンプ』名作ずらり コレクション第一弾は計11作品22柄を展開 山陽新聞  
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE51dXVBTEJEZDN1eFhONHN5bWoxb1RURWZIbVVaMDVtWnZNRDlsbGVvekdNN3h6SXBWLXQ2VThJRkh3THVTZGVWOUdpSXRHZ2dxX2dmNkxRVV9QZ185?oc=5
+
+○1月15日 「うちの子がなんでレギュラーじゃないの」親のクレームに疲弊する教師たち 愛媛新聞  
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GZVE1Tk4zX0hTdGd1d1otMXdaQ2JIQVBLR1dzaVVtRzhKd2hiTDFPbV90V2ZWLUtZeDl4S1p2c3BsQTl6d294aC1QOFE4dWs1U3lyZzNSTElma1V2RTVQM3FfMA?oc=5
 
 ○1月15日 【Q3決算】ツインバード（燕市）、家電事業は競争激化で減収・損失拡大 にいがた経済新聞  
   https://news.google.com/rss/articles/CBMiREFVX3lxTE1sMlJIYTBxR2tvTkJ5NUtKWDdCMG9ZbzZMTzEyZjhPZFE5N0p0M1U2MG9iX0ZPWjhMd0N1VC1fd3NVTzNG?oc=5
@@ -110,20 +110,62 @@
 ○1月15日 トランプ氏、レアアース関税は見送り 供給網構築へ各国との協議優先 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE42Ml80czZNRFh1T3ZJNzllWVNfODBEazZVMjNueDNvSVFLU3dPX0tsS3ZoSFFuck82dXphVHlXeklLekdIS1JZVmt0RWNtQnpUZVVsNTRYLXhWUG5tRVozcy1TWGxGdDFyRzNVZw?oc=5
 
-○1月15日 AIの権威ベンジオ教授、国家間の開発競争は「全員が敗者に」 日本経済新聞  
+○1月15日 AIの権威ベンジオ教授、国家間の開発競争が続けば「全員が敗者に」 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9tajN5RVpldDdPc1g0VHNHaU9kYWhPLUM1VjdmeVpKbWFvamFuVExkLVM1THFTcmhXSGVYNU8yaV9tRmlsNGc1d2Z4aVRldVI3MVRHQVZOTXg3WkJxR0FwZVByVWZQdzBpSTZZbw?oc=5
 
-○1月15日 プレスリリース：JEPLANと日本化薬、繊維to繊維リサイクルの普及に向けた染料選択基準を共同策定（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YUGxlZ2FJeFp3Y0ZpeXRkdE9SNVQweXlWVERVb2VzTUVFblFsZU41cGU5RWktSEtkbzZobHdNWDh1ZHdCY25MZndUWmZjYmxwbXhVY0d5MTZXS0JEdGhJZmp6bHMwUHg5?oc=5
-
-○1月15日 【東京ウオッチ】ファッションで社会変える デザイナー森永邦彦さんが描く共創と次世代継承-ヘラルボニーの色鮮やかなアートと協業 いまのＴｏｋｙｏをつかむイベント情報（１７日～２５日） 神戸新聞  
-  https://news.google.com/rss/articles/CBMiggFBVV95cUxOSnZWTUo1MnNNZ3M0VDZ2XzZFNDFKcXFMeFdRRWJTTHZsWFhPdDJVY2IwS3B2WHVoTFFfcE1sWVgzMEsycnYzQWtLVUVVZUI1b3c3VkNNbnYzTlBGVUNTRVUxekpLdXpCNkVnc1NfOUNFZDF1QllhY1M2T2d3RldyMEFB?oc=5
-
-○1月15日 【東京ウオッチ】ファッションで社会変える デザイナー森永邦彦さんが描く共創と次世代継承―ヘラルボニーの色鮮やかなアートと協業 埼玉新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FZEpndEFVQ1pLZ2FjRGlBWWVIOGNyWHVVRVFKZGtSalVydkFHMmZVcXdKY3hobEtKdmpEME9RcDJ2QUJyVkZtQkNBM2pPVmhpNEdJRjNZbw?oc=5
-
 ○1月15日 トランプ氏、エヌビディア半導体に関税25% 対中販売許可の見返り 朝日新聞  
-  https://news.google.com/rss/articles/CBMihgFBVV95cUxON0tsdVFVLXhTMHUxLWloVG52cHNkWlZPLXU5MGQwbV9VNkdNUmtadXVYUnAyMnRaaDdfQ0FxRHVMT0ZRb1MwU01IYWZ3OFp0SlZIWnFBMF8wNmRjWmNna3c0b2hRZUJuZVdkZ2VBZGVBckk2TVlhUzJTRnh6TXYxUTNCZHk1QQ?oc=5
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00aGg1b3p6b2E2MVV1REZwdXVzQlJMWU90Qkl0OVZMbjNBalU2UjBnTFVlVFdOcF8tT2V0NFRTczlZUFVwODcySzE5Vnc0eE45YUZsb2I0bFc4eS1wYzhub2NBd1R4NnM?oc=5
+
+○1月15日 「暖かくて軽くて着心地バツグン」【ユニクロ】のロング丈ダウンに注目「着丈が長い分暖かい」「ゆとりを持って着られます」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE81TkhUS0wzOXBnWlRjRzdpVFFsMnhmMTZsdWd3TVFDbUlfLUF3aHoybU5mWkNHOXI4bXZGNnhwZWZpbUk4eWhraDFsZldIMTR4NDRXY25QZU9kSzF6bWl4WFJRbjbSAWRBVV95cUxPNU5IVEtMMzlwZ1pUY0c3aVRRbDJ4ZjE2bHVnd01RQ21JXy1Bd2h6Mm1OZlpDRzlyOG12RjZ4cGVmaW1JOHloa2gxbGZXSDE0eDQ0V2NuUGVPZEsxem1peFhSUW42?oc=5
+
+○1月15日 「暖かくて軽くて着心地バツグン」【ユニクロ】のロング丈ダウンに注目「着丈が長い分暖かい」「ゆとりを持って着られます」 ITmedia  
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RcVJUR01zaHozQ0RCR3dmWmRCc1pnaFRqZ25GVWk2cEVVWnJ1czNxYlNrNW96Uy1kTGhqajhxLXdpUkNGQVlndm44SkMxbWJJXzIwZG9VR0wyQzNKNlR2NVJXUjg?oc=5
+
+○1月15日 中国の2025年貿易黒字、初の1兆ドル超え　「トランプ関税」で対米輸出減る中 BBC  
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0cl9xdzVDdGNUdjVLbTluQTk0SVRqMFZtcGwwZlBuaFVOMnFrR3QzLVNnX1V2dmM0d3VOajJWQmE1MWM3d2EyNjVBV0Y2SGVPSDBNVnZkOGllcElvVmNn0gFkQVVfeXFMTm5lbzFzTFhBUldOXzllUEIwWXJmRS1MMTh3V05HZk9nLWdNN0Jxem5fU1JkWk90MFRaelNnVW9UMXhTYUdWVmsxaV9tYzlQX3pZelhfUDlhbk1wcDlOeDM5eHFlLQ?oc=5
+
+○1月15日 しずおかFG社長「26年は大競争時代に」 新中計で地域に独自色 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5IYlJncEcydWZSRFBIVlluUDBFb3Nacmo1ZS1SeEtIVUtiQWVtb2g0elZBbm1LOFhRcjBmdlg4LURVamdsU0I4eDhKOXZkeFlvcVZNUUNia1NZN0RkVVpCaTJ1WHdVOENwcEhacg?oc=5
+
+○1月15日 サステナビリティ経営の事例紹介 神戸で2月にシンポ「ひょうごから進める脱炭素社会」|社会 神戸新聞  
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE4tTFVIYm9EVnc4dlIwVUVZNzRObXpxbVI5cXg4dkVLV01RQzlOQ0UwYW9INE9yX1hfNkZzUHowTVEyUUd1bDhqaVBGYlFIM0JPTjNvdnlHSmUzZXdSUkkzcktpUWNRNjBfTU0wZ2JDQThDaEh0MEow?oc=5
+
+○1月16日 フィジカルAIの特許競争力、上位3社が中国勢 日経ビジネス調査 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1Yc1dyQXpYQVB1VlJCeUlkbXhoQ2tIT0N4T1E2OHYxOHdqTXB6V0N3RzZYc3ctQ2RWQmxlaUJwNUVha1BYLWJmZFkxQnUxb1VkZ1I5S2diZTdpT1BSQmRKVldJS2tZTWVZVUdpTA?oc=5
+
+○1月16日 南部地域23校の平均競争倍率は3・9倍 前年度と同じ - 2026年度 京都私立中学出願状況 奈良新聞  
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNSklDVmRVNlVpeGNFbklhVHV0Yk5fLXh5ZTR4ejRpMGxoYTQ0VnM3MEpJclQyRFQ4UnNIREl4TW5jYjFxVGVYM2NEN1FXdEpNaFBkY25DMnlzd1RTbUNJ?oc=5
+
+○1月16日 ＳＮＳ上暴行動画　文科省要請踏まえ対応　淀谷教育長「子供の安全第一」　｜四国新聞WEB朝刊 四国新聞  
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE9rYTdWTGlRMjlTYy1LUTJoT0N1d0tBcEEtUWNtbng0Rk1KWVNXVTljR0dacGVwUE9jSFdMNEQzNzFuOTVuOFJjb3J6UGRmTXJSTWhUX3g3RUlkYmsyaDl3NU0xSWRHQmlaTmZRSzlMbmJnWVpZSjRJWDQ2QzbSAXxBVV95cUxPa2E3VkxpUTI5U2MtS1EyaE9DdXdLQXBBLVFjbW54NEZNSllTV1U5Y0dHWnBlcFBPY0hXTDREMzcxbjk1bjhSY29yelBkZk1yUk1oVF94N0VJZGJrMmg5dzVNMUlkR0JpWk5mUUs5TG5iZ1laWUo0SVg0NkM2?oc=5
+
+○1月16日 フィジカルAIの特許競争力 上位3社が中国勢 日経ビジネス調査 日本経済新聞  
+  https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFB0YXhCQl81aV9DUkJKUzlucVN0MGwwWXZwSml2MVZvRnhpdUlldkVtdkgycHB5QmFTS2RDeE9PSXQyVDVsS0tKNDVlVkhBUVZKX2wtNmZNRW5KRWE3WGhlRGNoTDNvSjB5N2pVdERkWHNEVlBZT3F3VzBRRm55YWJjSDd0OWtuaFhZdHA1Tmh0dk5SXzJkazZB?oc=5
+
+○1月16日 Game Changer ビジネスを変える／NECサプライチェーンサステナビリティ経営統括部ディレクター・岡野豊氏 日刊工業新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE54RmZidENkNjJkemFmWDIyb3g4TzdDcE9QN2hDWmdscU5TV2pfcFAxa0pQdmVlUF85R1pWU3BTN1pYVTdjSWZhelBKYVVfSzRWN1lBN1VLQTlMTHM?oc=5
+
+○1月16日 中国、４月の対米輸出２１％減 関税合戦で貿易打撃 山陽新聞  
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WRm5Zbkw2bWFNZElaRzFDSkdmb2J1bm9MMVFvUkVhakJuVDhhc0RsdHlaS3R4NnJMZWJfbzJrNHI2Wk5yZXNacDU2Z3h5MWVGaF92TExhUm0?oc=5
+
+○1月16日 台湾が米国と関税合意、半導体など40兆円投資 相互関税は15%に下げ 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE80SVRFaFA1TkpCd2NVZl9qUHBEcTY1d0YxYU9Pc2tFUUVOQXRUWl9ldGN3UkQzVlg3aEc4UnFHNWFxQllVRkRLZHJzV2loREswOW9IWkk3U3FfZUVfN0szdmlvZDJ2Z2gxNlJDYQ?oc=5
+
+○1月16日 早稲田大学繊維研究会がショー 変化の中で保ち続けたいものを問い直す 繊研新聞  
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qSjlrbHYxV0JVYlpscVcwMlpNUDN1YlBxSWlhOG9DbHhEYW55OW55c2llTGdWTWpqYWo0TVE4X1pPV0o4Sm5wMklCYklzSGNo?oc=5
+
+○1月16日 スタイルピックス、実践型ファッション教育スクールを開設 校長に軍地彩弓氏 繊研新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfTFJHNm44Y2hMX0I2c0hJY2laaUozd2VLbUc0M0xLdW5zQkJkeUVEc01hbVpXcTBuQVlTbHhFVnB0d1A3cTJNcEhfNUY4ODl1N2JmSjZNSQ?oc=5
+
+○1月16日 昨年の韓国の自動車輸出額、過去最高…米国の関税引き上げ受け欧州などに輸出多角化 : 日本•国際 ハンギョレ新聞  
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFMjV4a0FMZkx0Umhic0RVZHBxRS00OWJCV2x4VHk5YmZNUGd5ZHNKNUJ2V09ESEtKQnAwZzMxWl9VRXpZX2FmaXlSOTNFZ1RINDNEb2dMSGRUblpLckhsWEEtbw?oc=5
+
+○1月16日 台湾、米での半導体生産に40兆円投資へ 相互関税率20→15%に 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fZTJpbVFSUnZDLUJYbDNTcTdTVnQ2QVh3eHJ3SVY2cndoeDVmb3NRUW45WmJtdjNybU5CSnFHMzBCOFJzWm5RMTg5STVNdWVjQmtKaDBSRXRER3NmNHlIR3lxbFBxZkk?oc=5
+
+○1月16日 長すぎる夏、ベネズエラ攻撃で……識者に聞く今年の春夏ファッション 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5laU84VUJDbS1udXd3OEx1amd4V3h2cGJPRS02alozeWs0MENnbmFJc3ZEaEl3SkdHVkVzaEFtNi1sOHB2a2NnX1ZaYk9UaTVaRGx4VER0WXhYNDJKLXBqakdkUUxTdFU?oc=5
 
 【自由民主党】
 ○1月15日　政調、税制調査会　総会
