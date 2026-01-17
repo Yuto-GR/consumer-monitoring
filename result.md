@@ -1,27 +1,18 @@
 【ニュース】
-○1月13日 トランプ氏、イランのビジネス相手国に25％の関税を課すと発表 BBC  
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE13T3NpcDlscFp2WW4yMEdPS3pxT1N5U0JZVTFyWlRLcFIzb0FLQ1Jvb2tGYXhURGt5VjAtbVNfSy1WOFQ3YnRMWS1xRnE1RmxlZXVfX2E5aS15NjUyeXVV0gFkQVVfeXFMTk1uc0ZuT19JYWlnNXliUXplbnZva1FubDVQMzhuU2Zsa0Y0SWRzSzJOUEI3SHZQd3kyQ2JGZWJWR0V1T1dVSzlNaWpmRTd3M25yb0hyaFBocHNPem01VE9WdlRFSw?oc=5
-
-○1月13日 三井住友FG、米国のネット銀行撤退へ 金利競争激化で収益高まらず 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE04bFpZSlpsREhHcFFtVDV2LVlPcXJXUkNhSDRDenI5MDVkdFBXMUhmYTBHRmN5R1ZQb3NIZjRGVE9DR3g2V1hLSldtVVdxVXk0MWNwaXpKNU5ENlhfNUpMVVBpc0VVWjBLeG1UMQ?oc=5
-
-○1月13日 ボビー・オロゴン、ロケで“クレーム事態” 今年で還暦…現在は主に投資家として活躍 山陽新聞  
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSVElJTzdHX2Z2V1Z1UXJOWEQ3UzBHQmtuX3pKNGd0VU5yQkpnbHRrV3J4bEw4d2YtNTVDSzcwMlZ4MkFCZUFORzRKQVF1VWVtd0k4cl82OFRTSWlV?oc=5
-
-○1月13日 ファストリ時価総額、国内小売り初の20兆円 海外でユニクロブーム 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFA2cDZqaTVoanBKZ29LVlg1MjJOSmdvNGFmR3Fqc0xKUy1OWWg5Ui0wbG5LWGp2SWhoQ1BucUxLMjNVYi10N0tTWVVoeGc4Q3pDRng5YmROd2UxS1VYUGdwZFplTVhWQ3RnY0ZoQg?oc=5
-
 ○1月13日 日本ケミコン、台湾の競争当局と和解 部品取引の訴訟で 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE51eGI1MUhKWWFjRk1hNFZVRTltUnozd1VyS1dFbTNFclRkaTZZS2l0TUxGeGVTYk85dWVUV2xQaFdCOEZ4ZFh3T0xfeUF6TXBFbHh5blRDZ1ZlSGYtaWR0WUQwNWQyRllZZmhuVg?oc=5
+
+○1月14日 三井住友、米ネット銀撤退 金利競争で収益伸びず 採算重視、事業の選別急ぐ 日本経済新聞  
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWNIYXpCdHRHcGRrYjFFYTVJS0tLY3J6OTM5b0IxRTBmUmthbWlhSmRLUVU4NWREam5tY3JKZkNpVzF0WHVuWXJGQUhNbDZFRmloUmdsZ25QMXhpd3RJOUZkT0VNWFAzSnlOVG9VTTNjWnRxdXpsQTJZSU9od3lkUWNFNjRjdlFYYUp6LVREX3BFcHpzeTBHUV9GeVVXbGE0YXB2OTRTUHg?oc=5
 
 ○1月14日 宇宙にデータセンター構築、米中の競争激化 AI覇権の新たな舞台に 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWGU0U3d0VEsyeVlxZmV1MTF0QkIwM01ZZWZpSHppNVl6Ri1aSHlNeDZMZ1lnWVpnbmUweTNPNURhcHYzN1VoWF9TMDB4WU5rNmxoTFctbjRuYkhtVmVwak1FMHB4amNmMU5ndw?oc=5
 
+○1月14日 米国のイラン関税案、対中貿易休戦が壁か 中国は既に反発 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9udW9QcDJWMEhEOEszMDFheHlaUEtKMWFKSXBNOGVSNmtzck1QTTN5N2FGNU9zaFUxbkVCTGZzN0RwdXo4cTZ1eHYxZmpQdFdfZG5LYzNFMkF6Q2cyZnJRbUxPTFBJdzJvWEtOQQ?oc=5
+
 ○1月14日 ファーストリテイリング、最高益 日本経済新聞  
   https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMk9pejVHcTBqWnJWaDJiZFFDdjJJNzFOczh6Qzd1WmVvNlJPbmtrUjFqUWUyaXB3VV8xVWo3eFMzVjZkSlBFc0xsY0NRTVB4TTlUd3RwaUtoYU1YTk5kYlRsV0ZUWEVFNl96bFFqZ3Q3My1xMTBtUnlBeU9XWXBTeTZYOU52c0pnTTVhTWI4bTJxTzJWemZzQzJwSXpDd19GSGg4eVpfTkw?oc=5
-
-○1月14日 石炭火力発電の灰、航空機守る 放射線遮る繊維に、電源開発など 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WTmRKdWtsLVNiRERaWVVlLTVHTy0xaHdXSm9nZ1hzZF9sbTZ6bWloeHFUYUhSUGtqblFqRjVZbjBTMHJ3cV9oMHZDb01nU1FySlE?oc=5
 
 ○1月14日 中国新車販売､25年最高も競争激化 リープモーター･小米がBYD追う 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1XSE9ncUQ1MFEyamRfcUpQbU9SVDNpbVdBaWtFYnh0d3huX05GOHU1RXNLcTRxUlFGX3dYYTJXYWpOTUpBWTcyNGVJNjd0T2x5dU9YNkFQMXhBdG9MUWJqNDJaYmpBdm1BZDlYZQ?oc=5
@@ -80,11 +71,14 @@
 ○1月16日 南部地域23校の平均競争倍率は3・9倍 前年度と同じ - 2026年度 京都私立中学出願状況 奈良新聞  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNSklDVmRVNlVpeGNFbklhVHV0Yk5fLXh5ZTR4ejRpMGxoYTQ0VnM3MEpJclQyRFQ4UnNIREl4TW5jYjFxVGVYM2NEN1FXdEpNaFBkY25DMnlzd1RTbUNJ?oc=5
 
+○1月16日 預金獲得、大競争時代に 新中計、エリアで独自色 26年県内トップに聞く しずおかFG社長 柴田久氏 日本経済新聞  
+  https://news.google.com/rss/articles/CBMiogFBVV95cUxOTGdIb1c3V0Z1aGctcFJ6eTctQkY3bWZBS1BqeERaVGZUOFJKNE05c05UdFhPTDRHN2V2c3J1VjVjY0tEc0JfajE1a1hhRUhEY25PMHN0X0JZYkYzNnFoS3dtSkpWSWFIU25GT1RoRUxOdDU4eU5iRnRZQ2VuXzZvdUROX1dwaEJ5UlpsM1o4M091bXdySkFQYWFyZmFjMVA4MGc?oc=5
+
 ○1月16日 千葉・津田沼エリアはイオン一強に、ファーストリテイリング系ビルは改装で一時閉店 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9YOW1lYkV0VXZ5b2pnMjctNWNVSXpwX21CMHNsVmFpbF8wUkJwOHBoNzhWN0pIMzczVWo3YnVGZjZhSkozMExneDM0Rk54a3N6V0RTd0VGZS1HNDFTT1pvdjNqSHBOQk9VVC1nYw?oc=5
 
 ○1月16日 フィジカルAIの特許競争力 上位3社が中国勢 日経ビジネス調査 日本経済新聞  
-  https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2hyS01WNWJaaUV0OUs4amJyNDZqcDdMeUo3bjZjQ2IxeFJNMzhHUDhLclVZSlNnem1DV3RyOEJTelAzdDdhLWswSEZkLUU5YmJ0MTdUQzJoV3ZuSURoa25aRGdmeURVOTRvblVUdEo0M0RJd3VnTkU2djgyYUxWYmE3WWdaSnY1QmV2eldQQ2ZQQ3UtbDVfbGpB?oc=5
+  https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2tfMEh1TjFVbm9GUjlyeUJnRWhEa0Q1S0ZsaEcxSC1OV1BkZVB5SjZBOVFxRlVOWFVQOC1OWlVqd3FWN2JMajBXQXU2UTJ1STZCdkNZZ2JfOTB4YzExQTZHdkJXMld4QVRPX3pZVWVSTENNaHVEeUg5VmduQTBMbkNwSERoT0NIUTdSaV9qLXpwUF9POUctMkdhbw?oc=5
 
 ○1月16日 ＳＮＳ上暴行動画　文科省要請踏まえ対応　淀谷教育長「子供の安全第一」　｜四国新聞WEB朝刊 四国新聞  
   https://news.google.com/rss/articles/CBMidkFVX3lxTFBRTnFlZWN0b3RFVXJqQmIzOUc4MWd3ZDJocExHcUtqVFQ1R2JmekhKWkVLZUNsLUZoV2RSeWtFWGNqNGlpb2N4VGFNMFJzMHdEVHRkMWNBeVJRSXI5VEZfeGxTMk5YLW9ZVTlxNXNrZ2k3VW5DYUHSAXxBVV95cUxPa2E3VkxpUTI5U2MtS1EyaE9DdXdLQXBBLVFjbW54NEZNSllTV1U5Y0dHWnBlcFBPY0hXTDREMzcxbjk1bjhSY29yelBkZk1yUk1oVF94N0VJZGJrMmg5dzVNMUlkR0JpWk5mUUs5TG5iZ1laWUo0SVg0NkM2?oc=5
@@ -104,9 +98,6 @@
 ○1月16日 スタイルピックス、実践型ファッション教育スクールを開設 校長に軍地彩弓氏 繊研新聞  
   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfTFJHNm44Y2hMX0I2c0hJY2laaUozd2VLbUc0M0xLdW5zQkJkeUVEc01hbVpXcTBuQVlTbHhFVnB0d1A3cTJNcEhfNUY4ODl1N2JmSjZNSQ?oc=5
 
-○1月16日 台湾、米半導体生産に40兆円投資で合意 相互関税は20→15%に 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fZTJpbVFSUnZDLUJYbDNTcTdTVnQ2QVh3eHJ3SVY2cndoeDVmb3NRUW45WmJtdjNybU5CSnFHMzBCOFJzWm5RMTg5STVNdWVjQmtKaDBSRXRER3NmNHlIR3lxbFBxZkk?oc=5
-
 ○1月16日 長すぎる夏、ベネズエラ攻撃で……識者に聞く今年の春夏ファッション 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5laU84VUJDbS1udXd3OEx1amd4V3h2cGJPRS02alozeWs0MENnbmFJc3ZEaEl3SkdHVkVzaEFtNi1sOHB2a2NnX1ZaYk9UaTVaRGx4VER0WXhYNDJKLXBqakdkUUxTdFU?oc=5
 
@@ -116,8 +107,8 @@
 ○1月16日 プレスリリース：［大阪文化服装学院］卒業生・榎本麻鈴、国際ファッションコンペ「INJEKCIJA」で最高評価。最上位受賞者「Laureate」の一人に選出（PR TIMES） 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlZ25mWGRNX19RdktXTzJianRUT0V3WlJqWDVOaFM2Q01HMlhxdUVyTUN0MkJfaDdzOTJDZ0QtSm5GYnh0eFlFazUzZF9VUmNJV0pnNGF2bEFYQlNtbU00MlVjbHIydmxC?oc=5
 
-○1月16日 岡山県内私立高１期入試は５・０１倍 ２６年度、２年連続で競争率上昇 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TdHpqLV8xNmd4RUtDRlNuM2VPdGw0ZnlDWGdwOW9UdDQyVExQM1JITFBJdGNaRDBKakp4c0hnaEJ0WGJmaklTZUtSOFVrUFZDaXc?oc=5
+○1月16日 「XLARGE」「X-girl」運営会社、SHEIN JAPANなどを商標権侵害等で提訴 模倣品販売の差止め・損害賠償求める 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lOUdDWE11M1dvSDFPcmZ1c0pWdU1KZlpMblQ1MmV4ZGRjV0FuVjZ5VTZyY2FPczFTMGVEa0NXUUtVSjBfaFhoYUdIeWNRVDhwQ2c?oc=5
 
 ○1月16日 カルテルも許される?「脱競争」の地方経済 企業の存在が｢公益｣に 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82SkY0NkNNQU1HbEV6WXhDWVplUnNCb0RpdTZOVlJ4WkN3bXZ0NHZrcDVxY3NNREExbmtTSG9MQkoyLTNBbVBhcGYzLVRadVhwSFF6VEpjR3JVQWdSbDd4N2VId24zNTQ?oc=5
@@ -126,7 +117,7 @@
   https://news.google.com/rss/articles/CBMihgFBVV95cUxOUF9qZVRhX3h2NmNueURkaVg3VUItRDVfNXo3Y0FDbXdpVldJaG01UDVMMTZhM0psZGtDTWEyT1p1VERKSlZDSUNTSE91ZTBiOC1kVjZjano2VUxiME42SFcwbUtaRDJkbllGRWR0SFo3M0RvbnpoM0RYY2Vob21uXzZRM3hmZw?oc=5
 
 ○1月16日 温泉地熱と周遊バスの利用で脱炭素化を推進 持続可能な国立公園目指そう――霧島市が鹿児島県内初の「ゼロカーボンパーク」に登録 南日本新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EV1VuODljSk5Yb093MV9xOVYwQS04Y24xeFdld1JtRDhlMG1zMmJEdk5KQ0tJRnhma1ZTeVR6NENJZkdCTVRoZFlSNmVfcmcyQUxRbmVRYw?oc=5
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE55dktmZEp3TFdseGozVTk1VEwwYW5KVWQzLW9UcndBelhzU2xJVjlXc0d6NjNJemgwNDdNcl9YczJiUmpzQzBIMlJWMlR5aTZDSW43Q09YWlA?oc=5
 
 ○1月16日 「なにわ男子」の衣装も担当 活躍中の23歳ファッションデザイナー [宮城県] 朝日新聞  
   https://news.google.com/rss/articles/CBMihgFBVV95cUxPemlPTS1RY2k1WGZUWlU0Q2RaU3J3aHVfM0diZTZpLVo1dE5IXzUwRnNmcFN5UFZtcGl2VVZ6LVlJMkRnZFJFelZFd21BcFU4ZWVOa25BazJhVmw3WmdKNWx1QjVKT3RPb05TX2U3OVhDUm5wbjlqVW9NQloySHNtWGtiTWdEdw?oc=5
@@ -138,7 +129,7 @@
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1vcXh2LUFkWHZQcGxOSDlmMk5vdFNKV2FuVVh0cHRzdGhKZ3JRTHRoNDE3YURKSmNMek9RU0VmWEVwc0UxTVdINlptaGJoOVhoakRVdjhnSklGZ3VpZjMwNFo4OWs0RS16eENucg?oc=5
 
 ○1月16日 バルコス、神戸の靴卸売会社を買収へ 総合ファッション会社めざす 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBXTEwxTVMyT2FIWFU0OU1jYlVRZVFLTHBMVk9odEk1bkFmQldzeVNwYVFoSkVOMTIxaU1BT3FfMDlFQU1FSUEwc1FPZlNZTVZZUTI5Y2JLQ29VRkxDM1BFRWsxc05yVjdpX01RYw?oc=5
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcVdwNS1hZHh5X3VxbEZfQ2ZCS3c3SFpfdE1QTk1Rc0NjdWZlOFl6TzRhNUk1SmF0bFFJYnFSRGQ5NElONW5SSzZ0OE9NeV9fTVJVUUpwX2c0aXlFVGthZzdKMzB5dUQxTDRMWGk0eWZSVTBfeEpLR2pYUEthWmJuUzJRZl9XajFIdUJuampEaEdPVm5RSVpaSnZhcjBsamFud1RacUdqWmk?oc=5
 
 ○1月16日 「マッキー」じゃなくて「マツキニ」？ ゼブラが模倣品に注意喚起、ネット通販サイトやフリマアプリで流通 ITmedia  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE93YXEwaXdnX1N0d0I3ZmtxU0hoOGdaeG14R0ItN0xxRXBmMXpZaElHU3V5QnJObEVkR0YzZGl2dVhmVE9lZkpoa2lRYjVDNGUxdXBRbXhJSUp5SUZhTF9BaWFGWFJJS2IzR3lCbA?oc=5
@@ -155,14 +146,14 @@
 ○1月17日 ユニクロ「UT」×集英社100周年で『ジャンプ』名作ずらり コレクション第一弾は計11作品22柄を展開 山陽新聞  
   https://news.google.com/rss/articles/CBMib0FVX3lxTE1Gdk9PQXBaS1oya2p4b01MRHVJSmhpY1FhWGtLdjZHa041ejZKdHVUSFgtVG1iNDhOcW55RnNTZFFUTG1mREhBSGhhZXBSV3ZXRzBfdVdmdzhxdXJRUHR4aTU1b04ydHIxN0dXTTVERQ?oc=5
 
+○1月17日 CORTIS、日本雑誌初カバー「新しい魅力を引き出してもらえた」 ファッション愛語る「自分にとっての“顔”」 山陽新聞  
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxPVHNSVjhSOEhxVlpCNW05WVo5QVVkMzV3c2lhZmZZNjRHWjlBVUl5cXlhbDVNQkk1VDdqdV9BazJBLTBEdXpoMUdpTEJ4UFNCUDRIcmlGV281WkxkNHhHRFlTSWUzeEZ5RkJqTml6d2hlQmJHOHNud2V2Y2VjYWFSMHFOU1FVZw?oc=5
+
 ○1月17日 良品計画社長「ESGこそ競争力の源泉」 ReMUJI、100億円規模へ 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9jdWRCZFU1RWtEWVNydkYyODRTTlZmckxTbDhpblF1X1MtMHVJNS1ubzY5VkR5WnEyckdkUnBzZDY4RUtlVnNCTDdUcWFOODctazhMYmhJQlBtR3NuOC1MNjA0ZTMyVkhfRlNsYg?oc=5
 
 ○1月17日 台湾、米と関税合意 半導体の優遇優先で遅れ 一部輸出、税負担なしに 空洞化の懸念も 日本経済新聞  
   https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnVsb2pBb3V0LVozamJmcEFIdnVpN2pWR2hrSUlFTThnU3c4cDNHcVNoOEh1Qko3NXZuelZ6VUg1S0hDYzh2TWtKVXFwa1lCMnB3NVRfajJaUWNCQmtFcWtHUl94RktIaGd0U1ItS1VxM05tRnBmTHpNS3U5N2xfMVpMa2hKY1BhTUo3STludEt0V1pVS00yZQ?oc=5
-
-○1月17日 グリーンランド巡り関税も トランプ米大統領がけん制 山形新聞  
-  https://news.google.com/rss/articles/CBMijAFBVV95cUxNMi1lOWRpbjBUUFZhM1BCRy0yMjBmajdIdXZEcnZiOHF4VXlhbTlTdjQ2dXlkWUxmMjU4aVdoVzY1WWhKUHA5dzlTRFhCZjFpRU50R3pqdm9QMDF2V2p3WHFsaGNacVdYLXVuZkE4RDkwOV91ODkxZFNGMkpQdDV0Um1CemMxOVVlZnphMw?oc=5
 
 ○1月17日 トランプ氏、グリーンランド取得「反対国に関税上げも」 欧州に圧力 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBDY3hjcFRnVGNrX25XUFlBLWNRWXQ3N3JkRWNBcEQwSEpUeVJLVDE4Z0s0b2Z4UF9hdVU1VmNFQjhGNGhLRTFHWUpBUWMtVmI2OEVGdmtjUHd4amNXUEJoaHlMaG9PX3hKWUpCcw?oc=5
@@ -176,14 +167,32 @@
 ○1月17日 米関税、２０日にも判決 埼玉新聞  
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DcURiejFfMERrYnR1MFR4Y1JjWFpiT2dqaXRMWVUwNTBQYjJxRlJVTlVnYUVJcnVjdm5VRTlNcngyZzFlWW95dHlJRGRaTHZOV2FudURRdw?oc=5
 
+○1月17日 米関税、２０日にも判決 最高裁 | | 全国のニュース 佐賀新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE10WlRDWWlSTzJGWUlOUFp1eU5temtUbm5xSVJTaVl1MUxhT2t5MGprcGVFTndObmNTT0J0MHJqMU5vajFsQWlLbTBydkVrOFVjbGM1dFFR?oc=5
+
 ○1月17日 米製薬大手、200%関税回避 日本は逆に薬値上げの「とばっちり」 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5nNkl5eVZwd0dubzlaLXNXVU9kMmxMRDNUbGdMOWNFTkJxMnA2UGV3aDdOWHBzQ2tyMzJ1djRmWkk5NG5yWmdTZnFRejRWTnJ3QlRzYTJ3UWVwbE81ektaNVdlMjhtRjZ0SXN5dw?oc=5
 
 ○1月17日 グリーンランド領有に同調しなければ「関税」 トランプ氏圧力重ねる 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wY200SDAyUnU0VWllX18xX25tMWdpUzFVa1VrRzEzVTZIYlI0RU9XcHlNUGk1UjBZbHhOWUJCZG1lNVp2N0pTaGlxY3RqeDJMT1ZMTDh6RFBMbmYtNWdtS0JEQTFvZDg?oc=5
 
+○1月17日 トランプ氏、グリーンランド領有「非協力国には関税も」 欧州に圧力 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xLWlia29BVW9QbUZmdDluVWJMdHYzUnBCc1FQeGttUWJKU1dHdU9vQklVNmVWVFBvc3JpRzJaeU05RHNhMThUTFFGTmpHeVdEWEw4YndfVkc1QXYwNS13RU9GNlJ2Q1E1?oc=5
+
 ○1月17日 米最高裁、審理中の裁判で20日に判決 トランプ関税訴訟かは不明 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1LczN3Q3RENXZyN2laalJ4U0RoUnhvOGNZTkpMa013elhjNUd3Rmd1MzQxc0FjeW9SQkhhRmFISi13Q2cybEpWOUgtcUIyRW5IV3NPZElhcUIzcWNrTXduWllNVmRjQTZqbFZ1Wg?oc=5
+
+○1月17日 「ポケットがたくさんあって重宝」【ユニクロ】の機能的なバッグに注目「軽くて疲れない」「この価格はありがたい」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IWFdZSUYzME9hbUl1MktleXRzLUFnd09LT1BIeFlObXhPSkx2VzdzN1dua1g2YnFZakltMkFZVDVFc21KY3hrS3BKb3Z1dHZiQmF2eUZrNlBPcGduZDdoenlJTzXSAWRBVV95cUxNSFhXWUlGMzBPYW1JdTJLZXl0cy1BZ3dPS09QSHhZTm14T0pMdlc3czdXbmtYNmJxWWpJbTJBWVQ1RXNtSmN4a0twSm92dXR2YkJhdnlGazZQT3BnbmQ3aHp5SU81?oc=5
+
+○1月17日 トランプ氏、グリーンランド併合に反対する国へ新しい関税ほのめかす BBC  
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE82UUFlQXhnazRNZzlEblpRRnJtY0VnbDNydEtnenN3WjhHQllRc2hkUm42TkwtOGhBZG95dXZmQVBtM1JJNGlrSXBnZk9TYmxfOWhLc3hhQVRLWFhReDFN0gFkQVVfeXFMTzhTNVlwOWR4LWpIb2cwWkxCTDhsaWprME5KZTI0RFVNTUVvR1ZaSEgyODdHZDZDREFGZ0Y4UnItTjNBcWdBOGdDOXZSWnU3bGJzcF9CaE02WlgzQUkxM0E4d25FTg?oc=5
+
+○1月17日 グリーンランド領有反対で関税も トランプ米大統領が欧州に警告 山陽新聞  
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VRWdXQ2dzVHdDc3BDUnJYaF9xZDJOY1VTa3gzZnpYcUlDQ3BjSUdVbmRDcWJaY2tNUUFCMVZ4Sk5CRGZqXzBseXl0ZWxVck9KZ2p3TVJSX1NJQk9sTmc?oc=5
+
+○1月17日 今治工高繊維デザイン科が卒業制作展 ３年間の集大成、20日まで河野美術館 愛媛新聞  
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRaElmUWtXQ3QzY1kzbmZSdDRxMHBtMVN6OWE5N3VDVUp2QVhhRlMxdUEtSlFYdE5nNklwa3R2YnVVQmFYSXcwVGhoVXJGWFZSdDhzdHk0MHV1SmJ1UDRYQQ?oc=5
 
 【自由民主党】
 ○1月15日　政調、税制調査会　総会
