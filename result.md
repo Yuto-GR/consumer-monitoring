@@ -11,6 +11,9 @@
 ○1月19日 【キャンドゥ】110円の「導電繊維タッチペン」　スマホやタブレットを手軽に操作：100均ガジェットPick Up - ITmedia Mobile ITmedia  
   https://news.google.com/rss/articles/CBMib0FVX3lxTE9feE05RTg0dVd4aGo2a0RKWDFKUGs2NERwMHZjbzVNY3pzdzU3cDAxTTJNQ0pOSW1TWDI4b2M0dTM2VGdvTGkyM1NKZmotVWd4cjExZVFPV1ZRZkV6a3pGbndOMmQzcEJvcmRfWFZSWdIBaEFVX3lxTE5SWGVqNmR4dEh4bnk3d0pyalh3amRiQzFKMHVJdDBWdkRKcXNFTWhGSHVtV29SWFNncEtjWENkWV9zM1NNS0ZWU05WTHNMTzFJQnFhZjJ0V1dhckkyNFpDMkVGWkt6dkJn?oc=5
 
+○1月19日 EU、米国に追加関税17兆円を検討 グリーンランド「脅し」に対抗 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vMV9LRlNGWjFod3JnU2VRVjZXSkRQRkluNUZwY3QyUjhiQmJERTFnTHN0ZmcwTFE4Z1BRZkVzaUFBTDJMcFBseHZ2d2Yyb09wN3J2YkE0TzkyRXNVNlVBbHFBaXBlcXM?oc=5
+
 ○1月19日 ファーストリテイリング株価一時1%安 日銀ETF売却開始も意識 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBsVzhBRE5pQlJ2clB1dHBiV1NDeEUzYWVXY2NjUkVBYzRmaS1vS3ZVN05rQldlUW1qX2lyMlZDQ1JNNUhwbENrRlpXcUQ1ZG1uZnFCWlh2TEY1dExIaklQdUUtQWtLTG56bnZ0aQ?oc=5
 
@@ -20,14 +23,17 @@
 ○1月19日 【解説】グリーンランドめぐるトランプ氏の関税脅威、欧州はどう対応するのか BBC  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE41XzNWQnZEMW0tYWpVdjlGVjVVN2EwUG4tTXlsTjJ2T0N5TE1GS3Q1SmJXOEpoWDdhcVJ4OXJEdDlfTFA4MVFDZEg1dXdWVnc3SkVQS2pCbFY1T0drc3lr0gFkQVVfeXFMTW5SSUdCa0wySmVCdHZwcUQwQ1RUOUFhNUdqUGZDR0c2bGRZdTM2a1M2Q0ptVHFDUVJaTWFlTldjejNjNENFRXFTRzZGRjNHTlRMbjJtUlRiT3g0Zk5qNW9uQWwwbw?oc=5
 
+○1月19日 トウモロコシなど400品目輸入関税上げも 解散で税優遇維持は綱渡り 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBsckk3eFVmSGc3VUdGaXo5LU5CT2w5TzRaTmpIZ0pqeFBIaHVpd2xXU1BPVkcxSE9YakpfczhLWDRua3F0WlJoN0RkcWZxUnlxa0VibG9lWTB1MmlvaEQ0SWRienViaWl2REdQWQ?oc=5
+
 ○1月19日 中国、昨年は経済成長目標を達成　「トランプ関税」による混乱の中 BBC  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sSFRrTUlNZzFWdTR1MHhfQXJIcGRUdU8xNGlWUkF2ZHBUemlIZGdLRUhpNGo0MGdPeXhibWZnNXl0VkpNVzFMUU9rN3JfMXB6amE1WjNtZzB4MTdPN05v0gFkQVVfeXFMUFhGSnVqbE5UMjVkQXlpN2t6TWphbjlFeExsMTQtWkI2ZHJVbFFCd2lYYWhncGJ1SEpVMmY5Uy0wRmthTm5INzdFdlBnZXFXdGJTcmNIeFVBU1N3eFN3OEpmLWlLMA?oc=5
 
 ○1月19日 「着心地が抜群」【ユニクロ】のセーターが人気「肌触りがいい」「カジュアルにも上品にも着られる」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
   https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5d3l3Um8taVNmaElYNmYxSUZyY2lBMVNmN1ZPR2EtUDhTcWNya0VaT2JLZ1plS0hrZ3ZKZ1MwUnZQRjNkSFZLOTJ0T2V6UFhpWjVGQ25ncnlBVjFta3dQZGVBV1PSAWRBVV95cUxQOXd5d1JvLWlTZmhJWDZmMUlGcmNpQTFTZjdWT0dhLVA4U3FjcmtFWk9iS2daZUtIa2d2SmdTMFJ2UEYzZEhWSzkydE9lelBYaVo1RkNuZ3J5QVYxbWt3UGRlQVdT?oc=5
 
-○1月19日 「着心地が抜群」【ユニクロ】のセーターが人気「肌触りがいい」「カジュアルにも上品にも着られる」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE03dWZUR29IYnJuTjZTMU51RnJzRjFtR2VDWFI4OW1FOHVGLU5OeDhFTW9JTXROZVRraWhWV1d3cXRfTmZ4bExoSUl6RlRBQWUxbWlWUGVIbTVJZ3ctRWFxZjVMc3jSAWRBVV95cUxQOXd5d1JvLWlTZmhJWDZmMUlGcmNpQTFTZjdWT0dhLVA4U3FjcmtFWk9iS2daZUtIa2d2SmdTMFJ2UEYzZEhWSzkydE9lelBYaVo1RkNuZ3J5QVYxbWt3UGRlQVdT?oc=5
+○1月19日 出生数800万人割れの中国で幼稚園が減少 競争社会で親の負担重く 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yQncwSjJuU2JiclFfRHBmNnlwSkRSRk1RQ1JaRWdHbFg1dExhU2E5eEdsOEgwOHhLVGZDZEZwMUtrN2NQWGdLNjdwRXh2WURyU2k2Y3ZGdUFUU3lsck9yYVVZSk83YVE?oc=5
 
 ○1月19日 25年の繊維倒産 件数、負債とも大幅増 ジリ貧で10億円以上が増加 繊研新聞  
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IMXhFOUFiSUhkWUZVRXgxMW9icTF3YVJTUFJSYVlNd1BEUWk5ZmtXd1hQYmdVWWZYQXEzTWRBR1d2SXI0V2NtcXMzcm84Sk1TV3o3R0J6UQ?oc=5
@@ -40,6 +46,9 @@
 
 ○1月20日 競争社会の中国、子育てに重圧 出生数８００万人割れ 朝日新聞  
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wLTA0WWQ5dHpGaWUxX3lQWjI2ZTh1TGMzdlB6aFdfdlp1aXdkLWYyWmo2a2g1d25lV1FvRElFbnROQ21Yc1NHUUw4YVI0cW5UaHlVdV9VOXJfRzVD?oc=5
+
+○1月20日 割引品ずらり、悩む中国 弱い消費・過当競争、デフレ圧力 朝日新聞  
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YNEFKYjk5ZHQyZ2ZVd253NXR2Q2MwREs4cFN2QlRpbjBsNTFDNDlnRC1KNGF3SE9GN3ZmQTExYzcwdTFERzVkc1NsYXVMSTc3eThlSkh2WkNNNl9N?oc=5
 
 ○1月20日 初任給、ユニクロ37万円でも「まだ低い」？ 若手は「30歳年収1000万円」に着目 日本経済新聞  
   https://news.google.com/rss/articles/CBMifkFVX3lxTE1yME9tYnJQNmdpUncteVdtaUxURVg2MDladHB1MDNmSks4TnZzMGh5ZTJLaHN3eXc1a3g3T3ZHMVIzWkZGWVBqcTA4aDJlQzI0WlJJVHhBYlNFYmJaU0NZUkF2Q2VhZDR0aXV4Z2g0WnFFUklQVUFmM0ZFQjN1UQ?oc=5
@@ -57,22 +66,13 @@
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kQ0hiVUJKR0psRGZ0WXdlMUtCaktnaVY0X1duYVdNU1BkYnlxNlhLUl9Wbm1Kd2RmN0ZlUmhlOFZQVnFjaG8zV2lQYVV3aU5PQkV0eDJ4MTQ1VVNpX2530gFkQVVfeXFMUFFWX0dIejd5TWlLWEYwVWVoLXdXN01YcHllMXZweWZDZnRrVDM2R2ZuUWRVQmVuNjNaQmRuRTA4aXVwaXZDVTR0Q1FDOXRYUmJHdDFGTDNYbjA0aDZIaHZ1VG5xZg?oc=5
 
 ○1月20日 西日本FH、「商業施設への出店も検討」 預金獲得競争で支店強化 [福岡県] 朝日新聞  
-  https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmdIRXJ0OEt6RkdSd29TakZzNUk5OU5rcXBaX3dqUG9KblVId2wwcV9uNmVQblduQ08taE8wTllvdEM0NDA5TDBBcjhBeXBPZkkzUjJndi1KOXNEdTltYWUxREZDaF9iRDZYVnpkT0FUWHpGT3hDNWF1REdObV9jVXJNZXJpYXgyalRqYU83Y1NSUDA?oc=5
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBM0dwZjVldk5Gc0otdF9aanE3Ukp4cW1ENmVjMFBDZ1BOVWNESDVabDhid3dmaDk1aUxMM2FrY0MyeUR4ZEZCTG9yUVFCUDFkbEJyZWl2YXVZVC1HWUtmZlZ3ejg4OVE?oc=5
 
 ○1月20日 トランプ氏、グリーンランドめぐる関税の脅しは「100％」実行に移すと　 EUは利益堅持の構え BBC  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zWVlMZ0hXSjlWWHFTWlV6U04zbGVrdlBHZnNuanR0SUJTWGlLWklhcjZyV2hTQzZENEotUVA0VllqQ3B5bTJJRGVDMXdFb0pmamI4VUJBeFE1M3pzVFJJ0gFkQVVfeXFMT0RlYnVGZXJYMzB3NkVkX3JfMS1fYWJab0pEUzY2WDVHdXBEWEplY3NrOHdoZlJRNGN1V0xXYzhVblBZVVdqRjdOQS1OWTVBM3R3ZFhCWXk4Sk5taDVPVGFGTEpIag?oc=5
 
 ○1月20日 「貿易戦争は誰の利益にもならない」と英首相、トランプ氏の関税の脅し受け BBC  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlUG1zMV9OeUJnY3FCRXhqNWd1ZUVKZHNiM2ZBaFRZNXdPb3IxajFGTS1oMWtfNFc2bW94Z2xCM1hPTkFCek9HWk9sNlA3OFlIVmVNZXBWMm1fcVhqbkR30gFkQVVfeXFMT3VJQm1wZjc5NWp3bGFRaGhhSGxXQ1pOcjRHeUxhLVVVb3V3YnVNd0wtN2JzR3NlRGp3LWk0WmZseWc1Q3NWOWxpUy03Z1VzVmNtQTUwNGg3QlZwcEJaYXZHOXNvSw?oc=5
-
-○1月20日 終わらぬ米国のインフレ 関税で再び悪化も? トランプ政権発足1年 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SdVRZMjZKQUg5UVpvdlF5LS10UTRIMThhQy1La2FxMDZ0cklUdTdYdGFhSC15eW5nSENPRjR2cU82eEt6Ymp1ajBmdDBScFRPVUI1dkZQZGliWXlGSzZ1ekdackU2cmtT?oc=5
-
-○1月20日 グリーンランドめぐる関税、根拠は何？ ｢違法｣判決出たらこうなる 朝日新聞  
-  https://news.google.com/rss/articles/CBMikwFBVV95cUxNakRidk8xWmtaQlZJbVVxWHdlM1BTWTdxNjY0TGFtdmFwSk9GQ3BWUmtFMnFPbnYtNmNDSkpFOGNpdXV4MlZ2LTl4QmIzTF9XSG5Eby01TC1kRDVCZ2luWXN4V2Q3dmMxN3pUSloyd2Q1QVNvODRibTNHcjVRR2tFSkpyMERFd2pVS3lXYld4RjJzNkE?oc=5
-
-○1月20日 NYダウ870ドル安 トリプル安再び、「グリーンランド関税」が衝撃 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiqgFBVV95cUxOalNIbWVPSjNYZmlCdkNpYUhIUzlVaXdORDhsOV83SVY5Rml2LWNKRm96MWhjakMzQ3FvUE90bXJpTm9ibzAtcUNBZV8wZEdPcF9mM3F1bExqOGREb0dFdG03LXBxdjF1VGRmc1g1UTBFU09feFUyTElua2pGeEJGNnl4SGNrdFpZdHV3Z1hqb05NVmZSQVgyQkVxU2g1S2t5VGd4Q0hzWWR6UQ?oc=5
 
 ○1月20日 NYダウ870ドル安 トリプル安再び、「グリーンランド関税」が衝撃 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1hYnFOdDFqeGk3QV9wcTdDYXAyMkF2NU9OdnZMN19VVUU1OHVRdU42dFhfMjNsaFlOZUNJY1ZRVnNFMXRzMVJTYUpJbllTcG1QZTY1Y2owRVBpd2FSYV9vQmZILUVCRGxpTk1BSA?oc=5
@@ -101,11 +101,23 @@
 ○1月21日 NYダウ、870ドル下落 グリーンランド巡る関税でトリプル安に 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ralJpdXFaLTlTWG5LcmpVT0hHN2kwRF9RTjdpWGt4YXBHSkZBTF84UjFCVUcweUZYVGRaOGltanAyZXZWa3lFZGxoN2NTNndxQ2hKai1yQW5TWHhSZlgtMXJST0xCRkE?oc=5
 
-○1月21日 長期金利上昇はグリーンランド問題ではなく日本のせい？ 米閣僚示唆 [トランプ関税][トランプ再来] 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVZmI2NXlPOHJXOG1Ud3JTcWxlUWxqVG9XaVNRSU53RU5vV2dteHZ3SFVPR05kbDNyYU42YlR1bDBVZGNWUnpVeHFTRzQyQkJ5b2lYTXFqel9rdXh1cy1YSkl0dkFUekE?oc=5
-
 ○1月21日 大阪発で全国へ「産官民一体で衣類の循環を」 サステナブルファッションの協議会が発足 朝日新聞  
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JMHZDSlZkNjE0QWY4aU9nSGpHMWZDaG1zaFZOYVRBZ3RndGx4QmJlRWcwMDMyRGVoVEViTERlS3FhS1hsOU4tdnNGNkpmZEUxMzdOV2FR?oc=5
+
+○1月21日 トランプ氏「仏産ワインに200％関税」と警告 マクロン氏と衝突 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xZjVBUjRFSXFoWUc1V0std3V4LTdTTGRBSVhORTY3Tl8xQjdMVGVjUlRoWDJvRl9xY1JKV0pBQ3VTMTNHT3BVcGZ1ZW5lVHEzVGk0NUxXQk5VX2RyZ1JrR1JXV09mTFFR?oc=5
+
+○1月21日 偏愛した関税、米国傷つけた 物価上昇、中間選挙でトランプ氏に審判 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vamVybWV5VXhpaUJlRExpbWkwNVdSN3ZPclNMbVgxLWVZRnRzaWVVSVBvNUFIUTJQTE1Tb1BiZEpRTmFoQU1DZ1JYSkRuTWpCRUg0UWVCV0NEdm9BdGIxdjhPYkRIb1U?oc=5
+
+○1月21日 矢野経済研究所、ホームファッション小売市場に関する調査結果を発表 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBkLXY2RjIxa1oyT1FvSWZYdk8wekItaHRBaC00cEtZUXd5cUk0WU1jb0xKYkpudDZia0ZNOGlVVDFtMUE2UVNJc3lTR0JBbnk1UmR6NUc2aVQ2aFBkUEhZZVNFSXdyTllwaXl1bg?oc=5
+
+○1月21日 米市場トリプル安 グリーンランド関税で動揺広がる 株870ドル下落、債券・為替も 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE00VlZZdUNrQXJ6cS1Oa0FuYkhUd0dTNUlGdFdhMTNxNnYxOVljcnJvZE55ckw1UzlsdmpaN1JucVBPcTFrcG90clhlTjN4aVlsUWVIV2stcThVQ0V5ZTdCMlFiNGZNd2JmU3lIbA?oc=5
+
+○1月21日 トランプ政権が有利に? 遅れる米最高裁の「相互関税」訴訟判決 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nbVZNZzMzcUJDR2hCM0tDNkg3dFNkNUI4ZGhxZmc5WTJlcm9NN3k3OXlGaHFHVDh5NEEzRXAtYVpadktyMzZWdWFTSFpxeWdWZG9vb3hNaF9vaXliUV85TUtENDczNW5y?oc=5
 
 【自由民主党】
 ○1月15日　政調、税制調査会　総会
