@@ -1,57 +1,9 @@
 【ニュース】
-○1月16日 「うちの子がなんでレギュラーじゃないの」親のクレームに疲弊する教師たち 体調崩して退職、なり手不足も…教育委員会の「カスハラ」認定に効果はあるか 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HZ0VFYWJpSHBIc1dzSGtET1Bhc2hrS0JnOEsteHJPdDJDc1JhSklNNmdyN0RUMXR0MWgycWNpZXZ5akM2WTBiWVFzVFhDdExqSlE?oc=5
-
-○1月16日 「デブ」と客からクレームを受けた女性は、糖尿病の薬に手を出した 後を絶たない乱用、背景に日本社会の「異常な価値観」 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RY1RjM0JCalNIcmo5ZlN3ZFFKd2xwUEZzbENXLUw2UHk4WHFnSVNNQUVsZ0lhWEUyZmR3R090cl9WTWFQZU5kN2Vsb19sUTU4MFE?oc=5
-
-○1月16日 「マッキー」じゃなくて「マツキニ」？ ゼブラが模倣品に注意喚起、ネット通販サイトやフリマアプリで流通 ITmedia  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE93YXEwaXdnX1N0d0I3ZmtxU0hoOGdaeG14R0ItN0xxRXBmMXpZaElHU3V5QnJObEVkR0YzZGl2dVhmVE9lZkpoa2lRYjVDNGUxdXBRbXhJSUp5SUZhTF9BaWFGWFJJS2IzR3lCbA?oc=5
-
-○1月17日 良品計画社長「ESGこそ競争力の源泉」 ReMUJI、100億円規模へ 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9jdWRCZFU1RWtEWVNydkYyODRTTlZmckxTbDhpblF1X1MtMHVJNS1ubzY5VkR5WnEyckdkUnBzZDY4RUtlVnNCTDdUcWFOODctazhMYmhJQlBtR3NuOC1MNjA0ZTMyVkhfRlNsYg?oc=5
-
-○1月17日 「クレームの大魔王」から、「神接客」をする店員へ。角上魚類でお客様一人ひとりのニーズを引き出す大ベテラン「親切係」の接客の極意とは 南日本新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE1obExJd0lBcnlyU2h0bU1ubWp0UG93eGNKNmtfYkxiaDNzZ0JBam1hRHNnbU53ZXUyZXAzeWppSHE5akZsYzFCYV91RmZjS1REMURwUmRRRkZPSWt0QXAxMWIyaHQ2UDFSXzhhN1VRdw?oc=5
-
-○1月17日 （資本主義ＮＥＸＴ 閉じゆく世界：９）先細る地方、脱競争で公益守る 朝日新聞  
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTFBESWVNdFlCU0g3bi1QcE1SLXBCcWtYTTdtWGV0UGZ3eU5ZZW5Za1pKdy1iSFJqX0RZZElWQzZQU1JZY0hrUXpQRWlVdndfQkROUG45Z2U1RjVkSnhj?oc=5
-
-○1月17日 スナック、芸者…サブカル再生し持続可能な温泉街に 信州千曲観光局 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1LNDBrU0F6dHZmb3Q4emFtZ0czNlZWblZXelF2bUF5QTQ1Nm4xNVZCVmVWNk5Zc05iVTR1VUpoT2RELUFOZFJkLWdqaXBWZHdiYWJDUk1YbTFuZ2tBdlk1QkhrektxY3FXVWNWZw?oc=5
-
-○1月17日 今治工高繊維デザイン科が卒業制作展 ３年間の集大成、20日まで河野美術館 愛媛新聞  
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRaElmUWtXQ3QzY1kzbmZSdDRxMHBtMVN6OWE5N3VDVUp2QVhhRlMxdUEtSlFYdE5nNklwa3R2YnVVQmFYSXcwVGhoVXJGWFZSdDhzdHk0MHV1SmJ1UDRYQQ?oc=5
-
-○1月18日 トランプ氏、欧州8カ国に10%追加関税へ 「グリーンランド購入まで」 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1yMHdLTGh1UlpDc0pMMXdCZXNlaEtyQi16UXBmMmVHM2NQSFBHVE9jd2hRT3hTcmZneFZ6SzU3QjltQURjZ3JzcU5qQ0dXZTIzTG5nVmVqNnNpQ3BwaVVneE5UanBXclhfQzlRcA?oc=5
-
 ○1月18日 競争社会・韓国に響く「千と千尋」 日本語舞台がソウルで盛況 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5HMmM4UWhqZlpxWmN5ZURmd1BIZndtUmgxVU9Lemt1M05veFlZdkRNQlRTRm5lSUFJRDRyT1lTVmpjQlphQ3RidTI0Q1lKTi1tdWNpYURZOUNBWVZzX2o5c0kzLVZkTWl6VXhiSg?oc=5
 
-○1月18日 トランプ氏、欧州8カ国に追加関税10% グリーンランドの割譲迫る 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6SkJBT1dqd29kR3RsakhVNW1mLUR0NVdmTGR0MUNfMnhqOS02MGNNVHF6TUhwSmItNmRpRE14by0xdWFNUE1QYTZfclBQbGlQWDNYWU9odkRySnZHcmdSb1cwVHFBVFk?oc=5
-
-○1月18日 渡辺美奈代、上下ユニクロでそろえた“ホワイトコーデ”に反響「とっても可愛い」「お似合いです」 山陽新聞  
-  https://news.google.com/rss/articles/CBMihgFBVV95cUxOVmNlQVlLQzYwN3RsZzRGclhDT3JrcXAyT0EtWEFpX0hQalY1NDJRLTFMZzFNMTVScG96Uk5UbGo0TFFtaGlEd2pOdVVWTThEdHlxa280RXBoVGs2aF9mcmxRNmFkZXIxM0w0bWxWTjdEclpPaEVVT0ZJTFUxTC1JaTR6Qzl4dw?oc=5
-
-○1月18日 「ただ着るだけで決まる」【ユニクロ】のパーカーが人気「部屋着っぽくならない」「春までずっと使えそう」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE93d0d6RDFILXlJdjdlMm9pWnZEb3M5eTRJS0V3X0V3QVE3ZmNqTnBGdEYwTFBYby1iS0RPYkRXUzB2ZG9wMmVWMnVhSUt6UmczY2Y4TXRkUDRTNXdxZlN1cmRXUXXSAWRBVV95cUxPd3dHekQxSC15SXY3ZTJvaVp2RG9zOXk0SUtFd19Fd0FRN2Zjak5wRnRGMExQWG8tYktET2JEV1MwdmRvcDJlVjJ1YUlLelJnM2NmOE10ZFA0UzV3cWZTdXJkV1F1?oc=5
-
-○1月18日 「関税の脅し」に反発の声 欧米間で亀裂 グリーンランド領有巡り 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwbFJMVWVHWFFSc3N0XzJaUVJyVy1yWW1FTTNvbGZ3alZMaW5zSi04ZG9XeWkzQURyemt4WWtmY3d4VEgzX0VlYnptV0d5MnFrbnRkcEYyMXJNVzRfODVpU0IzSUFPaWJi?oc=5
-
-○1月18日 世界を混乱させたトランプ関税 「攻守逆転」で限界も 政権発足1年 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MbjgxZGwyVjN4N0phck5IN1ZScHlpamR3UjhPM2QwWUpQc2dVbHJaVDNtWDJacEVaV1ZFOHhQRHhOWlVRa3B6Yy1QMkhUTjk1ajZuWndGSVU2SGdTYkVwemkyQ3ZuTzc1?oc=5
-
-○1月19日 対日ツナ関税撤廃へ ＩＪＥＰＡ改定で0％適用、加工業者支援と競争力強化 じゃかるた新聞  
-  https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xaHY4Q2ZQY0JDcEdJQjN4ZHdac3RPQTJBZGRNWGxyV3R0b0RsdnZWNjMwOTNFaTU5WXdoMGRsaWc0N2F5cnJORHk2UW5EdFJ6OTNRS2VBUEJjQkI2eTkzQ2o4UQ?oc=5
-
 ○1月19日 高市トレードを持続可能なものに ガバナンス改革のギア上げよ 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9KQnZGMjVhUklSSEJmSjNpUy1yQmJaYlRWVkt3b0dSMUwxYTZVZW53bVd1NG5rNDJPTy02c0FGT0w0bnY2MmtSaWFzUmdoV3RzT29nZmx3R2tTQmZJdVdRcUVacmF0c0hJWE54cw?oc=5
-
-○1月19日 主張／データ主権、AIの競争力 ニュータニックス・ジャパン執行役員 荒木裕介 日刊工業新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nTzJEMDJBa1FwdVFYT2VLMnI4bl9pYjNqZUNDODRYcDhGWE00UDloZjZFS2lrclNxT1p3NUZTVVVtTU95dmhaYTVQZmhvOE9JNVhMT0FvcjlDOWs?oc=5
 
 ○1月19日 EU、グリーンランド巡り17兆円規模の報復措置検討 米関税撤回促す 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5oM09YTTNoLTdMb3NDd2RXRS1BTGREQ0JPaVgtVVh5cDBVMEd2UUZUT0E4OGExeUNWMklsZUpEd2w4XzNnZTFyTlZBMEZMd2pSZ0xmWGpRM3ZsLUxqdDJHdUdlbzlyM3BPQTlXMg?oc=5
@@ -59,14 +11,8 @@
 ○1月19日 【キャンドゥ】110円の「導電繊維タッチペン」　スマホやタブレットを手軽に操作：100均ガジェットPick Up - ITmedia Mobile ITmedia  
   https://news.google.com/rss/articles/CBMib0FVX3lxTE9feE05RTg0dVd4aGo2a0RKWDFKUGs2NERwMHZjbzVNY3pzdzU3cDAxTTJNQ0pOSW1TWDI4b2M0dTM2VGdvTGkyM1NKZmotVWd4cjExZVFPV1ZRZkV6a3pGbndOMmQzcEJvcmRfWFZSWdIBaEFVX3lxTE5SWGVqNmR4dEh4bnk3d0pyalh3amRiQzFKMHVJdDBWdkRKcXNFTWhGSHVtV29SWFNncEtjWENkWV9zM1NNS0ZWU05WTHNMTzFJQnFhZjJ0V1dhckkyNFpDMkVGWkt6dkJn?oc=5
 
-○1月19日 EU、米国に追加関税17兆円を検討 グリーンランド「脅し」に対抗 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vMV9LRlNGWjFod3JnU2VRVjZXSkRQRkluNUZwY3QyUjhiQmJERTFnTHN0ZmcwTFE4Z1BRZkVzaUFBTDJMcFBseHZ2d2Yyb09wN3J2YkE0TzkyRXNVNlVBbHFBaXBlcXM?oc=5
-
 ○1月19日 ファーストリテイリング株価一時1%安 日銀ETF売却開始も意識 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBsVzhBRE5pQlJ2clB1dHBiV1NDeEUzYWVXY2NjUkVBYzRmaS1vS3ZVN05rQldlUW1qX2lyMlZDQ1JNNUhwbENrRlpXcUQ1ZG1uZnFCWlh2TEY1dExIaklQdUUtQWtLTG56bnZ0aQ?oc=5
-
-○1月19日 日経平均352円安 リスク回避で主力株売り、対欧州トランプ関税懸念 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBxQnFiTmFha0VNTWRsa3B2QkNSUVByY3J0SWpOcVRrb2ZYYlk2Z0h4U0tjU1ROMFZCN2FPQjkzX0Zwb2J1QlVxb3g5QkNvQk5fT2Nidk5za09qWWNPalZHVFBqVDZ2MDhHSjdYWQ?oc=5
 
 ○1月19日 英米首脳が電話会談、グリーンランドめぐる関税の脅しめぐり　欧州各国も反発 BBC  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoS1M0ZkQ4akxnYjRHNk1STUFLTWFMWUR1TWE4T0tlUDZ4aUhGUi1DcVBFZDRmVEVWeEFYZnhpR01xZEE3djczSk1tSUo1aGt6Z0lXLWU0Q3VLd3ZNT1JF0gFkQVVfeXFMTVk3RUhVMmpOd3NJcFpFc2lTUThLcVNZUzF6OXdVUEJIRzN5eWNpNVFaSTV5SExxRl9yRVY3Y2RjQWNJdnlzdXNzalMtYUJybTlnMVkzUi01TEtnRUdRd0tWbTlZag?oc=5
@@ -83,47 +29,11 @@
 ○1月19日 「着心地が抜群」【ユニクロ】のセーターが人気「肌触りがいい」「カジュアルにも上品にも着られる」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE03dWZUR29IYnJuTjZTMU51RnJzRjFtR2VDWFI4OW1FOHVGLU5OeDhFTW9JTXROZVRraWhWV1d3cXRfTmZ4bExoSUl6RlRBQWUxbWlWUGVIbTVJZ3ctRWFxZjVMc3jSAWRBVV95cUxQOXd5d1JvLWlTZmhJWDZmMUlGcmNpQTFTZjdWT0dhLVA4U3FjcmtFWk9iS2daZUtIa2d2SmdTMFJ2UEYzZEhWSzkydE9lelBYaVo1RkNuZ3J5QVYxbWt3UGRlQVdT?oc=5
 
-○1月19日 出生数800万人割れの中国で幼稚園が減少 競争社会で親の負担重く 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yQncwSjJuU2JiclFfRHBmNnlwSkRSRk1RQ1JaRWdHbFg1dExhU2E5eEdsOEgwOHhLVGZDZEZwMUtrN2NQWGdLNjdwRXh2WURyU2k2Y3ZGdUFUU3lsck9yYVVZSk83YVE?oc=5
-
 ○1月19日 25年の繊維倒産 件数、負債とも大幅増 ジリ貧で10億円以上が増加 繊研新聞  
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IMXhFOUFiSUhkWUZVRXgxMW9icTF3YVJTUFJSYVlNd1BEUWk5ZmtXd1hQYmdVWWZYQXEzTWRBR1d2SXI0V2NtcXMzcm84Sk1TV3o3R0J6UQ?oc=5
 
-○1月19日 今年の世界成長率3.3%に上昇修正 関税影響薄れる IMF見通し 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYMHRaY2x5ZmphOWlodENtaVBiY1luN2RRZjBMc3duSWNrZTVTSWJKdmtSS19IeHMtc0hHbVRZeGs4bDNQWDZRaTZPS0gzVVV4ZFJNRFo3RWpCcVN6QmpQa3NfQmt5aDA?oc=5
-
-○1月19日 【宮崎キャンプ第６日】移籍期間延長の２人のＤＦが猛アピール 「競争に勝つ」工藤 「死に物狂いで」本山 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MaHU4YVk2bXBCSlVicW56enVzR05tZkZsSVlrbkJNME1rSW4zMlJaZUNIREpmUENDT1VYNUlGbXU3MWduR0FPY19ITVpQZE96V0E?oc=5
-
-○1月19日 表参道にファッション・ライフスタイルなどを提案する期間限定店 シブヤ経済新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5STG1HQmJnbFZfUTVaODl3a1ZCbTZMcXFnMzgxeFdZSExXUEFFaVd3QmxybXJsUzhHSllrM0VwT1dNQUUyeEZ3c1FyQUR6VGI0Ync?oc=5
-
 ○1月19日 「欧州は脅迫に応じない」とデンマーク首相　グリーンランドめぐりトランプ氏は追加関税の脅し BBC  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoNTZiQl9SQjFkUF9JTkF1RC12dkFDU1RJcFhxMEJDd3Vfa1d3bXYzTTdYSXZDOThpVTA5NFVJeXlXQl9TbExFNmNaTmdIYmtWakxYMjlNZExUVEliY1Zj0gFkQVVfeXFMUEF5TUcwOEFoQ0VqbUh1RFVxWklxQ3JkbzBCVU1aMHNsbW9rTUdmcUdNMTZYbWx4UEJka1lpNlNoelV6VTQ1VkZLcWl6Qks3R1RXcFcwanVfVkxKSG0wWUxuUTg1Vg?oc=5
-
-○1月19日 EU、22日に緊急首脳会合 グリーンランドや米関税巡り協議 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE4zNUI1Mi1VQklNbTJudG9fZlVBcHk2ZFd3cGdaOU0ycVRySXI0cU01T3MzdEdDeHFSX0ZhYUt5b0pNZ1JIem44RDBPOXVfZkloU2pMRHJlQ3FobzMzemlxX3J5cndib29rOThkag?oc=5
-
-○1月19日 輸出拡大へ知的財産活用探る 鹿児島市でセミナー「つながる特許庁」 南日本新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xMW83NUhlVi04MFlZUWU5MGI5LTZYWkRrTGVMY2h2UEROaGJPWkwzeHJrY2NocTgxWnZYX2NwQWx2cmxUaDJ4SGNxRFV4cHlxY2wtNXRXNA?oc=5
-
-○1月20日 「なだめる時代終わり」 欧州、トランプ氏の関税威嚇で対米戦略転換 日本経済新聞  
-  https://news.google.com/rss/articles/CBMid0FVX3lxTE92YzA3TWJ2Qk1qSktGR0s3clRkVU9VSnRLVFlTWjhUNzFqZDBMLThGMkF5bGJ1M1h4bk9fd1FKYlh3TXNnUEoxT2hWRlllOFhjc2RUMDZmTGxQTGRxVkh5LUdIMDV6SFZ5SmE2S3VRUVFncURxTElZ?oc=5
-
-○1月20日 ダボス会議、米関税で波乱含み 20日はフォンデアライエン氏ら登壇 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1jeVRqTTdVaXZDQ0hDd2RjaTNQOHZicnp5TUlrUjhudnFObkM0QnpqaVlic0lYeU1IOGV5UVV3X3dhQXdqQXpTck1oR1V5MzJsMFRZemFyLWE1eXBsZlM1ZllMSGozQlowOTFqbA?oc=5
-
-○1月20日 スイス発ベッドリネンブランド「SCHLOSSBERG」のイメージ＝表参道にファッション・ライフスタイルなどを提案する期間限定店 シブヤ経済新聞  
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOUkhid1NibmM1YUpUZXZ2clBsZnNNVVVmcW02cEw5cmZSMUFmTlY4SmczdFdpdkdjSFJCZmhpWHkxRmxNbTF1S3p2ZnV0NXNzYTQ2Zg?oc=5
-
-○1月20日 イタリア発ジュエリーブランド「Bea Bongiasca」のイメージ＝表参道にファッション・ライフスタイルなどを提案する期間限定店 シブヤ経済新聞  
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HbWFpV1ZYLXJTYVFET3FjMmNoekhYeXExcEg3OTgzRUctRTE1dURGV1FiSlctb2RlMm9VLTRidG5xUjdhbFJ2T2NsajBRS1dGQjBhQQ?oc=5
-
-○1月20日 衆院解散で関税上げ懸念 トウモロコシなど400品目 優遇措置、3月末に期限 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFB2Mk5jb1dVd2ZqbTJJVnhSWG5PY3lTTlVNWXFWd3Y0V2FuUFJRdmQ5LVplUUtEQ2Z2VVJoYjhHUWNycnhhejRVTXJRN0Z5RGplcWgxTjhGUFB4U0N6Q3VmdFlVRkc2WWFPMDlhaA?oc=5
-
-○1月20日 ユニクロ「UT」×集英社100周年で『ジャンプ』名作ずらり コレクション第一弾は計11作品22柄を展開 山陽新聞  
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE51dXVBTEJEZDN1eFhONHN5bWoxb1RURWZIbVVaMDVtWnZNRDlsbGVvekdNN3h6SXBWLXQ2VThJRkh3THVTZGVWOUdpSXRHZ2dxX2dmNkxRVV9QZ185?oc=5
 
 ○1月20日 欧州株、トランプ関税策で全面安 「TACOだと思うが」市場は警戒 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE8xUlExMzNXOGF3dTlmUzdpeGpDVUNqLVBZaV9WaXh0S2NiakNVVUdTVHFickhOLVYzbE0xM2E4T0M3WXhVX0IwWU5HbjVuWVJRXzNqYjljejJWcTg1X1F0Z0hDWlk4MVBVbGt1Yg?oc=5
@@ -131,29 +41,14 @@
 ○1月20日 競争社会の中国、子育てに重圧 出生数８００万人割れ 朝日新聞  
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wLTA0WWQ5dHpGaWUxX3lQWjI2ZTh1TGMzdlB6aFdfdlp1aXdkLWYyWmo2a2g1d25lV1FvRElFbnROQ21Yc1NHUUw4YVI0cW5UaHlVdV9VOXJfRzVD?oc=5
 
-○1月20日 割引品ずらり、悩む中国 弱い消費・過当競争、デフレ圧力 朝日新聞  
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YNEFKYjk5ZHQyZ2ZVd253NXR2Q2MwREs4cFN2QlRpbjBsNTFDNDlnRC1KNGF3SE9GN3ZmQTExYzcwdTFERzVkc1NsYXVMSTc3eThlSkh2WkNNNl9N?oc=5
-
 ○1月20日 初任給、ユニクロ37万円でも「まだ低い」？ 若手は「30歳年収1000万円」に着目 日本経済新聞  
   https://news.google.com/rss/articles/CBMifkFVX3lxTE1yME9tYnJQNmdpUncteVdtaUxURVg2MDladHB1MDNmSks4TnZzMGh5ZTJLaHN3eXc1a3g3T3ZHMVIzWkZGWVBqcTA4aDJlQzI0WlJJVHhBYlNFYmJaU0NZUkF2Q2VhZDR0aXV4Z2g0WnFFUklQVUFmM0ZFQjN1UQ?oc=5
 
 ○1月20日 五洋建設/ベトナム進出30周年で記念式典/持続可能な未来へ協力 建設通信新聞  
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE42Zm1YUll2aDQ2cFFudmwzZThYcC1NdUM4NkFPT2ViWC15ODREUFdrLWNaOVUwc2tyRmtvUmVDTkZjNEVYZFJpMXRSU2JMUjR4Q0g5TklKV1A?oc=5
 
-○1月20日 賀詞交歓・持続可能な体制に/東北空衛協 建設通信新聞  
-  https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HYTRxX3RGUHNfa0xveG5fa0FtNnBxR0d2UVRKdzhETG40YnhkcktXQ2tPSWNCUDNfdTVLTXZHdTVhQ2lPSUFGWUoyRktYMWh2bkkzZ0NWc0g?oc=5
-
-○1月20日 レクサス新素材に採用 東海理化の竹繊維複合材 中部経済新聞  
-  https://news.google.com/rss/articles/CBMic0FVX3lxTE84cFNPbi1lLVFSeDZzWUk5QjZTZ0l5MlBFMGt0MFpYai1zZmlsOTNHTnNZQmVhWmVtVTJUT1h0SEZnQ01aOEZxaWF2NlZiOFpINlpub2dsTXFzOHY0ZE5tMHUzcTFjN1hldHFLQmtjcVlYZTA?oc=5
-
 ○1月20日 世界的ファッションブランド「ヴァレンティノ」創業者が死去 93歳 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Eem1QRVRGRHZRXzdhQmtJSFoyQlZOaklvM0JyWXRuRlBDaE9EOENMTzZ0X252QW1uT0ppYUEyd2lyeWtOUFBycEROS1J3M25iUW1kVE9UQjdfZGpzLXdXTWNaeU9weFU?oc=5
-
-○1月20日 26～27年秋冬ミラノ・メンズファッションウィーク 五輪背景に目立つスポーツルック 繊研新聞  
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kTnBfdE1PR1ZnanZ3Q3JMdUZRVmV0YUtyMzZGZ0FfZ1hWSUJxb0R2T0JraTZybW9aTmJwbnJKakpadzVRaldEcENqVll1QWp3a2ExOQ?oc=5
-
-○1月20日 無効なら「直ちに他の関税」 ヨコハマ経済新聞  
-  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQcHlUSXVDZ1poZkRMNW5ENTlRejFTOUZlSUprbnotNzNWV2lURHdqWHA5dEVWREhTUE15MUo0OWlDc25lc3l1MGV0Y0l2ZDQ0?oc=5
 
 ○1月20日 「軽いのにしっかり暖かい」【ユニクロ】の中綿ベストに注目「動きやすくて使いやすい」「春まで使えて重宝しそう」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OcFV5UkFnOWFoX2VPd1ZUQWZBS210NnRmc2pSUW5ucDZMZVFnQklTYWdYWFZhSTl6M2RQUE1aRzhSUXpoR0o1dFhiclNhMTluQmotZmlEUkl5Q3dheGNfQ1E5ZUjSAWRBVV95cUxNTnBVeVJBZzlhaF9lT3dWVEFmQUttdDZ0ZnNqUlFubnA2TGVRZ0JJU2FnWFhWYUk5ejNkUFBNWkc4UlF6aEdKNXRYYnJTYTE5bkJqLWZpRFJJeUN3YXhjX0NROWVI?oc=5
@@ -161,14 +56,8 @@
 ○1月20日 ファッションデザイナーのヴァレンティノ・ガラヴァーニさん死去　93歳 BBC  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kQ0hiVUJKR0psRGZ0WXdlMUtCaktnaVY0X1duYVdNU1BkYnlxNlhLUl9Wbm1Kd2RmN0ZlUmhlOFZQVnFjaG8zV2lQYVV3aU5PQkV0eDJ4MTQ1VVNpX2530gFkQVVfeXFMUFFWX0dIejd5TWlLWEYwVWVoLXdXN01YcHllMXZweWZDZnRrVDM2R2ZuUWRVQmVuNjNaQmRuRTA4aXVwaXZDVTR0Q1FDOXRYUmJHdDFGTDNYbjA0aDZIaHZ1VG5xZg?oc=5
 
-○1月20日 無効なら「直ちに他の関税」 高松経済新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxbkdWXzVMN2pUTHNtT3dEMmxibjhZdVJGRmVIeXJhX1JvRGxVb3BJc3dKRUpMdm1nUGdfQmJ2akVENksyUmlKclFYOWZhSUVreEd4a0lZZw?oc=5
-
-○1月20日 無効なら「直ちに他の関税」 盛岡経済新聞  
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Ncm5oWkxicW40Y2JHS2VjbVNURk53ZzZrM1NmZHFFejlucWRGMVMtcDZxRlg2czFYcEpJcWFtRDhCUVhDOTRGSnlNSFdXaF84NFBvZg?oc=5
-
 ○1月20日 西日本FH、「商業施設への出店も検討」 預金獲得競争で支店強化 [福岡県] 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBM0dwZjVldk5Gc0otdF9aanE3Ukp4cW1ENmVjMFBDZ1BOVWNESDVabDhid3dmaDk1aUxMM2FrY0MyeUR4ZEZCTG9yUVFCUDFkbEJyZWl2YXVZVC1HWUtmZlZ3ejg4OVE?oc=5
+  https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmdIRXJ0OEt6RkdSd29TakZzNUk5OU5rcXBaX3dqUG9KblVId2wwcV9uNmVQblduQ08taE8wTllvdEM0NDA5TDBBcjhBeXBPZkkzUjJndi1KOXNEdTltYWUxREZDaF9iRDZYVnpkT0FUWHpGT3hDNWF1REdObV9jVXJNZXJpYXgyalRqYU83Y1NSUDA?oc=5
 
 ○1月20日 トランプ氏、グリーンランドめぐる関税の脅しは「100％」実行に移すと　 EUは利益堅持の構え BBC  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zWVlMZ0hXSjlWWHFTWlV6U04zbGVrdlBHZnNuanR0SUJTWGlLWklhcjZyV2hTQzZENEotUVA0VllqQ3B5bTJJRGVDMXdFb0pmamI4VUJBeFE1M3pzVFJJ0gFkQVVfeXFMT0RlYnVGZXJYMzB3NkVkX3JfMS1fYWJab0pEUzY2WDVHdXBEWEplY3NrOHdoZlJRNGN1V0xXYzhVblBZVVdqRjdOQS1OWTVBM3R3ZFhCWXk4Sk5taDVPVGFGTEpIag?oc=5
@@ -176,8 +65,47 @@
 ○1月20日 「貿易戦争は誰の利益にもならない」と英首相、トランプ氏の関税の脅し受け BBC  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlUG1zMV9OeUJnY3FCRXhqNWd1ZUVKZHNiM2ZBaFRZNXdPb3IxajFGTS1oMWtfNFc2bW94Z2xCM1hPTkFCek9HWk9sNlA3OFlIVmVNZXBWMm1fcVhqbkR30gFkQVVfeXFMT3VJQm1wZjc5NWp3bGFRaGhhSGxXQ1pOcjRHeUxhLVVVb3V3YnVNd0wtN2JzR3NlRGp3LWk0WmZseWc1Q3NWOWxpUy03Z1VzVmNtQTUwNGg3QlZwcEJaYXZHOXNvSw?oc=5
 
-○1月20日 米最高裁、関税訴訟で近く判決か 埼玉新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YX2JvN3ZlbkVDQkVRQWZhcDI5RndSWHhtRERPUDRSbW1XUXMxSkgxQWltaU5Ya1BtVE5YTnJTQTl4LUVCdW91a2k3Vk44RHI4RWM5Z2dIMA?oc=5
+○1月20日 終わらぬ米国のインフレ 関税で再び悪化も? トランプ政権発足1年 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SdVRZMjZKQUg5UVpvdlF5LS10UTRIMThhQy1La2FxMDZ0cklUdTdYdGFhSC15eW5nSENPRjR2cU82eEt6Ymp1ajBmdDBScFRPVUI1dkZQZGliWXlGSzZ1ekdackU2cmtT?oc=5
+
+○1月20日 グリーンランドめぐる関税、根拠は何？ ｢違法｣判決出たらこうなる 朝日新聞  
+  https://news.google.com/rss/articles/CBMikwFBVV95cUxNakRidk8xWmtaQlZJbVVxWHdlM1BTWTdxNjY0TGFtdmFwSk9GQ3BWUmtFMnFPbnYtNmNDSkpFOGNpdXV4MlZ2LTl4QmIzTF9XSG5Eby01TC1kRDVCZ2luWXN4V2Q3dmMxN3pUSloyd2Q1QVNvODRibTNHcjVRR2tFSkpyMERFd2pVS3lXYld4RjJzNkE?oc=5
+
+○1月20日 NYダウ870ドル安 トリプル安再び、「グリーンランド関税」が衝撃 日本経済新聞  
+  https://news.google.com/rss/articles/CBMiqgFBVV95cUxOalNIbWVPSjNYZmlCdkNpYUhIUzlVaXdORDhsOV83SVY5Rml2LWNKRm96MWhjakMzQ3FvUE90bXJpTm9ibzAtcUNBZV8wZEdPcF9mM3F1bExqOGREb0dFdG03LXBxdjF1VGRmc1g1UTBFU09feFUyTElua2pGeEJGNnl4SGNrdFpZdHV3Z1hqb05NVmZSQVgyQkVxU2g1S2t5VGd4Q0hzWWR6UQ?oc=5
+
+○1月20日 NYダウ870ドル安 トリプル安再び、「グリーンランド関税」が衝撃 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1hYnFOdDFqeGk3QV9wcTdDYXAyMkF2NU9OdnZMN19VVUU1OHVRdU42dFhfMjNsaFlOZUNJY1ZRVnNFMXRzMVJTYUpJbllTcG1QZTY1Y2owRVBpd2FSYV9vQmZILUVCRGxpTk1BSA?oc=5
+
+○1月21日 EUの930億ユーロ規模の対米報復関税、対象品目は 日本経済新聞  
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE9VWGhXTFg3NDhIaVBlRjc0dFFQVkZFeml6bEJhbTRoNE1nX2hRYWd5U3k0cHZrUEQ2c01zUDJLQnRtRmZ4WmloSEJrZkhxdmxkZTBBY2pVWTBSeHlEeTMzY3RNNDFnaE0yNkpIV0ppLUZjblNMYUZn?oc=5
+
+○1月21日 中国が発電増強、米の7倍 AI競争、電力供給能力が左右 半導体性能の不利補う 日本経済新聞  
+  https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1NtMFNCbjhGWlQ5UkJTTnpFU3YyRDNMam5SOTlOcDJzYjhiU3NtaTI4TlB4Snh1WGprbWx3ZkVaWGxCX0xUdnp4cWsxSkZuc09sV3hSTGEtTDhpQUJqQTZ2d2FhcHF0dnI1Z2hNalpvcXp3dnlnWWxSMVcyU2otek5KUVJNVTdxSDRMTkZxQWNiN19ybVdF?oc=5
+
+○1月21日 （トランプ大統領１年）ＡＩ好景気、はらむバブル 関税インフレ・雇用減速も進行 朝日新聞  
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RZHNpQTVKOEZhTW1sTHZPXzlWcjdENzNRMU5ZSDVJUzZxN1NFU3lSakFiQnFNQVpBb210Q3hOOHh4RDlyTGhBTDRUcUM0bkxic3RrbktiV0hIOWlK?oc=5
+
+○1月21日 初任給引き上げ加速 石川、富山の企業 人手不足で競争激化 ３年連続上昇、３０万円超えも｜経済｜石川のニュース 北國新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE11UmY5TnZDNEZzZ0VCNHpIaG9HVlY0M3pLZF9wVmFPZHE5QlFHUmhJYUZoMEE4X3htS0dWNkRFdnlGQmpXZlNCaU9LSEk2cDNVeG53ZFYycw?oc=5
+
+○1月21日 昨年の鍛圧機械受注1.3％減 米関税影響、車向けプレス低迷 日刊工業新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZdGxqQkJ3MlVKT2lYekJHcVpfNlAtSU53eURqbURlY2JiU2ZhSVgyWlB1cVY1TmJhV3BuM0liem9EVzhyem9mcWU4Z25Kd0hDOGdSU2s5dkhiTW8?oc=5
+
+○1月21日 《平成ストリートスナップ》〝スタイリスト君〟急増 ユニクロ大爆発の反動も（2001年6月7日付） 繊研新聞  
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE53bUVzY2J3RXhSeGF0N01ZMkhSdW94dUZJbi1selE0bUhHSkRGdUJGM3N2S2djZVhFNWJUYzlPSFk1LWhJdURNaXdQdlhsVmI0ZWR6VFNzN2RnbEFaNWVwZw?oc=5
+
+○1月21日 26～27年秋冬ミラノ・メンズファッションウィーク ブラウン、バーガンディ、 パープルがキーカラー 繊研新聞  
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1cHhPMW9rOGRZaVRKMU1HS18xbUx1eFBlbDByd3hDaXJHY3U4SVZ6SHVaYktOYUZ1TFVhYmlBSHdScVFGWGtQS3JjZ05IM2dfbVNTOQ?oc=5
+
+○1月21日 NYダウ、870ドル下落 グリーンランド巡る関税でトリプル安に 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ralJpdXFaLTlTWG5LcmpVT0hHN2kwRF9RTjdpWGt4YXBHSkZBTF84UjFCVUcweUZYVGRaOGltanAyZXZWa3lFZGxoN2NTNndxQ2hKai1yQW5TWHhSZlgtMXJST0xCRkE?oc=5
+
+○1月21日 長期金利上昇はグリーンランド問題ではなく日本のせい？ 米閣僚示唆 [トランプ関税][トランプ再来] 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVZmI2NXlPOHJXOG1Ud3JTcWxlUWxqVG9XaVNRSU53RU5vV2dteHZ3SFVPR05kbDNyYU42YlR1bDBVZGNWUnpVeHFTRzQyQkJ5b2lYTXFqel9rdXh1cy1YSkl0dkFUekE?oc=5
+
+○1月21日 大阪発で全国へ「産官民一体で衣類の循環を」 サステナブルファッションの協議会が発足 朝日新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JMHZDSlZkNjE0QWY4aU9nSGpHMWZDaG1zaFZOYVRBZ3RndGx4QmJlRWcwMDMyRGVoVEViTERlS3FhS1hsOU4tdnNGNkpmZEUxMzdOV2FR?oc=5
 
 【自由民主党】
 ○1月15日　政調、税制調査会　総会
@@ -199,9 +127,6 @@
 
 ○1月14日	消費者委員会本会議（第479回）の資料を掲載しました。
 　https://www.cao.go.jp/consumer/iinkai/2026/479/shiryou/index.html
-
-○1月13日	国民生活安定緊急措置法施行令の一部改正についての答申（1月13日付）
-　https://www.cao.go.jp/consumer/iinkaikouhyou/2026/index.html#lst1
 
 【経済社会のデジタル化への対応と納税環境整備に関する専門家会合】
 該当データなし
