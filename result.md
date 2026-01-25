@@ -1,10 +1,4 @@
 【ニュース】
-○1月21日 偏愛した関税、米国傷つけた 物価上昇、中間選挙でトランプ氏に審判 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vamVybWV5VXhpaUJlRExpbWkwNVdSN3ZPclNMbVgxLWVZRnRzaWVVSVBvNUFIUTJQTE1Tb1BiZEpRTmFoQU1DZ1JYSkRuTWpCRUg0UWVCV0NEdm9BdGIxdjhPYkRIb1U?oc=5
-
-○1月21日 トランプ政権が有利に? 遅れる米最高裁の「相互関税」訴訟判決 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nbVZNZzMzcUJDR2hCM0tDNkg3dFNkNUI4ZGhxZmc5WTJlcm9NN3k3OXlGaHFHVDh5NEEzRXAtYVpadktyMzZWdWFTSFpxeWdWZG9vb3hNaF9vaXliUV85TUtENDczNW5y?oc=5
-
 ○1月22日 ファッションテックピッチ 〜繊維・ファッション業界の未来を創るスタートアップが集結〜 繊研新聞  
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZWjJmSnNlcWh6cDNkWUhZeTJnVkliM1Mtc0ZhYmNfdkFaUDhnSlJWTWQ5TDhYLVY3RVZmSWtuR09zOS1ZeWdMSnI5dzJhaUQ4UFAtWVJNd2JiQ1FLQmZyUWh3?oc=5
 
@@ -16,9 +10,6 @@
 
 ○1月22日 新時代のリスク対応（139）サステナビリティ・リスク“一体管理”が企業を変える 日刊工業新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE03OUw2XzhYLVVkVzN4dVNseEd6dWFLNk9IUjdmOWZsRDdmVUg0VEFFNmNFWlNjWF83TEs2d0FaZkJJQkVUNUJOanR3QklwN09DZl8ydjN0ZnFtcm8?oc=5
-
-○1月22日 関税逆風はね返す日米玄関口 米ロス港、中国減でも東南アジアに活路 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1DRVNhNzNZOHkyVXYyd1VxTWpkaHltaDhNaWVJMXBzUVJGaXBGUnh1YXFEcWdrQnAzdmJlMlpfNXRvOUdVRlVGTFFpejhYR25UZmR6Q0RqOUZLUm5JTkdJQWNKUExSMmljZVlVRg?oc=5
 
 ○1月22日 普通預金で0.7%、金利引き上げ競争が激化 消耗戦を避ける戦略も 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuWlQ2Mms4QzFfVktRSmwxbDBzV2pQcmxRY19PTktmejBXOXUyRjhLNS1XN05DeWFsWFFBbThfblVsOFlydHFTTkgzTlotS2c1dnd0cF9iZUpIRm1hd1BMazF4eWxRVVU?oc=5
@@ -35,23 +26,11 @@
 ○1月22日 トランプ氏、グリーンランドに関し「合意の枠組み」を協議と　関税の脅し引っ込める BBC  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yMlhLRkNkWUlZbUNWNDJMSE02UHIwUWRNSWVfTnBfeHljRkZKOVFPR2VmSExyV0NVekVYaERGcUNsVFFlWFhodERhRDlsXy0taWo3UlZhLS1aaklrdEhB0gFkQVVfeXFMTi1OY2NmYzhqaEVWdnNpaHh3d0ptMzJKamRlMUtscTZUNTVCVGJJZDNCeEVKTHFDa0l5YmdkTHhVUlJsVmM5YnVTLVp5ODA0am9DTVZKTFhrUTJGSDN2QlIzcWFSLQ?oc=5
 
-○1月22日 トランプ氏、経済への打撃も考慮か グリーンランド巡る関税とりやめ 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4YmFzc0dXcWZwWXUzU2o5dUpyU3ByLXhVa2g4YWpuampPOHBGLUhRenBfVWZocGZlWDVLZlJyT183YXZlZFJmUW5IN0RpcWFidllMY1hNV25qeHVEdGg4c2lnQll5d3M?oc=5
-
-○1月22日 中部の25年輸出、1%増で過去最高 米関税下でもトヨタ好調 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFB2b2tWbFU2Rkl2NW54WEoyRFJDaWt4cFdHcUZERFU1Y1JpQjFyNzIzX1hXeXM3Sm5wQW5tM0I4U2pYcnJCNThPN1FOTG9DcjBMWTlnUzczblFhMjhqd1VPZjNoeUdoS3hLOWpLUQ?oc=5
-
 ○1月22日 「領有」狙うトランプ氏、関税は取り下げたが… 警戒を解かない欧州 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wbFpEMHQ5WW1yVWFabE12cExua1ZvOG1WQXhwX2QyblVTYWFzcFk1WXl1X2xSejF1UjM0QkN4UXE2a0piYkp5N0NnUWtzRmZ6TDRlcUU1QVpKQjBzeUE4RVFWLWZweVU?oc=5
 
-○1月22日 ドイツ首相、トランプ氏の関税見送り「正しい道で歓迎」結束呼びかけ 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9qTVhVeDJTY1VlWU9DanFKSDNSRjZCcjNQZmhfZXJhTFhaMFlBd3NsRVpzcV8zcExDZEczRjNVbExVQm83VGVFbGxHOTJUekc3bU00WktfcGhIeVR4cC15Z1RiQkZmTTVERTRXZQ?oc=5
-
 ○1月23日 ＭＳ＆ＡＤインシュアランスグループホールディングス[8725]：サステナビリティレポート2025（part2） 2026年1月23日(適時開示) ：日経会社情報DIGITAL 日本経済新聞  
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1DRThRd3duVS1VQkc3b3VtZGsyZl9BV2dZQW80VGhiRVhsZkVRZGdFeEJXWE1IZ3JUVkVfbHhaWUswRVhWb1U0Yk8yTXRveTRQM0RVeXYtVG9qUklYSVIxVzc1VEFlVG0ya2c?oc=5
-
-○1月23日 米関税でも輸出額最高 昨年110兆円、貿易赤字半減 対米の車は11%減少 AI、アジア向け好調 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5LeGMtMlZXaC1nTVotal9XdWo0bEtqZmZQMFU1TFI0UzdkY0hCT1pIaEU2MEJuTmM2bGQ2Si1fMFRNcWxuNUxNd0NtVHdTWlRNTjVxTDFla1RwWVE5Q3N4enpGTHBnZjROWGZnZQ?oc=5
 
 ○1月23日 閲覧ソフト、AI企業も参入 「秘書」機能で新たな競争 グーグルの牙城なお堅く 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9admRSSDBBWl9ibVpRTk5BeGREcTNNNzYxMzlfYm00S0ZmZnpmY0RVV0NtZkNEQ3d1eEZVLXBteVJYSS1vc1JRTVdqZjBhcjVrd0VCLVNheWFzOU84RkFiOEdWZHg4U2ROTjRMbA?oc=5
@@ -81,10 +60,10 @@
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE92TkFEQ3g2RE1HUzZ0QldyVmVEQkJPMUMwMjRPNGFpZGxxWkFLaXNqZFBDLU5OWjN6SWtuRk1uQzI4eTFuc2dRUktwbmVtTHQ0T2l0Wg?oc=5
 
 ○1月23日 トランプ関税や中国勢台頭…荒波どう進む、自動車部品大手の戦略 朝日新聞  
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ00wTDdVVlVPd2NUWGpmR3pEbmhFQzUxdTllTnJTTldxOXlTX2hMd29uaEJ6UnlFNDctekJHQzk1T0FlbWVtZnZqLWp6UWlXMGFmc1dHcEp2TVQ0WW1xZDRLSDhmektQQWdNMHVpbUlydWtWMWszSUV0SXRwYTd4Z0dNLUpPMGs?oc=5
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIaHZMQ2tBbWFWOUt4QWVkbUpZZmNESXlYMkthNXFuQjhhQ3dIS1JuSHA5SnhWb0RVVGRHQ0FkWFltdDVmUnpmYTd4cU5nRWZtSzBTWUJ1TDRSTDRPUF84MFd1N252Tlk?oc=5
 
 ○1月23日 ユニクロ好き編集部員が「最近買って良かったもの」3選　今買って春まで使える！【2026年1月版】（1/2 ページ） - Fav-Log by ITmedia ITmedia  
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBndmRDRk9xeXhfd0luNHJDVDJtMHpKYXJ0cnlqaTBuaElpV1dzTGJNNlo2NUxVYzVMZGVYVDV0Tmk4V0RNbHlLaHRVV0g1bGdCa1dsRE5VWmpVVU9tdWxsSlppU0XSAWRBVV95cUxQZ3ZkQ0ZPcXl4X3dJbjRyQ1QybTB6SmFydHJ5amkwbmhJaVdXc0xiTTZaNjVMVWM1TGRlWFQ1dE5pOFdETWx5S2h0VVdINWxnQmtXbEROVVpqVVVPbXVsbEpaaVNF?oc=5
+  https://news.google.com/rss/articles/CBMia0FVX3lxTFBBV2ZETm5yZlBqWjZCOWZDc1BTMDRwQnphU2xlYUVodlpyTWxhLUpuTW9QcndBazZFSVNOOUdvNElHWW1sQlRyUmdlOWlXak1TbzRpdU9ZSi11amFIaDNSRTBHVFhwcGtMX3lV0gFkQVVfeXFMUGd2ZENGT3F5eF93SW40ckNUMm0wekphcnRyeWppMG5oSWlXV3NMYk02WjY1TFVjNUxkZVhUNXROaThXRE1seUtodFVXSDVsZ0JrV2xETlVaalVVT211bGxKWmlTRQ?oc=5
 
 ○1月23日 ユニクロ好き編集部員が「最近買って良かったもの」3選　今買って春まで使える！【2026年1月版】（1/2 ページ） - Fav-Log by ITmedia ITmedia  
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE82SkZETWpNZnluMkFvN2JQN21nMDRnYVUzX3dvbHNqSTVFbjk4Rm5yX3l4MkVLX25wZ2ZTbjZXMC1BNHA1ZDJQb1RDWTVCVzB2S2k2YXBNWlo2dDVXUVVCcHVvRHPSAWRBVV95cUxQZ3ZkQ0ZPcXl4X3dJbjRyQ1QybTB6SmFydHJ5amkwbmhJaVdXc0xiTTZaNjVMVWM1TGRlWFQ1dE5pOFdETWx5S2h0VVdINWxnQmtXbEROVVpqVVVPbXVsbEpaaVNF?oc=5
@@ -100,9 +79,6 @@
 
 ○1月24日 「売れれば」会社が競争あおる プルデンシャル生命、年収は２００万円から２億円まで 朝日新聞  
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wbG1NbFNvcDBuMmY5a3E1dFdtbF93NXpiUGVVdjE1d3ZxMi1NeHRDa0IwYV9QUkQ3cnhVV1gyZWtLMzR5VUQ5dXpZaUFXUDU3VTJIZmNFdUFjU3Zz?oc=5
-
-○1月24日 「布団に入っているような暖かさ」【ユニクロ】のダウンジャケットが人気「軽くて着心地もいい」「しっかりとした作り」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzVmY0SS1LcmVfRndUdGxfb0pLWk5xdWtPLWJ1S2g2UGpvT2Y0MDdBU25LbFQwd0ZSUzlmd2xfYlhabjFUSHpxbFRpN3NwVmUxMGVRRGlLRlU2akRvT1JtM2pvWWnSAWRBVV95cUxQc1ZmNEktS3JlX0Z3VHRsX29KS1pOcXVrTy1idUtoNlBqb09mNDA3QVNuS2xUMHdGUlM5ZndsX2JYWm4xVEh6cWxUaTdzcFZlMTBlUURpS0ZVNmpEb09SbTNqb1lp?oc=5
 
 ○1月24日 「布団に入っているような暖かさ」【ユニクロ】のダウンジャケットが人気「軽くて着心地もいい」「しっかりとした作り」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
   https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiTVZRUERvWVRkODM3empFNzEyeUJmSC1Pd0NvektkSnVOeGJUVUVVaGJqZlFRTTdFYzV4S05NTGZ3OHJ5dmJEYTkzVVVDb0QxcW9XbnN3N3Y1Tzh1aXpYb3UyQ0XSAWRBVV95cUxQc1ZmNEktS3JlX0Z3VHRsX29KS1pOcXVrTy1idUtoNlBqb09mNDA3QVNuS2xUMHdGUlM5ZndsX2JYWm4xVEh6cWxUaTdzcFZlMTBlUURpS0ZVNmpEb09SbTNqb1lp?oc=5
