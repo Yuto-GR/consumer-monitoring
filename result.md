@@ -1,12 +1,6 @@
 【ニュース】
-○1月20日 NYダウ870ドル安 トリプル安再び、「グリーンランド関税」が衝撃 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1hYnFOdDFqeGk3QV9wcTdDYXAyMkF2NU9OdnZMN19VVUU1OHVRdU42dFhfMjNsaFlOZUNJY1ZRVnNFMXRzMVJTYUpJbllTcG1QZTY1Y2owRVBpd2FSYV9vQmZILUVCRGxpTk1BSA?oc=5
-
-○1月21日 《平成ストリートスナップ》〝スタイリスト君〟急増 ユニクロ大爆発の反動も（2001年6月7日付） 繊研新聞  
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE53bUVzY2J3RXhSeGF0N01ZMkhSdW94dUZJbi1selE0bUhHSkRGdUJGM3N2S2djZVhFNWJUYzlPSFk1LWhJdURNaXdQdlhsVmI0ZWR6VFNzN2RnbEFaNWVwZw?oc=5
-
-○1月21日 NYダウ、870ドル下落 グリーンランド巡る関税でトリプル安に 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ralJpdXFaLTlTWG5LcmpVT0hHN2kwRF9RTjdpWGt4YXBHSkZBTF84UjFCVUcweUZYVGRaOGltanAyZXZWa3lFZGxoN2NTNndxQ2hKai1yQW5TWHhSZlgtMXJST0xCRkE?oc=5
+○1月21日 偏愛した関税、米国傷つけた 物価上昇、中間選挙でトランプ氏に審判 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vamVybWV5VXhpaUJlRExpbWkwNVdSN3ZPclNMbVgxLWVZRnRzaWVVSVBvNUFIUTJQTE1Tb1BiZEpRTmFoQU1DZ1JYSkRuTWpCRUg0UWVCV0NEdm9BdGIxdjhPYkRIb1U?oc=5
 
 ○1月21日 トランプ政権が有利に? 遅れる米最高裁の「相互関税」訴訟判決 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nbVZNZzMzcUJDR2hCM0tDNkg3dFNkNUI4ZGhxZmc5WTJlcm9NN3k3OXlGaHFHVDh5NEEzRXAtYVpadktyMzZWdWFTSFpxeWdWZG9vb3hNaF9vaXliUV85TUtENDczNW5y?oc=5
@@ -19,9 +13,6 @@
 
 ○1月22日 トランプ氏｢グリーンランド関税｣見送り NATOと合意枠組み構築 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE90N1kwTGhuUnVLM1hlQTJ2SjBHZjQzeF9IY19LNjZQVUFTdW13dDVoMkV4WHlqVTBGWDZTU1huWG5qdGVQWW1oZElJM1R1T3FqQ3gwbjRXMlRuNXhiUVBTV1JxQ09ybGlCZFdvSQ?oc=5
-
-○1月22日 生産ライン 競争力の源泉（88）全薬工業栃木工場 包装自動化、作業に余裕 日刊工業新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fRVBhTXByWU9pWVM2SUEwb1F4QjV0QjYtSnFIZDV3VkJpblFaUGZZMFJIbWVhb01IeWVkeVVFUzg3bDdMT3RMelZvRC02bnNMY0NkdDQ2UWJCalE?oc=5
 
 ○1月22日 新時代のリスク対応（139）サステナビリティ・リスク“一体管理”が企業を変える 日刊工業新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE03OUw2XzhYLVVkVzN4dVNseEd6dWFLNk9IUjdmOWZsRDdmVUg0VEFFNmNFWlNjWF83TEs2d0FaZkJJQkVUNUJOanR3QklwN09DZl8ydjN0ZnFtcm8?oc=5
@@ -41,26 +32,20 @@
 ○1月22日 貿易赤字5割減の2.6兆円 25年、トランプ関税で対米黒字は1割減 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1xNkNHV00yN1pTc051VzNXeWhiajFKTWhFUGozcWlWREluTVVPQjlWRjcwSVZYOVkydzJiMTdiMC15Rkw2SFhkWjE0RVdtcWNFMUlqWnV4UEhFRmtXY3pGa2dZUnR1T1U1WnhYaQ?oc=5
 
-○1月22日 日経平均、一時1000円超上昇 グリーンランド巡る関税撤回を好感 朝日新聞  
-  https://news.google.com/rss/articles/CBMijwFBVV95cUxQcU0tUTNZOWRKOGJoTWxfN1ZpS1l5ZnB5ZEFKUVlaejFrdlByM2ZLYVIyVTlGZENBTFNYQTItNnlHeUNHdVJsanBsdG1iMmZEVWdYbDVUMFJOc1NWRE02TnVoMWtMYnR3OEpVVnlySXY3cUc2UXdoc2ZoRGZ0OXdIS1VITW93XzhLU2J5MXl4dw?oc=5
-
 ○1月22日 トランプ氏、グリーンランドに関し「合意の枠組み」を協議と　関税の脅し引っ込める BBC  
   https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yMlhLRkNkWUlZbUNWNDJMSE02UHIwUWRNSWVfTnBfeHljRkZKOVFPR2VmSExyV0NVekVYaERGcUNsVFFlWFhodERhRDlsXy0taWo3UlZhLS1aaklrdEhB0gFkQVVfeXFMTi1OY2NmYzhqaEVWdnNpaHh3d0ptMzJKamRlMUtscTZUNTVCVGJJZDNCeEVKTHFDa0l5YmdkTHhVUlJsVmM5YnVTLVp5ODA0am9DTVZKTFhrUTJGSDN2QlIzcWFSLQ?oc=5
 
-○1月22日 プレスリリース：JQA、SSBJ基準に準拠したサステナビリティ情報の保証業務提供に向けた準備を開始（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EVjhWV19GVEVIMEhHUTBiNmRuS0YyMk1sZFdiYmlnMzl2aU16YkFIQ3JxaWlzSnYzX05aa2pxWUlhaUFKZlRqYVFpNWhvVWxFWXlEV29mSThyMUhnSUNWM0hpZEZWS2FL?oc=5
-
 ○1月22日 トランプ氏、経済への打撃も考慮か グリーンランド巡る関税とりやめ 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4YmFzc0dXcWZwWXUzU2o5dUpyU3ByLXhVa2g4YWpuampPOHBGLUhRenBfVWZocGZlWDVLZlJyT183YXZlZFJmUW5IN0RpcWFidllMY1hNV25qeHVEdGg4c2lnQll5d3M?oc=5
-
-○1月22日 「裏地がもふもふで暖かい」【ユニクロ】の“暖パン”が人気「この冬はこればかり」「コタツいらず」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLLVlPX0JnZUtsSGR0cmprMnNrN0VIdmpfczlJRGQxeldoOHFCSmhxZkVGRW9DbzNPVHJqbHhkYl9sLXBFQkxDTkNxbWExbEUzeWZqNWJuYlpLQkNKZzdXcndUT3LSAWRBVV95cUxQSy1ZT19CZ2VLbEhkdHJqazJzazdFSHZqX3M5SURkMXpXaDhxQkpocWZFRkVvQ28zT1Ryamx4ZGJfbC1wRUJMQ05DcW1hMWxFM3lmajVibmJaS0JDSmc3V3J3VE9y?oc=5
 
 ○1月22日 中部の25年輸出、1%増で過去最高 米関税下でもトヨタ好調 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFB2b2tWbFU2Rkl2NW54WEoyRFJDaWt4cFdHcUZERFU1Y1JpQjFyNzIzX1hXeXM3Sm5wQW5tM0I4U2pYcnJCNThPN1FOTG9DcjBMWTlnUzczblFhMjhqd1VPZjNoeUdoS3hLOWpLUQ?oc=5
 
 ○1月22日 「領有」狙うトランプ氏、関税は取り下げたが… 警戒を解かない欧州 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wbFpEMHQ5WW1yVWFabE12cExua1ZvOG1WQXhwX2QyblVTYWFzcFk1WXl1X2xSejF1UjM0QkN4UXE2a0piYkp5N0NnUWtzRmZ6TDRlcUU1QVpKQjBzeUE4RVFWLWZweVU?oc=5
+
+○1月22日 ドイツ首相、トランプ氏の関税見送り「正しい道で歓迎」結束呼びかけ 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9qTVhVeDJTY1VlWU9DanFKSDNSRjZCcjNQZmhfZXJhTFhaMFlBd3NsRVpzcV8zcExDZEczRjNVbExVQm83VGVFbGxHOTJUekc3bU00WktfcGhIeVR4cC15Z1RiQkZmTTVERTRXZQ?oc=5
 
 ○1月23日 ＭＳ＆ＡＤインシュアランスグループホールディングス[8725]：サステナビリティレポート2025（part2） 2026年1月23日(適時開示) ：日経会社情報DIGITAL 日本経済新聞  
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1DRThRd3duVS1VQkc3b3VtZGsyZl9BV2dZQW80VGhiRVhsZkVRZGdFeEJXWE1IZ3JUVkVfbHhaWUswRVhWb1U0Yk8yTXRveTRQM0RVeXYtVG9qUklYSVIxVzc1VEFlVG0ya2c?oc=5
@@ -74,9 +59,6 @@
 ○1月23日 公取委員長・茶谷栄治氏「競争力確保、成長後押し」 AI対応、実態の把握必要 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1JQUZCUl9JVUZIZmtVN3ZyWW5CRFBoX3JxMFVvMUNhWUxWYlNRRi0wTFVkT0o5V2tueGo4d2dzeEdYSGw1dWs3eG10RTJWbVQ3LU85bjZUSm8xaWdIYURWaFN1RGF3NzF5NmY5ag?oc=5
 
-○1月23日 米関税でも輸出額最高 昨年110兆円、貿易赤字半減 対米の車は11%減少 AI、アジア向け好調 日本経済新聞  
-  https://news.google.com/rss/articles/CBMimAFBVV95cUxNSi1xS0ZQdlhicEtpMzlTdHMwT0k4bkMxRlBfY1dZdGpPZlZRUjNmc1VqNW9iOV9QcHoyNHBkUk9JbkxkdU9HY3J2a3c2THJFaFZZM0FPOXczTDZEWGExTkdsTkNmTnNocGZfWnJUdTRTbmlsUktuaUE1eWVaUWNGdEpwcU9QOHVBcWlKOWVISzNwMDVrSGhINg?oc=5
-
 ○1月23日 閲覧ソフト、AI企業も参入 「秘書」機能で新たな競争 グーグルの牙城なお堅く 日本経済新聞  
   https://news.google.com/rss/articles/CBMimgFBVV95cUxNdFI2X2VuOFl1Ylk3VE1KZXFDSm9na2lPZEtPeHF2TmhfeUQ4U2t1dDlQdklCN2U2QW1DQ1daS1dqMFZVSW5BNXBDbkg4VUFSck1ySUVHN3d1S0FmekV2MGZNNlRLM3RHNXVEZlY1THMtXzlpNWVIZmhHd1oydThtY1pqMktDR1BPaEVuV0pyU0ZaMmxHc2F5N0hB?oc=5
 
@@ -85,6 +67,9 @@
 
 ○1月23日 ｢食品消費税ゼロ｣外食に逆風 中食と競争激化、控除消え資金繰り難も 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE0ySU84MldTZlFZbFN6SkRQcXdrQlJkMWh0WDVwUnNvMEZubjhXQWFjVDU4ZVhmQm94UnMyZzZPYm43V0RFMHdWTTY0eGlxeW1YS3RVbkNXT2hhVkkwRXFNS1JvNm9HNXFIWHRXeQ?oc=5
+
+○1月23日 ｢食品消費税ゼロ｣外食に逆風 中食と競争激化、控除消え資金繰り難も 日本経済新聞  
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNGtTdkdCeWstamh6VklWdTR3WXpiT2F6VS1fRmZJcGp1OGZfeVFkN0FXS01qYWVVQWFjdW5VRTA5amhEdEpCb2M4Tkpza0ZFSkw4NG5wd1A0VlJ5UkhRYmlfX0x1ZVVnSmNxcmRwVUdvQ21TN21MM1BKbnRxQnUxSjlyTUFGWWR0ZmJEWHo0M0l2SUJHVk80LVFIbTRBVnFab1MwYjRIWGY?oc=5
 
 ○1月23日 AIの安全と開発競争、日本の道筋は 政府機関AISIトップに聞く [AIの時代] 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52Y3BTamRaRG4wZENwRERQWi0zYnFueU1fOWxfODdHXzIxXy1iTDJSeDJpRHFKcDA2Vml2YmpUQllVMGZyNlczZGlaTEg5MGY5Q2Z5UmlXMFZWUEZ0dWI1TFlSMWJrUHc?oc=5
@@ -104,9 +89,6 @@
 ○1月23日 ユニクロ好き編集部員が「最近買って良かったもの」3選　今買って春まで使える！【2026年1月版】（1/2 ページ） - Fav-Log by ITmedia ITmedia  
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE82SkZETWpNZnluMkFvN2JQN21nMDRnYVUzX3dvbHNqSTVFbjk4Rm5yX3l4MkVLX25wZ2ZTbjZXMC1BNHA1ZDJQb1RDWTVCVzB2S2k2YXBNWlo2dDVXUVVCcHVvRHPSAWRBVV95cUxQZ3ZkQ0ZPcXl4X3dJbjRyQ1QybTB6SmFydHJ5amkwbmhJaVdXc0xiTTZaNjVMVWM1TGRlWFQ1dE5pOFdETWx5S2h0VVdINWxnQmtXbEROVVpqVVVPbXVsbEpaaVNF?oc=5
 
-○1月23日 EU首脳会議、対米報復を見送り トランプ氏の追加関税撤回を受け 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5jNG5xM3ROZEw3cFJqWVhlUEkwc3l1bDBpS3ROSlgzTEZRVEVrcUp2d0daVTNrTWhaVkNjdzFIdWsyVHlEc3JraVNXOFFMSHhGMVpPRWpieEhhRXQ3ajkwdkxsV1pEczl2YXllQw?oc=5
-
 ○1月23日 経産省「グローバルファッションIP創出プログラム」 採択事業者が最終成果発表 繊研新聞  
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Kb3RLWTBXeldlaUZaZkUwTU9YZ01CU0Vka1FYWFpHSVpuaFlJLU5vRXhUMkYtdzcwa041SzdOV3ZncTZrSmU2QkV3SEkwWlE?oc=5
 
@@ -121,6 +103,24 @@
 
 ○1月24日 「布団に入っているような暖かさ」【ユニクロ】のダウンジャケットが人気「軽くて着心地もいい」「しっかりとした作り」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
   https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzVmY0SS1LcmVfRndUdGxfb0pLWk5xdWtPLWJ1S2g2UGpvT2Y0MDdBU25LbFQwd0ZSUzlmd2xfYlhabjFUSHpxbFRpN3NwVmUxMGVRRGlLRlU2akRvT1JtM2pvWWnSAWRBVV95cUxQc1ZmNEktS3JlX0Z3VHRsX29KS1pOcXVrTy1idUtoNlBqb09mNDA3QVNuS2xUMHdGUlM5ZndsX2JYWm4xVEh6cWxUaTdzcFZlMTBlUURpS0ZVNmpEb09SbTNqb1lp?oc=5
+
+○1月24日 「布団に入っているような暖かさ」【ユニクロ】のダウンジャケットが人気「軽くて着心地もいい」「しっかりとした作り」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiTVZRUERvWVRkODM3empFNzEyeUJmSC1Pd0NvektkSnVOeGJUVUVVaGJqZlFRTTdFYzV4S05NTGZ3OHJ5dmJEYTkzVVVDb0QxcW9XbnN3N3Y1Tzh1aXpYb3UyQ0XSAWRBVV95cUxQc1ZmNEktS3JlX0Z3VHRsX29KS1pOcXVrTy1idUtoNlBqb09mNDA3QVNuS2xUMHdGUlM5ZndsX2JYWm4xVEh6cWxUaTdzcFZlMTBlUURpS0ZVNmpEb09SbTNqb1lp?oc=5
+
+○1月25日 トランプ氏、カナダに「100%関税」 中国と関税引き下げ履行なら 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBTcDZ3Y0xWMjRVZ2FkOXV2MEp0a1NCWjQ4OE5fTTEzdHkwdDRiamMtXzBmMjJ0OFVpajdyRzczUThiUmFmS1hDV2oxVUUyeVdQSlFRdW1oM0hrcDJlOE5zSXl5ZWstUXNzTktOYw?oc=5
+
+○1月25日 知的障害ある作家のアート 緻密な筆致、立体的に再現 ファッションブランドと協業 先行予約開始 ／東京 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NTzJlYVVlRlRJcjhzdEhaQzBzYTFOQUk3ZFlDSG4takNxdlVubVJVeVRRTWljVjh0MUV4b2xRQV9OQVBBajhyeG0tOGZSV1NXUVg3QmRuZ2w1ZW01ZzdsbElsbXh1LTQ2?oc=5
+
+○1月25日 トランプ氏、カナダ製品に関税100％と投稿 中国と「取引」なら 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FUHhpR18wX3ZfbjVHLXE3QWdOdWN1TU9xQ0ZvZ2NZNWFJX2lKQnVVZnFsOWI1eXVmTVR1bEhaY0xQTWpkeEVLTnlIWE41bGhRa0FuTFBBVzZRY1RKeVBoRC1PbDk5MkE?oc=5
+
+○1月25日 トランプ関税、画餅の「一人勝ち経済」 製造業復活に移民制限の壁 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFB0Ym5fQ2RQUTBXVHd1SWdpbFdfWEZjbnROank4SnJUUzVBNl9TZzdEZERMUDNPLWdrWGsyUEFFQk1zN2hkZDlIbC1RUGJ0LWViaXZzM19TOFJreGJOVDltMzRlLVBCbHN5WlgyNg?oc=5
+
+○1月25日 トランプ氏、カナダに100％の追加関税を表明 中国との合意履行なら 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HRHpoUFJ1Q3d3bTVONWkzUXFBTnF5ejZ0UHVsLUlhQXVTWWRuc09NNXkxcV8xZVgyMkZ4V3ZoNllScFJOakh4MlVZRUdPbnZkWkhMRXZhVXBXWDNMMHdfb1BPbk5xNzJq?oc=5
 
 【自由民主党】
 ○1月15日　政調、税制調査会　総会
