@@ -1,13 +1,4 @@
 【ニュース】
-○1月22日 貿易赤字5割減の2.6兆円 25年、トランプ関税で対米黒字は1割減 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1xNkNHV00yN1pTc051VzNXeWhiajFKTWhFUGozcWlWREluTVVPQjlWRjcwSVZYOVkydzJiMTdiMC15Rkw2SFhkWjE0RVdtcWNFMUlqWnV4UEhFRmtXY3pGa2dZUnR1T1U1WnhYaQ?oc=5
-
-○1月22日 プレスリリース：UMITO Partners × グリーンコープ 海と漁業のサステナビリティを高めるパートナーシップを締結（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE92SERSM2J4N3RxNnV3Q1ZMa3FURWF1aW5fMGVraUJodFd3aFZ2MElTakc3VVlWRjlFRnhEUmlIMVdjQzZ4RDlPN2x4cXJOaVVVSXV3ZmpzT0JnZUlpcUtlN2NIOEpIZXYz?oc=5
-
-○1月22日 トランプ氏、グリーンランドに関し「合意の枠組み」を協議と　関税の脅し引っ込める BBC  
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yMlhLRkNkWUlZbUNWNDJMSE02UHIwUWRNSWVfTnBfeHljRkZKOVFPR2VmSExyV0NVekVYaERGcUNsVFFlWFhodERhRDlsXy0taWo3UlZhLS1aaklrdEhB0gFkQVVfeXFMTi1OY2NmYzhqaEVWdnNpaHh3d0ptMzJKamRlMUtscTZUNTVCVGJJZDNCeEVKTHFDa0l5YmdkTHhVUlJsVmM5YnVTLVp5ODA0am9DTVZKTFhrUTJGSDN2QlIzcWFSLQ?oc=5
-
 ○1月23日 ＭＳ＆ＡＤインシュアランスグループホールディングス[8725]：サステナビリティレポート2025（part2） 2026年1月23日(適時開示) ：日経会社情報DIGITAL 日本経済新聞  
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1DRThRd3duVS1VQkc3b3VtZGsyZl9BV2dZQW80VGhiRVhsZkVRZGdFeEJXWE1IZ3JUVkVfbHhaWUswRVhWb1U0Yk8yTXRveTRQM0RVeXYtVG9qUklYSVIxVzc1VEFlVG0ya2c?oc=5
 
@@ -23,26 +14,11 @@
 ○1月23日 ｢食品消費税ゼロ｣外食に逆風 中食と競争激化、控除消え資金繰り難も 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE0ySU84MldTZlFZbFN6SkRQcXdrQlJkMWh0WDVwUnNvMEZubjhXQWFjVDU4ZVhmQm94UnMyZzZPYm43V0RFMHdWTTY0eGlxeW1YS3RVbkNXT2hhVkkwRXFNS1JvNm9HNXFIWHRXeQ?oc=5
 
-○1月23日 ｢食品消費税ゼロ｣外食に逆風 中食と競争激化、控除消え資金繰り難も 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNGtTdkdCeWstamh6VklWdTR3WXpiT2F6VS1fRmZJcGp1OGZfeVFkN0FXS01qYWVVQWFjdW5VRTA5amhEdEpCb2M4Tkpza0ZFSkw4NG5wd1A0VlJ5UkhRYmlfX0x1ZVVnSmNxcmRwVUdvQ21TN21MM1BKbnRxQnUxSjlyTUFGWWR0ZmJEWHo0M0l2SUJHVk80LVFIbTRBVnFab1MwYjRIWGY?oc=5
-
 ○1月23日 AIの安全と開発競争、日本の道筋は 政府機関AISIトップに聞く [AIの時代] 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52Y3BTamRaRG4wZENwRERQWi0zYnFueU1fOWxfODdHXzIxXy1iTDJSeDJpRHFKcDA2Vml2YmpUQllVMGZyNlczZGlaTEg5MGY5Q2Z5UmlXMFZWUEZ0dWI1TFlSMWJrUHc?oc=5
 
-○1月23日 ファッション業界を志す学生の就業意識 iDA、日本女子大の勝又氏と共同で調査 繊研新聞  
-  https://news.google.com/rss/articles/CBMiTkFVX3lxTE9heTZ4a1laNVBDRFVvV3RZUHVzNV9ERFd5cE85VndJQ1Q0UmFYQTUzTUYtaTlTLXJ2ek1sRWdOT2NER0JvOFhLVFo1NFQwQQ?oc=5
-
-○1月23日 トランプ関税や中国勢台頭…荒波どう進む、自動車部品大手の戦略 朝日新聞  
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ00wTDdVVlVPd2NUWGpmR3pEbmhFQzUxdTllTnJTTldxOXlTX2hMd29uaEJ6UnlFNDctekJHQzk1T0FlbWVtZnZqLWp6UWlXMGFmc1dHcEp2TVQ0WW1xZDRLSDhmektQQWdNMHVpbUlydWtWMWszSUV0SXRwYTd4Z0dNLUpPMGs?oc=5
-
-○1月23日 ユニクロ好き編集部員が「最近買って良かったもの」3選　今買って春まで使える！【2026年1月版】（1/2 ページ） - Fav-Log by ITmedia ITmedia  
-  https://news.google.com/rss/articles/CBMia0FVX3lxTFBBV2ZETm5yZlBqWjZCOWZDc1BTMDRwQnphU2xlYUVodlpyTWxhLUpuTW9QcndBazZFSVNOOUdvNElHWW1sQlRyUmdlOWlXak1TbzRpdU9ZSi11amFIaDNSRTBHVFhwcGtMX3lV0gFkQVVfeXFMUGd2ZENGT3F5eF93SW40ckNUMm0wekphcnRyeWppMG5oSWlXV3NMYk02WjY1TFVjNUxkZVhUNXROaThXRE1seUtodFVXSDVsZ0JrV2xETlVaalVVT211bGxKWmlTRQ?oc=5
-
-○1月23日 EU首脳会議、対米報復を見送り トランプ氏の追加関税撤回を受け 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5jNG5xM3ROZEw3cFJqWVhlUEkwc3l1bDBpS3ROSlgzTEZRVEVrcUp2d0daVTNrTWhaVkNjdzFIdWsyVHlEc3JraVNXOFFMSHhGMVpPRWpieEhhRXQ3ajkwdkxsV1pEczl2YXllQw?oc=5
-
-○1月23日 経産省「グローバルファッションIP創出プログラム」 採択事業者が最終成果発表 繊研新聞  
-  https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Kb3RLWTBXeldlaUZaZkUwTU9YZ01CU0Vka1FYWFpHSVpuaFlJLU5vRXhUMkYtdzcwa041SzdOV3ZncTZrSmU2QkV3SEkwWlE?oc=5
+○1月23日 プレスリリース：JQA、SSBJ基準に準拠したサステナビリティ情報の保証業務提供に向けた準備を開始（PR TIMES） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EVjhWV19GVEVIMEhHUTBiNmRuS0YyMk1sZFdiYmlnMzl2aU16YkFIQ3JxaWlzSnYzX05aa2pxWUlhaUFKZlRqYVFpNWhvVWxFWXlEV29mSThyMUhnSUNWM0hpZEZWS2FL?oc=5
 
 ○1月24日 半導体好調､車は関税重荷 25年4〜12月決算に強弱交錯の気配 日本経済新聞  
   https://news.google.com/rss/articles/CBMifkFVX3lxTE5zNlhfek12SUlrR1dKUFFiaDU5MmVCUkVFTzF5blVTeFJ0LUV4UWlROUtBbVU2TWd5S19qejluaGNzRUY2WjhXVGdzOFpxb0tmYzBpTTRQa1lyV3RBNlhKd1pHVzVac2QzX0ttQUxuRzZnZEJqRmhtWmpFVkJHUQ?oc=5
@@ -89,6 +65,15 @@
 ○1月26日 21世紀枠候補校紹介2026：5年前は新入部員ゼロ、持続可能な活動模索する高知農 センバツ 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CVjZkUG9Pa2hCUGRDMXQway1mWnp6eXZ3dFRkNklHZnVtUkR3TTNjYmFJcUZjODlxQWdxSWZxT2Q3b0thRWR3R24zV1ZVS0VaMm53YkNpcG9xSS1LOXRHOGZZTFhLUVE5?oc=5
 
+○1月26日 ＢＢＤイニシアティブ[5259]：本店移転に関するお知らせ ～WeWorkへの移転を通じ、柔軟で持続可能な成長基盤を構築～ 2026年1月26日(適時開示) ：日経会社情報DIGITAL 日本経済新聞  
+  https://news.google.com/rss/articles/CBMizAFBVV95cUxOc0hleEJibEdpdVhiUlNMNEhJYkxNWkM4cmFPU2l6NUR1NTBYd2xUb3draUhhV014aVZkSnRZMXBSODJncTVyRmNfWk9qNlFHSVRRelVMd1h0N0ZVTWUya0pDTGRERDlFcDVuNFdFYnBvODNkeUpIXzcxSmVUX2x5LXF0eDhXNWFoNEotd1pEbEVzOFM1U3B0ZDFKdzl6MklEVmpmVEhWNjJvdkI5TEhtYkk2YUVqdS1KZGxtM1hLZ0hCcmRBUHBSWlhfX0M?oc=5
+
+○1月26日 プレスリリース：国際的な評価機関であるエコバディス社のサステナビリティ調査においてキヤノングループが最高位の「プラチナ」評価を2年連続で獲得（PR TIMES） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6azNaMWwtMGNIbm1GX3BNTVQ4Ny1xeHB6cy1SdHgxZ2xYQmxKbzkzbUpPemU0T25JWW0zM0FucUp5U3dnLURGcGh1U3ppemUtLWw0c2NlRjV3V3JLd3VodVBoWW85QnRh?oc=5
+
+○1月26日 プレスリリース：［新発売］累計販売100万食突破、食物繊維で未来を変える『FUN FIBER』グラノーラシリーズの新味『あんグラノーラ』（PR TIMES） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jem14TER0a1JOR1NqdHVhVjdhZ0xOTkN3X21iYkY3ZzRiMFVMYVRYZDR0Uy0zNFpJU1h3MVhEMkdUTDFzTU01QjFUSlNsMmR4Sk1lT0lGamx5NTl1cFdOU0FXVUFTakFf?oc=5
+
 【自由民主党】
 ○1月15日　政調、税制調査会　総会
 　国際課税に係る交渉の合意に伴う対応について
@@ -104,7 +89,8 @@
 【内閣府】
 該当データなし
 【消費者委員会】
-該当データなし
+○1月26日	第12回 支払手段の多様化と消費者問題に関する専門調査会の資料を掲載しました。
+　https://www.cao.go.jp/consumer/kabusoshiki/payment/012/shiryou/index.html
 
 【経済社会のデジタル化への対応と納税環境整備に関する専門家会合】
 該当データなし
