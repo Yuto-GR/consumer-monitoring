@@ -11,20 +11,11 @@
 ○1月25日 トランプ関税、画餅の「一人勝ち経済」 製造業復活に移民制限の壁 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFB0Ym5fQ2RQUTBXVHd1SWdpbFdfWEZjbnROank4SnJUUzVBNl9TZzdEZERMUDNPLWdrWGsyUEFFQk1zN2hkZDlIbC1RUGJ0LWViaXZzM19TOFJreGJOVDltMzRlLVBCbHN5WlgyNg?oc=5
 
-○1月25日 トランプ氏、カナダに100％の追加関税を表明 中国との合意履行なら 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HRHpoUFJ1Q3d3bTVONWkzUXFBTnF5ejZ0UHVsLUlhQXVTWWRuc09NNXkxcV8xZVgyMkZ4V3ZoNllScFJOakh4MlVZRUdPbnZkWkhMRXZhVXBXWDNMMHdfb1BPbk5xNzJq?oc=5
-
-○1月26日 「中国と取引なら関税１００％」 トランプ氏、カナダに警告 朝日新聞  
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vWXp1NTF0N2dlT2FZbUZJc094d3dOLUN2ZVRlX2JudVg5Wk9QVDE5d3JBemctYUxrdmtnLUxYMVNEUHBIMkNxMUtIS09wQmJSNFVtTlpta2JwMXVW?oc=5
-
 ○1月26日 ねじ協・研が新年賀詞交歓会、佐藤会長「技術・競争力で乗越える」澤会長「実践の中から高度人材を」 金属産業新聞  
   https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NUlFJYktFOVd5cl9tNDQxNHNiZER1TzBDWFN6ZlFiQUtsd1NPYzR4d05XUlhLbXFyekNVX2x5dzFuUC1JQzFkT0w2bGVGVHpvakdxYkdNRkY?oc=5
 
 ○1月26日 バイオワークス、PLA繊維のケミカルリサイクル実証 分離・ 解重合で再び樹脂に 繊研新聞  
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uNmZiQ2hKVDZlcnZ1V1ZVYXFTSWxHME1vaExWdlk5M0RuS1EtTU1KLW5CQjZtWWlUS0N3SHRDcFI5NjN1TmUxZmtCMkhMYXB2TVFQTg?oc=5
-
-○1月26日 26～27年秋冬パリ・メンズファッションウィーク 凛としたカジュアル、 柔らかな色柄 繊研新聞  
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Gcm5wWDJlbENnbjAzOW5qd1dUWFNmWlE5cmtIdlBCR2IybU1Vb2MwbTlkNmV4UU1NSzJWemJDMF8ySTVlTUc1OXVhVUx1Q1docU9Tbw?oc=5
 
 ○1月26日 【有力事業者に聞く2026年のEC戦略】レンティオ 三輪謙二朗社長「メーカーと量販店による市場競争激化」 日本ネット経済新聞  
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE51eGloR2pzZzdzaUtUYlJRMFVlYnlkNFVkcFQyNHF0WUlMeTY5RGsyZ1NWWi10NEdYSjFJcWh3N2VkOFcyR0xRYzd4OVRmYnR2aGJMc2Jn?oc=5
@@ -53,14 +44,35 @@
 ○1月27日 26～27年秋冬パリ・メンズファッションウィーク 終わりと始まりが交錯する節目のシーズン 繊研新聞  
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JVkgwMmRYcUJhdEN1RU1jaG1EeWlma1hJcDNrSG5RMVljbEp5bXU1bS1BcjZsZkxxMkVKTUdmbndMN05hLTF2aVU1cGNnTXFpSUdCaQ?oc=5
 
+○1月27日 トランプ氏、対韓関税「25%に引き上げる」 協定の承認遅れに不満 朝日新聞  
+  https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0hFbU1adnpoXzJWRnlmWFRhZFNDQ3E5UlhoMDlXbHVJV0t5NlR4NmRWTlRsTjU5d1RsYWR1Z3RwVlRlQXNHaWgxZmRBNWZGRGtsWGlJMXZSaHNPSWNQYURxTENOSkVUTFY0cWxNUUdsa0pjNlhDT2ZOU01xRGZDRG9CQ2JiVHA4dXpPY3RWaw?oc=5
+
+○1月27日 トランプ氏、韓国への関税25％に引き上げへ 手続き遅れに不満 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NOUw1b0RyXy0zemExaHpranpwS0ZzM0t2VFJtQzRmQko0d2Zwd3RLVzZRUUNKc1VfQWtYNm90b24xaXoyeURvT2ZsOHlNYUwtal9ILWdUN0h3TndqbWFuSXU3RERaMzRC?oc=5
+
+○1月27日 サステナイブルなものづくりを ファッション産業の新しい在り方を提案する鎌田安里紗さん 朝日新聞  
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wYzJKUzRGZ2JfMkdxYllXOWhkbHZtU0VKdl9wSFFBMF9WQ3pMTFVWVm9KRmZZLW5RUy10ODZDdXY4SGt5dWM4RGp1Q0JvckVOVmUtdkNRcDFxbDN5U2FyWExoMA?oc=5
+
+○1月27日 米巨大テック｢マグ7｣に分かれ道 株価プラス3社のみ、競争激化を警戒 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5sY3ZsVmI2WHdzTW1hTnpZRDNmMmRYSzBWbmVVT0lPZ2tSdTV6R0ZUVmVFbjh4dWtRaHlsYTI3a1h2T1dtb1BIUW9UTzZWLXRwTUhXM21jTDZ5SDhIZjNLOWlvcUgyQW1OaWlQYw?oc=5
+
+○1月27日 韓国政府「米側から公式な連絡なし」 米国の関税引き上げ方針に困惑 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PVGVSUDgxS0tnOUZlMVJfb0Nrdm9maXI0UGIzRG5XY0kxX2NuUndic0FGbGd6SFpRU1ZmM1V6RFFCMEp0eE90SUN2bzNYejZTemJMSWhfXzdBS3dLTlhwbzdYWHdoYVpO?oc=5
+
+○1月27日 プレスリリース：プーマがパリ・ファッションウィーク期間中に没入型イベント「SUEDE HOUSE」を開催 50年以上愛されているシューズ「SUEDE」のレガシーを体感できる展示空間を展開（PR TIMES） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE55SlhmSmUzVVJ2M0NXTlVWMVp2Wm16YnZnRGlvVGhjbmpzS2ZnLVV3bGJGcjhSc3gtSmNGSFFYMWpyQXZiWi1LZlNPWDdPdGt6QTJESGdRRmtEMTFCY2VpM0NaVFAwUnR4?oc=5
+
 ○1月27日 韓国への関税25%に引き上げ、トランプ氏表明 合意「不履行」批判 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBoTmlTVnVsMzNVYnMzZE1GdF9udkZTMDZnQmNxc1k3Yld6bklPMDhoTElOVEtsQUo3QnJJcHh1OVNnZ0hXRU5ackRIY3N6U1VTdXFoUm5yUFFfVzBNdjlFaHFMZlF2blk3RUNrTw?oc=5
 
-○1月27日 トランプ氏、対韓関税「25%に引き上げる」 協定の承認遅れに不満 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VY2F6ZVhORm1LbVBGUmY2SGMtWmJFQzZLcUNQUWtlOHJNYzhMYXdsalBlb21ZLVZFTHpyT01JUVUyVnJIMkNaNFk3QlN2TGNJOTVPN2NDRm9neHBPM0RJNTF6eVJuU1E?oc=5
+○1月27日 トランプ氏、韓国への関税を25％に引き上げると発表　協定不履行と批判 BBC  
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xbldncjUxM3cxeUk5T3BpX3k4OE93cnJObUJSSUpBanNjeWpRZXRjLUtSNUFLbEpWSFVDazg3WUxWRTlnMEVVUUt1VkZlMklGSEdvN2lpSU9ObjA2OUtz0gFkQVVfeXFMT2J5cDJheWxCb3VTMHdPN0pIWjRHTmM2OEdiZjhJMFVSQmJpNVZkckFJa1kwUEFRd0txX3lDM1JtLTlCeG1WR2FZVm83YnI0b2RBdTFsd1ptaWVfTTNaODV6blJyUA?oc=5
 
-○1月27日 プレスリリース：［ルイ・ヴィトン］「LOUIS VUITTON for UNICEF」パートナーシップ10周年を記念したエクスクルーシブなタイム・オブジェと特注トランクが2026秋冬メンズ・ファッションショーにて発表（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oSjJpcTlhYXQwVVFjWFBQOUJQb2J6ZVY1SUtHTDJuYTVCQVlsaGxPUDNNNGFMMzc5VnpQbHllOVFRNVNSMS1ZS2lzcFZSYXpaQ2ExcVZ5R0xqRUNweHYxNFdReEpoeEVu?oc=5
+○1月27日 米、対韓関税25%に上げ トランプ氏表明 「合意不履行」主張 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBMc240MDdlaFR2Q21TQXVieHdrVkkzX3dOb3JBZ0VyaU1TNTdvS1N5cm9rWEV1S09ZSmF0Z01kd0tOR095alNDT1k0V2FsdFp6Z1kyXzVEOUcxcEZiQ3ZGNG1DZGxRcERsNGU0ZQ?oc=5
+
+○1月27日 《〝東京ニューエイジ〟とは何だったのか㊦》ファッションという概念そのもの 「絶命展」からの連なりをたどる 繊研新聞  
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UdFkydXZUS1pyNE1SOGpreWhMY0xNdXp5UjBraUxZMWtDZGpCSzJYck1aUmhMd1hFdVcxMEJyMFRENFBad1JTZE1fMmRwTnZ1RldvT3AxWHVVdw?oc=5
 
 【自由民主党】
 ○1月15日　政調、税制調査会　総会
