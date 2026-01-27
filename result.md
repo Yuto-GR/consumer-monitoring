@@ -1,39 +1,6 @@
 【ニュース】
-○1月23日 ＭＳ＆ＡＤインシュアランスグループホールディングス[8725]：サステナビリティレポート2025（part2） 2026年1月23日(適時開示) ：日経会社情報DIGITAL 日本経済新聞  
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE1DRThRd3duVS1VQkc3b3VtZGsyZl9BV2dZQW80VGhiRVhsZkVRZGdFeEJXWE1IZ3JUVkVfbHhaWUswRVhWb1U0Yk8yTXRveTRQM0RVeXYtVG9qUklYSVIxVzc1VEFlVG0ya2c?oc=5
-
-○1月23日 閲覧ソフト、AI企業も参入 「秘書」機能で新たな競争 グーグルの牙城なお堅く 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9admRSSDBBWl9ibVpRTk5BeGREcTNNNzYxMzlfYm00S0ZmZnpmY0RVV0NtZkNEQ3d1eEZVLXBteVJYSS1vc1JRTVdqZjBhcjVrd0VCLVNheWFzOU84RkFiOEdWZHg4U2ROTjRMbA?oc=5
-
-○1月23日 公取委員長・茶谷栄治氏「競争力確保、成長後押し」 AI対応、実態の把握必要 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE1JQUZCUl9JVUZIZmtVN3ZyWW5CRFBoX3JxMFVvMUNhWUxWYlNRRi0wTFVkT0o5V2tueGo4d2dzeEdYSGw1dWs3eG10RTJWbVQ3LU85bjZUSm8xaWdIYURWaFN1RGF3NzF5NmY5ag?oc=5
-
-○1月23日 閲覧ソフト、AI企業も参入 「秘書」機能で新たな競争 グーグルの牙城なお堅く 日本経済新聞  
-  https://news.google.com/rss/articles/CBMimgFBVV95cUxNdFI2X2VuOFl1Ylk3VE1KZXFDSm9na2lPZEtPeHF2TmhfeUQ4U2t1dDlQdklCN2U2QW1DQ1daS1dqMFZVSW5BNXBDbkg4VUFSck1ySUVHN3d1S0FmekV2MGZNNlRLM3RHNXVEZlY1THMtXzlpNWVIZmhHd1oydThtY1pqMktDR1BPaEVuV0pyU0ZaMmxHc2F5N0hB?oc=5
-
-○1月23日 ｢食品消費税ゼロ｣外食に逆風 中食と競争激化、控除消え資金繰り難も 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE0ySU84MldTZlFZbFN6SkRQcXdrQlJkMWh0WDVwUnNvMEZubjhXQWFjVDU4ZVhmQm94UnMyZzZPYm43V0RFMHdWTTY0eGlxeW1YS3RVbkNXT2hhVkkwRXFNS1JvNm9HNXFIWHRXeQ?oc=5
-
-○1月23日 AIの安全と開発競争、日本の道筋は 政府機関AISIトップに聞く [AIの時代] 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52Y3BTamRaRG4wZENwRERQWi0zYnFueU1fOWxfODdHXzIxXy1iTDJSeDJpRHFKcDA2Vml2YmpUQllVMGZyNlczZGlaTEg5MGY5Q2Z5UmlXMFZWUEZ0dWI1TFlSMWJrUHc?oc=5
-
-○1月23日 プレスリリース：JQA、SSBJ基準に準拠したサステナビリティ情報の保証業務提供に向けた準備を開始（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EVjhWV19GVEVIMEhHUTBiNmRuS0YyMk1sZFdiYmlnMzl2aU16YkFIQ3JxaWlzSnYzX05aa2pxWUlhaUFKZlRqYVFpNWhvVWxFWXlEV29mSThyMUhnSUNWM0hpZEZWS2FL?oc=5
-
-○1月24日 半導体好調､車は関税重荷 25年4〜12月決算に強弱交錯の気配 日本経済新聞  
-  https://news.google.com/rss/articles/CBMifkFVX3lxTE5zNlhfek12SUlrR1dKUFFiaDU5MmVCUkVFTzF5blVTeFJ0LUV4UWlROUtBbVU2TWd5S19qejluaGNzRUY2WjhXVGdzOFpxb0tmYzBpTTRQa1lyV3RBNlhKd1pHVzVac2QzX0ttQUxuRzZnZEJqRmhtWmpFVkJHUQ?oc=5
-
-○1月24日 失速ABCマート株､海外で物価高･関税の逆風 頼みは国内事業 日本経済新聞  
-  https://news.google.com/rss/articles/CBMifkFVX3lxTE8tLS1fR0ZtdnJkX1FFak9HdHJGN0htbjloeW0xTHRScjVrRjQyNzd0VjViMnJ3WExIVTdMUklDb01LbDl4MmM0cTVld2lXN2hiQXlvSDFCWEdzRHctY0VCTTc5WWg3bEZJa3JrSllJSkFqTGJTZmJhY2FjZ3hlZw?oc=5
-
 ○1月24日 「売れれば」会社が競争あおる プルデンシャル生命、年収は２００万円から２億円まで 朝日新聞  
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wbG1NbFNvcDBuMmY5a3E1dFdtbF93NXpiUGVVdjE1d3ZxMi1NeHRDa0IwYV9QUkQ3cnhVV1gyZWtLMzR5VUQ5dXpZaUFXUDU3VTJIZmNFdUFjU3Zz?oc=5
-
-○1月24日 「布団に入っているような暖かさ」【ユニクロ】のダウンジャケットが人気「軽くて着心地もいい」「しっかりとした作り」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzVmY0SS1LcmVfRndUdGxfb0pLWk5xdWtPLWJ1S2g2UGpvT2Y0MDdBU25LbFQwd0ZSUzlmd2xfYlhabjFUSHpxbFRpN3NwVmUxMGVRRGlLRlU2akRvT1JtM2pvWWnSAWRBVV95cUxQc1ZmNEktS3JlX0Z3VHRsX29KS1pOcXVrTy1idUtoNlBqb09mNDA3QVNuS2xUMHdGUlM5ZndsX2JYWm4xVEh6cWxUaTdzcFZlMTBlUURpS0ZVNmpEb09SbTNqb1lp?oc=5
-
-○1月24日 「布団に入っているような暖かさ」【ユニクロ】のダウンジャケットが人気「軽くて着心地もいい」「しっかりとした作り」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiTVZRUERvWVRkODM3empFNzEyeUJmSC1Pd0NvektkSnVOeGJUVUVVaGJqZlFRTTdFYzV4S05NTGZ3OHJ5dmJEYTkzVVVDb0QxcW9XbnN3N3Y1Tzh1aXpYb3UyQ0XSAWRBVV95cUxQc1ZmNEktS3JlX0Z3VHRsX29KS1pOcXVrTy1idUtoNlBqb09mNDA3QVNuS2xUMHdGUlM5ZndsX2JYWm4xVEh6cWxUaTdzcFZlMTBlUURpS0ZVNmpEb09SbTNqb1lp?oc=5
 
 ○1月25日 トランプ氏、カナダに「100%関税」 中国と関税引き下げ履行なら 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBTcDZ3Y0xWMjRVZ2FkOXV2MEp0a1NCWjQ4OE5fTTEzdHkwdDRiamMtXzBmMjJ0OFVpajdyRzczUThiUmFmS1hDV2oxVUUyeVdQSlFRdW1oM0hrcDJlOE5zSXl5ZWstUXNzTktOYw?oc=5
@@ -47,9 +14,6 @@
 ○1月25日 トランプ氏、カナダに100％の追加関税を表明 中国との合意履行なら 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HRHpoUFJ1Q3d3bTVONWkzUXFBTnF5ejZ0UHVsLUlhQXVTWWRuc09NNXkxcV8xZVgyMkZ4V3ZoNllScFJOakh4MlVZRUdPbnZkWkhMRXZhVXBXWDNMMHdfb1BPbk5xNzJq?oc=5
 
-○1月25日 能登から持続可能な集落のモデルを 金沢大と信州大、実証実験の協定 [石川県] [能登半島地震] 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jSDhNcDc2ZEhyWnVQdl9sOXhlS2ZubElnMmVoVHQxSVZiZlAwVkZMTE56ejRiQkp4bk9MSVVKUUROUC1MQVdIZi1RQ1l3cEZnNGJ2MktfTk95SVRkMmdINHk3SWNtLWM?oc=5
-
 ○1月26日 「中国と取引なら関税１００％」 トランプ氏、カナダに警告 朝日新聞  
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vWXp1NTF0N2dlT2FZbUZJc094d3dOLUN2ZVRlX2JudVg5Wk9QVDE5d3JBemctYUxrdmtnLUxYMVNEUHBIMkNxMUtIS09wQmJSNFVtTlpta2JwMXVW?oc=5
 
@@ -62,17 +26,41 @@
 ○1月26日 26～27年秋冬パリ・メンズファッションウィーク 凛としたカジュアル、 柔らかな色柄 繊研新聞  
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Gcm5wWDJlbENnbjAzOW5qd1dUWFNmWlE5cmtIdlBCR2IybU1Vb2MwbTlkNmV4UU1NSzJWemJDMF8ySTVlTUc1OXVhVUx1Q1docU9Tbw?oc=5
 
-○1月26日 21世紀枠候補校紹介2026：5年前は新入部員ゼロ、持続可能な活動模索する高知農 センバツ 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CVjZkUG9Pa2hCUGRDMXQway1mWnp6eXZ3dFRkNklHZnVtUkR3TTNjYmFJcUZjODlxQWdxSWZxT2Q3b0thRWR3R24zV1ZVS0VaMm53YkNpcG9xSS1LOXRHOGZZTFhLUVE5?oc=5
+○1月26日 【有力事業者に聞く2026年のEC戦略】レンティオ 三輪謙二朗社長「メーカーと量販店による市場競争激化」 日本ネット経済新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE51eGloR2pzZzdzaUtUYlJRMFVlYnlkNFVkcFQyNHF0WUlMeTY5RGsyZ1NWWi10NEdYSjFJcWh3N2VkOFcyR0xRYzd4OVRmYnR2aGJMc2Jn?oc=5
 
 ○1月26日 ＢＢＤイニシアティブ[5259]：本店移転に関するお知らせ ～WeWorkへの移転を通じ、柔軟で持続可能な成長基盤を構築～ 2026年1月26日(適時開示) ：日経会社情報DIGITAL 日本経済新聞  
   https://news.google.com/rss/articles/CBMizAFBVV95cUxOc0hleEJibEdpdVhiUlNMNEhJYkxNWkM4cmFPU2l6NUR1NTBYd2xUb3draUhhV014aVZkSnRZMXBSODJncTVyRmNfWk9qNlFHSVRRelVMd1h0N0ZVTWUya0pDTGRERDlFcDVuNFdFYnBvODNkeUpIXzcxSmVUX2x5LXF0eDhXNWFoNEotd1pEbEVzOFM1U3B0ZDFKdzl6MklEVmpmVEhWNjJvdkI5TEhtYkk2YUVqdS1KZGxtM1hLZ0hCcmRBUHBSWlhfX0M?oc=5
 
-○1月26日 プレスリリース：国際的な評価機関であるエコバディス社のサステナビリティ調査においてキヤノングループが最高位の「プラチナ」評価を2年連続で獲得（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6azNaMWwtMGNIbm1GX3BNTVQ4Ny1xeHB6cy1SdHgxZ2xYQmxKbzkzbUpPemU0T25JWW0zM0FucUp5U3dnLURGcGh1U3ppemUtLWw0c2NlRjV3V3JLd3VodVBoWW85QnRh?oc=5
+○1月27日 米粗鋼生産、26年ぶり日本超え トランプ関税で増産・AIブーム追い風 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBFQ3dhNlI2bFFFUmdSRnRTLUdHVnVwaHYtaGFmRzZQWjYxd3hLQlBldnJBU0JMM3ktOUtQbm5Vd2FmYTVnbXdobWJTbzl6dmlkXzdsZlhZUDk4ck0zdjBLUXVCREdqZzZ6MXdfUg?oc=5
 
-○1月26日 プレスリリース：［新発売］累計販売100万食突破、食物繊維で未来を変える『FUN FIBER』グラノーラシリーズの新味『あんグラノーラ』（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jem14TER0a1JOR1NqdHVhVjdhZ0xOTkN3X21iYkY3ZzRiMFVMYVRYZDR0Uy0zNFpJU1h3MVhEMkdUTDFzTU01QjFUSlNsMmR4Sk1lT0lGamx5NTl1cFdOU0FXVUFTakFf?oc=5
+○1月27日 AI競争、50人の専門家と読み解く NIKKEI Digital Governance 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBxc3E1MUF5X0pxRi1JZU9MMUhqT3ZNYk5mdk4tQTVhSjJZTEZLU0g0THEyaUJ4TE9FUjdxUjhRNUMxUnZwTTJhM1A5ak1xOEVmRS1Fb0RDREkwUjhybl95bFV3NXVrOVlQWTJpZQ?oc=5
+
+○1月27日 センバツ２１世紀枠：候補校紹介／8 高知農（四国・高知） 楽しく強く、持続可能へ 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPQ0FKdTA2NE1wWGxuX2FHQS16bEIyS2JFUWNUZWd6MTVlaUNMakNldGxldVI3MjFzNmJKX2F5OTdBR2lKNklkemY1cUZwd3pZNHFFbzZvQkZhZzVTMUh2LXRqX1kwSTZh?oc=5
+
+○1月27日 石川のカジグループ、産業観光で繊維業の魅力発信 脱「黒子」へ 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBacWpTQjh6MnBuR0tlWWJZVlhCUWRjVDBiZ0xIT2ZDTzNFMWpZRVZuQm1TZl81enB6M0hXOHpyZnVvXzJXaXVqTEk5S0Q0VW04dkdfOGtua3NWdjc3bkpqcE9Yc0Z0a2ZtNTZ4Vw?oc=5
+
+○1月27日 H3ロケット失敗に「新たな魔物」 競争脱落の陰に日本の完璧主義 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE13djZTYjhuMFRQQ1VKWTBYVEtpWEtTenVwc3Y4aV9mSFdwbkQ2U2ZabHZsYjRldXlCdkx0Y0NvSGdhMTkzQ19WV0stdHF3OGxDYkEzUTlWTEpMbDZrcUVMT3h5dHpuNzlZM2lWMQ?oc=5
+
+○1月27日 《もう少し知りたい》転換期の紡績系企業 繊維の継続・ 発展へ改革急ぐ 繊研新聞  
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE10TEhia2dUMGw0aDQ5Z2s0TmZSU05pR2cyTC1zMVl4dDJEOWctbmFQWkFCZFJwVi1sSmxFdzl5T0JkODdHWmNJVVhKam5SanBSU1RRZw?oc=5
+
+○1月27日 26～27年秋冬パリ・メンズファッションウィーク 終わりと始まりが交錯する節目のシーズン 繊研新聞  
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JVkgwMmRYcUJhdEN1RU1jaG1EeWlma1hJcDNrSG5RMVljbEp5bXU1bS1BcjZsZkxxMkVKTUdmbndMN05hLTF2aVU1cGNnTXFpSUdCaQ?oc=5
+
+○1月27日 韓国への関税25%に引き上げ、トランプ氏表明 合意「不履行」批判 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBoTmlTVnVsMzNVYnMzZE1GdF9udkZTMDZnQmNxc1k3Yld6bklPMDhoTElOVEtsQUo3QnJJcHh1OVNnZ0hXRU5ackRIY3N6U1VTdXFoUm5yUFFfVzBNdjlFaHFMZlF2blk3RUNrTw?oc=5
+
+○1月27日 トランプ氏、対韓関税「25%に引き上げる」 協定の承認遅れに不満 朝日新聞  
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VY2F6ZVhORm1LbVBGUmY2SGMtWmJFQzZLcUNQUWtlOHJNYzhMYXdsalBlb21ZLVZFTHpyT01JUVUyVnJIMkNaNFk3QlN2TGNJOTVPN2NDRm9neHBPM0RJNTF6eVJuU1E?oc=5
+
+○1月27日 プレスリリース：［ルイ・ヴィトン］「LOUIS VUITTON for UNICEF」パートナーシップ10周年を記念したエクスクルーシブなタイム・オブジェと特注トランクが2026秋冬メンズ・ファッションショーにて発表（PR TIMES） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oSjJpcTlhYXQwVVFjWFBQOUJQb2J6ZVY1SUtHTDJuYTVCQVlsaGxPUDNNNGFMMzc5VnpQbHllOVFRNVNSMS1ZS2lzcFZSYXpaQ2ExcVZ5R0xqRUNweHYxNFdReEpoeEVu?oc=5
 
 【自由民主党】
 ○1月15日　政調、税制調査会　総会
