@@ -1,7 +1,4 @@
 【ニュース】
-○1月28日 マンガアラビアがリヤド国際Book Fairにおいて、出版優秀賞（デジタルプラットフォーム部門）を受賞 朝日新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tWGN4SmphcjMzN0NiaGx1X05qMWE0SGpwaERFT21UVnVKZ3pVMmhodjdmbFFPZXEyMWM5UERJejA5dzQwcHBOZm5LRHFKZFFSaWcydy1mOXVKR28?oc=5
-
 ○1月28日 日米関税合意に基づく対米投融資、第1号は人工ダイヤ・送配電が候補 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9sSWFwMG4zWFBVOUZqUXlDeGxMY2hZSjh0elM5aFh5VGpZZzFGZThxQjNZX0FmajlLVWtQNVNXS3JXNjdBNGhrRm9kcTQ1QkFGRy0yakZoTkNRTzMzVjFvZ1RUdHhjN1pIMlhveQ?oc=5
 
@@ -14,20 +11,14 @@
 ○1月29日 ワールド工業、CFRP由来の炭素繊維リサイクル 日刊工業新聞  
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wV1NDeFl3M25MeFJLN05mOFB2N3NlXzNKWjl1WFdjOHI1ZEtUSnNVZlJDSERHQ09MSWdzTzE1RW5fa2d6SXRzZ0VEcDN1VEFvZmpWTnVyZmFKRUU?oc=5
 
-○1月29日 （ハーフタイム）審判ウェアがユニクロに サッカーＪリーグ 朝日新聞  
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BUlF4WThPeHhiS1Q5aFI3U1pLc0Y1bU1wMC1MRy00UDZXbEFLTGlfWWFQNHBRZGFhcVZTdGtySC1kYlZwZ0xpYktJTjY5Q3NEM2lBS1RfWjJzWjNZ?oc=5
-
 ○1月29日 生産ライン 競争力の源泉（89）エムディー精密 端子ピン 難加工・安定量産 日刊工業新聞  
   https://news.google.com/rss/articles/CBMidEFVX3lxTE1EWFBWaEItSnlvaVZXNFpoNm1KZE9vczBzU2d6QmFSUW9FUFlpLXNzQVcwNVlDdEp0aU1kaGxDVXBCOXdmYU4xRHd4NGd2bUZXXzBhWDUtbEVVUDZVd3JNWUN4RFUyMDlUeWxvQ29mbmNVTVkz?oc=5
-
-○1月29日 1245年創業の老舗飴屋の挑戦！持続可能なまちづくりを目指す五人百姓池商店を応援 投資型クラウドファンディング「Sony Bank GATE」新規ファンド募集（1月27日募集開始） 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kSWV5bzU3ZzFycHVzZGxXV0RzcWlDU0ZDYmFYcFgxeFNtMVRhZFVCVGNxdTM2YlhSazgyMlRKUlg5Tmk1SWpKNWNpVHZveDF3d3c?oc=5
 
 ○1月29日 九州企業の景況感、4四半期ぶりに改善 米関税への懸念後退 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBveUxPTTFFdFk3dzlnQUE2OWxOeWxvRkRJZklSRmZ4YzRacVZmSGlYRzVjdVl0Yl9NVmg5UWtuZzBHX0dkckhnVjFCNExuR0hDcDJFTFkwUkNzeHFRbEkxdjBoci0xSjNkQm5lUw?oc=5
 
 ○1月29日 ガクテンソク・奥田、“400万円現金一括”でトヨタ“高級SUV”購入 『有吉クイズ』で告白＆クレーム→有吉弘行が一蹴 山陽新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTFBIdGpLTHlxblFvcDIyRXZzaVNsMDc1RVhMOEtNbVltWWFmVE5tQkJVMmhaSTBCY0RuODdDWGlzNWFDbVEzcV9rcWdCVG5iNlVLSnh0UndNSXRoV1V6ZFZiWTJqbnZDRTBpckp2YTAtcw?oc=5
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE9kemZGS2RWeDFROTZZTTkwX3NMOURmWTVZZ1pUY0dwLVlabEFpTU1aTHF1ckVxdmxoMGFwbGRhcVBpLVRUNTY3c1g5SkNheXVwLTRINXFoQXp0MDZLYm5lWnNGRlAzQkxweG5JaWsySQ?oc=5
 
 ○1月29日 プレスリリース：［エステー］特許庁長官と知的財産活動に関する意見交換会を実施（PR TIMES） 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qcVJEb2h3TkpLLUlDRmNBNHVWU0VCMXdxZEFZYnRQZDkwd1FkcXptbjd1ckUxSGxvaW8wbTYtclBOdDh4VEw4TlBodmpoZkJjdEFUR04zSEg3WUE2SkNGNW5JdUlBajJF?oc=5
@@ -52,9 +43,6 @@
 
 ○1月29日 中国・習近平氏、スターマー英首相と会談 ウイスキー関税下げを協議 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRVc4X2tTNktuaHBNaHA3VXRtbjZRaWlLXzAxYVVrWXo4N2lQemtrY3hHNHdGbk5scUNRZVFrSF9RRkN6d3pWUDlVay1MaWRVTFRzNnVHOGxBMHlZY2xEMTBpTEJTREUyN1RUVg?oc=5
-
-○1月29日 農産物や食品、関税上昇の恐れ 解散で３月末期限切れ懸念 山陽新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTFBIYzI3Um9yejFYeFVpYUZPcmxrYUJLalV0TWRsWV9nWkJHQW9rbzBQR28zWFJFRGxLV2lDMG9laTJLeG9aWnlaTVhFbjQtNnd6SmxKcFRxN2tfUG9WQUtFRU1ncWN6QVJCU1JGM3FLOA?oc=5
 
 ○1月29日 トランプ氏の関税再引き上げ表明 韓国外相「合意の破棄ではない」 朝日新聞  
   https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ0ljd0N1bmxmMDRsUnAxeWZqcGlYcldyMUlqczNacmpLYXdYdmtpNXZXQVdkX1RuQ2JhbzF5OGtTZDJKd0pGcWJRTUZxLW9WUHh1V0xIZ3RfSTBDaUY0aTR1dngyWFlWZGhnQlk5ZGpBdFBtSjBtWDRJWnFvUEdaTk1lcEZKdW1hSkdOVnVoUQ?oc=5
@@ -83,11 +71,17 @@
 ○1月30日 中国、英国産ウイスキー関税を半減・ビザ免除へ 脱「氷河期」関係 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE05cWdpblZESW1TQ1JJRmd5am1PZTNieV9mU0JrakJIdzM4M2MxWlFrbnJVSkJvVFdZWWkyR2VpMnc2SjNsRFJoQ0xQOW55N1FmTnMwVWF3OXZSLWQ1S1hVQVFXUWRsd3dDQmdaNQ?oc=5
 
+○1月30日 グローバル・ラグジュアリーブランドとともに学ぶファッション 繊研新聞  
+  https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWs4aE9MWlc1QkxiY0NDR0l1QXUwcXpORXRqZ2dYSWNNdUlxUnl6eFlKbDhJNUgyQ29RdkRhWVF6U1Z6SnNFVGU0OE9UbmE5YkxtSkVRUmdOQkhmVjN4eERJUUJvTzlKX0haRW9PZ1VSaUx5VUlOYnIzc2k2MUptQnR4LUZISzR3WFpjOWNVYWlIa1YzLXV2X19RYmVvMW5ERlJQeVNLTFBkSUFQdUE?oc=5
+
 ○1月30日 ネットの利用者惑わす「ダークパターン｣ デザイン専門家が語る対策 朝日新聞  
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoekhfR3B0ckFURFd5SGdnU3IydjZUVVM1R2lUSkw0dmNSTnlRZnQ2eTVHWGJ1d0JvdmdmdzlmcDh2dnF5cGRVd1ZIYzFUQWQxQjVrUE02Y1JPbnNxWjU0eDYweWFLajQ?oc=5
 
 ○1月30日 日本の観光産業を「持続可能」にするには 藤田康人のウェルビーイング解体新書【43】 朝日新聞  
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OTGRCTEEtY0p5T09ybmN2M21lNUlvLXdUUVFUM0Z0elF1R3RyQUhNcDRoYU14V3FOZm45emxVeE0tcUFLOTg0X3ZtV0V5VUhFekdlQzh3?oc=5
+
+○1月30日 ウェルカム・トゥ・無限関税地獄【特派員コラム】 : 社説・コラム ハンギョレ新聞  
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE03bzlrQ3RaRlZONHo1U3M5dlQ0UkJtUTIwWV92cTg4QmVFOERvcEdqb3FQcFAtZHQwNG9neWozRDVaM1VuSFJiX25UVjh1bmR1QWZSX3lVajFmdllx?oc=5
 
 ○1月30日 トランプ米大統領、カナダ製航空機の認証を取り消すと投稿 50％関税の脅し CNN  
   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBva0RpT25SN3liUkpvS0ZiNWstUUh5aV9tQ0JVeTNmWlg0R0M1ZTJ0NnBfMjZVOU43YmhJZUlSdGZwM3phX1hWZ3JOcGFZdWVBNlBmQnFmNA?oc=5
@@ -95,11 +89,17 @@
 ○1月30日 トランプ氏、カナダのボンバルディア機「認証取り消す」 追加関税も 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBjeFBCMHJQZUxpc3hyS3ZLdC1HRUQ5QzIwNXAtU0R5c2otb09JT3I5UUhjLUdGM1BDWUZ6ZXlmdldQSF91cTNxNnNtYUpwZFRFdjkyNW92b1pDYUJNSEtZZkQ1QURld2l1azdQTg?oc=5
 
+○1月30日 《ちょうどいいといいな ファッションビジネスの新たな芽》「YEAH RIGHT!!」 過去と現在をつなげるリメイクという視点 繊研新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE54bzN4Y2p6SExsRk9yazJPVkhjWTNNZjQ2YkZTU051bzZFcFRyLXB0UmJfWUlCeGJwY19xVlJGa1gwSmEwMTYwa2lWdXhlWkxoTkNOM21tbDloeXM?oc=5
+
 ○1月30日 キューバに石油供給なら2次関税の大統領令 トランプ氏、メキシコに露骨な圧力 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9reWE0d1BiTS1WXzkzRUlCd2xPRkZLZV90T3drSTNhSEl0U0Jzb2Z3TjZaVjN3b1pKTldNcndLXzIwZm9Mc0hyMGUwR2tJOVNBWXpiYjNyZVoyX0V6UllfalZmN1ZlZ3REUHVyYw?oc=5
 
 ○1月30日 コンビニスイーツ競争激化 セブン、2028年に売上高倍増狙う 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFByWkpyNnBOaER3Y2VRcTRXdUFPdWJVeHVlT3dsMHRuYU5GTjdFdE1Zb1NpR3JWTk40dVFpWXBSNHZoMERiT2dqbUE4bnNYZFNaYTNEZUh0YU1PVkhwZ21vdTAyUTRONnBz?oc=5
+
+○1月30日 ネオ能登上布、ハンカチで発信 薄く軽く心地よい肌触り 中能登の繊維業者団体｜社会｜石川のニュース 北國新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9taVlEelhkSURkRmhSaE9ma1JxT0VLVG9PTkRHQUdWc1JyU0xycjE3NWJrY0NIU2VuczVPdWM0Slc4UFdwV1A1US1VM0NOSm96TTdfMDNiNA?oc=5
 
 ○1月30日 ユニクロだけど、人と同じはイヤ…高2男子の“ピンク染め”を母が全力サポート「親を頼ってくれるうちは一緒に楽しみたい」 山陽新聞  
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xcjBUREg2OFlFX3RmNEd2WFdjam1iOTBmTlNZN19OSXJkRm1kODloVUJQWUJPTlF4Z1FBWGp3bVVtMmpWRWMtcXNhWkNlam8yWjJ4a3JqdW1nQQ?oc=5
@@ -107,14 +107,20 @@
 ○1月30日 トランプ氏、キューバへの原油供給国に追加関税へ 大統領令に署名 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaQi0tYkxIdlpTVmRrM2tLRnp5bjFuVFlRbHdHZS1qQWJLemJDQVBXZU5wYVhaMzNpd1FNZzBsUWxtLUVfQjRieUxiWDZwYllUYUs4bk9rVlF5VWtvdjdqQkhURUI3S0tv?oc=5
 
+○1月30日 中国、英ウイスキー関税引き下げ 英国の経済効果５年で５３０億円 | | 全国のニュース 佐賀新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qOFozRXM1bHBsalk5bF92OWlnZkgyV0pMcHFCb2NvczY5dk5hbU1wT1ByYnljSjkwS3RpSUtxYjFFQVk0YU96alVjY1NuOTZyaUhOYjJ3?oc=5
+
+○1月30日 ソニーミュージックグループ、エンタメ会社ならではのサステナビリティ活動「楽しさ、親しみやすさを入口に」 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzT0s2NWlweEpERWFtU3JOMW1zVDVKajktR3dqc3pGaTdWWlFVUDljOFIxTFZnckU0N0dWdUR2NGM4SldFVFJkNUZVUlZJeWFCeVE?oc=5
+
+○1月30日 香川県丸亀市が「世界の持続可能な観光地TOP100選」に選出 「大江戸温泉物語 ホテルレオマの森」「NEWレオマワールド」の循環型観光の取り組みが貢献 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNlNXRFVzdjZVU0lQN1RPT2lld19KcmVfQy0wTzlXWEFaeTJwdGR5anFHR2RjM3BnYmZMYTZ4WUJSeWRlT214cWlVVXUtTmxSa1E?oc=5
+
 ○1月30日 中国、英ウイスキー関税引き下げ 英国の経済効果５年で５３０億円 山陽新聞  
   https://news.google.com/rss/articles/CBMib0FVX3lxTE4xYjFGaHIxeGp6V3FSbGVfcXpCNFFDLWVSZjN3Rnk5M0NBMEhPTE5iSDRFbE9FSVVDWXEtd1o1TmpHaTZtc0ltNDVFUmlBYy1uYWF4MFo2azYzNlp0c2JQelB3LTUwTk9FaDgyOUxSdw?oc=5
 
 ○1月30日 日本精工が米国で50億円投資、30年までに 関税影響で生産最適化 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5USzBtMnpweGhWMDdURTFXTmpfdGJiNjhqRjRObDdvMjVMN0x5RHZHbW83bjFtWG01bkM0OG1henRhMUJnMGJnbnNSS2hVRlJFaUhrc3VWcTZ5OGl1TnZ5RnNMLWR3X3FPUXBYLQ?oc=5
-
-○1月30日 2月8日（日）開催！学生が全プロデュース！ 国際トータルファッション専門学校「卒業制作ファッションショー」（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE96eGVHSURFVE02T2w2dTdKQVBWMlVpb2h5SVppRTRzQm5tUi1KNUdEZ2k5NTJIUDY1OExsX0xwYzh3dURVRXFfalJhaDlqc3Y0aENMUTdUWjFaczJxTExxNU9jNnZDWTda?oc=5
 
 ○1月30日 フィリピン、豪州の雑貨店「Anko」が好調 海外ブランドの競争激化 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE83MHZnenZ0S3plT0RPLUVEYzVrS1JUN0NLV3luYm5ZMnFlUF9xWGdHbzZ2RmhDdjdmVXNaUlg2Tk4xSXp4QUpwbHI5US1CVU5lYnBjWEpXR1RQWjRsaGd0cFBCZUR5V0twQXJnUQ?oc=5
@@ -135,7 +141,7 @@
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBSVUhQd2owY1VER2VGdVl2UnRtYkNKVXhCZlluUTJSbE9lbWg2T3l2Sk1QemZIeVp5QnJSRHc0c2dDN1BpUGJXRHdRQ0JQclVVcDJObThOaFFfY01rcGV0UDVDTThjSm95LWp5SA?oc=5
 
 ○1月31日 〈アジア発ヒット〉豪雑貨「Anko」（フィリピン） 海外ブランド、競争激化 日本経済新聞  
-  https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZLdVZCX19KMno5dTFHWnhhektQQTI3bWhFaHBJUENNQ19iM1F5YVhzSEpFa0p5eDU4d3RwcFJFMlFvZVk1VDFfOVV0OFoyRV83VDdxYzVMYWEzZjkzU3hfWWpMd1pZaXNSd3Fjb2Jwc2dROElnNlAzZE5xWlo2Rk1fYWhobFZ0RXBZZl9NMmtaaTUzM2VkWFZkSFVQS0tXSTl2YzNB?oc=5
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE56VV80ZzdMd1FXUmYyTWpJUjg2VjdHSGI4WEpCSmZvOGZFc0dIaXZIOXNjNXA4TUNXdE9NbFRidVlRZFdQLW5XTkxGUGR2cTY1anotbGFqdS1MRlY1T2VUYlBCZTZMQ3ZfUFV3MQ?oc=5
 
 ○1月31日 （書評）『塩政・関税・国家 近代中国の徴税と社会』 岡本隆司〈著〉 朝日新聞  
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE40aEtKaGZxT195RG1UWXI5eHc2NW5DZVhWUjdIZnBCZk1Cb2x2dFpLTTQ1Z2x1Z2JUOERJNGJfSU1qcXFkNld5SzM1WFJiM0NRNEJEcWxtTnlVS1Rt?oc=5
@@ -144,7 +150,10 @@
   https://news.google.com/rss/articles/CBMib0FVX3lxTE53UExGdXBscGExWGpFODdwemVETFgzRHFjZlNHQjlpdmxsbXlnc3kyQUZzMXZqQlBjVlh1dElBWGZudUtmZnU4a1l6UGgyY2NqbzFJZkJCbnQxNnFWcDZWcWtNTUstOW9LM2dtZ1NNMNIBaEFVX3lxTE5yREdtM3UxUVhVYnlLMmRTa1VydkNDQlBST1pScVQxenNTcFNQV2xOV3JBQWhuOVlzTzBGQVFpQmYyd3lGMi1LUVFGNWM0OXVrNkVHM3JWUk16dkRjanVTenN2ZEJvQzFp?oc=5
 
 ○1月31日 【新ＳＴＡＲＴ近く失効】米ロ不信、新合意機運なく 中国にらみ核競争激化も 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kaWZ3ZFl2a3hkZ2dibC1CbHBIVldqMWYwR3ROTmRTanZtbzJvTHJYYzl2NHFScUpzSDZMVkUxYWxnTkNvVmdjdENjN1g3TEJmWWc?oc=5
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fbUZmXzl2eVFCMmFJZnExSG41dkdkamNqVjQ0N0h4NHd4WlRITnZETUhTVnVNaWtnTVRxTDFzM0JaV0VneGY4OTI1NGRXS01RMG9ZQThBaGg5dVl3bG8tWEtQUGtaQQ?oc=5
+
+○1月31日 ユニクロ、英デザイナーの春夏コレクション2・6発売 「都会的な洗練さ」アクセサリーが充実 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KZzhpRlZJaE9RVTZBZUJ5VUtiQy1IYUlvd1JpczFla0trWjJvTHhIRkZFeEIyeEpBSUo3bkFsVkFRbDFjTHc5NW0wUldtZ0xGeEE?oc=5
 
 ○1月31日 ちゅうぎんサステナビリティ・リンク・ローン実行（有限会社トミタ運輸機工） 山陽新聞  
   https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2hnc0xiVHpYM3hPaEd0dWt0clNzNklvNEpPSDk4eDBsemJPUHpBX0F3Nm9Bekhvb3pfaDZsZTh6dWhZekRSSkdJOGlpUHBaejM2UVYyOU0zTXZkbGpSWXBQcHh0NlJTa2F2dlM5dHFjbnJsSjdZV1hpaE1TOS00eE53clZXczNkSFE?oc=5
@@ -158,8 +167,11 @@
 ○1月31日 EcoVadis社のサステナビリティ評価で「ゴールド」メダルを獲得 山陽新聞  
   https://news.google.com/rss/articles/CBMib0FVX3lxTFByd2xLVDZSc2wwVzhJQTdPd215TjlvRW1NYmtZQkhTSk9KUHZzSjBlTDQ2ekk4b29KRlhYSmdFSFhLOE1KRGhhZVdJSHFpUUlmd2lwLXdCcS1mcE5oX19YU1FBWVlIZ2lRMUZKS3hJQQ?oc=5
 
-○2月1日 FRUITS ZIPPER櫻井優衣、普段見せない“ハンサム”な表情 初のファッション誌単独表紙に緊張も「自分でも新鮮でした」 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tamE4VjcwY3NxdEduWUZkSUdiRXJUOVlFWjJfRVd0WVFJOVE1UkRLNWl1T3V4NEdCVzhEMndqN21zMEdyNVp2YWtZU1pHWUhyX3c?oc=5
+○2月1日 「中が薄着でも暖かい」【ユニクロ】のダウン＆中綿ジャケットに注目「着心地が軽い」「見た目カッコいい」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jTkdNNDl5VEdfTkV3OC1oY2tmUVFvd1pjOUt1cUNscFFpLWxtVUo0VndDSlpFekVPTktXNFRPQWZfMm1BR1ZMcjN2bTFacDQ1cXl0eTI3RzJfbi1pY081SFE5TVHSAWRBVV95cUxNY05HTTQ5eVRHX05FdzgtaGNrZlFRb3daYzlLdXFDbHBRaS1sbVVKNFZ3Q0paRXpFT05LVzRUT0FmXzJtQUdWTHIzdm0xWnA0NXF5dHkyN0cyX24taWNPNUhROU1R?oc=5
+
+○2月1日 着物リメーク 洋服多彩 玉野「くに工房」ファッションショー 山陽新聞  
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxOU0xpTHgtVlhDQUlfOENTRjJkQ0toQU1IaXpaakdqejlacEhRNlFoaXVEMjZZLXJOZmZlYmNhVkFyaE1xZnFMa2pzanU2dUxIQWsyRDNNcUNQQ1F5b0Z1UHgtNjlFaGM4b0dkZ05OenZGZUloekNfaVZOdUkxM015cy1fV1pOU00?oc=5
 
 【自由民主党】
 ○1月21日　政調、知的財産戦略調査会　コンテンツ戦略小委員会
