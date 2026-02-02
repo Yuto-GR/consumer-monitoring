@@ -1,30 +1,6 @@
 【ニュース】
-○1月29日 ガクテンソク・奥田、“400万円現金一括”でトヨタ“高級SUV”購入 『有吉クイズ』で告白＆クレーム→有吉弘行が一蹴 山陽新聞  
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE9kemZGS2RWeDFROTZZTTkwX3NMOURmWTVZZ1pUY0dwLVlabEFpTU1aTHF1ckVxdmxoMGFwbGRhcVBpLVRUNTY3c1g5SkNheXVwLTRINXFoQXp0MDZLYm5lWnNGRlAzQkxweG5JaWsySQ?oc=5
-
-○1月29日 プレスリリース：［エステー］特許庁長官と知的財産活動に関する意見交換会を実施（PR TIMES） 毎日新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qcVJEb2h3TkpLLUlDRmNBNHVWU0VCMXdxZEFZYnRQZDkwd1FkcXptbjd1ckUxSGxvaW8wbTYtclBOdDh4VEw4TlBodmpoZkJjdEFUR04zSEg3WUE2SkNGNW5JdUlBajJF?oc=5
-
-○1月29日 トヨタ、6年連続の世界販売首位 トランプ関税でも米国でHV好調 朝日新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BcDA0TWpPZzctY2dNci10cmRoMjUzT1YzMmhKZUV6Ql83TDdDMFZEVjJKeE1MNkxsUGxaRlp3UVlPTkNQMGJGenhtX2lqNmtGVEowd0dFMkdEbjUtX2FRWWdEOEd0cjA?oc=5
-
-○1月29日 ユニクロ「UT」新作、ディズニー・ピクサー・SW・マーベルが大集合 『MAGIC FOR ALL ICONS』発売へ 山陽新聞  
-  https://news.google.com/rss/articles/CBMiXEFVX3lxTE81U0hlNGJ5LV8tNjZtcjZOYVhIZjNxeFEzMjZ0eE9VX3Z0aUFaWUp2c0g0c2RYZVBXMHhuV203d29KVEdFU2tORXFteGk1UEpoUmI5TUlWSmlyR0s0?oc=5
-
-○1月29日 繊維業界、再編で停滞打破 帝人・東レ、技術革新含め中国勢に対抗 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5jdE14OVlQbGtuWDNOR2VkeHY2NzdJUUN3Vi1ZMTQtSjhBblJvQ0UzcC1heDM1T0pvMVlnbE9EUHI3a2dTQk5QcmJ5TVVPcGJ1MDVocWFzWEVyNHVYVk92Q2RNamJEZXp6N1Q3eg?oc=5
-
-○1月29日 建機、人手不足と米関税が二重苦 25年出荷額小幅減も先行き厳しく 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBfbzk3UFVQY1R6eVNKVURVdmx2RXVCdFFSeFU4ZUJlRTVsUDlyekE3LTNZbVdoWFpGeGxEYVlJWmNFczBSTGlKUlFEWk9SZllwVkRIekpRU1NyN2RKM29rR1N4MC0xeW9WMWRxMA?oc=5
-
 ○1月29日 中国・習近平氏、スターマー英首相と会談 ウイスキー関税下げを協議 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRVc4X2tTNktuaHBNaHA3VXRtbjZRaWlLXzAxYVVrWXo4N2lQemtrY3hHNHdGbk5scUNRZVFrSF9RRkN6d3pWUDlVay1MaWRVTFRzNnVHOGxBMHlZY2xEMTBpTEJTREUyN1RUVg?oc=5
-
-○1月29日 トランプ氏の関税再引き上げ表明 韓国外相「合意の破棄ではない」 朝日新聞  
-  https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ0ljd0N1bmxmMDRsUnAxeWZqcGlYcldyMUlqczNacmpLYXdYdmtpNXZXQVdkX1RuQ2JhbzF5OGtTZDJKd0pGcWJRTUZxLW9WUHh1V0xIZ3RfSTBDaUY0aTR1dngyWFlWZGhnQlk5ZGpBdFBtSjBtWDRJWnFvUEdaTk1lcEZKdW1hSkdOVnVoUQ?oc=5
-
-○1月30日 米製薬大手、200%関税回避 国内値下げ、日本など海外は値上げ 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5BNnRBR3VfNWxFU0NDSzNEUWQtNlNWc21GNzNJdW4zdkN1OXNjWGlFOUVnZmMtaU1VbUF3NmdtalRyVHFaN3d5RURBSXM5dHJFYnRwOWp1bmVUUUNHRkpNSGllYzlhS19MNmVEaw?oc=5
 
 ○1月30日 ミャンマー国産ポテチ280円、高値を謳歌？ 輸入制限で「競争力」 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5UWGFMcnhnWGlrQlhGbnM4SzF2M0hpM2RiNkNHSUF6SjFOamtIY1YwdWN1MWhPZnhFSDUxenJPNUV3M0lkUUxuWkpJMXhhbEt0RXBCRUloeS1nbVE5UWcxNG5aQ0UyYTltbk44TQ?oc=5
@@ -34,9 +10,6 @@
 
 ○1月30日 丸紅､水素吸蔵合金で初の国際輸送 関税処理の調整に1年 日本経済新聞  
   https://news.google.com/rss/articles/CBMid0FVX3lxTFBRRldteW9wWkp6RHpkNFVqd05ISzd2b1dSOW9SQ3F0OG1PU0NUQzZta3padnl1Ry1xUTdGYmttUkZFZUFhaGVlRWtlNmZsbXpQcU13M05Oc1ZGRjUxMUpUUGNlQmFWd29UcVlkUTdKWVFrNWZtRFQ4?oc=5
-
-○1月30日 中西孝樹が見たCES NVIDIAが導く自動運転スケール競争 日本経済新聞  
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1pNDIzMUNISkswN0Y3Mm90UDJ4VHFhR2ZGdC04aW5UaW9vU09nM2EtTlpNUnFYbjB2SXFQOGRkaUlwN09LMndQSFJSaW0zVy1ZWVFMTE1iWHAtTEJTakhOOEhQYjhBdGtLa1lpWlZWY1NOX1Fyc2N0YkpON3BjdTQ?oc=5
 
 ○1月30日 伊藤忠繊維貿易中国 26年秋冬新作発表会を上海で開催 繊研新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ldTdKUHplMEF5WUpIM2hQUlNocHZCdWUxQWw4MGloN2JIMm0xS0o1dHhEbnY5MFVvSkVPMGRpcmJ0bV92VXhseWc0c1l6VUZjSlE?oc=5
@@ -59,10 +32,7 @@
 ○1月30日 トランプ氏、カナダのボンバルディア機「認証取り消す」 追加関税も 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBjeFBCMHJQZUxpc3hyS3ZLdC1HRUQ5QzIwNXAtU0R5c2otb09JT3I5UUhjLUdGM1BDWUZ6ZXlmdldQSF91cTNxNnNtYUpwZFRFdjkyNW92b1pDYUJNSEtZZkQ1QURld2l1azdQTg?oc=5
 
-○1月30日 《ちょうどいいといいな ファッションビジネスの新たな芽》「YEAH RIGHT!!」 過去と現在をつなげるリメイクという視点 繊研新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE54bzN4Y2p6SExsRk9yazJPVkhjWTNNZjQ2YkZTU051bzZFcFRyLXB0UmJfWUlCeGJwY19xVlJGa1gwSmEwMTYwa2lWdXhlWkxoTkNOM21tbDloeXM?oc=5
-
-○1月30日 キューバに石油供給なら2次関税の大統領令 トランプ氏、メキシコに露骨な圧力 日本経済新聞  
+○1月30日 キューバへの石油供給国に関税 トランプ氏、メキシコに露骨な圧力 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE9reWE0d1BiTS1WXzkzRUlCd2xPRkZLZV90T3drSTNhSEl0U0Jzb2Z3TjZaVjN3b1pKTldNcndLXzIwZm9Mc0hyMGUwR2tJOVNBWXpiYjNyZVoyX0V6UllfalZmN1ZlZ3REUHVyYw?oc=5
 
 ○1月30日 コンビニスイーツ競争激化 セブン、2028年に売上高倍増狙う 毎日新聞  
@@ -71,17 +41,11 @@
 ○1月30日 ネオ能登上布、ハンカチで発信 薄く軽く心地よい肌触り 中能登の繊維業者団体｜社会｜石川のニュース 北國新聞  
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE9taVlEelhkSURkRmhSaE9ma1JxT0VLVG9PTkRHQUdWc1JyU0xycjE3NWJrY0NIU2VuczVPdWM0Slc4UFdwV1A1US1VM0NOSm96TTdfMDNiNA?oc=5
 
-○1月30日 ユニクロだけど、人と同じはイヤ…高2男子の“ピンク染め”を母が全力サポート「親を頼ってくれるうちは一緒に楽しみたい」 山陽新聞  
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xcjBUREg2OFlFX3RmNEd2WFdjam1iOTBmTlNZN19OSXJkRm1kODloVUJQWUJPTlF4Z1FBWGp3bVVtMmpWRWMtcXNhWkNlam8yWjJ4a3JqdW1nQQ?oc=5
-
 ○1月30日 トランプ氏、キューバへの原油供給国に追加関税へ 大統領令に署名 毎日新聞  
   https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaQi0tYkxIdlpTVmRrM2tLRnp5bjFuVFlRbHdHZS1qQWJLemJDQVBXZU5wYVhaMzNpd1FNZzBsUWxtLUVfQjRieUxiWDZwYllUYUs4bk9rVlF5VWtvdjdqQkhURUI3S0tv?oc=5
 
 ○1月30日 ソニーミュージックグループ、エンタメ会社ならではのサステナビリティ活動「楽しさ、親しみやすさを入口に」 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzT0s2NWlweEpERWFtU3JOMW1zVDVKajktR3dqc3pGaTdWWlFVUDljOFIxTFZnckU0N0dWdUR2NGM4SldFVFJkNUZVUlZJeWFCeVE?oc=5
-
-○1月30日 香川県丸亀市が「世界の持続可能な観光地TOP100選」に選出 「大江戸温泉物語 ホテルレオマの森」「NEWレオマワールド」の循環型観光の取り組みが貢献 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNlNXRFVzdjZVU0lQN1RPT2lld19KcmVfQy0wTzlXWEFaeTJwdGR5anFHR2RjM3BnYmZMYTZ4WUJSeWRlT214cWlVVXUtTmxSa1E?oc=5
 
 ○1月30日 日本精工が米国で50億円投資、30年までに 関税影響で生産最適化 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5USzBtMnpweGhWMDdURTFXTmpfdGJiNjhqRjRObDdvMjVMN0x5RHZHbW83bjFtWG01bkM0OG1henRhMUJnMGJnbnNSS2hVRlJFaUhrc3VWcTZ5OGl1TnZ5RnNMLWR3X3FPUXBYLQ?oc=5
@@ -106,6 +70,9 @@
 
 ○1月31日 〈アジア発ヒット〉豪雑貨「Anko」（フィリピン） 海外ブランド、競争激化 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE56VV80ZzdMd1FXUmYyTWpJUjg2VjdHSGI4WEpCSmZvOGZFc0dIaXZIOXNjNXA4TUNXdE9NbFRidVlRZFdQLW5XTkxGUGR2cTY1anotbGFqdS1MRlY1T2VUYlBCZTZMQ3ZfUFV3MQ?oc=5
+
+○1月31日 （書評）『塩政・関税・国家 近代中国の徴税と社会』 岡本隆司〈著〉 朝日新聞  
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE40aEtKaGZxT195RG1UWXI5eHc2NW5DZVhWUjdIZnBCZk1Cb2x2dFpLTTQ1Z2x1Z2JUOERJNGJfSU1qcXFkNld5SzM1WFJiM0NRNEJEcWxtTnlVS1Rt?oc=5
 
 ○1月31日 【ユニクロ】「ミニスクエアポーチ」が500円に値下げ販売中　仕分け用にも使えて洗濯もできる - ITmedia Mobile ITmedia  
   https://news.google.com/rss/articles/CBMib0FVX3lxTE53UExGdXBscGExWGpFODdwemVETFgzRHFjZlNHQjlpdmxsbXlnc3kyQUZzMXZqQlBjVlh1dElBWGZudUtmZnU4a1l6UGgyY2NqbzFJZkJCbnQxNnFWcDZWcWtNTUstOW9LM2dtZ1NNMNIBaEFVX3lxTE5yREdtM3UxUVhVYnlLMmRTa1VydkNDQlBST1pScVQxenNTcFNQV2xOV3JBQWhuOVlzTzBGQVFpQmYyd3lGMi1LUVFGNWM0OXVrNkVHM3JWUk16dkRjanVTenN2ZEJvQzFp?oc=5
@@ -143,8 +110,8 @@
 ○2月1日 着物リメーク 洋服多彩 玉野「くに工房」ファッションショー 山陽新聞  
   https://news.google.com/rss/articles/CBMihwFBVV95cUxOU0xpTHgtVlhDQUlfOENTRjJkQ0toQU1IaXpaakdqejlacEhRNlFoaXVEMjZZLXJOZmZlYmNhVkFyaE1xZnFMa2pzanU2dUxIQWsyRDNNcUNQQ1F5b0Z1UHgtNjlFaGM4b0dkZ05OenZGZUloekNfaVZOdUkxM015cy1fV1pOU00?oc=5
 
-○2月1日 奄美市で大島紬ファッションショー 奄美新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KeXNDYkw4S3pSZDVlNTlpUS1tck1HUmtnX2ZlYUNjSFVDOFVyaTV3OUZvbmNvdFUzWVBIQjRVLVF6alNjc3puUDRlbmVfWUpNSjZTQXhEVQ?oc=5
+○2月1日 米、韓国に対する関税引き上げ秒読みへ…韓国当局長官「撤回の約束は受けられず」 : 経済 ハンギョレ新聞  
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE83SVhydDQ1ZzdydzduUzl6NmNxdkZrY1BfLXYzSFVLTE1WTGQtbm9fNGE4ejNhVV9XWm12UFVpUW1xeklLb1hBZlphcVd3enhrWTUtbmdSc2RFQ19U?oc=5
 
 ○2月2日 ユニクロ勤務歴17年のスタッフ、“ヒートテックの裏ワザ”を公開 汗冷え解決→5300以上のいいね！ 山陽新聞  
   https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMDlzRmNSdW9sbWdrNlpfVkdTS3BGRXFhU2FCZmhOVXN0M01FU19keVB1ZFJIUlhHV0lXcFV5SExxSjMxanZvNlBpTWFRbEZGak1FcjRTVXEzYVhoZkt1V041NHJHM0ZsaEVYOXM2ZXI3d0NnZGlidlpRSTdsSUFQd2tERjlGUlJENkFmUURpQ2VnSGxvc2tWcTMzT3VCNWNVbXkwUFNlc3EwakhhQ3RvTXRCMVcwajJtT3FWZkFkZU1RSEdSRnF0UnJ0a01UOUtiZFpDRjZjWmUteVdEcEl5cXJ4SUpFRkttZXl0R2JiMWVhbHpOM19wTTQ2WQ?oc=5
@@ -155,6 +122,15 @@
 ○2月2日 ４６歳、競争の始まり プロ野球キャンプ・ヤクルト 朝日新聞  
   https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QUWdWX0owNUdfVEhoNGRTVF84RUZBb0xzejZoTW8yRGR6Q0NScDBhR3Znd1JGM1hpb0d6NEJjSmhoYkRtU01DYjJhMlRFdDNEdl96ZGVpM3N1WWpT?oc=5
 
+○2月2日 「自衛の投資社会」変質する論戦 個々が資産形成迫られ、「減税競争」に喝采 衆院選 朝日新聞  
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KTEExbmtBRS1qZXp2UkhpMjhuVnlqZUVUaDBFWmMyb0hSejZydTBxbmVCVV9Yd0QwZE9weEhLSW83eHhiUU1RNjNhU3NzdFBZVGxYbndZam5WQU94?oc=5
+
+○2月2日 ANA、30年度めど国際旅客事業1.3倍 成田拡張で競争力強化 日刊工業新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GZmZqRFpKNHBYTlAxWDAyQXRaU19vUlNLTGtLR1dkTldjLVBBWnNVWWdvYzZjMzdjY0RCUXZGbW5zMEJ6OXVPYWNXbzZYMnh0SElrd2piLXBuTXc?oc=5
+
+○2月2日 ユニクロ「UT」新作、ディズニー・ピクサー・SW・マーベルが大集合 『MAGIC FOR ALL ICONS』発売へ 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE92TlN6WE1zUE5ENkZjVUV5bFFJYWE1YUpIeWxXVlNEei0tNlJwVWF0YWpOR0lLVlhPZk16QzNEMkxEbnNOek9kZExPXzVXa0dhMXc?oc=5
+
 ○2月2日 世界に400店のファストファッション 中国発「アーバンレヴィヴォ」がイオンレイクタウンに日本1 号店 繊研新聞  
   https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWX3c5U2t5VXBNLWI0SGpiOEFaejRaekxEYlZPbVVncnJWRzRsZEdRRGp0X0JtNF80d0l4al91Ul9JdzZfbF9PcmgxWVpscTM2ZWpnQzVnZXQ?oc=5
 
@@ -164,8 +140,29 @@
 ○2月2日 備前市 新たな地域公共交通計画素案 持続可能な運行体制に 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjNEtFVUttMzRXVnY5WXd0OEFiM1ZkcEdMT05tdDRrQnV5VzVESW1CYXljblN1aGFXM1gwaGVYTzFxMVlPMHJXYkl1bEIzT2JoUVE?oc=5
 
-○2月2日 米国発の関税、不確実性再び高まる…「長期化すれば韓国内の産業構造に変化も」 : 経済 ハンギョレ新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2TXBWX3J3MHlnY0tNaVNpeFJ1VVVFSzNLMGFLX3JBQkI2bm16Sk15ajhVX0xseG5KNTN0THY3U2Z2Y2VWN244b2xOeHh6VURGeUdaUXBPd25PRFU?oc=5
+○2月2日 ビットコイン価格急落、米関税ショック以来の水準 金相場大幅安も重荷 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9kTEFVOXRNcC1JTzZndkpRYXA1QlkxN1JFMUpFTDg2YmRaSGJiVFIwWi1oMDlFb0sxRnBNdG5pSVJlNlZzTWdMc1FGNVAxVkdkQTdTZ09ibVNlRUVpZjdpUDdUbW1nWUJSNlZmeA?oc=5
+
+○2月2日 《注目のリヤドでファッションウィーク①》サウジの経済改革、モードの世界にも波及 繊研新聞  
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WZVBiWmhHQlFWcE9XQXhMb2xxVmhoSjBqTzF2eEJVSkFwZjZnWUd0SHdMajBhQm1oZ1JicGpFa0IzNW9sU21icGQ2WU1sUQ?oc=5
+
+○2月2日 食物繊維とたんぱく質を強化した「ふわとろ和風ボロネーゼ」 松戸経済新聞  
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IMlBtM0NCOVNpaXl6UVVEVUkwa2NFNWFvbGtNaEpJa3BRSVQ5V203MDdRR3d4ajRhMUIzRDUxbGFnVkphTEZzZTVZeHA1SThtUTNPaXVn?oc=5
+
+○2月2日 ユニクロ、K-POPグループBABYMONSTERとコラボした「K-POPグループBABYMONSTER UT」を発売 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcGd1YlQzNnBQd0Z5a3dwVjl3T1dNNlpPd1BuQUNQNk5Ud0lpZlBiQkpNalZvZmtLN1hxYV8yNkpTLXlZN1FVOUVBV05HMExRY2w5QnpHNlllZHh5NldVeTB1bW9td1RYa2x3dw?oc=5
+
+○2月2日 【1/28より】【最大500万円】「鳥取県米国関税対策支援補助金」の申請サポートを開始します！【助成金なう】 山陽新聞  
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE90ekRFcGNYWWVvdGJFZG4xdTgyXzNwb195RVN2UEdlZDUwd1V3VUtRWi1Mdmt1M0k3WmVMSXNuSFQxMHg1ZEdlSnNlUE9MSUx5NmJoLWdTZmxGV1U?oc=5
+
+○2月2日 「京都工芸繊維大学 × マクセル プロジェクトデザイン展」をクセスタにて開催（PR TIMES） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FWEI3T3M1d0tvTzhLcmRkOW9OMnZacEpNTkpwdnhfR3lMc1dVUVBhN0JmN01sNEtVbWVnN0ZnQ2pWSzhqalRVLXIxdlNqbC1iQWU1NVJ5TEVDZmE2OUlyXy1VRkJxMWZ1?oc=5
+
+○2月2日 《大阪文化服装学院、校名変更を機に世界に負けない学校へ㊤》洋裁学校から一流のファッション専門に 繊研新聞  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE42Zm9GLV9NSUk2Tm0tU2xVcWVjbGU3NHNFVEF6UHlzWXdweHdDMHQwM3hLNE1pbERmdWZRWUthT0xuSTE2VWpYamJ2b3M2M3d6WTVBVTl1cw?oc=5
+
+○2月2日 大人が自分用「キッズ」ダウン ユニクロ、タイトに着る需要取り込む 日本経済新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9tWjhsT014dGdpTlQ0bFhELWprNzJ0M0lDajBwYmMyZVBoR3c3UU5XTWtRVlNTQko1NXF3aXNqcXcxcW50ZWx2UF9INEV1X29VVFdQdy1vak04Y1JGcVRvTWNPb3gwaE5rRjFiZw?oc=5
 
 【自由民主党】
 ○1月21日　政調、知的財産戦略調査会　コンテンツ戦略小委員会
