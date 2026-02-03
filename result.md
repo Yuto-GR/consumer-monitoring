@@ -1,21 +1,12 @@
 【ニュース】
-○1月30日 トランプ米大統領、カナダ製航空機の認証を取り消すと投稿 50％関税の脅し CNN  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBva0RpT25SN3liUkpvS0ZiNWstUUh5aV9tQ0JVeTNmWlg0R0M1ZTJ0NnBfMjZVOU43YmhJZUlSdGZwM3phX1hWZ3JOcGFZdWVBNlBmQnFmNA?oc=5
+○1月30日 「うちの子がなんでレギュラーじゃないの」親のクレームに疲弊する教師たち 体調崩して退職、なり手不足も…教育委員会の「カスハラ」認定に効果はあるか 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HZ0VFYWJpSHBIc1dzSGtET1Bhc2hrS0JnOEsteHJPdDJDc1JhSklNNmdyN0RUMXR0MWgycWNpZXZ5akM2WTBiWVFzVFhDdExqSlE?oc=5
 
-○1月30日 トランプ氏、カナダのボンバルディア機「認証取り消す」 追加関税も 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBjeFBCMHJQZUxpc3hyS3ZLdC1HRUQ5QzIwNXAtU0R5c2otb09JT3I5UUhjLUdGM1BDWUZ6ZXlmdldQSF91cTNxNnNtYUpwZFRFdjkyNW92b1pDYUJNSEtZZkQ1QURld2l1azdQTg?oc=5
+○1月30日 「デブ」と客からクレームを受けた女性は、糖尿病の薬に手を出した 後を絶たない乱用、背景に日本社会の「異常な価値観」 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RY1RjM0JCalNIcmo5ZlN3ZFFKd2xwUEZzbENXLUw2UHk4WHFnSVNNQUVsZ0lhWEUyZmR3R090cl9WTWFQZU5kN2Vsb19sUTU4MFE?oc=5
 
-○1月30日 キューバへの石油供給国に関税 トランプ氏、メキシコに露骨な圧力 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9reWE0d1BiTS1WXzkzRUlCd2xPRkZLZV90T3drSTNhSEl0U0Jzb2Z3TjZaVjN3b1pKTldNcndLXzIwZm9Mc0hyMGUwR2tJOVNBWXpiYjNyZVoyX0V6UllfalZmN1ZlZ3REUHVyYw?oc=5
-
-○1月30日 株式会社イハラによる「サステナビリティ経営方針」策定のお知らせ 山陽新聞  
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxNV0Z5a2tkbUJKNUc3RmJzOUtsbzAxM0ZOa1BQNERjYmhNaU0yRUdobDlBVEdfY1JzdDEtX0sxNzNINWFUeTkyRUF6SUZOaG1HVWlZc1hHX0ltZlNlaUtnWDBjRk1lTE5yZlI2NmVLSjdKaGxxS2tEUjdZbGR5dzJ3aDNUTzR4Qm80cXlTM2xn?oc=5
-
-○1月30日 ネオ能登上布、ハンカチで発信 薄く軽く心地よい肌触り 中能登の繊維業者団体｜社会｜石川のニュース 北國新聞  
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9taVlEelhkSURkRmhSaE9ma1JxT0VLVG9PTkRHQUdWc1JyU0xycjE3NWJrY0NIU2VuczVPdWM0Slc4UFdwV1A1US1VM0NOSm96TTdfMDNiNA?oc=5
-
-○1月30日 フィリピン、豪州の雑貨店「Anko」が好調 海外ブランドの競争激化 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE83MHZnenZ0S3plT0RPLUVEYzVrS1JUN0NLV3luYm5ZMnFlUF9xWGdHbzZ2RmhDdjdmVXNaUlg2Tk4xSXp4QUpwbHI5US1CVU5lYnBjWEpXR1RQWjRsaGd0cFBCZUR5V0twQXJnUQ?oc=5
+○1月30日 ソニーミュージックグループ、エンタメ会社ならではのサステナビリティ活動「楽しさ、親しみやすさを入口に」 山陽新聞  
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzT0s2NWlweEpERWFtU3JOMW1zVDVKajktR3dqc3pGaTdWWlFVUDljOFIxTFZnckU0N0dWdUR2NGM4SldFVFJkNUZVUlZJeWFCeVE?oc=5
 
 ○1月30日 Temu、日本で製品安全の対応強化 政府取り組みに参加 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBIU2M5S1pKTDNDN0M2QndILXBGU184bTlVNFFudERWZ1JCTzRXMElIY0I5bVctQVQtem1zV1BSaXpEaGM5Mzdtc1F0WkdXVjhsY0ljYVlRQU5sRzdtQnBWYmhBbWZSZ3BpaHNUTQ?oc=5
@@ -26,14 +17,11 @@
 ○1月30日 小野田経済安保相、WIPO事務局長と面会「AI･知的財産の課題議論を」 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1Wa2tzWkhoNzM4MlZQSmcwR0REVkVHRmZhcjY0Z09HNU1tbDRmajdzTVd3MGxNVWlpeERoOTF0Snp2bTlQcFVCUEFIWk5hSV8yYXQ5RnN5ZVhFcVhVSkRMTU9YSHNVYWJEMWoyeA?oc=5
 
-○1月31日 〈アジア発ヒット〉豪雑貨「Anko」（フィリピン） 海外ブランド、競争激化 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE56VV80ZzdMd1FXUmYyTWpJUjg2VjdHSGI4WEpCSmZvOGZFc0dIaXZIOXNjNXA4TUNXdE9NbFRidVlRZFdQLW5XTkxGUGR2cTY1anotbGFqdS1MRlY1T2VUYlBCZTZMQ3ZfUFV3MQ?oc=5
-
 ○1月31日 【ユニクロ】「ミニスクエアポーチ」が500円に値下げ販売中　仕分け用にも使えて洗濯もできる - ITmedia Mobile ITmedia  
   https://news.google.com/rss/articles/CBMib0FVX3lxTE53UExGdXBscGExWGpFODdwemVETFgzRHFjZlNHQjlpdmxsbXlnc3kyQUZzMXZqQlBjVlh1dElBWGZudUtmZnU4a1l6UGgyY2NqbzFJZkJCbnQxNnFWcDZWcWtNTUstOW9LM2dtZ1NNMNIBaEFVX3lxTE5yREdtM3UxUVhVYnlLMmRTa1VydkNDQlBST1pScVQxenNTcFNQV2xOV3JBQWhuOVlzTzBGQVFpQmYyd3lGMi1LUVFGNWM0OXVrNkVHM3JWUk16dkRjanVTenN2ZEJvQzFp?oc=5
 
-○1月31日 ユニクロ、女性スタッフが着こなす“冬のレイヤード”スタイル8選を紹介「かわいい」「真似したい」 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yRmZYUmhlNGpIUFBmWUpTVF9vc1hmajNkUkpoV3pXOTVPS3dNR0h1OXp4RDFXZktQd1FCLW50RTlRM2dZOWIzY1d1LTBXT0d5OUE?oc=5
+○1月31日 ユニクロ勤務歴17年のスタッフ、“ヒートテックの裏ワザ”を公開 汗冷え解決→5300以上のいいね！ 山形新聞  
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yRF9iWVhhWVBQb2w1eGIwclQzWVB0bm1tRmxKVTJpYVpLZ3RiRU1IUktYdU9ZOUdCVG9DMG9oenItc1M2ZFpoSUZkZUswWlNPUHpRZWUxdzZWS204Wnoya3BwY2R5dw?oc=5
 
 ○1月31日 ちゅうぎんサステナビリティ・リンク・ローン実行（有限会社トミタ運輸機工） 山陽新聞  
   https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2hnc0xiVHpYM3hPaEd0dWt0clNzNklvNEpPSDk4eDBsemJPUHpBX0F3Nm9Bekhvb3pfaDZsZTh6dWhZekRSSkdJOGlpUHBaejM2UVYyOU0zTXZkbGpSWXBQcHh0NlJTa2F2dlM5dHFjbnJsSjdZV1hpaE1TOS00eE53clZXczNkSFE?oc=5
@@ -47,14 +35,11 @@
 ○1月31日 「生活＝ワイド」各地の繊維産地の価値発信 愛媛新聞  
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zTzBuYjVNS1FqbFZveHpKX1JZTGhZb1lEczZGbWwzY2xCZWhZQnh0TEQ1QkFDSC1kYVA1bS1qS2dONVNGN1dWRjRqeHp1QVR0cV9YSjhRY3J3X3lvWmY3bC1VQQ?oc=5
 
-○1月31日 「視点違う仲間で競争者」 北川進さん、共同受賞者について 山陽新聞  
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lS1BwWGtDSHZpUnRXMFV3MnBEMTlTQVV0RkxrbGs3SF9tWHAtbWV2UUhNSjY4N3dkYWNTVTVZR05PMWVhbEJOS1Q0R2M1ZXBtNFE?oc=5
-
-○2月1日 「中が薄着でも暖かい」【ユニクロ】のダウン＆中綿ジャケットに注目「着心地が軽い」「見た目カッコいい」（1/2 ページ） - Fav-Log by ITmedia ITmedia  
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE9OeTY5dXU5bTFKdi02Z1lWd0RNcUhUZEVCaW45azM1Z3loWGl2RDBiQW5md3RJUDVFZDRyNzFDT3lWTmRDdWZYQTJGcnZTNGx3c0xlZDVPWU9FRG05UWpRd3lOQ0pncF9ubTlF0gFkQVVfeXFMTWNOR000OXlUR19ORXc4LWhja2ZRUW93WmM5S3VxQ2xwUWktbG1VSjRWd0NKWkV6RU9OS1c0VE9BZl8ybUFHVkxyM3ZtMVpwNDVxeXR5MjdHMl9uLWljTzVIUTlNUQ?oc=5
-
 ○2月1日 78歳・柏木由紀子、お気に入りの『ユニクロ』カーディガン合わせた私服の着こなしに反響「ブラウンコーデ素敵ですね」「暖かそう」 山陽新聞  
   https://news.google.com/rss/articles/CBMihgFBVV95cUxOMkt1V1RGaml0TnZFWER6SWxRNjBQVUk3ZVlwRDFlX1hSQkRNb0gtV2Y2aE9JQWZVdFJjZDJXa2g2a0xDSk5UbkpRb1VaZmg4YzlNR09aZFNCcWZndjdRY1owVGkyVVdnM1FmMGFZbGJBQl8zMGcyblNINU1pdnRlRUppZlRwdw?oc=5
+
+○2月1日 ユニクロ、英デザイナーの春夏コレクション2・6発売 「都会的な洗練さ」アクセサリーが充実 山陽新聞  
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTkE3U2xJc3FfZW50b0I0TGlENjlWVkZXTDVBcGQ3aTBSZ1g3YmtWUHRpMEdJUkZSYmNJYko2SEM0LVVINEVCUXpCbWRtalNqVi1udjFfSUlXZzhwRUE4YW1TVnJZU242NUlkbjBn?oc=5
 
 ○2月2日 インド、インフラ投資で成長底上げ 26年度予算案でトランプ関税に対抗 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE8yNjVzZk15UGExS3JUQzhTX25RbGlRb3dPdTd1NllGN1FwekMwc09PWWFFVEIzQzZBUl82ZkU2WTdNN1ZSajgwT3NGc0owTS1sSGZMaUZkc205WFpvN3p5ckRpMFNHanJJRlpncQ?oc=5
@@ -80,12 +65,6 @@
 ○2月2日 備前市 新たな地域公共交通計画素案 持続可能な運行体制に 山陽新聞  
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjNEtFVUttMzRXVnY5WXd0OEFiM1ZkcEdMT05tdDRrQnV5VzVESW1CYXljblN1aGFXM1gwaGVYTzFxMVlPMHJXYkl1bEIzT2JoUVE?oc=5
 
-○2月2日 ビットコイン価格急落、米関税ショック以来の水準 金相場大幅安も重荷 日本経済新聞  
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9kTEFVOXRNcC1JTzZndkpRYXA1QlkxN1JFMUpFTDg2YmRaSGJiVFIwWi1oMDlFb0sxRnBNdG5pSVJlNlZzTWdMc1FGNVAxVkdkQTdTZ09ibVNlRUVpZjdpUDdUbW1nWUJSNlZmeA?oc=5
-
-○2月2日 着物リメーク 洋服多彩 玉野「くに工房」ファッションショー 山陽新聞  
-  https://news.google.com/rss/articles/CBMie0FVX3lxTFB4UGlKSUJVWUhvaWYtd2FXbWh2VGVnUmFFdGc2bFNrMHJXb3NJek5EanYyM3N0R2NybVFtdGk3TS1aWUZtUUpXeFJHd1U4NGk3S3NOckpQMEp4TFJwUjNkSVY1X0pVTXV4amt3aS1lZ3dTdzdBYU1VZXVPQQ?oc=5
-
 ○2月2日 《注目のリヤドでファッションウィーク①》サウジの経済改革、モードの世界にも波及 繊研新聞  
   https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WZVBiWmhHQlFWcE9XQXhMb2xxVmhoSjBqTzF2eEJVSkFwZjZnWUd0SHdMajBhQm1oZ1JicGpFa0IzNW9sU21icGQ2WU1sUQ?oc=5
 
@@ -97,12 +76,6 @@
 
 ○2月2日 ユニクロ、K-POPグループBABYMONSTERとコラボした「K-POPグループBABYMONSTER UT」を発売 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcGd1YlQzNnBQd0Z5a3dwVjl3T1dNNlpPd1BuQUNQNk5Ud0lpZlBiQkpNalZvZmtLN1hxYV8yNkpTLXlZN1FVOUVBV05HMExRY2w5QnpHNlllZHh5NldVeTB1bW9td1RYa2x3dw?oc=5
-
-○2月2日 中島健人、『メンズノンノ』初表紙 伝統×進化をファッションにも落とし込む「新鮮な融合！」 山陽新聞  
-  https://news.google.com/rss/articles/CBMic0FVX3lxTE5EMDNtbXdDOGhwVWlyYTlvRXRMNjRuVUswTW5kd1FoZFFvczVYY3FieXNkd2tXVmdVcUlGNE9DVUt0M1RvczJvOUN0VHIxQjVuZWU2TWdna19jYzZ0cllWNG9wRno3d054U0NhUEVOeS12cmc?oc=5
-
-○2月2日 【1/28より】【最大500万円】「鳥取県米国関税対策支援補助金」の申請サポートを開始します！【助成金なう】 山陽新聞  
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE90ekRFcGNYWWVvdGJFZG4xdTgyXzNwb195RVN2UEdlZDUwd1V3VUtRWi1Mdmt1M0k3WmVMSXNuSFQxMHg1ZEdlSnNlUE9MSUx5NmJoLWdTZmxGV1U?oc=5
 
 ○2月2日 《大阪文化服装学院、校名変更を機に世界に負けない学校へ㊤》洋裁学校から一流のファッション専門に 繊研新聞  
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE42Zm9GLV9NSUk2Tm0tU2xVcWVjbGU3NHNFVEF6UHlzWXdweHdDMHQwM3hLNE1pbERmdWZRWUthT0xuSTE2VWpYamJ2b3M2M3d6WTVBVTl1cw?oc=5
@@ -149,14 +122,11 @@
 ○2月3日 米国、インドへの相互関税18%に下げ ロシア産原油購入停止引き換え 日本経済新聞  
   https://news.google.com/rss/articles/CBMibEFVX3lxTFBuYXVhSFZzRUF3emN4azVRRjlUcmpuZjZNWVFIWVBRSEhLSWdoUXd6aDRQYXNUZkJqSHMyeGtGUFB5V2RiNUlPNm1jbWdDcnY1TUg1TndwMU9FNk1TRGROOUFzTjlEVm1kMFo0TA?oc=5
 
-○2月3日 【写真】米、インドと貿易合意 相互関税１８％に引き下げ 南日本新聞  
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2eU91YlhNMXM1OWRzRHFiLUl2NGxXQjk1RXhmVDRfQnRsUHU4dml6bGM5WVZ5RFJfMzdnNmlGYTl0ejdFVVp3NzhrX2tDU1VpYUZYZHdlbFNrbTB4ejJNMWVLc05WNlE?oc=5
+○2月3日 米、インドと貿易合意 相互関税１８％に引き下げ 南日本新聞  
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1zbjFZM0hpQU1UQ3NYb3hMc0hLNE5jU2NSYWhGOUVCY3ltWVpmdUlrZlM5OUc2ZHVxMUstb1BRYmNhdlp4SFRsNmVWOWtEb1FQNW5Sc1IzZnE1alVyd2UxamxMaUVKaVRTclE?oc=5
 
 ○2月3日 米、インドと貿易合意 相互関税１８％に引き下げ | | 全国のニュース 佐賀新聞  
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE02MktRUHE4cFlNRmNGWHRlTVVqUkduSmpuQU1kUWRFNmlfdTVGQV91WmVvUnJsNjhZb2wwdFE5UWdNX1JobUptTmszaGpnWHN3Y3hScEJR?oc=5
-
-○2月3日 米、インドと貿易合意 相互関税１８％に引き下げ 山陽新聞  
-  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HMzktOG56N1FiTm5lUTdMekRZdVV4c3BBUkQtOHZUcXVWRHlMOTdOaXhYVEQ0NVNJTFNvbXBvNDVRUG9VWWZ1aHZZTmlEWGdKeDZuMlRRaFUzT05IMXA0UU0xWWwya2p6?oc=5
 
 ○2月3日 《めてみみ》データ社会を支える繊維 繊研新聞  
   https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zdVJueUpFT19VQ1pyMWgyZXRQWmNmaVdsOWNmM2xmWXlQVVpzaExsY2M3SG9oN0RpYTZCUmZldVphd0VCU016Z1FWTkhUdzg?oc=5
@@ -166,6 +136,24 @@
 
 ○2月3日 《FB景況・消費見通しアンケート》節約志向など先行きに厳しさ 秋冬ファッション消費は気温低下で好転 繊研新聞  
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VN09NM2hCRDlEWWVBSWg3d0RDM19LdEhnMnVQaEVMbXhkcWc4LUlIMDhvczJzWTVPazItYWVtRF9VS3B5VmdJRlBBRkdyeFJjWnpGNkZR?oc=5
+
+○2月3日 「豊かな食が提供される持続可能なフードチェーンの構築」公開フォーラム開催 JAcom 農業協同組合新聞  
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1BcWxpZFNsdzNSTERORVpJNl9DVjE3ODhRNHltVTU1ZXpiY284b1RGeUxkQklsMFJHYWg4UXllSHFwMk9udlhYV01HcWY2WTBjQ1hhRGEyTkNWb1JGSGM2SzMyWm9VN0RxS19qdg?oc=5
+
+○2月3日 トランプ氏、インドへの関税を大幅引き下げ モディ氏がロシア産原油の購入停止に合意 CNN  
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zZ0k0bURUeGJRTHdydnJhNlQzbWpkb0hvbDZaS2JiYlJSM2JUQ0ZJamZCQ0pjWmZDNzJOZWFpeGRyNkFhTU1LYmgzZlp1ZnREblZzdklPMA?oc=5
+
+○2月3日 《注目のリヤドでファッションウィーク②》 国際化への意気込み強く 繊研新聞  
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE45N2otQlc3bTNwczhVMHRHYjZUMm9zLXl3dVZmdFVWWnZhN2NNOVNyOFk1dDBKMGEwV1JKWFlzY3lZdUhaTTdWNnBtWTcyQQ?oc=5
+
+○2月3日 米印首脳が電話協議、対インド関税を18％に引き下げへ　77兆円相当の米国製品の購入でも合意 BBC  
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KdUhzZldZMkZ2REI4U1o1UE9HdDAxZUNfS0U1OGp1U0FBd1hxX203NmtfRzlaUmI1VWdyT3VOZkNaaDVPOHZRUEhkUjlrZnFDc29BTFNXRjFmdFkxU2JF0gFkQVVfeXFMT014MWRxb0Z2YUhueWU5RmNlMnNJM3ZDaDcyMEFxQWNuaTdrUFNOcUVsYXpGanBuc2VyRHFCZGJPeDJyN2Vya2FWZzVRUzdpVm44NktuRG5Edk5PNTRMVmFXNzh3VQ?oc=5
+
+○2月3日 プレスリリース：［紹介＆成約手数料0円］［返金保証付き］塗装業界の「紹介料・価格競争」から脱却へ。“指名される受注”を生む新集客モデル「Bakuzou集客」提供開始（PR TIMES） 毎日新聞  
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UU24wV0JPdHBPNW83Z0xIVjJlN2x6cWRLQ1BzdXdjUGl4RVdnS3FGZ20yOFhfM3dTSWtRaWhod2dvMXB0OUlodzdMSk9vdFVjdXlxYVpDSGpwUEFVZHBFN0dyUkR3LXlZ?oc=5
+
+○2月3日 中国が威士忌輸入関税を半減し5%に引き下げ 中国経済新聞  
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMa0RQTFhVOGt2M3FaUnJmRVhpb1RGNWF6Si1VdzA5SW54a1k3alU0ZEppaTZIZUFweXIyS2FZaVVaRjRycHFvUDRqbw?oc=5
 
 【自由民主党】
 ○1月21日　政調、知的財産戦略調査会　コンテンツ戦略小委員会
@@ -179,6 +167,9 @@
 【内閣府】
 該当データなし
 【消費者委員会】
+○2月3日	消費者委員会本会議（第481回）の資料を掲載しました。
+　https://www.cao.go.jp/consumer/iinkai/2026/481/shiryou/index.html
+
 ○1月29日	第91回 公共料金等専門調査会の資料を掲載しました。
 　https://www.cao.go.jp/consumer/kabusoshiki/kokyoryokin/senmon/091/shiryou/index.html
 
