@@ -1,10 +1,10 @@
-name: Consumer Monitoring Watcher
+#name: Consumer Monitoring Watcher
 
 # 自動で生成したレポートをコミットするために write 権限が必要
-permissions:
+#permissions:
   contents: write
 
-on:
+#on:
   # GitHub UI からの手動実行用
   workflow_dispatch:
   # 定期実行：JST 9:00（UTC0:00）／JST 16:00（UTC7:00）
