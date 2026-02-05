@@ -71,5 +71,3 @@ jobs:
           from:           gritmotoring@gmail.com
           body:           本日のConsumerモニタリング結果です。
           attachments:    result.md
-
-  
