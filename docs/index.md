@@ -1,4 +1,4 @@
-更新日時: 2026年8月7日（金）16:18 JST
+更新日時: 2026年8月7日（金）17:10 JST
 
 【ニュース】
 
@@ -14,9 +14,13 @@
 
 ○8月7日 [大物都知事の宿命、東京は「47分の1」か？ 偏在是正で国と再び対峙](https://news.google.com/rss/articles/CBMibEFVX3lxTE5Oci04NTRTOGE0RGsyQWJRN0lBbUVNNVg3bmR1cDBPRHU5cGpKNmdGMjRhbFd4alpkb1cwVVZlZFFuRk5nWFNXMHhmUE4xV3RMZ2N5ZWQ4YlN2M2xfZGRtNEZRWlI2ZFRkSVdKaA?oc=5) 日本経済新聞
 
-○8月7日 [エコ農産物で専門店 都知事が試食 東京・麻布十番](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DQ1Q2c2VtVHU5MnlxSW1MUXNWWXVrTGpQeHpUUmRVMjZOLVVKa09wYnlPVGxUT3pacEVzMW9KSDlUM1gtdlp6M2VLdV9iNVpybWZlUkwtVTcwUkk?oc=5) 日本農業新聞
-
 ○8月7日 [小池知事、「ブラックボックス」批判した自民都連と蜜月 変化の事情 「東京都」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HVTBYLWNBdXQ4Si05QzkybDBDdE5kVnJQRVpid3lOR1gyVE1xbGlvZm1iV3ZDclFEUlJEeHlkc183cUhpS0VHYnFMYklPcW9waXg1ckpnTU45Rjg2ZXpFYl9FTzdrYWM?oc=5) 朝日新聞
+
+○8月7日 [東京駅近くに「地下シェルター」整備を正式表明…小池百合子知事「多くの方が滞在、施設整備の効果高い」](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SampNaFo0Sld0MEFYeDlNTW1CR3VQbDJjU3hjT1ZmMGI2S0FYZU9BRnBucHNVbnVybjVtclc2dnYyV1hFSDVPaEZEcEo3SDN4T3pDT0ZSY0YyX3llRWdMT2w2LS1YZw?oc=5) 読売新聞
+
+○8月7日 [小池都知事、終戦81年を前に「当時の問題点は今も現在進行中」](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qU2pvTkpTMHdLZWw4d1VaZDBmVlZVMk5jYk9TRmRILTFuUlBGcnZzYnZMVmR4dGxQdkM1c1Q0V1hDRVQxV3ZPX2x5OEo4bm9ndU5zR2dyQVM0WW0tZVZkdTg0ckVtNk5y?oc=5) 毎日新聞
+
+○8月7日 [エコ農産物で専門店 都知事が試食 東京・麻布十番](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DQ1Q2c2VtVHU5MnlxSW1MUXNWWXVrTGpQeHpUUmRVMjZOLVVKa09wYnlPVGxUT3pacEVzMW9KSDlUM1gtdlp6M2VLdV9iNVpybWZlUkwtVTcwUkk?oc=5) 日本農業新聞
 
 【東京都知事（小池百合子）】
 
