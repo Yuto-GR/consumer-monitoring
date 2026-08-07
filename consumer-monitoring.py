@@ -14,6 +14,12 @@ from datetime import datetime, timedelta, timezone
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, quote_plus
 
+# ───────── 更新日時ヘッダー ────────────────────────────
+_HEADER_JST = timezone(timedelta(hours=9))
+_WEEKDAY_JA = ["月", "火", "水", "木", "金", "土", "日"]
+_now = datetime.now(_HEADER_JST)
+print(f"更新日時: {_now.year}年{_now.month}月{_now.day}日（{_WEEKDAY_JA[_now.weekday()]}）{_now.strftime('%H:%M')} JST\n")
+
 # ───────── 検索キーワード ────────────────────────────────
 KEYWORDS = [
     "小池百合子", "小池知事", "小池都知事", "東京都知事", "都知事",
