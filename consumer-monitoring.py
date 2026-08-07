@@ -20,7 +20,7 @@ _WEEKDAY_JA = ["月", "火", "水", "木", "金", "土", "日"]
 _now = datetime.now(_HEADER_JST)
 print(f"更新日時: {_now.year}年{_now.month}月{_now.day}日（{_WEEKDAY_JA[_now.weekday()]}）{_now.strftime('%H:%M')} JST\n")
 
-# ───────── 検索キーワード ────────────────────────────────
+# ───────── 検索キーワード（日本語） ─────────────────────
 KEYWORDS = [
     "小池百合子", "小池知事", "小池都知事", "東京都知事", "都知事",
     "東京都議会", "都議会",
@@ -29,7 +29,14 @@ KEYWORDS = [
     "統合型リゾート", "IR誘致", "IR推進", "特定複合観光施設区域", "IR整備法", "東京IR", "カジノ解禁",
 ]
 
-# ───────── フィルタ対象ニュースソース ────────────────────
+# ───────── 検索キーワード（英語・海外メディア向け） ─────
+KEYWORDS_EN = [
+    "Yuriko Koike", "Tokyo Governor", "Tokyo Metropolitan Assembly",
+    "Tokyo LDP", "Liberal Democratic Party Tokyo",
+    "Tokyo integrated resort", "Tokyo casino", "Japan IR Tokyo",
+]
+
+# ───────── フィルタ対象ニュースソース（国内） ───────────
 FILTER_SOURCES = {
     "日経新聞", "共同", "時事", "朝日新聞", "読売新聞", "毎日新聞", "産経新聞",
     "ブルームバーグ", "ロイター", "東京新聞", "中日新聞", "BBC", "CNN"
@@ -40,12 +47,19 @@ def is_local_paper(source_name: str) -> bool:
         "日経新聞", "朝日新聞", "読売新聞", "毎日新聞", "産経新聞", "東京新聞", "中日新聞"
     }
 
+# ───────── フィルタ対象ニュースソース（海外） ───────────
+FILTER_SOURCES_EN = {
+    "Reuters", "Bloomberg", "BBC", "CNN", "The Japan Times", "Nikkei Asia",
+    "Kyodo News", "Associated Press", "AP News", "The Guardian", "Financial Times",
+}
+
 # ───────── 検索設定 ────────────────────────────────────
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
       "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125 Safari/537.36")
 JST = timezone(timedelta(hours=9))
 SINCE_DAYS = 4
-RSS_URL = "https://news.google.com/rss/search?hl=ja&gl=JP&ceid=JP:ja&q={}%20when:4d"
+RSS_URL_JA = "https://news.google.com/rss/search?hl=ja&gl=JP&ceid=JP:ja&q={}%20when:4d"
+RSS_URL_EN = "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q={}%20when:4d"
 
 # ───────── ユーティリティ ──────────────────────────────
 def strip_html(raw: str) -> str:
@@ -64,8 +78,8 @@ def md_link(title: str, url: str) -> str:
     return f"[{safe_title}]({url})"
 
 # ───────── RSS 取得 & 解析 ────────────────────────────
-def fetch_hits(keyword: str):
-    url     = RSS_URL.format(quote_plus(keyword))
+def fetch_hits(keyword: str, rss_url: str, filter_sources: set):
+    url     = rss_url.format(quote_plus(keyword))
     headers = {"User-Agent": UA}
     xml_data = requests.get(url, headers=headers, timeout=30).content
 
@@ -78,7 +92,7 @@ def fetch_hits(keyword: str):
         source_elem = item.find("source")
         source_name = source_elem.text if source_elem is not None else ""
 
-        if not (source_name in FILTER_SOURCES or is_local_paper(source_name)):
+        if not (source_name in filter_sources or is_local_paper(source_name)):
             continue
 
         low_kw  = keyword.lower()
@@ -123,9 +137,13 @@ def fetch_hits(keyword: str):
 # ───────── メイン ──────────────────────────────────────
 def main():
     news, seen = [], set()
-    for kw in KEYWORDS:
+    searches = (
+        [(kw, RSS_URL_JA, FILTER_SOURCES) for kw in KEYWORDS]
+        + [(kw, RSS_URL_EN, FILTER_SOURCES_EN) for kw in KEYWORDS_EN]
+    )
+    for kw, rss_url, filter_sources in searches:
         try:
-            for hit in fetch_hits(kw):
+            for hit in fetch_hits(kw, rss_url, filter_sources):
                 uid = hashlib.md5(hit["url"].encode()).hexdigest()
                 if uid in seen:
                     continue
