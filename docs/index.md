@@ -1,6 +1,7 @@
-更新日時: 2026年8月7日（金）16:03 JST
+更新日時: 2026年8月7日（金）16:08 JST
 
 【ニュース】
+
 ○8月4日 [都庁の「ガラスの天井」破った小池知事 女性視点の政策めぐる変化は 「東京都」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TUi1HdndRZ1Y0eEdZZnFCcWhVcHdKck94RC1VR3hYdXd3VS15VEsxMEl0MkU5WmNEY0xYMEJUV29IWnlLU0dRbnZrS1djMmRsRWJnNFRLN1Q2UHhfZS13VzUtck8tRGc?oc=5) 朝日新聞
 
 ○8月5日 [【首相と都知事】利害合致、異例のタッグ 一極集中に地方懸念](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZZzRjZE5PRDd6RG1aVW1HdzhPbGhrZ1dDQzQ1dmJJRTY1cE9vVGVHU1hOcXdBN0lhVzN1T2VBdmhTVzdQSTlIWF85SlJMUU5BRkE?oc=5) 山陽新聞
@@ -20,14 +21,18 @@
 ○8月7日 [東京駅近くに「地下シェルター」整備を正式表明…小池百合子知事「多くの方が滞在、施設整備の効果高い」](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SampNaFo0Sld0MEFYeDlNTW1CR3VQbDJjU3hjT1ZmMGI2S0FYZU9BRnBucHNVbnVybjVtclc2dnYyV1hFSDVPaEZEcEo3SDN4T3pDT0ZSY0YyX3llRWdMT2w2LS1YZw?oc=5) 読売新聞
 
 【東京都知事（小池百合子）】
+
 ○8月6日　[東京2020パラリンピック開催から5周年　「BEYOND STADIUM 2026」開催決定!!　毎年恒例のボッチャ大会が過去最大100チーム規模へ！　東京都知事杯ボッチャ大会 出場チーム募集開始!!](https://www.metro.tokyo.lg.jp/information/press/2026/08/2026080608)
 
 【東京都議会】
+
 該当データなし
 
 【自民党東京都連（TOKYO自民党）】
+
 ○8月1日　[都議会自民党新執行部が発足](https://www.tokyo-jimin.jp/2026/08/01/1/)
 
 【都議会自民党】
+
 該当データなし
 
