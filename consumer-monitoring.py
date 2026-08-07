@@ -19,6 +19,8 @@ KEYWORDS = [
     "小池百合子", "小池知事", "小池都知事", "東京都知事", "都知事",
     "東京都議会", "都議会",
     "自民党東京都連", "東京都連", "都議会自民党",
+    # IR（統合型リゾート）推進関連
+    "統合型リゾート", "IR誘致", "IR推進", "特定複合観光施設区域", "IR整備法", "東京IR", "カジノ解禁",
 ]
 
 # ───────── フィルタ対象ニュースソース ────────────────────
@@ -42,6 +44,18 @@ RSS_URL = "https://news.google.com/rss/search?hl=ja&gl=JP&ceid=JP:ja&q={}%20when
 # ───────── ユーティリティ ──────────────────────────────
 def strip_html(raw: str) -> str:
     return BeautifulSoup(html.unescape(raw), "html.parser").get_text(" ", strip=True)
+
+def clean_title(text: str) -> str:
+    """RSSタイトルに紛れ込む区切り記号(｜等)や余分な空白を整形する。"""
+    text = re.sub(r"\s*\|\s*", " - ", text)
+    text = re.sub(r"(\s*-\s*){2,}", " - ", text)
+    text = re.sub(r"\s{2,}", " ", text).strip(" -")
+    return text
+
+def md_link(title: str, url: str) -> str:
+    """Markdownリンク構文([...])を壊す文字を退避しつつリンク表記を作る。"""
+    safe_title = clean_title(title).replace("[", "「").replace("]", "」")
+    return f"[{safe_title}]({url})"
 
 # ───────── RSS 取得 & 解析 ────────────────────────────
 def fetch_hits(keyword: str):
@@ -122,7 +136,7 @@ def main():
         print("該当記事なし")
         return
     for n in news:
-        print(f"○{n['date']} [{n['title']}]({n['url']}) {n['source']}\n")
+        print(f"○{n['date']} {md_link(n['title'], n['url'])} {n['source']}\n")
 
 if __name__ == "__main__":
     main()
@@ -143,7 +157,7 @@ JST           = timezone(timedelta(hours=9))
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
       "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125 Safari/537.36")
 
-KEYWORDS = ["知事", "小池", "記者会見"]
+KEYWORDS = ["知事", "小池", "記者会見", "IR", "統合型リゾート", "カジノ"]
 
 def local_tag(elem) -> str:
     return elem.tag.rsplit("}", 1)[-1]
@@ -221,7 +235,7 @@ def main():
         print("該当データなし\n")
         return
     for r in recs:
-        print(f"○{r['date']}　[{r['title']}]({r['url']})\n")
+        print(f"○{r['date']}　{md_link(r['title'], r['url'])}\n")
 
 if __name__ == "__main__":
     main()
@@ -294,7 +308,7 @@ def main():
         print("該当データなし\n")
         return
     for r in recs:
-        print(f"○{r['date']}　[{r['title']}]({r['url']})\n")
+        print(f"○{r['date']}　{md_link(r['title'], r['url'])}\n")
 
 if __name__ == "__main__":
     main()
@@ -355,7 +369,7 @@ def main():
         print("該当データなし\n")
         return
     for r in recs:
-        print(f"○{r['date']}　[{r['title']}]({r['url']})\n")
+        print(f"○{r['date']}　{md_link(r['title'], r['url'])}\n")
 
 if __name__ == "__main__":
     main()
@@ -420,7 +434,7 @@ def main():
         print("該当データなし\n")
         return
     for r in recs:
-        print(f"○{r['date']}　[{r['title']}]({r['url']})\n")
+        print(f"○{r['date']}　{md_link(r['title'], r['url'])}\n")
 
 if __name__ == "__main__":
     main()
