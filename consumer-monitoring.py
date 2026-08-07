@@ -122,8 +122,7 @@ def main():
         print("該当記事なし")
         return
     for n in news:
-        print(f"○{n['date']} {n['title']} {n['source']}  ")
-        print(f"  {n['url']}\n")
+        print(f"○{n['date']} [{n['title']}]({n['url']}) {n['source']}\n")
 
 if __name__ == "__main__":
     main()
@@ -222,8 +221,7 @@ def main():
         print("該当データなし\n")
         return
     for r in recs:
-        print(f"○{r['date']}　{r['title']}")
-        print(f"　{r['url']}\n")
+        print(f"○{r['date']}　[{r['title']}]({r['url']})\n")
 
 if __name__ == "__main__":
     main()
@@ -296,8 +294,7 @@ def main():
         print("該当データなし\n")
         return
     for r in recs:
-        print(f"○{r['date']}　{r['title']}")
-        print(f"　{r['url']}\n")
+        print(f"○{r['date']}　[{r['title']}]({r['url']})\n")
 
 if __name__ == "__main__":
     main()
@@ -358,8 +355,7 @@ def main():
         print("該当データなし\n")
         return
     for r in recs:
-        print(f"○{r['date']}　{r['title']}")
-        print(f"　{r['url']}\n")
+        print(f"○{r['date']}　[{r['title']}]({r['url']})\n")
 
 if __name__ == "__main__":
     main()
@@ -424,8 +420,7 @@ def main():
         print("該当データなし\n")
         return
     for r in recs:
-        print(f"○{r['date']}　{r['title']}")
-        print(f"　{r['url']}\n")
+        print(f"○{r['date']}　[{r['title']}]({r['url']})\n")
 
 if __name__ == "__main__":
     main()
