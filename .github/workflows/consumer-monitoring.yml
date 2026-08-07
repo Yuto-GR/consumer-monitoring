@@ -37,10 +37,7 @@ jobs:
           pip install \
             requests \
             beautifulsoup4 \
-            lxml \
-            playwright
-          # Playwright を使う部分がある場合、ブラウザもインストール
-          playwright install chromium
+            lxml
 
       # 4. スクリプトを実行し、レポートを result.md に出力
       - name: Run consumer-monitoring.py
@@ -66,8 +63,8 @@ jobs:
           secure:         false       # STARTTLS モード
           username:       gritmotoring@gmail.com
           password:       ${{ secrets.SMTP_PASSWORD }}
-          subject:        "Consumer Monitoring Results"
+          subject:        "東京都政モニタリング結果"
           to:             yuto.niimura@grcompany.com, lake.mizushima@grcompany.com
           from:           gritmotoring@gmail.com
-          body:           本日のConsumerモニタリング結果です。
+          body:           本日の東京都政（小池都知事・東京都議会・東京都自民党）モニタリング結果です。
           attachments:    result.md
