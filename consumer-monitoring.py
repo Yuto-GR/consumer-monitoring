@@ -1,12 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-gov_policy_news_scraper.py  rev-2.5  (2025-06-28)
+tokyo_seiji_monitoring.py  rev-3.0  (2026-08-07)
 
-■ 指定キーワードで Google News RSS を検索し、
-  省庁・自治体が関与する各種政策・消費者保護関連ニュースを抽出。
-  ソースが指定リスト外、または4日より古い記事を除外。
-  タイトル・本文にキーワードの実在をチェック。
+■ 小池百合子・東京都知事、東京都議会、自民党東京都連（都連）、
+  都議会自民党の動向を監視するレポートを生成する。
 """
 
 # ───────── Imports ──────────────────────────────────────────
@@ -14,26 +12,13 @@ import re, sys, html, time, hashlib, requests, xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 from datetime import datetime, timedelta, timezone
 from bs4 import BeautifulSoup
-from urllib.parse import quote_plus
+from urllib.parse import urljoin, quote_plus
 
 # ───────── 検索キーワード ────────────────────────────────
 KEYWORDS = [
-    # 知的財産・模倣品
-    "知的財産", "模倣品", "著作権侵害", "商標権侵害", "IP claim", "クレーム",
-    # 消費者保護・製品安全・ダークパターン
-    "消費者問題", "製品安全", "product safety", "ダークパターン", "一般社団法人ダークパターン対策協会",
-    # 関税・少額輸入貨物の免税
-    "関税", "少額輸入貨物", "de minimis", "customs" 
-    # 公正取引・競争
-    ,"公正取引", "競争", "fair competition"
-    # デジタルプラットフォーム・オンラインモール
-    ,"デジタルプラットフォーム", "オンラインモール", "digital platform"
-    # 子供のインターネット安全
-    ,"子供の安全", "child safety"
-    # ファッション・繊維・ユニクロ・ファーストリテイリング
-    ,"ファッション", "繊維", "fashion textile", "fast fashion", "ユニクロ", "ファーストリテイリング"
-    # 持続可能性
-    ,"サステナビリティ", "持続可能", "sustainability"
+    "小池百合子", "小池知事", "小池都知事", "東京都知事", "都知事",
+    "東京都議会", "都議会",
+    "自民党東京都連", "東京都連", "都議会自民党",
 ]
 
 # ───────── フィルタ対象ニュースソース ────────────────────
@@ -47,15 +32,6 @@ def is_local_paper(source_name: str) -> bool:
         "日経新聞", "朝日新聞", "読売新聞", "毎日新聞", "産経新聞", "東京新聞", "中日新聞"
     }
 
-# ───────── 行政主体フィルタ ───────────────────────────
-MINISTRIES = [
-    "総務省","経済産業省","デジタル庁","文部科学省","経産省","厚生労働省",
-    "農林水産省","国土交通省","財務省","金融庁","環境省","外務省","防衛省",
-    "内閣府","内閣官房","警察庁","消防庁","復興庁","公正取引委員会","公取委",
-    "国交省","厚労省","農水省","デジ庁","文科省"
-]
-PREF_SUFFIX = ("県","府","都","市","町","村")
-
 # ───────── 検索設定 ────────────────────────────────────
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
       "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125 Safari/537.36")
@@ -64,17 +40,6 @@ SINCE_DAYS = 4
 RSS_URL = "https://news.google.com/rss/search?hl=ja&gl=JP&ceid=JP:ja&q={}%20when:4d"
 
 # ───────── ユーティリティ ──────────────────────────────
-def is_gov_related(text: str) -> bool:
-    if any(w in text for w in MINISTRIES):
-        return True
-    if re.search(r"(政府|内閣|自治体|国が|国は)", text):
-        return True
-    for suf in PREF_SUFFIX:
-        if re.search(rf"[^\w]{{1,4}}{suf}", text):
-            return True
-    return False
-
-
 def strip_html(raw: str) -> str:
     return BeautifulSoup(html.unescape(raw), "html.parser").get_text(" ", strip=True)
 
@@ -163,385 +128,98 @@ def main():
 if __name__ == "__main__":
     main()
 
-#-----------------自民党ーーーーーーーーーーーーーーーーー
+#-----------------東京都知事（小池百合子）ーーーーーーーーーーーーーーーーー
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-ldp_watcher.py  rev-4.7-LDP-r4  (2025-06-28)
+tokyo_governor_watcher.py  rev-1.0  (2026-08-07)
 
-■ 自民党サイト（/activity）を巡回し，
-   過去 4 日＋当日＋未来 10 日の 15 日分から
-   消費者関連イベントのみ抽出して表示。
-   ─ 重複タイトルは「本文が詳しい方」を優先して 1 行に集約。
+■ 東京都公式サイトのRSS（報道発表・トピックス等）を取得し、
+  知事（小池百合子）関連のキーワードにヒットする記事のみ抽出。
 """
 
-# ───────── Imports ──────────────────────────────────────────
-import re, time, sys, requests
-from datetime import datetime, timezone, timedelta
-from urllib.parse import urljoin
-from bs4 import BeautifulSoup
-from playwright.sync_api import sync_playwright
-
-# ───────── Global settings ─────────────────────────────────
-LOOKBACK          = 15           # 過去 4 日
-AHEAD             = 10          # 未来 10 日
-WAIT_SEC          = 1
-DEBUG             = True
-DEBUG_SOU         = True
-UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-      "AppleWebKit/537.36 (KHTML, like Gecko) "
-      "Chrome/124.0.0.0 Safari/537.36")
-
-# ───────── キーワード ────────────────────────────────────
-KEYWORDS = [
-    "消費者問題調査会",
-    "税制調査会",
-    "知的財産戦略調査会",
-]
-
-# ───────── 正規化 & ヒット判定 ─────────────────────────
-norm = lambda s: re.sub(r"\s+", "", s).lower()
-def kw_hit(text: str) -> bool:
-    t = norm(text)
-    for k in KEYWORDS:
-        if k.lower() in t:
-            return True
-    return False
-
-# ───────── 日付ユーティリティ ─────────────────────────
-JST   = timezone(timedelta(hours=9))
-# 当日を午前0時に揃え
-today = datetime.now(JST).replace(hour=0, minute=0, second=0, microsecond=0)
-# 過去 LOOKBACK 日 ～ 当日 ～ 未来 AHEAD 日
-DATES = [today - timedelta(days=delta) for delta in range(-AHEAD, LOOKBACK + 1)]
-
-EXCLUDE_LDP = re.compile(r"^記者会見$")      # 除外ワード
-
-# デバッグ出力用
-dbg  = lambda *m: print(*m, file=sys.stderr, flush=True) if DEBUG else None
-sdbg = lambda *m: print("[SOU]", *m, file=sys.stderr, flush=True) if DEBUG_SOU else None
-
-
-def better(record_new, record_old):
-    """どちらを残すか判定（本文がタイトルと同じなら劣る）"""
-    body_n, body_o = record_new["body"], record_old["body"]
-    ttl = record_new["title"]
-    score_n = len(body_n) if body_n and body_n != ttl else 0
-    score_o = len(body_o) if body_o and body_o != ttl else 0
-    return record_new if score_n > score_o else record_old
-
-
-def scrape_ldp():
-    # key=(日付, タイトル) で最良レコードを保持
-    best = {}
-    with sync_playwright() as p:
-        ctx = (p.chromium
-               .launch(headless=True,
-                       args=["--disable-blink-features=AutomationControlled"])
-               .new_context(user_agent=UA))
-        page = ctx.new_page()
-        for d in DATES:
-            url = f"https://www.jimin.jp/activity/?day={d.year}.{d.month}.{d.day}"
-            #dbg("[LDP] goto", url)
-            try:
-                page.goto(url, wait_until="networkidle", timeout=25000)
-            except Exception:
-                continue
-            soup = BeautifulSoup(page.content(), "html.parser")
-            for tag in soup.find_all(("dt","h1","h2","h3","h4","li")):
-                ttl = tag.get_text(" ", strip=True)
-                if not ttl or EXCLUDE_LDP.match(ttl):
-                    continue
-                if not kw_hit(ttl):
-                    continue
-                sib = tag.find_next_sibling() or tag
-                body = sib.get_text(" ", strip=True)
-                if body.startswith("今日の 自民党"):
-                    body = ""
-                rec = {
-                    "date": f"{d.month}月{d.day}日",
-                    "title": ttl,
-                    "body": body.replace("Google Calenderに予定を追加", "").strip()
-                }
-                key = (rec["date"], rec["title"])
-                best[key] = better(rec, best[key]) if key in best else rec
-                #dbg(" 🔹LDP-HIT", ttl[:60])
-            time.sleep(WAIT_SEC)
-    return list(best.values())
-
-
-def main():
-    ldp = scrape_ldp()
-    #print(f"\n===== {today.strftime('%-m月%-d日')} データ取得開始 =====\n")
-    print("【自由民主党】")
-    if ldp:
-        def dt_key(r):
-            m, d = map(int, r["date"].rstrip("日").split("月"))
-            return (m, d)
-        for r in sorted(ldp, key=dt_key):
-            print(f"○{r['date']}　{r['title']}")
-            if r['body'] and r['body'] != r['title']:
-                print(f"　{r['body']}\n")
-            else:
-                print()
-    else:
-        print("該当データなし\n")
-
-if __name__ == "__main__":
-    main()
-#-------経済産業省ーーーーーー
-print("【経済産業省】")
-print("!!!!!!!!!!!!自分で調べてください！！！！！！！")
-
-#------------首相官邸ーーーーーーーーーー
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-import requests
-from bs4 import BeautifulSoup
-import re
-
-def fetch_news(keywords):
-    url = 'https://www.kantei.go.jp/jp/news/index.html'
-    resp = requests.get(url)
-    resp.raise_for_status()
-    soup = BeautifulSoup(resp.content, 'html.parser')
-
-    results = []
-
-    # 元々の <dl class="newsList"> 構造で探す
-    dl = soup.find('dl', class_='newsList')
-    if dl:
-        for dt, dd in zip(dl.find_all('dt'), dl.find_all('dd')):
-            date_text = dt.get_text(strip=True)
-            a = dd.find('a')
-            if not a:
-                continue
-            title = a.get_text(strip=True)
-            href = a['href']
-            link = href if href.startswith('http') else f'https://www.kantei.go.jp{href}'
-            for kw in keywords:
-                if kw.lower() in title.lower():
-                    results.append((date_text, title, link))
-                    break
-        return results
-
-    # フォールバック：ページ内の「更新日：」テキストからたどる
-    for text_node in soup.find_all(string=re.compile(r'更新日：')):
-        # テキストから日付部分を抽出
-        m = re.search(r'更新日：\s*([^\s<]+)', text_node)
-        if not m:
-            continue
-        date_text = m.group(1).strip()  # 例: '令和7年6月27日'
-
-        # 日付テキストの親要素から次の <a> を探す
-        parent = text_node.parent
-        a = parent.find_next('a')
-        if not a:
-            continue
-        title = a.get_text(strip=True)
-        href = a.get('href', '')
-        if not href:
-            continue
-        link = href if href.startswith('http') else f'https://www.kantei.go.jp{href}'
-
-        # キーワードフィルタ
-        for kw in keywords:
-            if kw.lower() in title.lower():
-                results.append((date_text, title, link))
-                break
-
-    return results
-
-if __name__ == '__main__':
-    keywords = [
-        # 英語キーワード
-        "IP", "foreign EC", "Consumer protection", "Product safety",
-        "Customs", "de minimus", "Fair competition", "Digital platforms",
-        "Child safety", "Fashion", "textile", "Uniqlo", "Fast Fashion",
-        "Sustainability",
-        # 日本語キーワード
-        "知的財産", "模倣品", "消費者問題", "製品安全", "ダークパターン",
-        "ダークパターン対策協会", "デジタルプラットフォーム", "オンラインモール",
-        "ファッション", "繊維", "子供の安全", "ユニクロ", "ファーストリテイリング",
-        "公正取引", "競争", "関税", "少額輸入貨物", "消費税免除"
-    ]
-
-    matches = fetch_news(keywords)
-    print("【首相官邸】")
-    if matches:
-        for date, title, link in matches:
-            print(f"○{date} 「{title}」")
-            print(f"　{link}\n")
-    else:
-        print("指定したキーワードを含む新着情報は見つかりませんでした。\n")
-
-#--------内閣府==========
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-cao_press_watcher_rss_etree.py  rev-1.6  (2025-06-19)
-
-■ 内閣府「報道発表新着情報」RSSフィードを標準ライブラリだけで取得・解析し、
-  過去 4 日間に掲載された “DX／デジタル関連＋食品・環境” の
-  リリースを抽出して一覧表示します。
-
-・requests で RSS(XML) を取得
-・xml.etree.ElementTree でパース
-・email.utils.parsedate_to_datetime + datetime.fromisoformat で日付変換
-・デバッグログは標準エラー出力
-依存:
-    pip install requests
-"""
-
-import re
-import sys
-import unicodedata
-import requests
-
-from datetime import datetime, timedelta, timezone
-from xml.etree import ElementTree as ET
-from email.utils import parsedate_to_datetime
-
-# ───────── Settings ──────────────────────────────────────
-RSS_URL       = "https://www.cao.go.jp/rss/news.rdf"
+RSS_URL       = "https://www.metro.tokyo.lg.jp/rss/index.rdf"
 LOOKBACK_DAYS = 4
-#dbg = lambda *m: print("[DBG]", *m, file=sys.stderr, flush=True)
+JST           = timezone(timedelta(hours=9))
+UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+      "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125 Safari/537.36")
 
-# ───────── Date window ───────────────────────────────────
-JST      = timezone(timedelta(hours=9))
-NOW      = datetime.now(JST)
-TODAY    = NOW.replace(hour=0, minute=0, second=0, microsecond=0)
-WIN_FROM = TODAY - timedelta(days=LOOKBACK_DAYS)
+KEYWORDS = ["知事", "小池", "記者会見"]
 
-# ───────── Keywords ─────────────────────────────────────
-KEYWORDS = [
-    # 知的財産・模倣品
-    "知的財産", "模倣品", "著作権侵害", "商標権侵害", "IP claim", "クレーム",
-    # 消費者保護・製品安全・ダークパターン
-    "消費者問題", "製品安全", "product safety", "ダークパターン", "一般社団法人ダークパターン対策協会","食品"
-    # 関税・少額輸入貨物の免税
-    "関税", "少額輸入貨物", "de minimis", "customs" 
-    # 公正取引・競争
-    ,"公正取引", "競争", "fair competition"
-    # デジタルプラットフォーム・オンラインモール
-    ,"デジタルプラットフォーム", "オンラインモール", "digital platform"
-    # 子供のインターネット安全
-    ,"子供の安全", "child safety"
-    # ファッション・繊維・ユニクロ・ファーストリテイリング
-    ,"ファッション", "繊維", "fashion textile", "fast fashion", "ユニクロ", "ファーストリテイリング"
-    # 持続可能性
-    ,"サステナビリティ", "持続可能", "sustainability"
-]
-SHORT_ASCII = {"ai", "it", "dx"}
-norm = lambda s: unicodedata.normalize("NFKC", s).lower()
+def local_tag(elem) -> str:
+    return elem.tag.rsplit("}", 1)[-1]
 
-def kw_hit(text: str) -> bool:
-    t = norm(text)
-    for kw in KEYWORDS:
-        k = norm(kw)
-        if k in SHORT_ASCII:
-            if re.search(rf"(?:^|[^a-z0-9]){k}(?:[^a-z0-9]|$)", t):
-                return True
-        elif k in t:
-            return True
-    return False
+def find_child(elem, name):
+    for child in elem:
+        if local_tag(child) == name:
+            return child
+    return None
 
-# ───────── Fetch RSS ─────────────────────────────────────
-def fetch_rss(url: str) -> str:
-    #dbg(f"[REQ] Fetching RSS {url}")
-    resp = requests.get(url, timeout=(10, 30))
+def parse_date(text: str):
+    if not text:
+        return None
+    try:
+        return parsedate_to_datetime(text)
+    except Exception:
+        pass
+    try:
+        return datetime.fromisoformat(text.strip())
+    except Exception:
+        return None
+
+def scrape_governor_rss():
+    resp = requests.get(RSS_URL, headers={"User-Agent": UA}, timeout=30)
     resp.raise_for_status()
-    #dbg("     length:", len(resp.content))
-    return resp.text
+    root = ET.fromstring(resp.content)
 
-# ───────── Parse and filter ─────────────────────────────
-def scrape_cao_rss():
-    xml = fetch_rss(RSS_URL)
-    root = ET.fromstring(xml)
-
-    # debug root and namespaces
-    #dbg("root.tag =", root.tag)
-    #dbg("children tags:", [child.tag for child in root[:3]])
-
-    # define namespaces
-    ns = {
-        'rss': 'http://purl.org/rss/1.0/',
-        'dc':  'http://purl.org/dc/elements/1.1/'
-    }
-
-    # find all <rss:item>
-    items = root.findall('rss:item', ns)
-    #dbg("namespaced <item> count:", len(items))
-
+    since = datetime.now(JST) - timedelta(days=LOOKBACK_DAYS)
     results = []
-    for itm in items:
-        title_el = itm.find('rss:title', ns)
-        link_el  = itm.find('rss:link', ns)
-        date_el  = itm.find('dc:date', ns)
-        if title_el is None or link_el is None or date_el is None:
-            #dbg(" skip (missing element)")
+    for item in root.iter():
+        if local_tag(item) != "item":
+            continue
+        title_el = find_child(item, "title")
+        link_el  = find_child(item, "link")
+        date_el  = find_child(item, "date") or find_child(item, "pubDate")
+        if title_el is None or link_el is None:
+            continue
+        title = (title_el.text or "").strip()
+        link  = (link_el.text or "").strip()
+        if not title or not link:
             continue
 
-        title = title_el.text.strip()
-        link  = link_el.text.strip()
-        #dbg(" candidate title:", title[:40])
-
-        date_text = date_el.text.strip()
-        # parse RFC822 or ISO8601
-        dt = None
-        try:
-            dt = parsedate_to_datetime(date_text)
-        except Exception:
-            try:
-                dt = datetime.fromisoformat(date_text)
-            except Exception as e:
-                #dbg("    date parse failed:", e, date_text)
-                continue
-        # ensure timezone-aware
+        dt = parse_date(date_el.text if date_el is not None else "")
+        if dt is None:
+            continue
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=JST)
-        dt_jst = dt.astimezone(JST)
-        dt0    = dt_jst.replace(hour=0, minute=0, second=0, microsecond=0)
-
-        # date window
-        if not (WIN_FROM <= dt0 <= TODAY):
-            #dbg("    out of window:", dt0.date())
+        dt = dt.astimezone(JST)
+        if dt < since:
             continue
 
-        # keyword filter
-        if not kw_hit(title):
-            #dbg("    no keyword match")
+        if not any(kw in title for kw in KEYWORDS):
             continue
 
-        #dbg("  HIT:", dt0.date(), title[:40])
-        results.append({
-            'dt':   dt0,
-            'date': dt0.strftime('%-m月%-d日'),
-            'title': title,
-            'url':   link
-        })
+        results.append({"dt": dt, "date": f"{dt.month}月{dt.day}日", "title": title, "url": link})
 
-    # dedupe & sort desc
     seen, out = set(), []
-    for r in sorted(results, key=lambda x: x['dt'], reverse=True):
-        key = (r['date'], r['title'])
+    for r in sorted(results, key=lambda x: x["dt"], reverse=True):
+        key = (r["date"], r["title"])
         if key in seen:
-            #dbg(" duplicate skip:", key)
             continue
         seen.add(key)
         out.append(r)
-
-    #dbg("total hits:", len(out))
     return out
 
-# ───────── CLI ─────────────────────────────────────────
 def main():
-    recs = scrape_cao_rss()
-    print("【内閣府】")
+    print("【東京都知事（小池百合子）】")
+    try:
+        recs = scrape_governor_rss()
+    except Exception as e:
+        print(f"[WARN] 取得失敗: {e}", file=sys.stderr)
+        print("該当データなし\n")
+        return
     if not recs:
-        print("該当データなし")
+        print("該当データなし\n")
         return
     for r in recs:
         print(f"○{r['date']}　{r['title']}")
@@ -550,193 +228,204 @@ def main():
 if __name__ == "__main__":
     main()
 
-#-------------消費者安全委員会ーーーーーーーーー
+#-----------------東京都議会ーーーーーーーーーーーーーーーーー
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+"""
+tokyo_gikai_watcher.py  rev-1.0  (2026-08-07)
 
-import requests
-from bs4 import BeautifulSoup, Tag
-from urllib.parse import urljoin
-import datetime
-import re
+■ 東京都議会サイトの「会議の予定」ページを巡回し、
+   過去4日＋当日＋今後14日の日程を抽出して表示。
+"""
 
-# 新着情報一覧ページ
-BASE_URL = "https://www.cao.go.jp/consumer/shinchaku/index.html"
+GIKAI_URL     = "https://www.gikai.metro.tokyo.lg.jp/schedule/"
+GIKAI_LOOKBACK = 4
+GIKAI_AHEAD    = 14
+DATE_RE = re.compile(r"(\d{1,2})月(\d{1,2})日")
 
-def fetch_shinchaku_last7_days():
-    # DEBUG: 今日と７日前を表示
-    today = datetime.date.today()
-    week_ago = today - datetime.timedelta(days=7)
-    #print(f"[DEBUG] today = {today}, week_ago = {week_ago}")
+def scrape_gikai_schedule():
+    today = datetime.now(JST).replace(hour=0, minute=0, second=0, microsecond=0)
+    win_from = today - timedelta(days=GIKAI_LOOKBACK)
+    win_to   = today + timedelta(days=GIKAI_AHEAD)
 
-    # ページ取得・パース
-    resp = requests.get(BASE_URL)
+    resp = requests.get(GIKAI_URL, headers={"User-Agent": UA}, timeout=30)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.content, "html.parser")
-    #print("[DEBUG] Page fetched and parsed")
 
-    entries = []
-
-    # 年月見出しを検出
-    header_tags = soup.find_all(
-        lambda tag: tag.name in ["h2", "h3"]
-        and re.match(r"\d{4}年\d{1,2}月$", tag.get_text(strip=True))
-    )
-    #print(f"[DEBUG] Found {len(header_tags)} header_tags: {[tag.get_text(strip=True) for tag in header_tags]}")
-
-    for header in header_tags:
-        ym_text = header.get_text(strip=True)
-        year, month = map(int, re.match(r"(\d{4})年(\d{1,2})月", ym_text).groups())
-        #print(f"[DEBUG] Processing section: {year}年{month}月")
-
-        # この見出しの直後にある <dl> を取得
-        dl = header.find_next_sibling("dl")
-        if not dl:
-            #print("[DEBUG] No <dl> found after header, skipping")
+    results = []
+    for row in soup.find_all(("tr", "li", "dt")):
+        text = row.get_text(" ", strip=True)
+        m = DATE_RE.search(text)
+        if not m:
+            continue
+        month, day = map(int, m.groups())
+        for year in (today.year, today.year - 1, today.year + 1):
+            try:
+                date_obj = datetime(year, month, day, tzinfo=JST)
+            except ValueError:
+                continue
+            if win_from <= date_obj <= win_to:
+                break
+        else:
             continue
 
-        dts = dl.find_all("dt")
-        dds = dl.find_all("dd")
-        #print(f"[DEBUG] Found {len(dts)} dt/dd pairs")
+        a = row.find("a", href=True)
+        link = urljoin(GIKAI_URL, a["href"]) if a else GIKAI_URL
+        title = text if len(text) < 120 else text[:120] + "…"
 
-        for dt, dd in zip(dts, dds):
-            date_text = dt.get_text(strip=True)
-            #print(f"[DEBUG] dt text: '{date_text}'")
+        results.append({"dt": date_obj, "date": f"{month}月{day}日", "title": title, "url": link})
 
-            # 「YYYY年M月D日」をパース
-            m_date = re.match(rf"{year}年{month}月(\d{{1,2}})日", date_text)
-            if not m_date:
-                #print("[DEBUG] dt text does not match date pattern, skipping")
-                continue
+    seen, out = set(), []
+    for r in sorted(results, key=lambda x: x["dt"]):
+        key = (r["date"], r["title"])
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(r)
+    return out
 
-            day = int(m_date.group(1))
-            date_obj = datetime.date(year, month, day)
-            #print(f"[DEBUG] Parsed date: {date_obj}")
-
-            # 範囲チェック
-            if not (week_ago <= date_obj <= today):
-                #print(f"[DEBUG] {date_obj} out of range, skipping")
-                continue
-
-            # <dd> 内のリンクを取得
-            a = dd.find("a", href=True)
-            if not a:
-                #print("[DEBUG] No <a> in dd, skipping")
-                continue
-
-            href = a["href"].strip()
-            #print(f"[DEBUG] Found link href: '{href}'")
-
-            # ページ内リンク除外
-            if href.startswith("#"):
-                #print("[DEBUG] href starts with '#', skipping")
-                continue
-
-            title = a.get_text(strip=True)
-            url = urljoin(BASE_URL, href)
-            #print(f"[DEBUG] Title: '{title}', URL: {url}")
-
-            entries.append((date_obj, title, url))
-            #print(f"[DEBUG] Appended entry for {date_obj}")
-
-    #print(f"[DEBUG] Total entries collected: {len(entries)}")
-
-    # 出力
-    print("【消費者委員会】")
-    if not entries:
+def main():
+    print("【東京都議会】")
+    try:
+        recs = scrape_gikai_schedule()
+    except Exception as e:
+        print(f"[WARN] 取得失敗: {e}", file=sys.stderr)
         print("該当データなし\n")
-    else:
-        for date_obj, title, url in sorted(entries, key=lambda x: x[0], reverse=True):
-            print(f"○{date_obj.month}月{date_obj.day}日\t{title}")
-            print(f"　{url}\n")
+        return
+    if not recs:
+        print("該当データなし\n")
+        return
+    for r in recs:
+        print(f"○{r['date']}　{r['title']}")
+        print(f"　{r['url']}\n")
 
 if __name__ == "__main__":
-    fetch_shinchaku_last7_days()
+    main()
 
-#--------------内閣府経済社会ーーーーーーーー
+#-----------------自民党東京都連ーーーーーーーーーーーーーーーーー
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+"""
+tokyo_jimin_watcher.py  rev-1.0  (2026-08-07)
 
-import requests
-from bs4 import BeautifulSoup
-import datetime
-import re
+■ 自民党東京都支部連合会（都連）サイトを巡回し、
+   投稿URL（/YYYY/MM/DD/...形式）から直近の記事のみ抽出。
+"""
 
-# 対象ページ
-BASE_URL = "https://www.cao.go.jp/zei-cho/gijiroku/digital-noukan/index.html"
+TOKYO_JIMIN_URL   = "https://www.tokyo-jimin.jp/"
+TOKYO_JIMIN_DAYS  = 7
+POST_URL_RE = re.compile(r"/(\d{4})/(\d{2})/(\d{2})/")
 
-def fetch_events_last30_days():
-    # DEBUG: 今日と30日前の日付
-    today = datetime.date.today()
-    start_date = today - datetime.timedelta(days=30)
-    #print(f"[DEBUG] today = {today}, start_date = {start_date}")
+def scrape_tokyo_jimin():
+    since = datetime.now(JST) - timedelta(days=TOKYO_JIMIN_DAYS)
 
-    # ページ取得・パース
-    resp = requests.get(BASE_URL)
+    resp = requests.get(TOKYO_JIMIN_URL, headers={"User-Agent": UA}, timeout=30)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.content, "html.parser")
-    #print("[DEBUG] Page fetched and parsed")
 
-    # テキストを改行で取得し、空行を除去
-    text = soup.get_text(separator="\n")
-    lines = [line.strip() for line in text.splitlines() if line.strip()]
-    #print(f"[DEBUG] Total lines extracted: {len(lines)}")
-
-    events = []
-    year = None
-
-    for idx, line in enumerate(lines):
-        #print(f"[DEBUG] Processing line {idx}: '{line}'")
-        # ページ先頭へのリンクで終了
-        if line == "このページの先頭へ":
-            #print("[DEBUG] Reached sentinel, breaking")
-            break
-
-        # 年の行（例: "2025年"）
-        m_year = re.match(r"^(\d{4})年$", line)
-        if m_year:
-            year = int(m_year.group(1))
-            #print(f"[DEBUG] Set year = {year}")
+    seen, results = set(), []
+    for a in soup.find_all("a", href=True):
+        href = urljoin(TOKYO_JIMIN_URL, a["href"])
+        m = POST_URL_RE.search(href)
+        if not m:
+            continue
+        year, month, day = map(int, m.groups())
+        try:
+            dt = datetime(year, month, day, tzinfo=JST)
+        except ValueError:
+            continue
+        if dt < since:
             continue
 
-        # 日付行（例: "6月11日"）
-        m_date = re.match(r"^(\d{1,2})月(\d{1,2})日$", line)
-        if m_date and year:
-            month, day = map(int, m_date.groups())
-            date_obj = datetime.date(year, month, day)
-            #print(f"[DEBUG] Found date: {date_obj}")
+        title = a.get_text(" ", strip=True)
+        if not title or href in seen:
+            continue
+        seen.add(href)
+        results.append({"dt": dt, "date": f"{month}月{day}日", "title": title, "url": href})
 
-            # 次の２行で「第n回」「・テーマ」を期待
-            iter_line = lines[idx + 1] if idx + 1 < len(lines) else ""
-            theme_line = lines[idx + 2] if idx + 2 < len(lines) else ""
-            #print(f"[DEBUG] Next lines: iter_line='{iter_line}', theme_line='{theme_line}'")
+    results.sort(key=lambda x: x["dt"], reverse=True)
+    return results
 
-            m_iter = re.match(r"^第(\d{1,2})回$", iter_line)
-            m_theme = re.match(r"^・(.+)$", theme_line)
-            if m_iter and m_theme:
-                num = int(m_iter.group(1))
-                theme = m_theme.group(1).strip()
-                #print(f"[DEBUG] Parsed iteration: {num}, theme: '{theme}'")
-
-                # 範囲内かチェック
-                if start_date <= date_obj <= today:
-                    events.append((date_obj, num, theme))
-                    #print("[DEBUG] Appended event")
-                #else:
-                    #print("[DEBUG] Date out of range, skipping")
-            #else:
-                #print("[DEBUG] Iteration or theme pattern not matched, skipping")
-
-    #print(f"[DEBUG] Total events collected: {len(events)}")
-
-    # 出力
-    print("【経済社会のデジタル化への対応と納税環境整備に関する専門家会合】")
-    if not events:
+def main():
+    print("【自民党東京都連（TOKYO自民党）】")
+    try:
+        recs = scrape_tokyo_jimin()
+    except Exception as e:
+        print(f"[WARN] 取得失敗: {e}", file=sys.stderr)
         print("該当データなし\n")
-    else:
-        for date_obj, num, theme in sorted(events, key=lambda x: x[0], reverse=True):
-            print(f"○{date_obj.month}月{date_obj.day}日　第{num}回　{theme}\n")
+        return
+    if not recs:
+        print("該当データなし\n")
+        return
+    for r in recs:
+        print(f"○{r['date']}　{r['title']}")
+        print(f"　{r['url']}\n")
 
 if __name__ == "__main__":
-    fetch_events_last30_days()
+    main()
 
+#-----------------都議会自民党ーーーーーーーーーーーーーーーーー
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+togikai_jimin_watcher.py  rev-1.0  (2026-08-07)
+
+■ 都議会自民党サイトを巡回し、日付表記を含む新着項目のみ抽出。
+"""
+
+TOGIKAI_JIMIN_URL  = "https://www.togikai-jimin.jimusho.jp/"
+TOGIKAI_JIMIN_DAYS = 14
+TOGIKAI_DATE_RE = re.compile(r"(\d{4})[./年](\d{1,2})[./月](\d{1,2})")
+
+def scrape_togikai_jimin():
+    since = datetime.now(JST) - timedelta(days=TOGIKAI_JIMIN_DAYS)
+
+    resp = requests.get(TOGIKAI_JIMIN_URL, headers={"User-Agent": UA}, timeout=30)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.content, "html.parser")
+
+    seen, results = set(), []
+    for tag in soup.find_all(("li", "tr", "p", "dt")):
+        text = tag.get_text(" ", strip=True)
+        m = TOGIKAI_DATE_RE.search(text)
+        if not m:
+            continue
+        year, month, day = map(int, m.groups())
+        try:
+            dt = datetime(year, month, day, tzinfo=JST)
+        except ValueError:
+            continue
+        if dt < since:
+            continue
+
+        a = tag.find("a", href=True)
+        if not a:
+            continue
+        href = urljoin(TOGIKAI_JIMIN_URL, a["href"])
+        if href in seen:
+            continue
+        seen.add(href)
+
+        title = a.get_text(" ", strip=True) or text
+        results.append({"dt": dt, "date": f"{month}月{day}日", "title": title, "url": href})
+
+    results.sort(key=lambda x: x["dt"], reverse=True)
+    return results
+
+def main():
+    print("【都議会自民党】")
+    try:
+        recs = scrape_togikai_jimin()
+    except Exception as e:
+        print(f"[WARN] 取得失敗: {e}", file=sys.stderr)
+        print("該当データなし\n")
+        return
+    if not recs:
+        print("該当データなし\n")
+        return
+    for r in recs:
+        print(f"○{r['date']}　{r['title']}")
+        print(f"　{r['url']}\n")
+
+if __name__ == "__main__":
+    main()
