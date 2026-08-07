@@ -137,9 +137,9 @@ def main():
 
     news.sort(key=lambda x: x["dt"])
 
-    print("【ニュース】")
+    print("【ニュース】\n")
     if not news:
-        print("該当記事なし")
+        print("該当記事なし\n")
         return
     for n in news:
         print(f"○{n['date']} {md_link(n['title'], n['url'])} {n['source']}\n")
@@ -230,7 +230,7 @@ def scrape_governor_rss():
     return out
 
 def main():
-    print("【東京都知事（小池百合子）】")
+    print("【東京都知事（小池百合子）】\n")
     try:
         recs = scrape_governor_rss()
     except Exception as e:
@@ -303,7 +303,7 @@ def scrape_gikai_schedule():
     return out
 
 def main():
-    print("【東京都議会】")
+    print("【東京都議会】\n")
     try:
         recs = scrape_gikai_schedule()
     except Exception as e:
@@ -364,7 +364,7 @@ def scrape_tokyo_jimin():
     return results
 
 def main():
-    print("【自民党東京都連（TOKYO自民党）】")
+    print("【自民党東京都連（TOKYO自民党）】\n")
     try:
         recs = scrape_tokyo_jimin()
     except Exception as e:
@@ -429,7 +429,7 @@ def scrape_togikai_jimin():
     return results
 
 def main():
-    print("【都議会自民党】")
+    print("【都議会自民党】\n")
     try:
         recs = scrape_togikai_jimin()
     except Exception as e:
