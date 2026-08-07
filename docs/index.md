@@ -1,4 +1,4 @@
-更新日時: 2026年8月7日（金）16:15 JST
+更新日時: 2026年8月7日（金）16:18 JST
 
 【ニュース】
 
@@ -18,8 +18,6 @@
 
 ○8月7日 [小池知事、「ブラックボックス」批判した自民都連と蜜月 変化の事情 「東京都」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HVTBYLWNBdXQ4Si05QzkybDBDdE5kVnJQRVpid3lOR1gyVE1xbGlvZm1iV3ZDclFEUlJEeHlkc183cUhpS0VHYnFMYklPcW9waXg1ckpnTU45Rjg2ZXpFYl9FTzdrYWM?oc=5) 朝日新聞
 
-○8月7日 [東京駅近くに「地下シェルター」整備を正式表明…小池百合子知事「多くの方が滞在、施設整備の効果高い」](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SampNaFo0Sld0MEFYeDlNTW1CR3VQbDJjU3hjT1ZmMGI2S0FYZU9BRnBucHNVbnVybjVtclc2dnYyV1hFSDVPaEZEcEo3SDN4T3pDT0ZSY0YyX3llRWdMT2w2LS1YZw?oc=5) 読売新聞
-
 【東京都知事（小池百合子）】
 
 ○8月6日　[東京2020パラリンピック開催から5周年　「BEYOND STADIUM 2026」開催決定!!　毎年恒例のボッチャ大会が過去最大100チーム規模へ！　東京都知事杯ボッチャ大会 出場チーム募集開始!!](https://www.metro.tokyo.lg.jp/information/press/2026/08/2026080608)
@@ -30,7 +28,7 @@
 
 【自民党東京都連（TOKYO自民党）】
 
-該当データなし
+○8月1日　[都議会自民党新執行部が発足](https://www.tokyo-jimin.jp/2026/08/01/1/)
 
 【都議会自民党】
 
