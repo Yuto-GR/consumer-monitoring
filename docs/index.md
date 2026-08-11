@@ -1,30 +1,24 @@
-更新日時: 2026年8月10日（月）17:23 JST
+更新日時: 2026年8月11日（火）09:47 JST
 
 【ニュース】
 
-○8月7日 [大物都知事の宿命、東京は「47分の1」か？ 偏在是正で国と再び対峙](https://news.google.com/rss/articles/CBMibEFVX3lxTE5Oci04NTRTOGE0RGsyQWJRN0lBbUVNNVg3bmR1cDBPRHU5cGpKNmdGMjRhbFd4alpkb1cwVVZlZFFuRk5nWFNXMHhmUE4xV3RMZ2N5ZWQ4YlN2M2xfZGRtNEZRWlI2ZFRkSVdKaA?oc=5) 日本経済新聞
-
-○8月7日 [小池知事、「ブラックボックス」批判した自民都連と蜜月 変化の事情 「東京都」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HVTBYLWNBdXQ4Si05QzkybDBDdE5kVnJQRVpid3lOR1gyVE1xbGlvZm1iV3ZDclFEUlJEeHlkc183cUhpS0VHYnFMYklPcW9waXg1ckpnTU45Rjg2ZXpFYl9FTzdrYWM?oc=5) 朝日新聞
-
 ○8月7日 [握手する高市首相と小池都知事](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QNDVRT19hN3YwRm5YelJmbmlkNVRpR0JmUS16SmJtUVc4bk1BaVlhOXZ1VVcydnJRNGx3NzVXOVp5YkVaYmxFV1dTNlE0LWpl?oc=5) 飯田経済新聞
 
-○8月7日 [小池都知事、追悼文送らず 朝鮮人虐殺、１０年連続](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc3g1TDQ2Ti1vTFZma1VidU5VbVdDM1NKekF1UW1VbTdPbjJWWG5mLUNUcmI5UnhvT0N2ZG1lX001WW96b3VubE5mdS02WU1aVjF1Si1jb05HMERUX0dmQ3FabV9kS2hGdnZzVTdMMURsb05Gc2t3UWFIajh4X0FGZmxWWi13VjdPWFdN?oc=5) 山形新聞
-
-○8月7日 [小池都知事、追悼文送らず](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zRFdpaXRYMDNZamkzS00ybjF4Zl93WGU3Z0doNFFpUzJHZldKX2tJaUpnX1dKdEwwS200MlVjNGR2dVJuQlBDNTg3TXJGamtsWGd0TVJOdU52YVhMQTUyX1hJTENCUQ?oc=5) 埼玉新聞
+○8月7日 [握手する高市首相と小池都知事](https://news.google.com/rss/articles/CBMiUkFVX3lxTE42MTlEeVJZZDh6WHl5eEhIYWxMd2lsTUk3TW9peGhVLXNlQVYxQ25pRHVnM2xxbHhqY2l5NjBfOVlrdTRCclFmdUxKdGI2X2Y0anc?oc=5) 日向経済新聞
 
 ○8月7日 [小池都知事、追悼文送らず 朝鮮人虐殺、１０年連続 - 全国のニュース](https://news.google.com/rss/articles/CBMiVkFVX3lxTE11NDFWOEZKb2hjS3lTd2tmLVZoaTkwVEdudm9nVjdaT3dPd2w5X2N4dmVHSXdOUzhGS0NsMkZmOXRuMHduOEZMVnhBaWRLdVRzalZZM2hn?oc=5) 佐賀新聞
 
-○8月7日 [【写真・画像】小池都知事、追悼文送らず 朝鮮人虐殺、１０年連続 - 全国のニュース](https://news.google.com/rss/articles/CBMiZEFVX3lxTE92c25pWmp0QVNWN2hYc202djd3UHdOLWxpYWk3MExFdHhqYnhFdGlSX2xPYnVoWFh0cU9KaThybS1YM09PRnpWc1FwS2JneFJkR0pOV2Rhd1VBVEcxMnVGTUhoR3Y?oc=5) 佐賀新聞
+○8月7日 [小池都知事、追悼文送らず](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zRFdpaXRYMDNZamkzS00ybjF4Zl93WGU3Z0doNFFpUzJHZldKX2tJaUpnX1dKdEwwS200MlVjNGR2dVJuQlBDNTg3TXJGamtsWGd0TVJOdU52YVhMQTUyX1hJTENCUQ?oc=5) 埼玉新聞
 
 ○8月7日 [小池都知事、追悼文送らず／朝鮮人虐殺、１０年連続](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdFNtUkVId3BmQVM2ajN3RXVYTjFtLUtuZUxZZTVNQU04eExFU1dRbWROOEhZVGhGdlZqRG5rTXdRREpFWmFUZU04b013a3d6UnUxVlRxcmphQkE0eDlyQ2JWMy1XQUZSVkdSdkM1SDd5dVdVWjd3SE03bkhKMmd4OGdDUnd4WHo3eTJr?oc=5) 四国新聞
 
 ○8月7日 [小池都知事、追悼文送らず](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SbnU0VlU4dlJra2VTMHhncmYyNnlIMVhrUk8tQUVrQjdUZTdJZDJMZGRyVi1OM2VwOURuOEt1dEsySXlKODdlUFozc0Q1ZDVybFQ0ZG1UQ0hUbDR5U1BWSnAtUk8?oc=5) 埼玉新聞
 
+○8月7日 [【写真・画像】小池都知事、追悼文送らず 朝鮮人虐殺、１０年連続 - 全国のニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPQ0RUbXJGU29qc3U3MnNzWEs0MlRfSTFfVEo0aGo2eF9KdTlkRUFCbGdyRy02MUJ3NXNwY01rcXVUcUxXUk1McVRPU1NrczBzeGEtc3JRLTJjN3Q5ZEE?oc=5) 佐賀新聞
+
 ○8月7日 [小池都知事、終戦81年を前に「当時の問題点は今も現在進行中」](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qU2pvTkpTMHdLZWw4d1VaZDBmVlZVMk5jYk9TRmRILTFuUlBGcnZzYnZMVmR4dGxQdkM1c1Q0V1hDRVQxV3ZPX2x5OEo4bm9ndU5zR2dyQVM0WW0tZVZkdTg0ckVtNk5y?oc=5) 毎日新聞
 
 ○8月7日 [関東大震災時の朝鮮人虐殺、小池知事は10年連続で追悼文送らぬ意向 「東京都」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aQ2VobDlnekpTMEg0WkZZMjRqX2pwUE1yX3lUMjBHZUdUSjFrellZLUxJeXItSS1KMlZHTjJtSTM4S0Z5cDhkS3k1dTBCSTZEMF8xOU5Cencydlg2bzZZSUNtUkJQX1E?oc=5) 朝日新聞
-
-○8月7日 [関東大震災時の朝鮮人虐殺、小池知事は10年連続で追悼文送らぬ意向 「東京都」](https://news.google.com/rss/articles/CBMigwFBVV95cUxQUnlVZzhNWHljSTR0dFlDU2h2ZllnVWpsS3ZkdWZHUjVJVjFwT2tzVUtOLVlHMGNpN0J4Qm9MWVBVR3ZYUi1XTVFHd1E1aEtPQXFTYlBvXzFZTHVUVjZxczRVeXRoYmZtNm5hREU5b050bUZFU0llRi1xMWpnN3N4NXQybw?oc=5) 朝日新聞
 
 ○8月7日 [消費減税の減収対策、小池都知事が首相に要望 大学定員規制も議論](https://news.google.com/rss/articles/CBMibEFVX3lxTE5RQTF0Yi00VmNTeVhEVkhQVXJQTVA3cHFFQkFYWVAwcjdEMXItR3NhWFc1N3JOQUJBQm1FYzNyMUhnN1N1dWZYaU1LOUZYZm8wUWRfc1Y5bHpNYl9xNXlIek5mZGllZ1VpMzN3cQ?oc=5) 日本経済新聞
 
@@ -64,8 +58,6 @@
 
 ○8月7日 [握手する高市首相と小池都知事](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xeWUwaXA0Z2lWLXVMOWczVFEyUVkxRERNTFJXLUdZb3A5YlpWaFdGdjNJb2FkR0tZUzc1bXR2Y0puWHhCLUhJTXJkS3ExeGZLZVFlUA?oc=5) 伊豆下田経済新聞
 
-○8月7日 [握手する高市首相と小池都知事](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FOWtYNlVxNThIU2xvMEh1bVB5aXRfRV9nX3Q4YkFyV3MtYXQ0TkVucTdTc3FmWXNqOXZqZ0lnMlUwX1dCeHdBR3FaSmxMS21PS19j?oc=5) 台北経済新聞
-
 ○8月7日 [握手する高市首相と小池都知事](https://news.google.com/rss/articles/CBMiWkFVX3lxTE05SDd1S1FoT1o2MUZTUHRVb0N3dkYzLWlpaUNXUnVBRGVFOGs1bEhnOEpSSm90UG9zOS1uOGdReTJTNkFLMTRNbWlRZmdiTVIxRXBmQ0FPRGQwZw?oc=5) びわ湖大津経済新聞
 
 ○8月7日 [握手する高市首相と小池都知事](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0ak52Z0xiSXI2dFNQNTFlUVBWd2pTWTJENkhHR0VKeDJyeEw0Um1fNjgzUHJjaFdCV0tTd00tenNWazJIcWxpUW5MaEJ4N3d1SE1Z?oc=5) 豊田経済新聞
@@ -76,8 +68,6 @@
 
 ○8月8日 [握手する高市首相と小池都知事](https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xVXZFNEVuWTZnX0RUZnZVTHdsNVBBaFdpLVQ1VUNGNkxIYUFPVFRMSV8ycWlrOFB3cGJNME5ZWGNybXp1SDBiMWxnejRrZFJxU21V?oc=5) 湘南経済新聞
 
-○8月8日 [握手する高市首相と小池都知事](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xaDhFTzRaSGllUzdvYVZ5QUFkakZ6R251em9mWTcyWXlnbUlXSHhtTm9aUXFreGNDUTBCNUJndkhadTc5X0h3ZEVOM0s1d0NuT01fLVFB?oc=5) ひなた宮崎経済新聞
-
 ○8月8日 [握手する高市首相と小池都知事](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qREg2SERfM3ROODJIbUZBSWJPb3NDVzVwd1dKakJnTUtnNk1xTVB4ZGE1QUxhQzV0czVCNVJNOEVpZ2VoaVd0VEs5dmhST3BfTjlmQg?oc=5) 盛岡経済新聞
 
 ○8月8日 [握手する高市首相と小池都知事](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UOXZJYUpCYlZZaldkcVZBUUp2X1VvZV95UTZNT0N0S2ZUcmNtcEViRkhkazMzSk50ck5kcXQtbmJ2N3hnMVBsdVl2VkFRbms?oc=5) 伊那経済新聞
@@ -86,13 +76,11 @@
 
 ○8月8日 [握手する高市首相と小池都知事](https://news.google.com/rss/articles/CBMiUkFVX3lxTE95QnBKRHJPMEdBTDQ1VzlBeEpKTjlHSmFTQUpPbkRNU25Nblg1UjhxOXhiOUFUYnNZSE1CT3U4b0dMb1UyVnJtSzNiQjNnVDNtbEE?oc=5) 大宮経済新聞
 
-○8月8日 [握手する高市首相と小池都知事](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zR3NMbXI0dXViNkRyWDI4ZnpNQW5sLTkwcWJDbE5LcllsWjRhaDRRSU1wbUEwSHhXRkd4aHVRMnREbE9PMVV5MjBaNmZDUlU?oc=5) 沼津経済新聞
-
 ○8月8日 [男性中心の組織で女性トップ、小池知事と高市首相に通じる「処世術」 「東京都」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tdWx1SGZEQndPQVRyc3JzODlRS2M0UVdKaFF3RTdwMGlhdm1iWUV6bjBEbldhTWJaOUJ0dEJUaTZoSTgzZ3l1Nm1XZ2NqLXQwM1ZkUlhsdk5IbFFTVkM2TjJWSmhVRjg?oc=5) 朝日新聞
 
-○8月8日 [令和8年8月8日に婚姻届提出者が列 小池百合子東京都知事＆婚活アドバイザーの植草美幸さんが明かす](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFWGdEYjZmMWNEVC1DeTBnUU15SnBQWDZiR0lCNzNHY3pRQk5PTXM3Q1hNcTBpcWhZYVZIRFhadlEwX0JISFRTVXBBTk1sazBGWTFZa3VKNjRuRHBOclE?oc=5) 佐賀新聞
+○8月8日 [エコ農産物で専門店 都知事が試食 東京・麻布十番](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DQ1Q2c2VtVHU5MnlxSW1MUXNWWXVrTGpQeHpUUmRVMjZOLVVKa09wYnlPVGxUT3pacEVzMW9KSDlUM1gtdlp6M2VLdV9iNVpybWZlUkwtVTcwUkk?oc=5) 日本農業新聞
 
-○8月8日 [柿谷曜一朗、妻・丸高愛実に感謝 愛の密度が高いトークに小池都知事が笑顔「ごちそうさまでした」](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YRV9Rd0phS3lFNkZaZUFHSUdjajRkMElyYlBsSTI1eUYzZ1Q1dmlHcjVyclhqUkpDQ2VFcG5uUlJILVVBUUxIMkZFSFdCM2drblE?oc=5) 山陽新聞
+○8月8日 [令和8年8月8日に婚姻届提出者が列 小池百合子東京都知事＆婚活アドバイザーの植草美幸さんが明かす](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFWGdEYjZmMWNEVC1DeTBnUU15SnBQWDZiR0lCNzNHY3pRQk5PTXM3Q1hNcTBpcWhZYVZIRFhadlEwX0JISFRTVXBBTk1sazBGWTFZa3VKNjRuRHBOclE?oc=5) 佐賀新聞
 
 ○8月8日 [小池百合子知事と山本区長からのがメッセージカードが設置された](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LWTNpc1ZwTExteUQ1c1cxOHNoNXRMVDN0S196aGNhRTRVYkxrSDFHSkNCX0dpdHBGeXNJazhubnVURDB2d3pUcENscjZKNC1CdGhsaw?oc=5) すみだ経済新聞
 
@@ -106,13 +94,17 @@
 
 ○8月8日 [八広で町名誕生60周年祝賀会 小池都知事も祝福](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUelB6ZzZIU3NnZGkteklDeGNTSjZUeTJpbVN3Q0R3UTljQTFzNXAxOG5aUkpvYVN1cjc1VkJ6SVNaLUNfenNpYVJicjVHYXlHekE?oc=5) すみだ経済新聞
 
-○8月9日 [令和8年8月8日に婚姻届提出者が列 小池百合子東京都知事＆婚活アドバイザーの植草美幸さんが明かす](https://news.google.com/rss/articles/CBMi5gNBVV95cUxNTGdNdXRaTzFpX1AtMGdYY3ZWTTNZNGlWRDAySkZkSVA2TG5zbm5YbGlpemRaSml3SVFIeDJhSDU3cGpXSV84bjZEenFhWWhrTmZZbFVabVlHeUVjRTRETUwzRTNhdjdESDBROFpRa2JtMUFxZGhNVTRPWjZUeGlzeXk0c0l2OVZtdzI4R3Y2ZkFXcFNCRFZmRjZjZno5bTFrVVJtZDI0b1N0WnZfc0lFaFlHcUZOazRNMnpBWUlkU0NPSEVXaWJXVS1zdUlMMEotUWlJQWpYUVIwODFrTEVFMG80aUtwVlJfOTBqOWpybkxXeklGYlFlVHdjbkVIdU94c3pHMlhFMko4TVA0M1luOTlNeUVOX3BCb3VPRUxoZnJtZi1XbjV5RFZiWFotbXkzRC1SbzN2X0trUF9jdFZ2SF80RVJleUpTTjN5bVNPWUVmdlNrRnJuRG1oU0prYndXSmpveFplU0ZVQng3bkM5RlgwNXVnZm0zNDF5T013YjVwa0tOWVcycE1LMHZ3cjVMWE5EbFVUZHU3MVZTU3B1anhqR1E2TWt0MEw4Q1ZmcUdvWUhaRzRpcldBSUJ4R2x1czZPQ2cycGxUeDctRnp5UlNoYllhcnMycmc3OTE5WDVQdmY4SUE?oc=5) 山陽新聞
+○8月9日 [柿谷曜一朗、妻・丸高愛実に感謝 愛の密度が高いトークに小池都知事が笑顔「ごちそうさまでした」](https://news.google.com/rss/articles/CBMigwFBVV95cUxQVC02OVF6RzdHaGJCVHFKeDNQLTktQlVkMFJYUVhNM0xCTWJ6LUlCeGhIZXR6b1JHaHJELThKUGZYUlRpcG9JbUdrbU1wQ0dfSWJvVzNZNklzYVBENmVwS2NwVzdQUGV3UFhZc0FTZ0VnOVh4VkdKY1g3NHN1dW1McEx4aw?oc=5) 山陽新聞
 
 ○8月9日 [小池都知事、追悼文送らず 朝鮮 人 虐殺、１０年連続](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JNUlTeU53WEI5Sy1ZYnktRnE1Y3BNanJldWtPVlp5UEEtYXQtSHZGZHE0cmJmdHRLRmFVOUhUYlRYU09KbWEwbzh0bE1FaXhXZkxqMlFJODM5al9EdkJFTjdXbw?oc=5) 山陽新聞
 
 ○8月9日 [（左から）小池百合子都知事、山本亨墨田区長、坂井ユカコ区議会議長](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PVHdjRVhndWh5UmVtclhfTnhHd1VFbmc2Rmw0RW8yM1oxd0ZjaFZrMlJJemFQSjlpdDhqS0c2MU1hbGw5ZDlYbV9iZnNseWNjd2xLOA?oc=5) すみだ経済新聞
 
-○8月10日 [柿谷曜一朗、妻・丸高愛実に感謝 愛の密度が高いトークに小池都知事が笑顔「ごちそうさまでした」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VNjNSZUJ3MTBzUHNXaWt3UE1MbGtVbjBnQUNJT1ZzM2VYX04xWFpIYXdwSTlLNkwtTDBRUC1TS1JSYndKN1F1SXpTUGJMMWJxZTdsQWVON3h5VkFXbnRZVXFxOW0?oc=5) 山形新聞
+○8月10日 [【写真・画像】小池都知事、追悼文送らず 朝鮮人虐殺、１０年連続 - 全国のニュース](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CbE51V1lqYUYyWDVaNFFKdkhPU2g0dl9pZVo1eHJOdWxQcDVUWFlnQ3hQdlRYR3lJb1NpNm11OXVHRHZTMmJtZ1pYaGM0eE02dnBEOFdJYXgtQ0NPR2U4NFRDajM?oc=5) 佐賀新聞
+
+○8月10日 [小池知事、国民民主党都連と会合 大学定員規制の撤廃へ協力要請](https://news.google.com/rss/articles/CBMibEFVX3lxTE1XeVM2SEMyanJGVTJsX1M2X2dDMEZ2RmtJX21CczZQdVlvY1lfMGNDMS1iMDMwLVVRM0hMdXFJNFZ2Rl9Qd1dOcTlJY19DZlJicnNzVW4zWnVab01hMFN0STYxNlVEVEN0R21TbA?oc=5) 日本経済新聞
+
+○8月11日 [令和8年8月8日に婚姻届提出者が列 小池百合子東京都知事＆婚活アドバイザーの植草美幸さんが明かす](https://news.google.com/rss/articles/CBMikwFBVV95cUxOamdReUpld3VYRjZZYThueHlBaWtHZnhVSWI2cXlWc1pMNVBobkgyOGFiNDc4cllkVDk1anBZZ1ZjZGJ2ekxVYzdHQzR0SGRyUzljam9LM3VabmRVQ1VfeXJkZWVVekx1RVFkNXZuUENFSUhZbGlvOHRQSEpfaEdQT0g3aWZnM3hTaWFCcGNaVTgyVjA?oc=5) 山陽新聞
 
 【東京都知事（小池百合子）】
 
