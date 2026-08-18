@@ -1,4 +1,4 @@
-更新日時: 2026年8月18日（火）09:31 JST
+更新日時: 2026年8月18日（火）16:32 JST
 
 【ニュース】
 
@@ -14,6 +14,8 @@
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JQUNGcUoyMVFDZHNHeFFxcXAxN0ZGZWRyNzFxRXI5LXJPSE5PZmJwOEs1N3NfaEF4SWtBdGhfMmVJWFYxd3JiYlp6UUtBS2U1Sm9oazhXMA?oc=5) 松本経済新聞
 
+○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XOU5vTmgwQXR3TzJ0NVhGcE5wTGV0ZC1vNGd2R0tyRWJuRXp4dW55OURtb2dvbEFoLUxncG4wSFU1UEZ6OXhUMUQ5QVQtcFpuX2MwLVp3?oc=5) 香港経済新聞
+
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiUEFVX3lxTE80Sm1ISVVaVURVWng4WmRRa3dKNVpyeWVEUENYUVNiYXNnb3VlZEZ2OElXbGxLVWVUMlpXNThEZ0M0NDFNWWE0SHg2T0FCQjVO?oc=5) 神戸経済新聞
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsVGFISGZGR213YVR1NkpzeDk4Zm9xMzUyMFJFMGsyVTV2Yi1qNWlEQkFCUElUcXdtNHl6ckY0dFlONDFtaTU5eE5ET2hHNzZ5?oc=5) 飯田経済新聞
@@ -22,11 +24,13 @@
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mZWhUUERmTHBRZGpTdVV5UkpYb3NnWEEyejZUNUVacmxJdlotOGxHdlJfZ2pEVk9Ua2hmLUVhWXB5WlVLdDA4N01fMW9ZeHhodFJ0amR1cw?oc=5) 鹿児島経済新聞
 
-○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9td2treDJTMEFTN0xXblRRNHpodFVhZzhmQlR5OUhiMUM3d1NtNU9rQktuanpiM1pfTThhS3FBZkpfMGVXWWpDNVVnS29uWERfeHV5Q1dEUQ?oc=5) 尼崎経済新聞
-
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XVk5TTXdYUW5odzNXbU5wZkFhemptVnFGcFUxaDI3bmJxYk5xbHVPNy03Q1Fjc3pWcUpKck5pWHNlaG1NcHhKVXRyQnBNalE?oc=5) 沼津経済新聞
 
+○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiV0FVX3lxTE45T0gwX242dFR4OEdKX0IxZS1GdkxFbjZzQWpkb0FDVWJnci1MclFpeEMyT2lQQ0tMY1M5RndoSDNMRVV1UWJkWmp1T01FelJuekVIbFBIQQ?oc=5) 品川経済新聞
+
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rUTdYS3VkMDlpY3FLeS1oc2w1TTN5UVI2LXN4OXJfUHpPV2paYWFuRUlaWF9EYVJOT1ZXRl9JRHF6d2JUT3VHOXU5Qlh0akljamJV?oc=5) 仙台経済新聞
+
+○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0aWVIdUZaUUdPME10RGJHV2lfNjQ4b25La3lTZW1La1NGTmJ5cHpWWnZxQkdUbU1KTXB1bnNuUlQ1ZnNpSmQwMkk0el9lODFNUzZF?oc=5) 豊田経済新聞
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJZEItRjgtcm93UXF6SjJBWmh1R1NybU5TcUkySFNUYUtwSmRZamFaYlM2XzBTaHFPUk0wNTZ5U0tYV2NhVlNzakRuY0FoZkUwaXc?oc=5) 秋田経済新聞
 
@@ -40,7 +44,11 @@
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiW0FVX3lxTE96dm5RdUJHczVaS2t5S1NmSTB3OWV4bTdfSHNKS2Q2SWZ6Q3lXdExQTW12VHZnYkwwR0l0cnBYR1FHNkMtTk96d2N3RFM1bG9Ca0VQUXFLZXlacEU?oc=5) 逗子葉山経済新聞
 
+○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4QWx1RFN0S1RxR3RtTHZJSkUyTllPNUxuTVRKVEUzck5XbldOcjRxblI4TDlRVC1PZzhaUXc0aVhEUnNiWVpmM1hsTlE3dFlBQ1E?oc=5) 梅田経済新聞
+
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiUEFVX3lxTE96YkhBMzBtMl9CT005U3lqZklRN0Vib1ZKNHFiSkY0dVVWblpHcXhObEU3NWREZHJLMFVDMWtRUWdvSmVpcGo1SnV1OFh0aWEy?oc=5) 江東経済新聞
+
+○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OSTE0YnNUWDFzMEMwTW1XcTJSLUNLYVBSR1FrUUl0NFYwRjd1Vk1fcUJFR0ZSRkhFOWtiVWVFOGVlOVF3c09xdTNUU0hyTWdrV01UdkJR?oc=5) 八王子経済新聞
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Xakx4b3hFM2tLX1hnTEpwM3JTaGpIY3M4a2N0MmlGVFJiY2dETWhwc1dXcUVBTmxKc1lTNDhCcHBwNmlCY1hVblpNSDdtNFJtV1E?oc=5) 調布経済新聞
 
@@ -54,6 +62,8 @@
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iNEJfNFNhM2QxbDlqUndUQnRQeUNWWVhhT2V3LXBYYnJiX29uLWJacWx0YVVoSW1PWEdfdW1UX2dmZko0Z3FpbmllWmV0dFZWcWFCSA?oc=5) 盛岡経済新聞
 
+○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lS1J0eHc4Vk9YQngyVV8wYVZvUHZOdDRFSVFSM0VIT2JXeDhnWlVUVkNWQjhad2h1UFdaSDRhN3FBQWFGaGRzY3ZaNVBCNWE2dmlIdmcwSjlNS1ZqVkE?oc=5) 小田原箱根経済新聞
+
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSNEc2VnlTZ3JVQ2tZZUhwdEE3OUtSNl93Y2hNeDRJZEt6dTZFTy1DYnhOZFVBMXIwY0xZQlpKM2VfOXdzT21YWFpzUWFjOU53?oc=5) 大分経済新聞
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MNEtkVmR1Wi1rTi1lSTRHaW9mVFhwaUM1NUZXY2I3Q1VoR2tONk13U2Rva1FQRUhfZ3NxVnRyS0J3TnlnZ2xBLVBGS1VhSUdIUlc0SmtR?oc=5) 弘前経済新聞
@@ -63,6 +73,8 @@
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RZ3NtNjU5ZXFyNENoQzFVOW10bkFJRkVFNk9MSGJvRU9QT3RNNldnVTJFTUFleUNMOGJKUjBQNlpFNHAwWEZxdHF6Z2JyN1Qz?oc=5) ヨコハマ経済新聞
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NSjRXR3RORVlvaGhXa3BTRzJUUV9UZDZQeWdQZWFnQm9HOWpBR19uaWNjSEE3Z1VpOXVEQ0dNRDBxekRNOVI0bmpyeVNtZU0?oc=5) 伊那経済新聞
+
+○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FQm51alR2Qi1BNkJ5UGo5SkF5eTA5SWw1dFBUUGgtLTJfbC1wTzFXc2tKTW9xM2pxZUptUXhoVUZLZVp3VENSVXJvbXhJSEJqSllpbEpQeFFMVC15Q0pLVzRVdw?oc=5) 奄美群島南三島経済新聞
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qLVlFNjBuazlSYUc4aS1jMEpFNXI4OFlTY2tZVzlqZDI2T3VoNG1MZFhMdlZyTWZtMnUtd3E3VzR2UmI0X0lJb1QzRks3ZnEydVNzcw?oc=5) 筑豊経済新聞
 
@@ -76,7 +88,7 @@
 
 【自民党東京都連（TOKYO自民党）】
 
-○8月12日　[〔公募情報〕杉並区議選（R9統一選）](https://www.tokyo-jimin.jp/2026/08/12/1-3/)
+該当データなし
 
 【都議会自民党】
 
