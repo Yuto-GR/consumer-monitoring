@@ -1,4 +1,4 @@
-更新日時: 2026年8月20日（木）16:35 JST
+更新日時: 2026年8月21日（金）09:33 JST
 
 【ニュース】
 
@@ -16,15 +16,11 @@
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yNk54NGtib1YtTV9RY1F5Z0MzQVdvdGN5TWRVWVc5WTdDOE95Y1NHajFDZjgyVVAyLVp2Y2hfTEV6ZG5peGE0OUxQX08wWW80aDUzSlY5eTBWaFk?oc=5) 高田馬場経済新聞
 
-○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mZWhUUERmTHBRZGpTdVV5UkpYb3NnWEEyejZUNUVacmxJdlotOGxHdlJfZ2pEVk9Ua2hmLUVhWXB5WlVLdDA4N01fMW9ZeHhodFJ0amR1cw?oc=5) 鹿児島経済新聞
-
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rUTdYS3VkMDlpY3FLeS1oc2w1TTN5UVI2LXN4OXJfUHpPV2paYWFuRUlaWF9EYVJOT1ZXRl9JRHF6d2JUT3VHOXU5Qlh0akljamJV?oc=5) 仙台経済新聞
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJZEItRjgtcm93UXF6SjJBWmh1R1NybU5TcUkySFNUYUtwSmRZamFaYlM2XzBTaHFPUk0wNTZ5U0tYV2NhVlNzakRuY0FoZkUwaXc?oc=5) 秋田経済新聞
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNa2NfWDNwalF3Yktfb0p3YUhaQkxLSzVxWW8yOEw3Y0ZuSk9CNTBHSVF1TDZrVUktMldXYUFfMEVSMHN5SHAxQTl1ZzBrbXdWZlZtb2pNNA?oc=5) 高松経済新聞
-
-○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IcUQxNklkYVhLNG5FYndKNUxZZXYtNkJZS3dYVjVKS3ZFVXg5bE9nWHNTN2JvdFNYV3VEM3RyemFtNUdRMVpBV2R3SjVxaTZsaDR5MjRn?oc=5) 春日部経済新聞
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rS0FpdENYUjg5ZVJ1bGUteVMxX1I3R3hsZncyWFltdUd6SjJtaUZueXpVakVkS0J5Sk56Q2VjQWxKeFpnWElYYkY4cS16dFduSV92VHRhZw?oc=5) 習志野経済新聞
 
@@ -34,33 +30,25 @@
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Mc2U2aEdBbnVIakRqRy1KRm9NM3NNNEM0ekhZdGtLRUlZYWVIOEFCWHFuZzhqTUgyZjVpZ3M2T2xVQUJ6dmdpLXdrVDJhanRiZUEwY0x0Zw?oc=5) 池袋経済新聞
 
-○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qcGR1U215Z0hydmdvRFAzVGZBeDUxOUd6MHN1OTdqZ0RnT3l1eGFUWFN6OFlXZXgyZGNrR0pQcEQ2Q2VKeXQ0eHFHeEZSV2hoRGdZemNkZnI?oc=5) 葛飾経済新聞
-
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzVDBRWXBfcVFvcC1XSVpKZlNNZG9QOFUtR21IZGZiODIyVm15VjFVTWlSSDJmMHlWNVYxMFV2TlR5QktLTE93c1I0WVdVQU5lbjk3NV9fbw?oc=5) 川口経済新聞
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiWkFVX3lxTE84NHVuUF80LWhERmNQNVZrR3RrLVFSS0tfQnhZanJ6STZBOWNFa1BvNEYzRkEwNWJiTWM3WjBxcTU0VFlEZXYwQWFSengzRWJWeFhWWTlGT21YZw?oc=5) びわ湖大津経済新聞
-
-○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Xakx4b3hFM2tLX1hnTEpwM3JTaGpIY3M4a2N0MmlGVFJiY2dETWhwc1dXcUVBTmxKc1lTNDhCcHBwNmlCY1hVblpNSDdtNFJtV1E?oc=5) 調布経済新聞
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KaU9LM2xnaUVBdmpGQVVQV3RqTVZNc2o5NXBBOHE5SnJMQ2ltWFNpZVoxb2VueHZIX1IzQlJvREVDZ2x4aEhTVWFVeUwtREpuUEo4?oc=5) 北千住経済新聞
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WQ3pLUEduYTJCSTVWMkFDZFZwandrUDdSbnFRR2lxRUp4MmNhTUd2VC02dVQxMzVtX241Wlo4b2FIQkVXaWV6OTFnSEZicHAyOG1iYlhxOA?oc=5) 八戸経済新聞
 
-○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tTEJQR1hOSklPSVRCeVhuVGpBei1ibVRtQS0tTmFUbVVHNzNSZ3VDSXFSUTJ2dlRieExOU1NZenFFMzRXcGRCS3A4RGRsWXV2R2VIMXF2dw?oc=5) 吉祥寺経済新聞
-
-○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2SnJkRVMxaHJhQXY4ZWpfcTMtTldrQmRxNXNYMGgydjAxbjUzdmFieFZ4U2xaX28xR0kxNnRPdGUzWU9uREdkcDlJNG1aRThTNlNuZ2VB?oc=5) 金沢経済新聞
+○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiUkFVX3lxTE13SFFDWXE0MFpwQkJCdVhWaVJMVDk4MDJmY0hDV2lzR1Z0dHpMWVcwSldTOEdqdUNLLW1yUXhTVkVMS2l5RTRLZTVJMXhuN2dRSEE?oc=5) 小樽経済新聞
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iNEJfNFNhM2QxbDlqUndUQnRQeUNWWVhhT2V3LXBYYnJiX29uLWJacWx0YVVoSW1PWEdfdW1UX2dmZko0Z3FpbmllWmV0dFZWcWFCSA?oc=5) 盛岡経済新聞
-
-○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSNEc2VnlTZ3JVQ2tZZUhwdEE3OUtSNl93Y2hNeDRJZEt6dTZFTy1DYnhOZFVBMXIwY0xZQlpKM2VfOXdzT21YWFpzUWFjOU53?oc=5) 大分経済新聞
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XZ3EySUQ1UXRaRnpLOWlVWmZMSGh3UEFHdk0tMlN0QmRNWXhCUnpvRG9KaG1vTVN3S3ZwMUhTVDNna0w1ZldDX3l2WGs0MEtUWHhiUXVn?oc=5) 京橋経済新聞
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MNEtkVmR1Wi1rTi1lSTRHaW9mVFhwaUM1NUZXY2I3Q1VoR2tONk13U2Rva1FQRUhfZ3NxVnRyS0J3TnlnZ2xBLVBGS1VhSUdIUlc0SmtR?oc=5) 弘前経済新聞
 
-○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiU0FVX3lxTE40QnB4VUR4TEtYbS1icmk3VlI4bUVBN01TSjNuREtsd05jZk5FdDQtbkZHZGliT1BNTlU2YnRKaFhHMFB4dEl5aC1rajU0NkhMTnBF?oc=5) 外房経済新聞
+○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wSUhaTUw5c042RVZUU3RwZGdxZzV4WWNMMTE2MUtLd0dDUnJFNTRMc3JoYlpXbDVkM1ktdURqeUI0cmNDMG5pTWVXOW8wcDJJSHZNSE1n?oc=5) 伊勢志摩経済新聞
 
-○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jUGxuQjdjdkU1V2I2MnE0Q3hROV9ORktBa3duY0pFTTAtN1FTNW11YXh1N0N3N0pwemxBUDR1R01TZmJqcnF0TGZqNXFzeUdn?oc=5) 佐賀経済新聞
+○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiU0FVX3lxTE40QnB4VUR4TEtYbS1icmk3VlI4bUVBN01TSjNuREtsd05jZk5FdDQtbkZHZGliT1BNTlU2YnRKaFhHMFB4dEl5aC1rajU0NkhMTnBF?oc=5) 外房経済新聞
 
 ○8月17日 [宮沢夕貴、小池知事を訪問](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RZ3NtNjU5ZXFyNENoQzFVOW10bkFJRkVFNk9MSGJvRU9QT3RNNldnVTJFTUFleUNMOGJKUjBQNlpFNHAwWEZxdHF6Z2JyN1Qz?oc=5) ヨコハマ経済新聞
 
@@ -118,7 +106,9 @@
 
 ○8月18日 [インタビューに答える小池知事](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VOWJseW5FRE8wM2NrcnZXV0xwakxKc2xiQkNlcnhnU3V0STNpR0NZdTktTmxUUVJITVB1bDlmRmpCTF85OGlzLUpxZ3FLZjV1ZlVUcA?oc=5) 筑豊経済新聞
 
-○8月20日 [小池知事 女性活躍条例の狙い「女性の力こそ、東京の最大のポテンシャル」 （3ページ目）](https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmdjaDh1QmJSVU9kOXRtdzF3U0h6NTFFY092cDZhdktPbXdLbE9rWFJFbk4ybkRmaVVGREl3MkNrTE9SdkZBU3pieDRLcUREMDR5QlNTZ2ZfRjlnajczYjF1SXc3eGZqWHhxWVpadFlabTd4SmNoME5HbHh5VFgyeXkzZS1WdEdQTEZGdjhjNUdGejVMc3JiVmpn?oc=5) 日本経済新聞
+○8月20日 [小池知事 女性活躍条例の狙い「女性の力こそ、東京の最大のポテンシャル」](https://news.google.com/rss/articles/CBMibEFVX3lxTE1tbzZTcWZ4Wi0zQ09iSkQxOFEyMjRKUzFRLUZlQTNxLVBIaG5YdzRfRXFldEhDZ2tPLXdnYnNNZWRBS0tJODJ5cmYzUHB6a01VODNBaEFRRHZzN1BobnBwTDN6enllTUNhNVJmTA?oc=5) 日本経済新聞
+
+○8月21日 [日台サミット 重要技術で連携へ 小池知事も出席 ／東京](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NSnYxZlFWcEdGaGF1UnR6RVpPTU1uM01yLUtZQTN6TjgwQU9xS2k4OU9IMjNVQTZyZmV1MUpuUGNGUEIyelBaT2ZFTFowRkUtcDdTbkxoX0p1SnBTZWZpQTRlenpyNjNO?oc=5) 毎日新聞
 
 【東京都知事（小池百合子）】
 
