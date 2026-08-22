@@ -1,4 +1,4 @@
-更新日時: 2026年8月22日（土）09:31 JST
+更新日時: 2026年8月22日（土）16:25 JST
 
 【ニュース】
 
@@ -37,6 +37,8 @@
 ○8月18日 [インタビューに答える小池知事](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJLUxEaW5QTGI4WXNtdFNuTFM3NWs5M0JsRmN1QUE3amhkNS1ubzBwWEk1bjBVVXcxUnJnTWJlY0RzbmFhWks0bUpXWFpndkgtZ0RTYVNIMA?oc=5) 池袋経済新聞
 
 ○8月18日 [インタビューに答える小池知事](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LT21HWFhCOUJrNHVVN0g4amNoaEhTTGpVNmV6U3ZFcDhPMi1HdlJ4c1JZN3gzWFl5S0xTZjE5Q180Wm1Pc1VIZ0cwVUpnSWJNeHROaw?oc=5) 江戸川経済新聞
+
+○8月18日 [インタビューに答える小池知事](https://news.google.com/rss/articles/CBMiVEFVX3lxTE94QnZNLWRHU2p3YThmSDBZUWRZalhnRm1kX2RZbnJPX01XT0xuZVF6RWNUQ2F0OVA0dlJsYUNnbkxOajJ6ZnI2S25IU3JscVM4WEN2RA?oc=5) 相模原町田経済新聞
 
 ○8月18日 [インタビューに答える小池知事](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ycm5GMFJHaFlVeFNQTkpmVnN0QzJkNV9SV2h6UjhTcjBHcFhNUUxSMWxBcHk0SWtFbVBBMXBObVRVTi1xNTZTZXNKQU95djJ6?oc=5) 佐賀経済新聞
 
