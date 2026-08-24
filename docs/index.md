@@ -1,8 +1,6 @@
-更新日時: 2026年8月23日（日）16:28 JST
+更新日時: 2026年8月24日（月）09:33 JST
 
 【ニュース】
-
-○8月20日 [小池知事 女性活躍条例の狙い「女性の力こそ、東京の最大のポテンシャル」 （3ページ目）](https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmdjaDh1QmJSVU9kOXRtdzF3U0h6NTFFY092cDZhdktPbXdLbE9rWFJFbk4ybkRmaVVGREl3MkNrTE9SdkZBU3pieDRLcUREMDR5QlNTZ2ZfRjlnajczYjF1SXc3eGZqWHhxWVpadFlabTd4SmNoME5HbHh5VFgyeXkzZS1WdEdQTEZGdjhjNUdGejVMc3JiVmpn?oc=5) 日本経済新聞
 
 ○8月21日 [日台サミット 重要技術で連携へ 小池知事も出席 ／東京](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NSnYxZlFWcEdGaGF1UnR6RVpPTU1uM01yLUtZQTN6TjgwQU9xS2k4OU9IMjNVQTZyZmV1MUpuUGNGUEIyelBaT2ZFTFowRkUtcDdTbkxoX0p1SnBTZWZpQTRlenpyNjNO?oc=5) 毎日新聞
 
