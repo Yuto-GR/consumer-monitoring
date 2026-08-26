@@ -1,8 +1,8 @@
-更新日時: 2026年8月25日（火）16:39 JST
+更新日時: 2026年8月26日（水）09:33 JST
 
 【ニュース】
 
-○8月21日 [大規模災害時の死者氏名公表 小池都知事「国にルール作り要望」](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nUHRKcjVjNUtFSGxDb2ZicGp4bWpNcXlidHN5NWFIcFI4VG81WTZLWjBzV0pfUEM2Z0ZmN0dYY1RJTXk5SURYNHl5bWtyMU41RzRMc0ktQXFhS0c3V1hwb2FkMFZBUERr?oc=5) 毎日新聞
+○8月25日 [東京手仕事プロジェクト、都知事賞に多摩織 賞品発表会・表彰式開催](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MbWdoVDF5Zm5CVUJqNk45WW9XWENsNDNlUkVfNEg0MGY4empfdjlkbnlTTjlmTDhnSGZYM2l5a080WThkQS1NcDhjOE1rR0FCV2RLMW0ta3Y?oc=5) 日刊工業新聞
 
 【東京都知事（小池百合子）】
 
