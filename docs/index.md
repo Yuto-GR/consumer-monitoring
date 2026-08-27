@@ -1,4 +1,4 @@
-更新日時: 2026年8月27日（木）14:25 JST
+更新日時: 2026年8月28日（金）03:01 JST
 
 【ニュース】
 
@@ -12,6 +12,8 @@
 
 ○8月26日 [【電子版】小池都知事、「国際金融都市」構想の骨子公表](https://news.google.com/rss/articles/CBMibkFVX3lxTE9HczBnS3VUWEZpNGV1dzIweUZVbWNjdzlUUzZlV3VOcmU1b0JVUHNrUFpsSlZXdUI3b2tzUUxKNk5KZzNMQ2dldmowRFd4bTZZdmg3T2VoWE5LWG5nYXFfc2RqaUNNQ0psUUFXcVRB?oc=5) 日刊工業新聞
 
+○8月27日 [オイシイファーム、都知事を表敬訪問 羽村の植物工場紹介](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vbHdkbkFoVjVULTBvd0FtV25URGR1SGxFYWpvRzFSQjlTTHpQbnZQWFFqSjFRMDlRZ2NQWU5jMTlRRWN0cC0tbDdETjU5MGpiVDhLRkY1cXg?oc=5) 日刊工業新聞
+
 ○8月27日 [追悼文を送らない小池百合子知事へ抗議 関東大震災で虐殺された朝鮮人の追悼イベント、9月1日に新宿で](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5VTdnOHIzQVcxeU5VT3VjeldBUHNiZEEtZi1TZGJwbkJqV2tSeHJuNkpCSGtjbnp1c2hYeWwzWFJjTFZfR0tJa29NZ1UtZ2FlYkFv?oc=5) 東京新聞
 
 ○8月27日 [追悼文ない都知事へ抗議 関東大震災 朝鮮人虐殺めぐりアーティストら](https://news.google.com/rss/articles/CBMiYkFVX3lxTE84SnFaNjNqMVpwVkc2RTJHa2txXzJQWE9sRmpybUt4NHhrbDRvc1NxNHFkSi1IMmhvUEF3ZzdFcXFkYmdqLWtXRV9nWnl4aV9oeDhLN2lvQUtKazEzYkRMTlZ3?oc=5) 東京新聞
@@ -22,7 +24,7 @@
 
 【東京都知事（小池百合子）】
 
-該当データなし
+○8月27日　[「KURUMIRU」都庁店10周年記念フェアを開催！](https://www.metro.tokyo.lg.jp/information/press/2026/08/2026082724)
 
 【東京都議会】
 
@@ -30,9 +32,7 @@
 
 【自民党東京都連（TOKYO自民党）】
 
-○8月26日　[〔公募情報〕荒川区議選（R9統一選）](https://www.tokyo-jimin.jp/2026/08/26/1-4/)
-
-○8月25日　[【募金】令和8年熊本地震](https://www.tokyo-jimin.jp/2026/08/25/2-2/)
+該当データなし
 
 【都議会自民党】
 
