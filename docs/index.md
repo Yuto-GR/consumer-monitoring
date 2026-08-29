@@ -1,10 +1,12 @@
-更新日時: 2026年8月29日（土）04:11 JST
+更新日時: 2026年8月29日（土）13:33 JST
 
 【ニュース】
 
 ○8月25日 [経営ひと言／東京都知事の小池百合子さん「AIの功罪共有」](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EelYwYWhNc2xJOWhBYldMVnhYVkpQcWt3dW9wbUhwYnJfMWh1OGFjQ3ozellybUIxa3BZUVRWX0lldzJfNWdUR3cxUnVMQ2M4WEFHa2Z2WWY?oc=5) 日刊工業新聞
 
 ○8月26日 [インタビュー／舛添要一東京都知事「都内の中小政策に全力」](https://news.google.com/rss/articles/CBMib0FVX3lxTE5tM3BBRTluU3lXbFpsYnN2eWx1c1JuSklkQVppU0pxZGxDZUFVTVNUa1JHZVJsY0pqTzZLVTQ3d01kQkVsQTBMZGw1eDlveTd5aXg2aTJaTFljTW1ha2tYbHB4RG1ndHhSNjBFWTU2QQ?oc=5) 日刊工業新聞
+
+○8月26日 [東京の魅力、世界に発信 都市型競技予選で小池知事](https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyaXFWbjdMLWZ0TThPOWxDbE1tRkEtTVZWTmwwTUlaVjB6eUk3LTRBbjFBTnViTHdrdTFhaVBuTWJkc2VKUmlVejdyVTVXUXVyVmc?oc=5) 山陽新聞
 
 ○8月26日 [東京手仕事プロジェクト、都知事賞に多摩織 賞品発表会・表彰式開催](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MbWdoVDF5Zm5CVUJqNk45WW9XWENsNDNlUkVfNEg0MGY4empfdjlkbnlTTjlmTDhnSGZYM2l5a080WThkQS1NcDhjOE1rR0FCV2RLMW0ta3Y?oc=5) 日刊工業新聞
 
@@ -16,9 +18,9 @@
 
 ○8月27日 [追悼文ない都知事へ抗議 関東大震災 朝鮮人虐殺めぐりアーティストら](https://news.google.com/rss/articles/CBMiYkFVX3lxTE84SnFaNjNqMVpwVkc2RTJHa2txXzJQWE9sRmpybUt4NHhrbDRvc1NxNHFkSi1IMmhvUEF3ZzdFcXFkYmdqLWtXRV9nWnl4aV9oeDhLN2lvQUtKazEzYkRMTlZ3?oc=5) 東京新聞
 
-○8月27日 [埼玉の中3すごい！国内の最高賞を“総なめ” 県知事賞や文科大臣賞、都知事賞…硬筆、書道の展覧会で数多く受賞 「書くことが大好き」と話す熊谷の中学生、夢は「世界に書道を広めたい」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE96STFhZXNScE5fSUR0S0lQLXJIWDVad2UxbV9tTDlCY2ozOTJuaVNFNUxrQnFXYS1ucGRzWXdVNkdIODNWblN1czVGNzdONXBPRFFDWHlzSGZYbC1oa1d4WWFTMDY?oc=5) 埼玉新聞
+○8月27日 [埼玉の中3すごい！国内の最高賞を“総なめ” 県知事賞や文科大臣賞、都知事賞…硬筆、書道の展覧会で数多く受賞 「書くことが大好き」と話す熊谷の中学生、夢は「世界に書道を広めたい」](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBVnB6UHRaX1VTVGhpOEduVXdabnk4c01RNm92bTZ5Rks4aTVfaHQ0RExpNXE4ZGY2aXYxaEg3Q29Id09kanh3V1RPQ0Z1VV9nVDVjWlhqQQ?oc=5) 埼玉新聞
 
-○8月28日 [埼玉の中3すごい！国内の最高賞を“総なめ” 県知事賞や文科大臣賞、都知事賞…硬筆、書道の展覧会で数多く受賞 「書くことが大好き」と話す熊谷の中学生、夢は「世界に書道を広めたい」](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVdnlmaExpSXM0RlJ2aDdfVVJ4bEMtRVFUVVlaVHhQcjhZOHFKNWhONl9LbzdVVjlzWlJmOURUOFJnM0JsaGxIU05CNllCUUJJVUduSkZpdjhGQVYyVWJpRS14cU5sdw?oc=5) 埼玉新聞
+○8月27日 [埼玉の中3すごい！国内の最高賞を“総なめ” 県知事賞や文科大臣賞、都知事賞…硬筆、書道の展覧会で数多く受賞 「書くことが大好き」と話す熊谷の中学生、夢は「世界に書道を広めたい」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE96STFhZXNScE5fSUR0S0lQLXJIWDVad2UxbV9tTDlCY2ozOTJuaVNFNUxrQnFXYS1ucGRzWXdVNkdIODNWblN1czVGNzdONXBPRFFDWHlzSGZYbC1oa1d4WWFTMDY?oc=5) 埼玉新聞
 
 ○8月28日 [名誉都民候補にタモリさん、小池百合子都知事「都民の誇りだ」…児童文学作家・角野栄子さんらも](https://news.google.com/rss/articles/CBMiZkFVX3lxTE45dnJjeHFhbnhVQmF5akZ0Szg0ZTI5OHdtQ0tiNlhya3N3dmVfNFNjamJDdDN2NmE5eWJvS05mODNSandZM3Nud1NTbzZQeEFJUENRRlFMU01reEo2alBFR1hROEV3QQ?oc=5) 読売新聞
 
