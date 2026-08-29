@@ -1,8 +1,6 @@
-更新日時: 2026年8月29日（土）13:33 JST
+更新日時: 2026年8月29日（土）21:55 JST
 
 【ニュース】
-
-○8月25日 [経営ひと言／東京都知事の小池百合子さん「AIの功罪共有」](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EelYwYWhNc2xJOWhBYldMVnhYVkpQcWt3dW9wbUhwYnJfMWh1OGFjQ3ozellybUIxa3BZUVRWX0lldzJfNWdUR3cxUnVMQ2M4WEFHa2Z2WWY?oc=5) 日刊工業新聞
 
 ○8月26日 [インタビュー／舛添要一東京都知事「都内の中小政策に全力」](https://news.google.com/rss/articles/CBMib0FVX3lxTE5tM3BBRTluU3lXbFpsYnN2eWx1c1JuSklkQVppU0pxZGxDZUFVTVNUa1JHZVJsY0pqTzZLVTQ3d01kQkVsQTBMZGw1eDlveTd5aXg2aTJaTFljTW1ha2tYbHB4RG1ndHhSNjBFWTU2QQ?oc=5) 日刊工業新聞
 
@@ -36,9 +34,7 @@
 
 【自民党東京都連（TOKYO自民党）】
 
-○8月26日　[〔公募情報〕荒川区議選（R9統一選）](https://www.tokyo-jimin.jp/2026/08/26/1-4/)
-
-○8月25日　[【募金】令和8年熊本地震](https://www.tokyo-jimin.jp/2026/08/25/2-2/)
+該当データなし
 
 【都議会自民党】
 
