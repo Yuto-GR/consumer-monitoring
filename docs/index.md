@@ -1,16 +1,12 @@
-更新日時: 2026年8月30日（日）11:02 JST
+更新日時: 2026年8月30日（日）21:29 JST
 
 【ニュース】
-
-○8月26日 [東京手仕事プロジェクト、都知事賞に多摩織 賞品発表会・表彰式開催](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MbWdoVDF5Zm5CVUJqNk45WW9XWENsNDNlUkVfNEg0MGY4empfdjlkbnlTTjlmTDhnSGZYM2l5a080WThkQS1NcDhjOE1rR0FCV2RLMW0ta3Y?oc=5) 日刊工業新聞
 
 ○8月27日 [オイシイファーム、都知事を表敬訪問 羽村の植物工場紹介](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vbHdkbkFoVjVULTBvd0FtV25URGR1SGxFYWpvRzFSQjlTTHpQbnZQWFFqSjFRMDlRZ2NQWU5jMTlRRWN0cC0tbDdETjU5MGpiVDhLRkY1cXg?oc=5) 日刊工業新聞
 
 ○8月27日 [追悼文を送らない小池百合子知事へ抗議 関東大震災で虐殺された朝鮮人の追悼イベント、9月1日に新宿で](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5VTdnOHIzQVcxeU5VT3VjeldBUHNiZEEtZi1TZGJwbkJqV2tSeHJuNkpCSGtjbnp1c2hYeWwzWFJjTFZfR0tJa29NZ1UtZ2FlYkFv?oc=5) 東京新聞
 
 ○8月27日 [埼玉の中3すごい！国内の最高賞を“総なめ” 県知事賞や文科大臣賞、都知事賞…硬筆、書道の展覧会で数多く受賞 「書くことが大好き」と話す熊谷の中学生、夢は「世界に書道を広めたい」](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBVnB6UHRaX1VTVGhpOEduVXdabnk4c01RNm92bTZ5Rks4aTVfaHQ0RExpNXE4ZGY2aXYxaEg3Q29Id09kanh3V1RPQ0Z1VV9nVDVjWlhqQQ?oc=5) 埼玉新聞
-
-○8月27日 [埼玉の中3すごい！国内の最高賞を“総なめ” 県知事賞や文科大臣賞、都知事賞…硬筆、書道の展覧会で数多く受賞 「書くことが大好き」と話す熊谷の中学生、夢は「世界に書道を広めたい」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE96STFhZXNScE5fSUR0S0lQLXJIWDVad2UxbV9tTDlCY2ozOTJuaVNFNUxrQnFXYS1ucGRzWXdVNkdIODNWblN1czVGNzdONXBPRFFDWHlzSGZYbC1oa1d4WWFTMDY?oc=5) 埼玉新聞
 
 ○8月28日 [名誉都民候補にタモリさん、小池百合子都知事「都民の誇りだ」…児童文学作家・角野栄子さんらも](https://news.google.com/rss/articles/CBMiZkFVX3lxTE45dnJjeHFhbnhVQmF5akZ0Szg0ZTI5OHdtQ0tiNlhya3N3dmVfNFNjamJDdDN2NmE5eWJvS05mODNSandZM3Nud1NTbzZQeEFJUENRRlFMU01reEo2alBFR1hROEV3QQ?oc=5) 読売新聞
 
