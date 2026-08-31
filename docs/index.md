@@ -1,8 +1,6 @@
-更新日時: 2026年8月31日（月）10:58 JST
+更新日時: 2026年8月31日（月）23:44 JST
 
 【ニュース】
-
-○8月27日 [埼玉の中3すごい！国内の最高賞を“総なめ” 県知事賞や文科大臣賞、都知事賞…硬筆、書道の展覧会で数多く受賞 「書くことが大好き」と話す熊谷の中学生、夢は「世界に書道を広めたい」](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVdnlmaExpSXM0RlJ2aDdfVVJ4bEMtRVFUVVlaVHhQcjhZOHFKNWhONl9LbzdVVjlzWlJmOURUOFJnM0JsaGxIU05CNllCUUJJVUduSkZpdjhGQVYyVWJpRS14cU5sdw?oc=5) 埼玉新聞
 
 ○8月28日 [名誉都民候補にタモリさん、小池百合子都知事「都民の誇りだ」…児童文学作家・角野栄子さんらも](https://news.google.com/rss/articles/CBMiZkFVX3lxTE45dnJjeHFhbnhVQmF5akZ0Szg0ZTI5OHdtQ0tiNlhya3N3dmVfNFNjamJDdDN2NmE5eWJvS05mODNSandZM3Nud1NTbzZQeEFJUENRRlFMU01reEo2alBFR1hROEV3QQ?oc=5) 読売新聞
 
