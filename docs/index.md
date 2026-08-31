@@ -1,14 +1,12 @@
-更新日時: 2026年8月30日（日）21:29 JST
+更新日時: 2026年8月31日（月）10:58 JST
 
 【ニュース】
 
-○8月27日 [オイシイファーム、都知事を表敬訪問 羽村の植物工場紹介](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vbHdkbkFoVjVULTBvd0FtV25URGR1SGxFYWpvRzFSQjlTTHpQbnZQWFFqSjFRMDlRZ2NQWU5jMTlRRWN0cC0tbDdETjU5MGpiVDhLRkY1cXg?oc=5) 日刊工業新聞
-
-○8月27日 [追悼文を送らない小池百合子知事へ抗議 関東大震災で虐殺された朝鮮人の追悼イベント、9月1日に新宿で](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5VTdnOHIzQVcxeU5VT3VjeldBUHNiZEEtZi1TZGJwbkJqV2tSeHJuNkpCSGtjbnp1c2hYeWwzWFJjTFZfR0tJa29NZ1UtZ2FlYkFv?oc=5) 東京新聞
-
-○8月27日 [埼玉の中3すごい！国内の最高賞を“総なめ” 県知事賞や文科大臣賞、都知事賞…硬筆、書道の展覧会で数多く受賞 「書くことが大好き」と話す熊谷の中学生、夢は「世界に書道を広めたい」](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBVnB6UHRaX1VTVGhpOEduVXdabnk4c01RNm92bTZ5Rks4aTVfaHQ0RExpNXE4ZGY2aXYxaEg3Q29Id09kanh3V1RPQ0Z1VV9nVDVjWlhqQQ?oc=5) 埼玉新聞
+○8月27日 [埼玉の中3すごい！国内の最高賞を“総なめ” 県知事賞や文科大臣賞、都知事賞…硬筆、書道の展覧会で数多く受賞 「書くことが大好き」と話す熊谷の中学生、夢は「世界に書道を広めたい」](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVdnlmaExpSXM0RlJ2aDdfVVJ4bEMtRVFUVVlaVHhQcjhZOHFKNWhONl9LbzdVVjlzWlJmOURUOFJnM0JsaGxIU05CNllCUUJJVUduSkZpdjhGQVYyVWJpRS14cU5sdw?oc=5) 埼玉新聞
 
 ○8月28日 [名誉都民候補にタモリさん、小池百合子都知事「都民の誇りだ」…児童文学作家・角野栄子さんらも](https://news.google.com/rss/articles/CBMiZkFVX3lxTE45dnJjeHFhbnhVQmF5akZ0Szg0ZTI5OHdtQ0tiNlhya3N3dmVfNFNjamJDdDN2NmE5eWJvS05mODNSandZM3Nud1NTbzZQeEFJUENRRlFMU01reEo2alBFR1hROEV3QQ?oc=5) 読売新聞
+
+○8月28日 [都内の待機児童6年ぶり1000人超 小池知事「出生数増えた」](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UeEd6TXEyTzRRcV93ZUlBM1FFOGl5X0NCOTBMTWVzcmV1UlkzU1d6YXI5UFczYVBJclM2WXItNHFFQjg3QTExWDg2b1NKOEI3eS11OU1uUndhOXhJd0pLbEhtZ3BsdkFm?oc=5) 毎日新聞
 
 ○8月28日 [小池百合子知事「つらい気持ちや不安を抱えてたら、無理しないで」 新学期前の子どもたちにメッセージ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RVnIyTDJuWWJZOW9PYWoxN2tpSjNlaTQyTVo0bG1GQTV2b19sQlJFSzA0dVdrRndoZ3FPenAxQjRrNExPVkkwMVNfYXFwT3E2dkk0?oc=5) 東京新聞
 
@@ -16,7 +14,7 @@
 
 【東京都知事（小池百合子）】
 
-○8月27日　[「KURUMIRU」都庁店10周年記念フェアを開催！](https://www.metro.tokyo.lg.jp/information/press/2026/08/2026082724)
+該当データなし
 
 【東京都議会】
 
