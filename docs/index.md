@@ -1,4 +1,4 @@
-更新日時: 2026年8月31日（月）23:44 JST
+更新日時: 2026年9月1日（火）11:20 JST
 
 【ニュース】
 
@@ -16,13 +16,21 @@
 
 【東京都議会】
 
-該当データなし
+○9月15日　[総務委員会 9月15日](https://www.gikai.metro.tokyo.lg.jp/schedule/general-affairs.html)
+
+○9月15日　[財政委員会 9月15日](https://www.gikai.metro.tokyo.lg.jp/schedule/financial.html)
+
+○9月15日　[都市整備委員会 9月15日](https://www.gikai.metro.tokyo.lg.jp/schedule/urban-development.html)
+
+○9月15日　[経済・港湾委員会 9月15日](https://www.gikai.metro.tokyo.lg.jp/schedule/economic-port-and-harbor.html)
+
+○9月15日　[公営企業委員会 9月15日](https://www.gikai.metro.tokyo.lg.jp/schedule/public-enterprise.html)
+
+○9月15日　[警察・消防委員会 9月15日](https://www.gikai.metro.tokyo.lg.jp/schedule/police-fire-fighting.html)
 
 【自民党東京都連（TOKYO自民党）】
 
 ○8月26日　[〔公募情報〕荒川区議選（R9統一選）](https://www.tokyo-jimin.jp/2026/08/26/1-4/)
-
-○8月25日　[【募金】令和8年熊本地震](https://www.tokyo-jimin.jp/2026/08/25/2-2/)
 
 【都議会自民党】
 
