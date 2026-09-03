@@ -1,4 +1,4 @@
-更新日時: 2026年9月3日（木）10:47 JST
+更新日時: 2026年9月3日（木）20:52 JST
 
 【ニュース】
 
@@ -8,7 +8,7 @@
 
 ○9月1日 [【写真】朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNSmppcUxMa2YxV2ZBemdERjdmcWFiZjc2RDAwb2FMcnc0Uzc3cHd2d0txRHhFbTBsUXhvaERyWThKT01tZTd1REJIaXgzam8wT3I2WEpPRFFoWG80MDVLQUxPVUM4dmNf?oc=5) 南日本新聞
 
-○9月1日 [【写真・画像】朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず - 全国のニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OZy1PYUlYYmhqV1AydUptb29OSGRQQ0w2LXEwTGNUd1I1d0oyNW9IdTZsN2tXUjJGWFd1cmZ2SXdRMU1NT1JOODdjUjJhak91MFdPTGg1OXk1cDNpYnc?oc=5) 佐賀新聞
+○9月1日 [【写真・画像】朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず - 全国のニュース](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lYkhLU0lwMkIzbmMtS1NnODlUTlZVUnNWN1BzN1ZCU3I2VnlhZERzS3pEeVkwOU11NTNXTUZUT29LcVFUOWhVeFJUckROQklNWEdYTFpwLXVRc2d3WU82b3Z1U28?oc=5) 佐賀新聞
 
 【東京都知事（小池百合子）】
 
@@ -36,7 +36,9 @@
 
 【自民党東京都連（TOKYO自民党）】
 
-該当データなし
+○9月3日　[〔公募情報〕千代田区議選（R9統一選）](https://www.tokyo-jimin.jp/2026/09/03/1-5/)
+
+○9月3日　[〔公募情報〕足立区議選（R9）](https://www.tokyo-jimin.jp/2026/09/03/1-2-2/)
 
 【都議会自民党】
 
