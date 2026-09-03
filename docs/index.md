@@ -1,4 +1,4 @@
-更新日時: 2026年9月2日（水）20:54 JST
+更新日時: 2026年9月3日（木）10:47 JST
 
 【ニュース】
 
@@ -7,10 +7,6 @@
 ○9月1日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず - 全国のニュース](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIQW1VMzFidDZWM0lFMEhORHVwbTV0N3ZXT3FjMWVTTFNWb1RjUk5jTjYyVkZ1TjJ3Z3R1OXRDdGRNSlUzaVNZYW9xcFpXTmc1ODJSYXN3?oc=5) 佐賀新聞
 
 ○9月1日 [【写真】朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNSmppcUxMa2YxV2ZBemdERjdmcWFiZjc2RDAwb2FMcnc0Uzc3cHd2d0txRHhFbTBsUXhvaERyWThKT01tZTd1REJIaXgzam8wT3I2WEpPRFFoWG80MDVLQUxPVUM4dmNf?oc=5) 南日本新聞
-
-○9月1日 [【写真】朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85Qi1SV1FLNmR6MUktSnBGc25Da0xtNjNwaTRUXzJfUTVpc3ZoekJxa1ozb2VDVHdUajlrcVRHUHNaTzROSEhabGFUd21oeWFsOEt6X0tXSGU0bTJGNmJZM3JxSUZfb2M?oc=5) 南日本新聞
-
-○9月1日 [〈小池知事会見ファイル＋8月〉「何度も毎年同じ質問、同じ答え」そう言われても記者が繰り返し問う理由](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnMFZqbVJabjVxMHlkVzRLTTk3WGNlTi1KNjRsMFU2VXVla1V5bmt5anhuLWtfcnJkUHAyRW1mRDlqRDFiUXRuZDRSbC1JdHpER0JR?oc=5) 東京新聞
 
 ○9月1日 [【写真・画像】朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず - 全国のニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OZy1PYUlYYmhqV1AydUptb29OSGRQQ0w2LXEwTGNUd1I1d0oyNW9IdTZsN2tXUjJGWFd1cmZ2SXdRMU1NT1JOODdjUjJhak91MFdPTGg1OXk1cDNpYnc?oc=5) 佐賀新聞
 
