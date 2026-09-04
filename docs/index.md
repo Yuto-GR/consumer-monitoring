@@ -1,14 +1,10 @@
-更新日時: 2026年9月3日（木）20:52 JST
+更新日時: 2026年9月4日（金）10:41 JST
 
 【ニュース】
 
-○8月31日 [津田さん都知事賞 二科展、石川の入選入賞者｜社会｜石川のニュース](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBURlMxeENHMW95VjNoNlZhOVdhbXBnVTZ5ZExuZHkxRWdxWlBJcENSb3E3RzZrWGRqMkJVQWI0dGZaSDduZkJ4LXd6NjVoUFlYY2gxM281Yw?oc=5) 北國新聞
-
-○9月1日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず - 全国のニュース](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIQW1VMzFidDZWM0lFMEhORHVwbTV0N3ZXT3FjMWVTTFNWb1RjUk5jTjYyVkZ1TjJ3Z3R1OXRDdGRNSlUzaVNZYW9xcFpXTmc1ODJSYXN3?oc=5) 佐賀新聞
-
 ○9月1日 [【写真】朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNSmppcUxMa2YxV2ZBemdERjdmcWFiZjc2RDAwb2FMcnc0Uzc3cHd2d0txRHhFbTBsUXhvaERyWThKT01tZTd1REJIaXgzam8wT3I2WEpPRFFoWG80MDVLQUxPVUM4dmNf?oc=5) 南日本新聞
 
-○9月1日 [【写真・画像】朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず - 全国のニュース](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lYkhLU0lwMkIzbmMtS1NnODlUTlZVUnNWN1BzN1ZCU3I2VnlhZERzS3pEeVkwOU11NTNXTUZUT29LcVFUOWhVeFJUckROQklNWEdYTFpwLXVRc2d3WU82b3Z1U28?oc=5) 佐賀新聞
+○9月3日 [パーソンズ会長、小池知事を表敬 東京パラから5年 ／東京](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zVldBWmFRVmJfY1NJLUdyRTBsNVExcXQ1SGR0UmluSGlNUGJLTVM1WG0yYUMzamwxMTNMbEFQbEJUeFdVLTl1LVNMdENYbElTMlBGRjQwR3FSMGVrUWhfTk40b3ZaTFVn?oc=5) 毎日新聞
 
 【東京都知事（小池百合子）】
 
@@ -33,6 +29,8 @@
 ○9月16日　[厚生委員会 9月16日](https://www.gikai.metro.tokyo.lg.jp/schedule/welfare.html)
 
 ○9月16日　[環境・建設委員会 9月16日](https://www.gikai.metro.tokyo.lg.jp/schedule/environmental-construction.html)
+
+○9月18日　[本会議 9月18日、9月29日、9月30日、10月8日](https://www.gikai.metro.tokyo.lg.jp/schedule/plenary-session.html)
 
 【自民党東京都連（TOKYO自民党）】
 
