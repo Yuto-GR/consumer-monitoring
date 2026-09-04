@@ -1,16 +1,26 @@
-更新日時: 2026年9月4日（金）10:41 JST
+更新日時: 2026年9月4日（金）20:55 JST
 
 【ニュース】
 
-○9月1日 [【写真】朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNSmppcUxMa2YxV2ZBemdERjdmcWFiZjc2RDAwb2FMcnc0Uzc3cHd2d0txRHhFbTBsUXhvaERyWThKT01tZTd1REJIaXgzam8wT3I2WEpPRFFoWG80MDVLQUxPVUM4dmNf?oc=5) 南日本新聞
+○9月1日 [【写真】朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85Qi1SV1FLNmR6MUktSnBGc25Da0xtNjNwaTRUXzJfUTVpc3ZoekJxa1ozb2VDVHdUajlrcVRHUHNaTzROSEhabGFUd21oeWFsOEt6X0tXSGU0bTJGNmJZM3JxSUZfb2M?oc=5) 南日本新聞
+
+○9月1日 [〈小池知事会見ファイル＋8月〉「何度も毎年同じ質問、同じ答え」そう言われても記者が繰り返し問う理由](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnMFZqbVJabjVxMHlkVzRLTTk3WGNlTi1KNjRsMFU2VXVla1V5bmt5anhuLWtfcnJkUHAyRW1mRDlqRDFiUXRuZDRSbC1JdHpER0JR?oc=5) 東京新聞
 
 ○9月3日 [パーソンズ会長、小池知事を表敬 東京パラから5年 ／東京](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zVldBWmFRVmJfY1NJLUdyRTBsNVExcXQ1SGR0UmluSGlNUGJLTVM1WG0yYUMzamwxMTNMbEFQbEJUeFdVLTl1LVNMdENYbElTMlBGRjQwR3FSMGVrUWhfTk40b3ZaTFVn?oc=5) 毎日新聞
+
+○9月4日 [小池百合子知事「自治体に負担が生じないよう、国の責任で対応すべき」 給付付き税額控除の財源にクギ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wZjVXbUNxQlpUMlhIRlpUVzZpeFhTS3lMU1VrdkNCbk5lNkp2MEJGRVkwaFd3bUk3Zlo3bmFFWE9ld21ScDR1MUh2WmxEcDN2TTA0?oc=5) 東京新聞
+
+○9月4日 [新宿駅西口にシンボルツリー、小池知事「ドカーンと配置」35年度完成](https://news.google.com/rss/articles/CBMibEFVX3lxTE5UaTRNTXhRRThjdFA1cGY1ZFY2QmJLLU1VV1hrT0FnVUROTjJ4LXdaTGc2UjlBMC0yMXhvaUphV3JiVDhibk5HVzFKUEdOc0I2WTF4X2xEdkZBY3A1aTNNOFRuYmNXdkkwSWNXYQ?oc=5) 日本経済新聞
+
+○9月4日 [給付付き税額控除、小池知事「国の財源で」 地方の財政負担に懸念](https://news.google.com/rss/articles/CBMibEFVX3lxTE9GUjhhX2N0eGdVZnUxekViYkZsYzdoT3J3LXhEZ3pGS0paTW1jNzJiS0FPYm8wZ1N6OTN6THItemtoOGR5RHhYa0JKSXI0azA4Tl9xMDJ6M0k1aGFvOWExbjdwbF9KV1hBZzlyZQ?oc=5) 日本経済新聞
 
 【東京都知事（小池百合子）】
 
 該当データなし
 
 【東京都議会】
+
+○9月11日　[議会運営委員会 9月11日](https://www.gikai.metro.tokyo.lg.jp/schedule/assembly-administration.html)
 
 ○9月15日　[総務委員会 9月15日](https://www.gikai.metro.tokyo.lg.jp/schedule/general-affairs.html)
 
