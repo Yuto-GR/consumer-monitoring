@@ -1,4 +1,4 @@
-更新日時: 2026年9月6日（日）10:36 JST
+更新日時: 2026年9月6日（日）20:30 JST
 
 【ニュース】
 
@@ -9,6 +9,8 @@
 ○9月4日 [新宿駅西口にシンボルツリー、小池知事「ドカーンと配置」35年度完成](https://news.google.com/rss/articles/CBMibEFVX3lxTE5UaTRNTXhRRThjdFA1cGY1ZFY2QmJLLU1VV1hrT0FnVUROTjJ4LXdaTGc2UjlBMC0yMXhvaUphV3JiVDhibk5HVzFKUEdOc0I2WTF4X2xEdkZBY3A1aTNNOFRuYmNXdkkwSWNXYQ?oc=5) 日本経済新聞
 
 ○9月4日 [給付付き税額控除、小池知事「国の財源で」 地方の財政負担に懸念](https://news.google.com/rss/articles/CBMibEFVX3lxTE9GUjhhX2N0eGdVZnUxekViYkZsYzdoT3J3LXhEZ3pGS0paTW1jNzJiS0FPYm8wZ1N6OTN6THItemtoOGR5RHhYa0JKSXI0azA4Tl9xMDJ6M0k1aGFvOWExbjdwbF9KV1hBZzlyZQ?oc=5) 日本経済新聞
+
+○9月5日 [ビデオメッセージを寄せた小池百合子東京都知事](https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtbTBrVWNHaGNoRDhSVlkwczk0QWlFTjEybHZoRHlfeEJIVWtkam43dWV0VV82d1I2Unc5Y0hjUEpEUzFuS3pQN3o4bHBtX3dHTGhZbQ?oc=5) すみだ経済新聞
 
 【東京都知事（小池百合子）】
 
@@ -40,7 +42,9 @@
 
 【自民党東京都連（TOKYO自民党）】
 
-該当データなし
+○9月3日　[〔公募情報〕千代田区議選（R9統一選）](https://www.tokyo-jimin.jp/2026/09/03/1-5/)
+
+○9月3日　[〔公募情報〕足立区議選（R9）](https://www.tokyo-jimin.jp/2026/09/03/1-2-2/)
 
 【都議会自民党】
 
