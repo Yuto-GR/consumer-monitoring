@@ -1,4 +1,4 @@
-更新日時: 2026年9月7日（月）10:34 JST
+更新日時: 2026年9月7日（月）22:12 JST
 
 【ニュース】
 
@@ -11,6 +11,8 @@
 ○9月5日 [ビデオメッセージを寄せた小池百合子東京都知事](https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtbTBrVWNHaGNoRDhSVlkwczk0QWlFTjEybHZoRHlfeEJIVWtkam43dWV0VV82d1I2Unc5Y0hjUEpEUzFuS3pQN3o4bHBtX3dHTGhZbQ?oc=5) すみだ経済新聞
 
 ○9月7日 [みんなの広場：都知事は追悼文送るべきだ＝無職・津田孝・75](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOZzlZSkdEbHN2Z2JWUW9Hd1JPbHZMRTJlWGJMRGpHLWlOZDZHQjNwVTJ4dTNmSnlNUnpvaWxWVm9tYU9pTGhDSm9meTJFcWR6OW5QUTlsUGdMTVM5NG10QnQ3SkJDbmtZ?oc=5) 毎日新聞
+
+○9月7日 [東京都の出生数１０年ぶりに増加、婚活支援など「３本の矢」が奏功？…予算倍の７億円で「少母化」止めたい小池知事](https://news.google.com/rss/articles/CBMiZkFVX3lxTE91Q1NZbUlFWTJfMWM2MFEyQlZLdWl2ZE9ubWVpRm5MQk5LZ1lRQUdacy1LLXBMYjZVNS1odVFFdXVfQnpmVE4tMGc1Yk1hZlVfOGluVTJZRWZ2N0F6aDBHUF9yNzRZdw?oc=5) 読売新聞
 
 【東京都知事（小池百合子）】
 
@@ -42,9 +44,7 @@
 
 【自民党東京都連（TOKYO自民党）】
 
-○9月3日　[〔公募情報〕千代田区議選（R9統一選）](https://www.tokyo-jimin.jp/2026/09/03/1-5/)
-
-○9月3日　[〔公募情報〕足立区議選（R9）](https://www.tokyo-jimin.jp/2026/09/03/1-2-2/)
+該当データなし
 
 【都議会自民党】
 
