@@ -1,4 +1,4 @@
-更新日時: 2026年9月7日（月）22:12 JST
+更新日時: 2026年9月8日（火）10:45 JST
 
 【ニュース】
 
@@ -9,6 +9,8 @@
 ○9月4日 [給付付き税額控除、小池知事「国の財源で」 地方の財政負担に懸念](https://news.google.com/rss/articles/CBMibEFVX3lxTE9GUjhhX2N0eGdVZnUxekViYkZsYzdoT3J3LXhEZ3pGS0paTW1jNzJiS0FPYm8wZ1N6OTN6THItemtoOGR5RHhYa0JKSXI0azA4Tl9xMDJ6M0k1aGFvOWExbjdwbF9KV1hBZzlyZQ?oc=5) 日本経済新聞
 
 ○9月5日 [ビデオメッセージを寄せた小池百合子東京都知事](https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtbTBrVWNHaGNoRDhSVlkwczk0QWlFTjEybHZoRHlfeEJIVWtkam43dWV0VV82d1I2Unc5Y0hjUEpEUzFuS3pQN3o4bHBtX3dHTGhZbQ?oc=5) すみだ経済新聞
+
+○9月7日 [鈴木五輪担当相、小池都知事を訪問](https://news.google.com/rss/articles/CBMib0FVX3lxTE9HYkk1Z0pVTldsZUVVR3RsU3Z5Zkx0dUdrdUhjY05QZmZrSFJsM2pKSUIwQ1hqSjd2aVhLNnhlQzR0V3dqbDE3VER5UTVQLWxyYk9hTVZ5WFI4TGVOMmhHRkdLazY4dm05eEU5S1RtOA?oc=5) 日刊工業新聞
 
 ○9月7日 [みんなの広場：都知事は追悼文送るべきだ＝無職・津田孝・75](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOZzlZSkdEbHN2Z2JWUW9Hd1JPbHZMRTJlWGJMRGpHLWlOZDZHQjNwVTJ4dTNmSnlNUnpvaWxWVm9tYU9pTGhDSm9meTJFcWR6OW5QUTlsUGdMTVM5NG10QnQ3SkJDbmtZ?oc=5) 毎日新聞
 
