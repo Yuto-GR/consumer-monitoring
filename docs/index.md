@@ -1,4 +1,4 @@
-更新日時: 2026年9月9日（水）21:05 JST
+更新日時: 2026年9月10日（木）10:47 JST
 
 【ニュース】
 
@@ -16,7 +16,15 @@
 
 ○9月9日 [視覚障害者の着こなし自由に 福岡出身デザイナーが都知事賞](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTa2Jram81d1dhRWYtQ3kyOG5SeXpyeUE2Wm9ESlZMTVdNSFdtbE9STm8zVTJEdk1WYkVjS0k5NkxwazV0UUlhZ1NTeVVzN2lfTlVBX2dJNGRhckpYUUozdVlNU0pVM2Z3?oc=5) 毎日新聞
 
+○9月9日 [都議会政活費、使用率８８％ ２年連続で前年度下回る](https://news.google.com/rss/articles/CBMiaEFVX3lxTE44QnVfYjZCTVpmaEhVOVpTekFwcTZxUW5zNUpUcktwZ2RjUWQ1UTktUVVKRWxBYWJlVEUzUTZpWS1kUjdzRExpNEQ4QjNvNlVFZTJQUE41RUxIQ3RpdnBmTnkxa1VJaGd5?oc=5) 南日本新聞
+
+○9月9日 [大妻中野中、【都知事賞受賞!!】中学生の主張―東京都大会 - 中学受験情報 朝日みつかるナビ](https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1NS0tLV9CeGs4MGFVZUREcHQ5SXNLZGdNU05aYVFHWUV5bmRORXhnNy1IWWo5SEdrNHBPTl9ndmV6eXk5b1d1SlBVQTBhZHlQTURGUE1MMnE?oc=5) 朝日新聞
+
 ○9月9日 [都議会政活費 広報紙発行に最多3億円、45％占める 25年度](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjRlBfOW9QUkxNTWMwRVNqOGxHOHdMYXdmZUJTMFNzZUJKSHFwenZpYjY5UVVva19ZWUtVMmE0Uk85b3NvUktsTkpFMWJCRHVJYWxMZThESDZIQk1jby1jWFpSQV9GaFUw?oc=5) 毎日新聞
+
+○9月9日 [東京都議会の政務活動費、使用割合88.4% 8年ぶりに9割下回る 「東京都」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mUmctNVdtZmZCN2ttNHpyZlFvc1N0X0JXa0w4dHlEemdMcFhMSmpybFlRc1NCd1lJQWRWaF9TUXAtTFotNWY1WUo1RnVwVlVXekJ2UkZYRl9ZbDRYVktqaWVEWUc4SHM?oc=5) 朝日新聞
+
+○9月10日 [8年ぶり9割切る 執行率88.4％ 25年度 都議会 政務活動費 支出内訳 最多は広報紙の発行費](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdW1USHJ5SGdGVFc1ZXJ6cl8xT0F3aWJvdFd6cnE0S2E5N21yS2dieWJhVzYxb1BNTW1hUDVpV1ozQ2lLTHNsMEtJRjVjLW91NDRJ?oc=5) 東京新聞
 
 【東京都知事（小池百合子）】
 
@@ -49,10 +57,6 @@
 【自民党東京都連（TOKYO自民党）】
 
 ○9月7日　[〔選挙情報〕西東京市議選](https://www.tokyo-jimin.jp/2026/09/07/1-6/)
-
-○9月3日　[〔公募情報〕千代田区議選（R9統一選）](https://www.tokyo-jimin.jp/2026/09/03/1-5/)
-
-○9月3日　[〔公募情報〕足立区議選（R9）](https://www.tokyo-jimin.jp/2026/09/03/1-2-2/)
 
 【都議会自民党】
 
