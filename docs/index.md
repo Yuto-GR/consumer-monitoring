@@ -1,8 +1,6 @@
-更新日時: 2026年9月12日（土）10:52 JST
+更新日時: 2026年9月12日（土）20:25 JST
 
 【ニュース】
-
-○9月8日 [北海道経済8団体、IR誘致の検討加速 知事に要望](https://news.google.com/rss/articles/CBMibEFVX3lxTE4zOWtyRTVRRU5wZEsyOTJWVy1pWlBNbjFnWFprcjVIWlJ4Nnlaa3QxbEZ0M25HZEh2RS1lLTFaTjBpOVN2RHZjTXhoQmFPTUR1dU9XeDIzQ2Q3VXZvUDBCVkdwOHhDQ1dqU3VCdQ?oc=5) 日本経済新聞
 
 ○9月9日 [IR誘致 「速やかに」 道内8経済団体 知事に要望書 ／北海道](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRQzBFLVRPN2l6dkNxTXFGLTNfTVIxS0NOaFhyQ0FOa2dPRE5LVWRDZHh0R3ZIZ2liQVpiMDg5S0ctNG9FdzRCQmFkbVZpd0xqUEVrWjZfTkZYcnl0bWk2cm1KbnlkUWcw?oc=5) 毎日新聞
 
@@ -27,8 +25,6 @@
 ○9月11日 [財源突出は「フィクション」 小池都知事、かつての政敵と共闘](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nWGE5bC1ndWxQQmpnTGdkclNWNzQ3dGdCT1FxcmhubXlOdGlzcG44SThVek5CUHFUaDFnaDdab3dnZDd5dlh6QnNIbk0yQUhGMzRTbTl1ODFrdW5BWUliRlMtSTRhVnV2?oc=5) 毎日新聞
 
 ○9月11日 [山下ふ頭再開発 IR誘致で横浜副市長 「市民の理解なく進められない」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE96TGlqMDdhYlBRbWxxTXFqc2xjeTd2MXV5ZkFzamQtUHpOYlVXWFVldFhJQmR4RjYzcjdqSlcxU3EwREFBUVRMVFRSU0pvSExCc2Rv?oc=5) 東京新聞
-
-○9月11日 [小池百合子知事「学校や家庭内での基本的な感染予防を」 インフルエンザ流行「都内はだいたい1カ月早い」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EYmdrbzhNUHVUMGthOTN3SXBWai1zTnZRbG5qMDJUbzJDY0IxSXNLR1NkVTJpc21FOGcwQVFLOUo4N2l2bERvXzM3X19MU3NNcUNV?oc=5) 東京新聞
 
 ○9月11日 [育休取得者ら支える取り組み、「育業界隈」と名付け周知…小池百合子都知事「温かな輪を東京から」](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iSVNNdmNySmN3ZXE1N0pWSjhGajBkRXRRdWpQT0xGalFGcHB5MmhEWUpKWHh0Ty1NR0N2clpGcWNVcWFDNkdEUWVWaVhsaFFoZW96UjhTQUp4emhhTzVqck9Cb3cwQQ?oc=5) 読売新聞
 
