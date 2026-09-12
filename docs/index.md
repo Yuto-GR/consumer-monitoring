@@ -1,10 +1,6 @@
-更新日時: 2026年9月11日（金）20:58 JST
+更新日時: 2026年9月12日（土）10:52 JST
 
 【ニュース】
-
-○9月8日 [「どこから着ても正解」な服考案 視覚障害者の服選び後押し 井上楓陽さん、「NFDT」都知事賞優秀賞 ／福岡](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uZXdSRGJmUGlSUlEzUHdxQ3RkZVdma3hJRy15MjZSUG0zZEsyMHNsTkI0cVUyRjdvYXdTNjNoeGVEU04xSEdqTTItcXJUdWJOOGFWZFhleDh3Q2RneHFwY0lzU3QzV3do?oc=5) 毎日新聞
-
-○9月8日 [小池都知事、待機児童緊急対策を９月補正予算案提出へ](https://news.google.com/rss/articles/CBMibkFVX3lxTFBHVDV1V1FOTVo3NmhvZHRZM0R3NWdyUmNiR2FnWUpRU3dKWm50bDNnWGRKOTdaaGREWDJWUGdsOGU3U0FjaEpyaXFqMjR6SnRWWm1SWGJqbUFQeWVXV09GX0xrZlZzVnJNelc1Nmdn?oc=5) 日刊工業新聞
 
 ○9月8日 [北海道経済8団体、IR誘致の検討加速 知事に要望](https://news.google.com/rss/articles/CBMibEFVX3lxTE4zOWtyRTVRRU5wZEsyOTJWVy1pWlBNbjFnWFprcjVIWlJ4Nnlaa3QxbEZ0M25HZEh2RS1lLTFaTjBpOVN2RHZjTXhoQmFPTUR1dU9XeDIzQ2Q3VXZvUDBCVkdwOHhDQ1dqU3VCdQ?oc=5) 日本経済新聞
 
@@ -22,8 +18,6 @@
 
 ○9月9日 [東京都議会の政務活動費、使用割合88.4% 8年ぶりに9割下回る 「東京都」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mUmctNVdtZmZCN2ttNHpyZlFvc1N0X0JXa0w4dHlEemdMcFhMSmpybFlRc1NCd1lJQWRWaF9TUXAtTFotNWY1WUo1RnVwVlVXekJ2UkZYRl9ZbDRYVktqaWVEWUc4SHM?oc=5) 朝日新聞
 
-○9月9日 [東京都議会の政務活動費、使用割合88.4% 8年ぶりに9割下回る 「東京都」](https://news.google.com/rss/articles/CBMibkFVX3lxTE1yRXNzSWJxeGhieTNYeG1xZXdNcXFfTTFDSnBFb2p4dDlKNHlFQzVnWUtpdGROTzRrSjN4ODJ4N1hPbGJFdjhzY0tTRWZSdGRaM2FLdTBmWUlpb2J2dVlNendDZW5RLUZaU1lQeHh3?oc=5) 朝日新聞
-
 ○9月10日 [8年ぶり9割切る 執行率88.4％ 25年度 都議会 政務活動費 支出内訳 最多は広報紙の発行費](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdW1USHJ5SGdGVFc1ZXJ6cl8xT0F3aWJvdFd6cnE0S2E5N21yS2dieWJhVzYxb1BNTW1hUDVpV1ozQ2lLTHNsMEtJRjVjLW91NDRJ?oc=5) 東京新聞
 
 ○9月10日 [横浜市長選挙、弁護士の原沢氏が出馬を表明 IR誘致「全くない」](https://news.google.com/rss/articles/CBMibEFVX3lxTE1sRmtxNDZiZ0c0V0FxSW1LdTVIVEpYNVU4a19Ha09rZDBVZS1ES3ZkTWswRlBPb3NQM0FyOGVaczdCalpVV0ZnLU9QLUt5RUt0NU1oVkVuQzk4a01US0M2QlhabEM2WThicHJ5cQ?oc=5) 日本経済新聞
@@ -36,7 +30,13 @@
 
 ○9月11日 [小池百合子知事「学校や家庭内での基本的な感染予防を」 インフルエンザ流行「都内はだいたい1カ月早い」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EYmdrbzhNUHVUMGthOTN3SXBWai1zTnZRbG5qMDJUbzJDY0IxSXNLR1NkVTJpc21FOGcwQVFLOUo4N2l2bERvXzM3X19MU3NNcUNV?oc=5) 東京新聞
 
+○9月11日 [育休取得者ら支える取り組み、「育業界隈」と名付け周知…小池百合子都知事「温かな輪を東京から」](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iSVNNdmNySmN3ZXE1N0pWSjhGajBkRXRRdWpQT0xGalFGcHB5MmhEWUpKWHh0Ty1NR0N2clpGcWNVcWFDNkdEUWVWaVhsaFFoZW96UjhTQUp4emhhTzVqck9Cb3cwQQ?oc=5) 読売新聞
+
 ○9月11日 [都バス「バカヤロー」あおり運転に小池百合子知事「公共交通機関であってはならないこと」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kb2stbmNHcmJkcUJ2TEdfaUJpV2ZsOXZVQTcwWWxmOXRUZlI5TVBxMkpieXUzdHAyaGhzVElsSmxRUkxfQlNrTXdiX1ktYTh4MmpB?oc=5) 東京新聞
+
+○9月11日 [東京都は「自腹」の恐れ…所得連動型給付 国から交付金ない見込み 小池知事「国の責任と財源で対応を」](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzczlVQXFtdHhueVJVZjNvbG55c0R6S09qQ21aTzU1OGk1U0RJb3c5OVpQRG9GMXFoQWJoYmxuaHNvNU9xMXBDdm5neFFMUzZSZk5Z?oc=5) 東京新聞
+
+○9月12日 [空港条例改正など計44議案を提出へ 18日から都議会定例会](https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zWXRlQVZDV0x3ZU56Y0tDTTMzM0FXdUxLYnJhTUh0WjZ2TkdkZjhIdW1iaVdZLUhVYXlvdmEwcTFid3I1VzFTNDY4UlJOZ1AwNkdN?oc=5) 東京新聞
 
 【東京都知事（小池百合子）】
 
