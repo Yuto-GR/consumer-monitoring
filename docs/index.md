@@ -1,14 +1,6 @@
-更新日時: 2026年9月12日（土）20:25 JST
+更新日時: 2026年9月13日（日）10:43 JST
 
 【ニュース】
-
-○9月9日 [IR誘致 「速やかに」 道内8経済団体 知事に要望書 ／北海道](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRQzBFLVRPN2l6dkNxTXFGLTNfTVIxS0NOaFhyQ0FOa2dPRE5LVWRDZHh0R3ZIZ2liQVpiMDg5S0ctNG9FdzRCQmFkbVZpd0xqUEVrWjZfTkZYcnl0bWk2cm1KbnlkUWcw?oc=5) 毎日新聞
-
-○9月9日 [視覚障害者の着こなし自由に 福岡出身デザイナーが都知事賞](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTa2Jram81d1dhRWYtQ3kyOG5SeXpyeUE2Wm9ESlZMTVdNSFdtbE9STm8zVTJEdk1WYkVjS0k5NkxwazV0UUlhZ1NTeVVzN2lfTlVBX2dJNGRhckpYUUozdVlNU0pVM2Z3?oc=5) 毎日新聞
-
-○9月9日 [都議会政活費、使用率８８％ ２年連続で前年度下回る - 全国のニュース](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VYTc1V285bkRkU09RVUFkNE9XNVVfQk1oaTJsZGNBMG5lYml5Mk5qeDVKVXl4OVhLVno5R0VxMzBNWXVUQjdYNjYwRTc1eTNnQk1pWFlB?oc=5) 佐賀新聞
-
-○9月9日 [都議会政活費、使用率８８％ ２年連続で前年度下回る](https://news.google.com/rss/articles/CBMiaEFVX3lxTE44QnVfYjZCTVpmaEhVOVpTekFwcTZxUW5zNUpUcktwZ2RjUWQ1UTktUVVKRWxBYWJlVEUzUTZpWS1kUjdzRExpNEQ4QjNvNlVFZTJQUE41RUxIQ3RpdnBmTnkxa1VJaGd5?oc=5) 南日本新聞
 
 ○9月9日 [大妻中野中、【都知事賞受賞!!】中学生の主張―東京都大会 - 中学受験情報 朝日みつかるナビ](https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1NS0tLV9CeGs4MGFVZUREcHQ5SXNLZGdNU05aYVFHWUV5bmRORXhnNy1IWWo5SEdrNHBPTl9ndmV6eXk5b1d1SlBVQTBhZHlQTURGUE1MMnE?oc=5) 朝日新聞
 
@@ -25,8 +17,6 @@
 ○9月11日 [財源突出は「フィクション」 小池都知事、かつての政敵と共闘](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nWGE5bC1ndWxQQmpnTGdkclNWNzQ3dGdCT1FxcmhubXlOdGlzcG44SThVek5CUHFUaDFnaDdab3dnZDd5dlh6QnNIbk0yQUhGMzRTbTl1ODFrdW5BWUliRlMtSTRhVnV2?oc=5) 毎日新聞
 
 ○9月11日 [山下ふ頭再開発 IR誘致で横浜副市長 「市民の理解なく進められない」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE96TGlqMDdhYlBRbWxxTXFqc2xjeTd2MXV5ZkFzamQtUHpOYlVXWFVldFhJQmR4RjYzcjdqSlcxU3EwREFBUVRMVFRSU0pvSExCc2Rv?oc=5) 東京新聞
-
-○9月11日 [育休取得者ら支える取り組み、「育業界隈」と名付け周知…小池百合子都知事「温かな輪を東京から」](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iSVNNdmNySmN3ZXE1N0pWSjhGajBkRXRRdWpQT0xGalFGcHB5MmhEWUpKWHh0Ty1NR0N2clpGcWNVcWFDNkdEUWVWaVhsaFFoZW96UjhTQUp4emhhTzVqck9Cb3cwQQ?oc=5) 読売新聞
 
 ○9月11日 [都バス「バカヤロー」あおり運転に小池百合子知事「公共交通機関であってはならないこと」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kb2stbmNHcmJkcUJ2TEdfaUJpV2ZsOXZVQTcwWWxmOXRUZlI5TVBxMkpieXUzdHAyaGhzVElsSmxRUkxfQlNrTXdiX1ktYTh4MmpB?oc=5) 東京新聞
 
@@ -64,9 +54,7 @@
 
 【自民党東京都連（TOKYO自民党）】
 
-○9月10日　[〔選挙情報〕小金井市長選](https://www.tokyo-jimin.jp/2026/09/10/1-7/)
-
-○9月7日　[〔選挙情報〕西東京市議選](https://www.tokyo-jimin.jp/2026/09/07/1-6/)
+該当データなし
 
 【都議会自民党】
 
