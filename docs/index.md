@@ -1,8 +1,6 @@
-更新日時: 2026年9月13日（日）21:29 JST
+更新日時: 2026年9月14日（月）11:01 JST
 
 【ニュース】
-
-○9月10日 [8年ぶり9割切る 執行率88.4％ 25年度 都議会 政務活動費 支出内訳 最多は広報紙の発行費](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdW1USHJ5SGdGVFc1ZXJ6cl8xT0F3aWJvdFd6cnE0S2E5N21yS2dieWJhVzYxb1BNTW1hUDVpV1ozQ2lLTHNsMEtJRjVjLW91NDRJ?oc=5) 東京新聞
 
 ○9月10日 [横浜市長選挙、弁護士の原沢氏が出馬を表明 IR誘致「全くない」](https://news.google.com/rss/articles/CBMibEFVX3lxTE1sRmtxNDZiZ0c0V0FxSW1LdTVIVEpYNVU4a19Ha09rZDBVZS1ES3ZkTWswRlBPb3NQM0FyOGVaczdCalpVV0ZnLU9QLUt5RUt0NU1oVkVuQzk4a01US0M2QlhabEM2WThicHJ5cQ?oc=5) 日本経済新聞
 
@@ -12,9 +10,13 @@
 
 ○9月11日 [山下ふ頭再開発 IR誘致で横浜副市長 「市民の理解なく進められない」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE96TGlqMDdhYlBRbWxxTXFqc2xjeTd2MXV5ZkFzamQtUHpOYlVXWFVldFhJQmR4RjYzcjdqSlcxU3EwREFBUVRMVFRSU0pvSExCc2Rv?oc=5) 東京新聞
 
+○9月11日 [小池百合子知事「学校や家庭内での基本的な感染予防を」 インフルエンザ流行「都内はだいたい1カ月早い」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EYmdrbzhNUHVUMGthOTN3SXBWai1zTnZRbG5qMDJUbzJDY0IxSXNLR1NkVTJpc21FOGcwQVFLOUo4N2l2bERvXzM3X19MU3NNcUNV?oc=5) 東京新聞
+
 ○9月11日 [育休取得者ら支える取り組み、「育業界隈」と名付け周知…小池百合子都知事「温かな輪を東京から」](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iSVNNdmNySmN3ZXE1N0pWSjhGajBkRXRRdWpQT0xGalFGcHB5MmhEWUpKWHh0Ty1NR0N2clpGcWNVcWFDNkdEUWVWaVhsaFFoZW96UjhTQUp4emhhTzVqck9Cb3cwQQ?oc=5) 読売新聞
 
 ○9月11日 [都バス「バカヤロー」あおり運転に小池百合子知事「公共交通機関であってはならないこと」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kb2stbmNHcmJkcUJ2TEdfaUJpV2ZsOXZVQTcwWWxmOXRUZlI5TVBxMkpieXUzdHAyaGhzVElsSmxRUkxfQlNrTXdiX1ktYTh4MmpB?oc=5) 東京新聞
+
+○9月11日 [合流断念まで迷う議員も 立憲東京都連、統一地方選へ1次公認を発表 「東京都」](https://news.google.com/rss/articles/CBMibkFVX3lxTFBNWE16OW5xbk1yVkVGSUNCOW52TllQVWlHamxzU0JQV3dWX01ycVdJQnBuc3BRVzBTQnZlRE5BRUpuU3dkR1dYSDJoZng2UVJNaWNsczkzNWNsRi1uTVYwWUg4cFNwUTV0OWhpeWJn?oc=5) 朝日新聞
 
 ○9月11日 [東京都は「自腹」の恐れ…所得連動型給付 国から交付金ない見込み 小池知事「国の責任と財源で対応を」](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzczlVQXFtdHhueVJVZjNvbG55c0R6S09qQ21aTzU1OGk1U0RJb3c5OVpQRG9GMXFoQWJoYmxuaHNvNU9xMXBDdm5neFFMUzZSZk5Z?oc=5) 東京新聞
 
@@ -51,8 +53,6 @@
 【自民党東京都連（TOKYO自民党）】
 
 ○9月10日　[〔選挙情報〕小金井市長選](https://www.tokyo-jimin.jp/2026/09/10/1-7/)
-
-○9月7日　[〔選挙情報〕西東京市議選](https://www.tokyo-jimin.jp/2026/09/07/1-6/)
 
 【都議会自民党】
 
