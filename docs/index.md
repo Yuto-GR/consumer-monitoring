@@ -1,10 +1,6 @@
-更新日時: 2026年9月14日（月）11:01 JST
+更新日時: 2026年9月14日（月）22:33 JST
 
 【ニュース】
-
-○9月10日 [横浜市長選挙、弁護士の原沢氏が出馬を表明 IR誘致「全くない」](https://news.google.com/rss/articles/CBMibEFVX3lxTE1sRmtxNDZiZ0c0V0FxSW1LdTVIVEpYNVU4a19Ha09rZDBVZS1ES3ZkTWswRlBPb3NQM0FyOGVaczdCalpVV0ZnLU9QLUt5RUt0NU1oVkVuQzk4a01US0M2QlhabEM2WThicHJ5cQ?oc=5) 日本経済新聞
-
-○9月10日 [都営ゴルフ場がナイター営業、小池知事が始打式 夜間経済盛り上げ](https://news.google.com/rss/articles/CBMibEFVX3lxTE5CazhmdWxwclZSS2pZRVhSU1hwR2FROFVhbzdvWUhISEdob1lJbEpqTkI4RlNjTVBkZmh5djFlNG4tV0huZVZMd2FsU0JtdEFraTVPVzBnM2ZoZXQ4TmxzOV90WV9UQ1pxeWZiSg?oc=5) 日本経済新聞
 
 ○9月11日 [財源突出は「フィクション」 小池都知事、かつての政敵と共闘](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nWGE5bC1ndWxQQmpnTGdkclNWNzQ3dGdCT1FxcmhubXlOdGlzcG44SThVek5CUHFUaDFnaDdab3dnZDd5dlh6QnNIbk0yQUhGMzRTbTl1ODFrdW5BWUliRlMtSTRhVnV2?oc=5) 毎日新聞
 
@@ -14,13 +10,13 @@
 
 ○9月11日 [育休取得者ら支える取り組み、「育業界隈」と名付け周知…小池百合子都知事「温かな輪を東京から」](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iSVNNdmNySmN3ZXE1N0pWSjhGajBkRXRRdWpQT0xGalFGcHB5MmhEWUpKWHh0Ty1NR0N2clpGcWNVcWFDNkdEUWVWaVhsaFFoZW96UjhTQUp4emhhTzVqck9Cb3cwQQ?oc=5) 読売新聞
 
-○9月11日 [都バス「バカヤロー」あおり運転に小池百合子知事「公共交通機関であってはならないこと」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kb2stbmNHcmJkcUJ2TEdfaUJpV2ZsOXZVQTcwWWxmOXRUZlI5TVBxMkpieXUzdHAyaGhzVElsSmxRUkxfQlNrTXdiX1ktYTh4MmpB?oc=5) 東京新聞
-
-○9月11日 [合流断念まで迷う議員も 立憲東京都連、統一地方選へ1次公認を発表 「東京都」](https://news.google.com/rss/articles/CBMibkFVX3lxTFBNWE16OW5xbk1yVkVGSUNCOW52TllQVWlHamxzU0JQV3dWX01ycVdJQnBuc3BRVzBTQnZlRE5BRUpuU3dkR1dYSDJoZng2UVJNaWNsczkzNWNsRi1uTVYwWUg4cFNwUTV0OWhpeWJn?oc=5) 朝日新聞
-
 ○9月11日 [東京都は「自腹」の恐れ…所得連動型給付 国から交付金ない見込み 小池知事「国の責任と財源で対応を」](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzczlVQXFtdHhueVJVZjNvbG55c0R6S09qQ21aTzU1OGk1U0RJb3c5OVpQRG9GMXFoQWJoYmxuaHNvNU9xMXBDdm5neFFMUzZSZk5Z?oc=5) 東京新聞
 
 ○9月12日 [空港条例改正など計44議案を提出へ 18日から都議会定例会](https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zWXRlQVZDV0x3ZU56Y0tDTTMzM0FXdUxLYnJhTUh0WjZ2TkdkZjhIdW1iaVdZLUhVYXlvdmEwcTFid3I1VzFTNDY4UlJOZ1AwNkdN?oc=5) 東京新聞
+
+○9月12日 [都バス「バカヤロー」あおり運転に小池百合子知事「公共交通機関であってはならないこと」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kb2stbmNHcmJkcUJ2TEdfaUJpV2ZsOXZVQTcwWWxmOXRUZlI5TVBxMkpieXUzdHAyaGhzVElsSmxRUkxfQlNrTXdiX1ktYTh4MmpB?oc=5) 東京新聞
+
+○9月14日 [佐藤沙織里都議、正式に辞職 東京都議会の議長が辞職願を許可 千代田区選挙区で補欠選挙へ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE56OHFkT0ozZVhtTUE0MVFGQVBVakNWRVcwR2twM01weDM0bGNqQTlmS0luSGRkQU9BUm1WSThETlduV2tnSU9RczZhQzlEXzFla3Fz?oc=5) 東京新聞
 
 【東京都知事（小池百合子）】
 
