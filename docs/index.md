@@ -1,14 +1,6 @@
-更新日時: 2026年9月15日（火）11:09 JST
+更新日時: 2026年9月15日（火）21:24 JST
 
 【ニュース】
-
-○9月11日 [小池百合子知事「学校や家庭内での基本的な感染予防を」 インフルエンザ流行「都内はだいたい1カ月早い」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EYmdrbzhNUHVUMGthOTN3SXBWai1zTnZRbG5qMDJUbzJDY0IxSXNLR1NkVTJpc21FOGcwQVFLOUo4N2l2bERvXzM3X19MU3NNcUNV?oc=5) 東京新聞
-
-○9月11日 [育休取得者ら支える取り組み、「育業界隈」と名付け周知…小池百合子都知事「温かな輪を東京から」](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iSVNNdmNySmN3ZXE1N0pWSjhGajBkRXRRdWpQT0xGalFGcHB5MmhEWUpKWHh0Ty1NR0N2clpGcWNVcWFDNkdEUWVWaVhsaFFoZW96UjhTQUp4emhhTzVqck9Cb3cwQQ?oc=5) 読売新聞
-
-○9月11日 [合流断念まで迷う議員も 立憲東京都連、統一地方選へ1次公認を発表 「東京都」 「立憲民主党」「中道改革連合」「公明党」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pQkhqRTE3X0JiZUJvU3RzQU54TmctTVl2SFZQaVhFcUk4dDc5UkE1QnJGTno1Ry0zenBJUVBHRTV3TVJlQTRuNndDeU1zMEJkR2QtZ1pkZWVvUzVzc3ZiVVRVbnBtSzQ?oc=5) 朝日新聞
-
-○9月11日 [東京都は「自腹」の恐れ…所得連動型給付 国から交付金ない見込み 小池知事「国の責任と財源で対応を」](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzczlVQXFtdHhueVJVZjNvbG55c0R6S09qQ21aTzU1OGk1U0RJb3c5OVpQRG9GMXFoQWJoYmxuaHNvNU9xMXBDdm5neFFMUzZSZk5Z?oc=5) 東京新聞
 
 ○9月12日 [空港条例改正など計44議案を提出へ 18日から都議会定例会](https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zWXRlQVZDV0x3ZU56Y0tDTTMzM0FXdUxLYnJhTUh0WjZ2TkdkZjhIdW1iaVdZLUhVYXlvdmEwcTFid3I1VzFTNDY4UlJOZ1AwNkdN?oc=5) 東京新聞
 
@@ -17,6 +9,14 @@
 ○9月14日 [【小池都知事登壇】全国の女性知事・区市町村長・駐日大使・経営者が語る「女性首長によるびじょんネットワーク」を開催](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fRmtJLU9lOHJLek9tQ0xVaG55LUNlTlNDUnNoSTBHaXF3OFk1U0FUcnR3Nk5MSFJSakVMZnZVSjdiSTVRdEN5dDNqTnFHRmdoVndrT3VkMlZnMFhEWDdyV19JWQ?oc=5) 東京報道新聞
 
 ○9月14日 [佐藤沙織里都議、正式に辞職 東京都議会の議長が辞職願を許可 千代田区選挙区で補欠選挙へ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE56OHFkT0ozZVhtTUE0MVFGQVBVakNWRVcwR2twM01weDM0bGNqQTlmS0luSGRkQU9BUm1WSThETlduV2tnSU9RczZhQzlEXzFla3Fz?oc=5) 東京新聞
+
+○9月15日 [長友、小池都知事を表敬 現役続行に「ブラボー」](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY2JvVGdhWGRRN3V5SVY3bFZRdUlQTVlycDdCN1V3Rk1OTC1GbnZJVmJvLVhzOUppVXJnSTM5WnhwdnE2SS0yVDAtRkJ4aVptSjQxMVlJcmRBbHpLVzh4UWtMUVJEN2pvVXJFbHFsQzVELVktS2tvb3ZHLVc0aWRxNEMyOE9Ramt6?oc=5) 山形新聞
+
+○9月15日 [サッカー長友選手、都庁でW杯応援に謝辞 小池知事「ブラボー」](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VZHlFaVFLUGVGVFRqUDdKNTExaHgwYm5DMG1lQm0ydU5fRm5HV1BwQzdQempiZ0lweldTc085cExOclR2ZTBGcXNYbTZOQ0t4QUJuS0xXMlkwMk55TVVCaXV2TmJ4dHhi?oc=5) 毎日新聞
+
+○9月15日 [【写真】長友、小池都知事を表敬 現役続行に「ブラボー」](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sN2N1TzRuYkJkRnBlUW9ZNzdxazFJUW9TT3dQc0dvMWNCVjZNeXdMUFJ1VEpULVU5Q1NDSUQwcWFzSGNwdEM2OHIwZ19TcG1aMm9LbFctT2xORnEyWnZFRVRfN3pkTzZV?oc=5) 南日本新聞
+
+○9月15日 [サッカー長友選手、都庁でW杯応援に謝辞 小池知事「ブラボー」 「写真特集1/4」](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZm82NmdyVTZSODMtRko5SVpiTUEwWHZLSmVxNkZjdHkzSGd2YzdFcW44Y2dXNEJfLVN3NmcxelMyT1JuY19UQnhvTTVNd1JBN21hMmlwVzctenA3VDFnOXBxWXM3Rm5tZDhvNC1JRDZXTHIzQWNEZGN6UDAzX20wRDE3M3FBZzQ?oc=5) 毎日新聞
 
 【東京都知事（小池百合子）】
 
