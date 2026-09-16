@@ -1,8 +1,6 @@
-更新日時: 2026年9月15日（火）21:24 JST
+更新日時: 2026年9月16日（水）11:01 JST
 
 【ニュース】
-
-○9月12日 [空港条例改正など計44議案を提出へ 18日から都議会定例会](https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zWXRlQVZDV0x3ZU56Y0tDTTMzM0FXdUxLYnJhTUh0WjZ2TkdkZjhIdW1iaVdZLUhVYXlvdmEwcTFid3I1VzFTNDY4UlJOZ1AwNkdN?oc=5) 東京新聞
 
 ○9月12日 [都バス「バカヤロー」あおり運転に小池百合子知事「公共交通機関であってはならないこと」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kb2stbmNHcmJkcUJ2TEdfaUJpV2ZsOXZVQTcwWWxmOXRUZlI5TVBxMkpieXUzdHAyaGhzVElsSmxRUkxfQlNrTXdiX1ktYTh4MmpB?oc=5) 東京新聞
 
@@ -14,17 +12,21 @@
 
 ○9月15日 [サッカー長友選手、都庁でW杯応援に謝辞 小池知事「ブラボー」](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VZHlFaVFLUGVGVFRqUDdKNTExaHgwYm5DMG1lQm0ydU5fRm5HV1BwQzdQempiZ0lweldTc085cExOclR2ZTBGcXNYbTZOQ0t4QUJuS0xXMlkwMk55TVVCaXV2TmJ4dHhi?oc=5) 毎日新聞
 
-○9月15日 [【写真】長友、小池都知事を表敬 現役続行に「ブラボー」](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sN2N1TzRuYkJkRnBlUW9ZNzdxazFJUW9TT3dQc0dvMWNCVjZNeXdMUFJ1VEpULVU5Q1NDSUQwcWFzSGNwdEM2OHIwZ19TcG1aMm9LbFctT2xORnEyWnZFRVRfN3pkTzZV?oc=5) 南日本新聞
+○9月15日 [サッカー長友選手、都庁でW杯応援に謝辞 小池知事「ブラボー」 「写真特集2/4」](https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWNXTWlya1RXN1MwRlcwUy15aGI2bV9sNmtZMkgxcktXSkZHS0ZJUzFhTHA4MnhNckphRlVKNmhpUWJCcm8wc1RGN3had01vOE9HWXZBZkExbUVSV2czZlZndDFOeG5UdTkzUDZxQVV4RG1jRlVRc3NDOGNRTGtQZWc3Mm1jT0U?oc=5) 毎日新聞
 
-○9月15日 [サッカー長友選手、都庁でW杯応援に謝辞 小池知事「ブラボー」 「写真特集1/4」](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZm82NmdyVTZSODMtRko5SVpiTUEwWHZLSmVxNkZjdHkzSGd2YzdFcW44Y2dXNEJfLVN3NmcxelMyT1JuY19UQnhvTTVNd1JBN21hMmlwVzctenA3VDFnOXBxWXM3Rm5tZDhvNC1JRDZXTHIzQWNEZGN6UDAzX20wRDE3M3FBZzQ?oc=5) 毎日新聞
+○9月15日 [「マンマミーアで頑張って」小池都知事、長友選手にエール](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Md2U3UW9BR1lqalk2REc2eDRZME9uZFMxcDc0OGZSSGlGYzZBZ0hraXpBTnN4YUN2T0pNT0EwSERoZFVrNmR0TWVmclRiVzd4TTY5QThJalVjbWM?oc=5) 読売新聞
+
+○9月15日 [「マンマミーアで頑張って」小池都知事、長友選手にエール](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iLXR1UGlmVDBiVVFGdWRsS1Jpd2ZPWHMtV3VacWYyYzVlclBLem1BUWo1RTZhZ1F0Z1dDTWNsMkh4Rm1aN1V4YWVsczlhcXoxbnFF?oc=5) 読売新聞
+
+○9月16日 [サッカー 「FC東京でV狙う」 長友選手が都庁訪問 小池知事「ブラボー」 ／東京](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IQXhmb3cwMlpTYXFwVG9BTF9KcmplYVJmWW94QWdrRER4X1BCQV96bWE4VFNpWlRXdGhOSE9GUG81bFVkZUtDbzFNeTBqX3p6NlBUTkJlTEFRc1ROQ3c2Mjl1LTFRRlgy?oc=5) 毎日新聞
+
+○9月16日 [長友佑都、「ＦＣ東京で優勝の夢をかなえたい」…小池都知事「『マンマミーア』で頑張って」と激励](https://news.google.com/rss/articles/CBMid0FVX3lxTE53RkFSa1NnQjU5alYzYUI1LTVSWnFRb1dCZGw1Qkd3NkFRMzlqdThYNE9xTVVSWlZmUW5TQ0JWc2g1YWlrVnBOWFprelQ4dnhsYV94Qnh5cDQ3dmFodndCU2YyX0lNNDBEMTd1b29WSHdwRU04Z2Fr?oc=5) 読売新聞
 
 【東京都知事（小池百合子）】
 
 該当データなし
 
 【東京都議会】
-
-○9月11日　[議会運営委員会 9月11日](https://www.gikai.metro.tokyo.lg.jp/schedule/assembly-administration.html)
 
 ○9月15日　[総務委員会 9月15日](https://www.gikai.metro.tokyo.lg.jp/schedule/general-affairs.html)
 
@@ -48,7 +50,7 @@
 
 【自民党東京都連（TOKYO自民党）】
 
-○9月10日　[〔選挙情報〕小金井市長選](https://www.tokyo-jimin.jp/2026/09/10/1-7/)
+該当データなし
 
 【都議会自民党】
 
