@@ -1,4 +1,4 @@
-更新日時: 2026年9月16日（水）21:21 JST
+更新日時: 2026年9月17日（木）11:05 JST
 
 【ニュース】
 
@@ -6,11 +6,11 @@
 
 ○9月14日 [佐藤沙織里都議、正式に辞職 東京都議会の議長が辞職願を許可 千代田区選挙区で補欠選挙へ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE56OHFkT0ozZVhtTUE0MVFGQVBVakNWRVcwR2twM01weDM0bGNqQTlmS0luSGRkQU9BUm1WSThETlduV2tnSU9RczZhQzlEXzFla3Fz?oc=5) 東京新聞
 
+○9月15日 [長友、小池都知事を表敬 現役続行に「ブラボー」](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY2JvVGdhWGRRN3V5SVY3bFZRdUlQTVlycDdCN1V3Rk1OTC1GbnZJVmJvLVhzOUppVXJnSTM5WnhwdnE2SS0yVDAtRkJ4aVptSjQxMVlJcmRBbHpLVzh4UWtMUVJEN2pvVXJFbHFsQzVELVktS2tvb3ZHLVc0aWRxNEMyOE9Ramt6?oc=5) 山形新聞
+
 ○9月15日 [長友、小池都知事を表敬](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XSnhjQ0xac1dFTTdjb0Q0dzQ1VVNQcEg3U1lxTGVBTi02S0F0ZklFdFdGRmZsLXFhczFDOGVRY2tZbFlGUlpOYnB2Yk1Pbm5pZTEzaWtHX1hmZjFyVmNFem5HdkY?oc=5) 埼玉新聞
 
 ○9月15日 [サッカー長友選手、都庁でW杯応援に謝辞 小池知事「ブラボー」](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VZHlFaVFLUGVGVFRqUDdKNTExaHgwYm5DMG1lQm0ydU5fRm5HV1BwQzdQempiZ0lweldTc085cExOclR2ZTBGcXNYbTZOQ0t4QUJuS0xXMlkwMk55TVVCaXV2TmJ4dHhi?oc=5) 毎日新聞
-
-○9月15日 [【写真】長友、小池都知事を表敬 現役続行に「ブラボー」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQR2V6amtUXzNkMkNLOEZxVmhyUEl0MGJDTGtPN2ZXMXgwY1VfdHAtdjRrNzc5V1NyNHI4RUNhSGpLNHg4RWY2dEZaTWxKdkNQNzNNTmwyMWl2N19HTFZ6bGJDVDNQdlE?oc=5) 南日本新聞
 
 ○9月15日 [サッカー長友選手、都庁でW杯応援に謝辞 小池知事「ブラボー」 「写真特集2/4」](https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWNXTWlya1RXN1MwRlcwUy15aGI2bV9sNmtZMkgxcktXSkZHS0ZJUzFhTHA4MnhNckphRlVKNmhpUWJCcm8wc1RGN3had01vOE9HWXZBZkExbUVSV2czZlZndDFOeG5UdTkzUDZxQVV4RG1jRlVRc3NDOGNRTGtQZWc3Mm1jT0U?oc=5) 毎日新聞
 
@@ -52,7 +52,7 @@
 
 【自民党東京都連（TOKYO自民党）】
 
-○9月10日　[〔選挙情報〕小金井市長選](https://www.tokyo-jimin.jp/2026/09/10/1-7/)
+該当データなし
 
 【都議会自民党】
 
