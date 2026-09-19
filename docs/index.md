@@ -1,20 +1,16 @@
-更新日時: 2026年9月18日（金）21:00 JST
+更新日時: 2026年9月19日（土）10:57 JST
 
 【ニュース】
 
 ○9月15日 [長友、小池都知事を表敬 現役続行に「ブラボー」](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY2JvVGdhWGRRN3V5SVY3bFZRdUlQTVlycDdCN1V3Rk1OTC1GbnZJVmJvLVhzOUppVXJnSTM5WnhwdnE2SS0yVDAtRkJ4aVptSjQxMVlJcmRBbHpLVzh4UWtMUVJEN2pvVXJFbHFsQzVELVktS2tvb3ZHLVc0aWRxNEMyOE9Ramt6?oc=5) 山形新聞
 
-○9月15日 [長友、小池都知事を表敬](https://news.google.com/rss/articles/CBMiZkFVX3lxTE02WW1VeDNOcHYxbzYtYl9zUGdlY3lORW9qNWowT2gxNzJ2T3BkM2VURDVodGZYdUUzUG9nc1VqWlJJTGJnd2NabWtxQWYyeWoxakliRjMzQXR1ZkZ2VjZRLWtJUXZEdw?oc=5) 埼玉新聞
+○9月15日 [長友、小池都知事を表敬](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XSnhjQ0xac1dFTTdjb0Q0dzQ1VVNQcEg3U1lxTGVBTi02S0F0ZklFdFdGRmZsLXFhczFDOGVRY2tZbFlGUlpOYnB2Yk1Pbm5pZTEzaWtHX1hmZjFyVmNFem5HdkY?oc=5) 埼玉新聞
 
-○9月15日 [サッカー長友選手、都庁でW杯応援に謝辞 小池知事「ブラボー」](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VZHlFaVFLUGVGVFRqUDdKNTExaHgwYm5DMG1lQm0ydU5fRm5HV1BwQzdQempiZ0lweldTc085cExOclR2ZTBGcXNYbTZOQ0t4QUJuS0xXMlkwMk55TVVCaXV2TmJ4dHhi?oc=5) 毎日新聞
+○9月15日 [長友、小池都知事を表敬](https://news.google.com/rss/articles/CBMiZkFVX3lxTE02WW1VeDNOcHYxbzYtYl9zUGdlY3lORW9qNWowT2gxNzJ2T3BkM2VURDVodGZYdUUzUG9nc1VqWlJJTGJnd2NabWtxQWYyeWoxakliRjMzQXR1ZkZ2VjZRLWtJUXZEdw?oc=5) 埼玉新聞
 
 ○9月15日 [【写真】長友、小池都知事を表敬 現役続行に「ブラボー」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQR2V6amtUXzNkMkNLOEZxVmhyUEl0MGJDTGtPN2ZXMXgwY1VfdHAtdjRrNzc5V1NyNHI4RUNhSGpLNHg4RWY2dEZaTWxKdkNQNzNNTmwyMWl2N19HTFZ6bGJDVDNQdlE?oc=5) 南日本新聞
 
-○9月15日 [サッカー長友選手、都庁でW杯応援に謝辞 小池知事「ブラボー」 ［写真特集2/4］](https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWNXTWlya1RXN1MwRlcwUy15aGI2bV9sNmtZMkgxcktXSkZHS0ZJUzFhTHA4MnhNckphRlVKNmhpUWJCcm8wc1RGN3had01vOE9HWXZBZkExbUVSV2czZlZndDFOeG5UdTkzUDZxQVV4RG1jRlVRc3NDOGNRTGtQZWc3Mm1jT0U?oc=5) 毎日新聞
-
 ○9月15日 [「マンマミーアで頑張って」小池都知事、長友選手にエール](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Md2U3UW9BR1lqalk2REc2eDRZME9uZFMxcDc0OGZSSGlGYzZBZ0hraXpBTnN4YUN2T0pNT0EwSERoZFVrNmR0TWVmclRiVzd4TTY5QThJalVjbWM?oc=5) 読売新聞
-
-○9月16日 [サッカー 「FC東京でV狙う」 長友選手が都庁訪問 小池知事「ブラボー」 ／東京](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IQXhmb3cwMlpTYXFwVG9BTF9KcmplYVJmWW94QWdrRER4X1BCQV96bWE4VFNpWlRXdGhOSE9GUG81bFVkZUtDbzFNeTBqX3p6NlBUTkJlTEFRc1ROQ3c2Mjl1LTFRRlgy?oc=5) 毎日新聞
 
 ○9月16日 [長友佑都、「ＦＣ東京で優勝の夢をかなえたい」…小池都知事「『マンマミーア』で頑張って」と激励](https://news.google.com/rss/articles/CBMid0FVX3lxTE53RkFSa1NnQjU5alYzYUI1LTVSWnFRb1dCZGw1Qkd3NkFRMzlqdThYNE9xTVVSWlZmUW5TQ0JWc2g1YWlrVnBOWFprelQ4dnhsYV94Qnh5cDQ3dmFodndCU2YyX0lNNDBEMTd1b29WSHdwRU04Z2Fr?oc=5) 読売新聞
 
@@ -28,9 +24,13 @@
 
 ○9月17日 [【写真】１００歳、今後もドラマ作りたい 石井ふく子さん、都知事が祝福](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LRGxXSGE2Vm50M0c4ci14b2g3VURJb0N0cmlCTURtLWpNRkF5OHMxWGdvZXZyZ01WUnlUZXA5UmdLd2NMS2J3YVdmQ1ZBREphQUNMWkdOZW5Ta3dkX0RFSFZtRUZjUTA?oc=5) 南日本新聞
 
+○9月18日 [都知事所信表明 地震・豪雨対策のさらなる強化へ](https://news.google.com/rss/articles/CBMigAFBVV95cUxPNnhfbTItR2EweWZxSzV3YjF5eTBnYVdTaEp0Mk9zd0tQeHVQQ3RUNndaUzI4WlBQb1AtQkN0bXppM3ZkdENnUmZKR2dCcDd5bGg0c0dkN052eHJieXRVYk9zdUZFT1dTa0lDQUFpSGVQMm1Cam9tUW5uVWdrR3k5SQ?oc=5) 建通新聞
+
 ○9月18日 [小池百合子知事「自動運転を推進する動きに期待」 国内初の完全無人タクシー運行計画に](https://news.google.com/rss/articles/CBMiU0FVX3lxTE91VG5ObTBWWFdIRF9EVVpMeFZ6Vm9oMzd1VzFHb2xtSkFuc053VTFUejJNbFlfZWJLZjBkbGUwZ0NVM2lQOEVvMFdMbXJad2FUOHRR?oc=5) 東京新聞
 
 ○9月18日 [小池知事、新総務相に｢国の成長の観点｣期待 地方税収の偏在是正巡り](https://news.google.com/rss/articles/CBMibEFVX3lxTFBHSHJ6WU85ZktTMEZmTU1ZaXhnYjh0cjBEcW5Sb3RjNUJTUzA5c0Vyc1NLV1A1Sm05NzVxek5iTVM4bW95di1kMlRya0RycnV6YlNrT2g1VXRUcXlUSWhiaGFYbUxVWS1BMUdaSw?oc=5) 日本経済新聞
+
+○9月19日 [名誉都民にタモリさんら3人 都議会定例会で同意](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jQnZwQ3Y0a3UxX1h4WVA3alhKdlUtVktMZ3pFMUxxaFUzTWJMTXMzMDJvVndfcXZtTTl2V3NNSFdzYjVvNjVmWWRrc25XUUNnRXdN?oc=5) 東京新聞
 
 【東京都知事（小池百合子）】
 
