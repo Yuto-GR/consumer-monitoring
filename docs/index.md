@@ -1,12 +1,10 @@
-更新日時: 2026年9月20日（日）20:57 JST
+更新日時: 2026年9月21日（月）11:01 JST
 
 【ニュース】
 
 ○9月17日 [100歳の石井ふく子さん、戦争体験「二度と…」 小池知事が祝い状 「東京都」](https://news.google.com/rss/articles/CBMibkFVX3lxTE1nNEhIVW41QUtfMGtmTVc1WDFzNEZUTFBkM0txVFBlZ2pOSm5Qek9WWnZmTjhNNDFsNHBISVVoQ0VpU0NEZy1jZ3YtYW54VGM5V1U3SUFhUksxTFNKNnZtNDY5alZtcGlRdTQxc3p3?oc=5) 朝日新聞
 
 ○9月17日 [１００歳、今後もドラマ作りたい 石井ふく子さん、都知事が祝福](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMHlsV3kwM2dGMndXOFIxaDNlaGlucFFQRzFERFE0aWhPYktHREtJcERwTHhlZmQyMElGS01XcGE4MWhRSmdfd1NRRklBdjAzVWlPTXVJa3ZYUG5aazhUVXRxcDNhYXF5eC02LTlCZzJPcExuR29ld0lwOWU5Nlh5Y2NBQWRyRTF3VDlscWtMTzhzZDFjR3dzTkNCS3E?oc=5) 山形新聞
-
-○9月17日 [１００歳、今後もドラマ作りたい 石井ふく子さん、都知事が祝福 - 全国のニュース](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FZHZkQVZycHF1YklSeWxiLVVMRnBpWGM1Y2VUblZYLUhDSFV3dnA4VnFiUkcxckRGRkMtTm9iSWZaMlNkR2gzZDZGb0dGRXVmb1VXcTVn?oc=5) 佐賀新聞
 
 ○9月17日 [【写真】１００歳、今後もドラマ作りたい 石井ふく子さん、都知事が祝福](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LRGxXSGE2Vm50M0c4ci14b2g3VURJb0N0cmlCTURtLWpNRkF5OHMxWGdvZXZyZ01WUnlUZXA5UmdLd2NMS2J3YVdmQ1ZBREphQUNMWkdOZW5Ta3dkX0RFSFZtRUZjUTA?oc=5) 南日本新聞
 
@@ -20,19 +18,11 @@
 
 ○9月19日 [【写真・画像】小池百合子都知事、映画のトークイベントに登壇「最後まで楽しんでいただきたい」 - オリコンニュース](https://news.google.com/rss/articles/CBMiZEFVX3lxTE10Vnp0eFU3YUx0SHc5M05FbWtuMzQtQnJjTGU3UHZ6Z01ueVJsbUxKNDNTdW5iOUl0bFVtSUNSVkZsanc4d0JGakg4R1pNcWNic2M0bEhLdTcxX3NuTDFxNUgtYzg?oc=5) 佐賀新聞
 
-○9月19日 [小池百合子都知事、映画のトークイベントに登壇「最後まで楽しんでいただきたい」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE82bU1wYmNxckM3WHFSd1JoSWhYVlp3MjV5dnk0aUVJWll5MHFCYlhCV0ZWRmVxQ2EyYUQ2ZVNFbUR0SDVHREdNNXB3ekFRY0ZEaGdwWjhCVWJqU21VbnlGb20yVEw?oc=5) 山形新聞
-
 【東京都知事（小池百合子）】
 
 ○9月18日　[都知事杯オープンデータ・ハッカソン2026「Final Stage」を10月17日（土）開催](https://www.metro.tokyo.lg.jp/information/press/2026/09/2026091813)
 
 【東京都議会】
-
-○9月16日　[文教委員会 9月16日、10月2日、10月6日](https://www.gikai.metro.tokyo.lg.jp/schedule/educational.html)
-
-○9月16日　[厚生委員会 9月16日、10月5日、10月6日](https://www.gikai.metro.tokyo.lg.jp/schedule/welfare.html)
-
-○9月16日　[環境・建設委員会 9月16日、10月5日](https://www.gikai.metro.tokyo.lg.jp/schedule/environmental-construction.html)
 
 ○9月18日　[本会議 9月18日、9月29日、9月30日、10月8日](https://www.gikai.metro.tokyo.lg.jp/schedule/plenary-session.html)
 
