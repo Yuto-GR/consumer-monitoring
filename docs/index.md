@@ -1,12 +1,6 @@
-更新日時: 2026年9月22日（火）11:08 JST
+更新日時: 2026年9月22日（火）21:16 JST
 
 【ニュース】
-
-○9月18日 [都知事所信表明 地震・豪雨対策のさらなる強化へ](https://news.google.com/rss/articles/CBMigAFBVV95cUxPNnhfbTItR2EweWZxSzV3YjF5eTBnYVdTaEp0Mk9zd0tQeHVQQ3RUNndaUzI4WlBQb1AtQkN0bXppM3ZkdENnUmZKR2dCcDd5bGg0c0dkN052eHJieXRVYk9zdUZFT1dTa0lDQUFpSGVQMm1Cam9tUW5uVWdrR3k5SQ?oc=5) 建通新聞
-
-○9月18日 [小池百合子知事「自動運転を推進する動きに期待」 国内初の完全無人タクシー運行計画に](https://news.google.com/rss/articles/CBMiU0FVX3lxTE91VG5ObTBWWFdIRF9EVVpMeFZ6Vm9oMzd1VzFHb2xtSkFuc053VTFUejJNbFlfZWJLZjBkbGUwZ0NVM2lQOEVvMFdMbXJad2FUOHRR?oc=5) 東京新聞
-
-○9月18日 [小池知事、新総務相に｢国の成長の観点｣期待 地方税収の偏在是正巡り](https://news.google.com/rss/articles/CBMibEFVX3lxTFBHSHJ6WU85ZktTMEZmTU1ZaXhnYjh0cjBEcW5Sb3RjNUJTUzA5c0Vyc1NLV1A1Sm05NzVxek5iTVM4bW95di1kMlRya0RycnV6YlNrT2g1VXRUcXlUSWhiaGFYbUxVWS1BMUdaSw?oc=5) 日本経済新聞
 
 ○9月19日 [名誉都民にタモリさんら3人 都議会定例会で同意](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jQnZwQ3Y0a3UxX1h4WVA3alhKdlUtVktMZ3pFMUxxaFUzTWJMTXMzMDJvVndfcXZtTTl2V3NNSFdzYjVvNjVmWWRrc25XUUNnRXdN?oc=5) 東京新聞
 
