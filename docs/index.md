@@ -1,4 +1,4 @@
-更新日時: 2026年9月24日（木）10:56 JST
+更新日時: 2026年9月24日（木）21:28 JST
 
 【ニュース】
 
@@ -9,6 +9,10 @@
 ○9月23日 [小池百合子都知事、映画のトークイベントに登壇「最後まで楽しんでいただきたい」](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VTFBHZjNLWV80VkxZOHZoWjZfRm1pbzNYN1BzYzlLN2pYWnlHNXJtd3lTNUpDdWhTVFp2SmN0MUU1UDFjLTl2djhVVU1jUzVFNGRqNzltbG9XTi1G?oc=5) 山陽新聞
 
 ○9月23日 [小池百合子都知事、映画のトークイベントに登壇「最後まで楽しんでいただきたい」](https://news.google.com/rss/articles/CBMiZEFVX3lxTE82bU1wYmNxckM3WHFSd1JoSWhYVlp3MjV5dnk0aUVJWll5MHFCYlhCV0ZWRmVxQ2EyYUQ2ZVNFbUR0SDVHREdNNXB3ekFRY0ZEaGdwWjhCVWJqU21VbnlGb20yVEw?oc=5) 山形新聞
+
+○9月24日 [「横浜市長候補にIR誘致求めず」横浜商議所副会頭](https://news.google.com/rss/articles/CBMibEFVX3lxTFBucEVsMzRfbEFXQnJvMVJfSVZhcGxiUWVRbFdNRkVTWE5pa0N2S2QxVDdxb1JtTkZzbFNCR3FMMkNuaXV4Z2lLUUpMU09QRHR3ZVpZUDRxTXRwcFEtMGZaeFptZkVhVnd5LTQ4Mg?oc=5) 日本経済新聞
+
+○9月24日 [石丸伸二氏の陣営関係者らを不起訴 都知事選巡り東京地検](https://news.google.com/rss/articles/CBMibEFVX3lxTE9adm5mQTE3SjdhQ0ZxcjZzQXJVN0t0MzVHMTZMbk9tS1JIdGlMWjVJbTZhdFlvZnpWakdyNGRCRG5qdjJ2aGpKRTAxdjlBeHlMbzdOaEdYYlNZRW5vSU1aX3dRY0d1RlIxanZVcA?oc=5) 日本経済新聞
 
 【東京都知事（小池百合子）】
 
