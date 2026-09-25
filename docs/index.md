@@ -1,8 +1,6 @@
-更新日時: 2026年9月24日（木）21:28 JST
+更新日時: 2026年9月25日（金）11:11 JST
 
 【ニュース】
-
-○9月21日 [小池都知事が石井ふく子さん100歳を祝福 「これからも現役で」](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xVEUtLWRVaUtfS3Q2cTNGdjQtVDVodFM4dWVtYWhqUXpvYjRwVFJhcVpOcG9rN2ZEMURSd05HMHllSng0WS01N3lJdGFpemd2aHlPWTc3akFINlNBMEtsS0FrSFNOdHIx?oc=5) 毎日新聞
 
 ○9月21日 [メルツ首相に逆風強まる…ドイツ北東部の州議選でCDU議席ゼロ 極右AfD第1党 首都議会選は左派が制す](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TM0NwVGY4cE50V0s1ZzdiLVpXN0M4XzU5WXpaeUl2ZHo5LWJGY1owU1lqYjR3eEwwOGRxeEhlZi1DU1BjT2hINC0zWG5JVTY0UjdB?oc=5) 東京新聞
 
