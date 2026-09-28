@@ -1,12 +1,6 @@
-更新日時: 2026年9月28日（月）11:16 JST
+更新日時: 2026年9月28日（月）23:51 JST
 
 【ニュース】
-
-○9月24日 [「横浜市長候補にIR誘致求めず」横浜商議所副会頭](https://news.google.com/rss/articles/CBMibEFVX3lxTFBucEVsMzRfbEFXQnJvMVJfSVZhcGxiUWVRbFdNRkVTWE5pa0N2S2QxVDdxb1JtTkZzbFNCR3FMMkNuaXV4Z2lLUUpMU09QRHR3ZVpZUDRxTXRwcFEtMGZaeFptZkVhVnd5LTQ4Mg?oc=5) 日本経済新聞
-
-○9月24日 [石丸伸二氏の陣営関係者らを不起訴 都知事選巡り東京地検](https://news.google.com/rss/articles/CBMibEFVX3lxTE9adm5mQTE3SjdhQ0ZxcjZzQXJVN0t0MzVHMTZMbk9tS1JIdGlMWjVJbTZhdFlvZnpWakdyNGRCRG5qdjJ2aGpKRTAxdjlBeHlMbzdOaEdYYlNZRW5vSU1aX3dRY0d1RlIxanZVcA?oc=5) 日本経済新聞
-
-○9月24日 [都知事選の石丸陣営を巡る告発 関係者ら4人を不起訴 東京地検](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wcHVpSk9QV0RqY0RtdGNHVUNIbzItSmE4dncyRklqSDVYaG5RYmtwNkZuMUdCWnpBSi04cFYtZXNkV3hDRjZNVmcyM2pQYXFVM2VTY2hiaUlGSElDVG5sQWlrZERNSnFR?oc=5) 毎日新聞
 
 ○9月25日 [小池百合子都知事「新しい地下河川を作る大事業も考えている」 豪雨による災害巡り言及](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1reVZBbF9kZUdoRnROY0R2YWd3U19HTGg5Q3YwT3FOM1JMVlQ0bnlUUmJNX0x3LTNSVXZsekc5OWh3TS1vTFFWOU9UVnk3bVdVYzZR?oc=5) 東京新聞
 
@@ -17,6 +11,8 @@
 ○9月27日 [バンコク、豪雨で主要道路の冠水相次ぐ 都知事「東部で洪水」](https://news.google.com/rss/articles/CBMibEFVX3lxTE1kdHJDdXVDRDdscWE2UFkxWGFVUDNEVHBEb2h6SGptSHVqZWtHN3JsZFBJMDlELWEtYS1hUm1PMkJPSWdHQkxvWF9tbmlqWHhQRmR5VmJIc242Y18zMzFNZEh3ZFg5aXNpRXJQaQ?oc=5) 日本経済新聞
 
 ○9月28日 [「偏在是正」唱えるだけは思考停止 小池知事語る都政の10年](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xMnpfckpKQ2dET1NQeVZJTkZ0dGdJdkI2ejVTOF9XZ3lZZnhZek5TdjJ2VEJDRFBLYmVzblBSaXpFQnRtZlN6VWphTFA3QUVocFNJLVI5U3lQNVNTaTVWb2hCcnN4WWdy?oc=5) 毎日新聞
+
+○9月28日 [〈小池知事会見ファイル＋9月〉行政の「産めよ殖やせよ」感にうんざり…もっと多様な生き方の後押しを](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JWkliQnlLdGtGOUJ5MVFHcDkzNmN4bUFpZHVaSjI4WFFhZG00Z21UdWpmamJqdjBTMTBEU0tKSG5ZdnJ5UEc0TGpFOTNzZ3BjWnhr?oc=5) 東京新聞
 
 【東京都知事（小池百合子）】
 
