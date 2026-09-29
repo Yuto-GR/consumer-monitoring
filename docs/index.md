@@ -1,4 +1,4 @@
-更新日時: 2026年9月29日（火）12:00 JST
+更新日時: 2026年9月29日（火）22:40 JST
 
 【ニュース】
 
@@ -9,6 +9,8 @@
 ○9月28日 [「偏在是正」唱えるだけは思考停止 小池知事語る都政の10年](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xMnpfckpKQ2dET1NQeVZJTkZ0dGdJdkI2ejVTOF9XZ3lZZnhZek5TdjJ2VEJDRFBLYmVzblBSaXpFQnRtZlN6VWphTFA3QUVocFNJLVI5U3lQNVNTaTVWb2hCcnN4WWdy?oc=5) 毎日新聞
 
 ○9月28日 [〈小池知事会見ファイル＋9月〉行政の「産めよ殖やせよ」感にうんざり…もっと多様な生き方の後押しを](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JWkliQnlLdGtGOUJ5MVFHcDkzNmN4bUFpZHVaSjI4WFFhZG00Z21UdWpmamJqdjBTMTBEU0tKSG5ZdnJ5UEc0TGpFOTNzZ3BjWnhr?oc=5) 東京新聞
+
+○9月29日 [小池知事、マンション投機取引に｢実効性ある政策検討｣ 住宅高騰受け](https://news.google.com/rss/articles/CBMibEFVX3lxTFBiLWFUOFlTY0hoX0x4ZnItTy0xTTdDVTh5RVBRZXV3NUtnY09wTGVMVGFoTFZTZ2xLZEg1cTZhaEdaWnNkdExHWDR1MGJXWVB4MndURjRJLUdYZWVsdkt5cGgzUEVzc3N2djNRbA?oc=5) 日本経済新聞
 
 【東京都知事（小池百合子）】
 
