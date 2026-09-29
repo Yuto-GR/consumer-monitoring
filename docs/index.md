@@ -1,10 +1,6 @@
-更新日時: 2026年9月28日（月）23:51 JST
+更新日時: 2026年9月29日（火）12:00 JST
 
 【ニュース】
-
-○9月25日 [小池百合子都知事「新しい地下河川を作る大事業も考えている」 豪雨による災害巡り言及](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1reVZBbF9kZUdoRnROY0R2YWd3U19HTGg5Q3YwT3FOM1JMVlQ0bnlUUmJNX0x3LTNSVXZsekc5OWh3TS1vTFFWOU9UVnk3bVdVYzZR?oc=5) 東京新聞
-
-○9月26日 [東京に台風接近 小池百合子都知事がコメント発表「テレワークの活用とともに、不要不急の外出などはお控えいただき」【全文】](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwMU44VlhiTjM2VXNVUVVYTTkxU2ZsOF9heEduQi1DWDBMVm5QTFRYUzRVbHZKS3llSzVCWlcwVFpjdVBPaEYxa3B5Y0IwcUN4clE?oc=5) 山陽新聞
 
 ○9月26日 [城島茂、小池百合子都知事からサインおねだり「私リーダーに会うの初めて。サインください」](https://news.google.com/rss/articles/CBMicEFVX3lxTE05RlBYcVdoa04wS0hsSHZsOUpfNTNsQV9zYnZRdTViT3lwNkJOcUJGN25fTFZWejVQajRNZ0ZrLUNXRnlGdVBpeDI3X0ZaR055Qm1DZTIwWERTVEJOUzY1YWthWFhCQUZId2lyaVNSR3Y?oc=5) 読売新聞
 
