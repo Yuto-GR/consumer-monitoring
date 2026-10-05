@@ -1,8 +1,6 @@
-更新日時: 2026年10月4日（日）21:59 JST
+更新日時: 2026年10月5日（月）11:42 JST
 
 【ニュース】
-
-○10月1日 [〈論戦 都議会〉一般質問 都庁周辺の街路再編 歩道を拡幅 にぎわいある空間へ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE93Y3liNjF1SjJTb0paM0ZNVXl3US1aSE5SRmMyQnVXenFNTTNUS25VYlJaSldTTTNoMGdWSWVKX1ptSWg2X3VDaVF2aktxMzc1ZDdB?oc=5) 東京新聞
 
 ○10月2日 [炭鉱閉山で人口減の町、IR誘致構想 福岡・大任「起死回生の一手」 「福岡県」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83aFczUXV4c0h3VlZiek5RYU4yazZSSTFUN0xRN0ZpZnpkNWRhNGpUTGVRdURLSktIaV80Z2VsS1BiMUFudk9iWU9EYjhLRG9xdHRjUENNMmN0WEtEQlRndEpsNDMwMTA?oc=5) 朝日新聞
 
@@ -15,8 +13,6 @@
 ○10月2日　[知事の海外出張について](https://www.metro.tokyo.lg.jp/information/press/2026/10/2026100209)
 
 ○10月2日　[副知事の海外出張について](https://www.metro.tokyo.lg.jp/information/press/2026/10/2026100206)
-
-○10月1日　[知事と区市町村長との意見交換の実施について](https://www.metro.tokyo.lg.jp/information/press/2026/10/2026100109)
 
 【東京都議会】
 
