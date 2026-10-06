@@ -1,8 +1,6 @@
-更新日時: 2026年10月6日（火）12:34 JST
+更新日時: 2026年10月6日（火）22:50 JST
 
 【ニュース】
-
-○10月2日 [小池百合子知事、記録的長雨をめぐり「脱炭素化を進め、気候変動に対応したい」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE01YU5BM2twVUQ4RkpleXZVOEs3enJDMEp4cXVyX0ZkbUdVSlB3dkpVem1naXFLam5ndWpfeGRLWk9lNFNWeFpMbmI1V25Nd2ZBRGZv?oc=5) 東京新聞
 
 ○10月3日 [福岡・大任がIR誘致へ 町長「生き残る起死回生の一手」](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WMm1qaEcxOUQ5LUt6b0Zpb3V2SWF5QU9JV2FHal9ZRHpWQjRIeWNzbW42ODFTT3A5QVlwdHQ4MVZfMndlOHMyelhRMzAxY3BBeWNyaGdaQlBRMkhWRm1MQXdGV0Y2ZWNJ?oc=5) 毎日新聞
 
