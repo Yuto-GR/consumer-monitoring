@@ -1,8 +1,6 @@
-更新日時: 2026年10月6日（火）22:50 JST
+更新日時: 2026年10月7日（水）12:00 JST
 
 【ニュース】
-
-○10月3日 [福岡・大任がIR誘致へ 町長「生き残る起死回生の一手」](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WMm1qaEcxOUQ5LUt6b0Zpb3V2SWF5QU9JV2FHal9ZRHpWQjRIeWNzbW42ODFTT3A5QVlwdHQ4MVZfMndlOHMyelhRMzAxY3BBeWNyaGdaQlBRMkhWRm1MQXdGV0Y2ZWNJ?oc=5) 毎日新聞
 
 ○10月3日 [長友、小池都知事を表敬 現役続行に「ブラボー」](https://news.google.com/rss/articles/CBMiakFVX3lxTE9VelpRUVM5WmczQmJ3bTZUQ09nVTQ5Z1lhQ1g3c0ZNTFdIU1F1QXMydmdoQW5UcmhXTWVQNHc3VF9Vd1F2bWVUZTNVenZTa0ZaNHhha2YxcG05QWZkdjI3Rlc4UXY0SGN6eUE?oc=5) 山陽新聞
 
