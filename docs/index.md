@@ -1,12 +1,10 @@
-更新日時: 2026年10月8日（木）23:18 JST
+更新日時: 2026年10月9日（金）12:22 JST
 
 【ニュース】
 
 ○10月6日 [令和8年8月8日に婚姻届提出者が列 小池百合子東京都知事＆婚活アドバイザーの植草美幸さんが明かす](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11SE1mU005d2NQYmdvenBQQ1lzd0RKREVtOXRSV1g1UFhfbGI2XzhSNnpBc0FLNjJfVmh4Y3pqRy1GZGZOWFlTVExjUVJJdFdpZHRDUFFVTlpmVnlxYjRPU0JnRWZCQ2M?oc=5) 山陽新聞
 
 ○10月7日 [大任町IR誘致、周辺自治体に賛意や困惑 「やる価値」「悩ましい」 「福岡県」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mNURsMV96YktPUnRFVE1lUUo0Sm1nZGxrSjFzY29NTnRhaUNWRGR2NGVjaTZjVU5vS1FjNUYyVVZHTElzT0JDVnk0S2VLenVmVWRvRTBUbTZXdjU4UW15OHR2V05xNFk?oc=5) 朝日新聞
-
-○10月7日 [大任町IR誘致、周辺自治体に賛意や困惑 「やる価値」「悩ましい」 「福岡県」](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLVJUZ0hsdDVKb2RaM0NjeVd3SU42VHBJQ3c2dS1rX3VBeDlZb2lzT01hT1pNeHFpODRwR0tRT212bmd6dmhfRHBEektmQnFMT0NmdkI1MUZwdmdBZWNnRFlIRXZvRnptLVlYTWhxcDI2b2h4Rk14ZVFlZWh1RlBWTVVkYXRpZ2RuYS1hNEJIc09ldjk1MHZrUFA0dmhPeGV3b0FZdw?oc=5) 朝日新聞
 
 ○10月7日 [小池都知事「自治体のつながり重要」 在日豪大使館で外交フォーラム](https://news.google.com/rss/articles/CBMibEFVX3lxTE1LdVM3U1NOUHgwdVFiWkVaeXI0Nm9WLWpkVXlUM1NLckNEVFdHR2xSZmR6ejBqZm9MTmNIcGdLMm9OV2hpQ2tzWFNiR1h3RFVmZ29CWXJ1ZzVaWUJETVJhdGZqb2FsQ1FtOWhhQg?oc=5) 日本経済新聞
 
@@ -16,11 +14,15 @@
 
 ○10月8日 [小池都知事「大変誇らしい」 硤合憲三さんのノーベル化学賞受賞](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PRmRoR0JZM19QOUhJMkRGNFZEUVhtMEFCSXc5c0ZGd1JKaWdkMFFlQWV3VTJxUFliZ0Jjam1jTjRwdHRfNnFwemhfZ0F0MTlpQWVPQk5BZU5NT1dQZzFuWld5OEY2NHdl?oc=5) 毎日新聞
 
-○10月8日 [大学定員規制の撤廃を 東京都議会が意見書採択 - 全国のニュース](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RS1pVS3NNbnJVb2thQ0tFS041RkVoWnFtTnlWLWVHLWRBLXc2aEtaY2lNRlRRZFFhbTMyeDl0UGRNY09iek9xcEdrZEJlRE1aeGJwem93?oc=5) 佐賀新聞
+○10月8日 [大学定員規制の撤廃を／東京都議会が意見書採択](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2NVbmxZUGd6RVhEd3JBNGx4WFBId1ZCeXBhV1k3cU12RVRNdlZfRHR4Q21QMWVERmlGc01iczRlNjNRYW8yb1dHZm1NMnlaNEh3MU5NcFpFYnpSUFJPOERPZzdtNGFUZUYzbWE4aU1MQTF1Yk1nYnJIZGJPVXBEUE9CY3VMTVVO?oc=5) 四国新聞
+
+○10月8日 [【写真・画像】大学定員規制の撤廃を 東京都議会が意見書採択 - 全国のニュース](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xVlpNX0RJSG5RVmYxNC1UVGJPVXF5SGdCX2MycGNhcGRvVUozTHMtMHlKLWFMbjhIWDd5SzF1N0pyV3RRWU9xM0E5R2hxQlA4Z0pFNlI5MGszYVZUbzZHR2V4U1k?oc=5) 佐賀新聞
 
 ○10月8日 [東京都議会、偏在是正と23区大学定員規制に反対 意見書可決](https://news.google.com/rss/articles/CBMibEFVX3lxTE5aaUpTcTI0MHV4ZkdlM2VzY3pQVlR1eDg3MG9DQUd5TU5aeDBXOENvNEhZeTg0aVRGdjdmSGN3ckl2TFVfRkhNUGJRS0x3czR2UU4yQWZQNW5zY0xScHlxUUd3THZMTkJmNERoQQ?oc=5) 日本経済新聞
 
 ○10月8日 [経団連会長、IR誘致「経済循環で効果見込める」 札幌で記者会見](https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ha1liQXZkSUdOYzJPd1RwRnVmTTBhZFVpREFVdnNld3Z4ZFVESWVVbTdTNEZBNGtyYjdzWGxFbDk5VXN5dFZRQlRGa2czeC1Ta0FLcmtpMXVNNk1xaDdvQW94UERRVW16VDlLNg?oc=5) 日本経済新聞
+
+○10月9日 [空港条例改正など44議案可決し閉会 都議会、意見書4件も](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkX3lFUkZvYmRHUlZzbzhCQjdFMFlsQXFWZzBvazhfVlNjRmp1dkx2czBWZWpsNElqbGs4MmxLRXFBdE1NeTktbUVCODFrSDFLV19mdElSRWZNQmQ3cDhtY0Jn?oc=5) 東京新聞
 
 【東京都知事（小池百合子）】
 
