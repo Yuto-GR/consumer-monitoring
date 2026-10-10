@@ -1,4 +1,4 @@
-更新日時: 2026年10月10日（土）12:02 JST
+更新日時: 2026年10月10日（土）22:12 JST
 
 【ニュース】
 
@@ -14,7 +14,7 @@
 
 ○10月8日 [大学定員規制の撤廃を／東京都議会が意見書採択](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2NVbmxZUGd6RVhEd3JBNGx4WFBId1ZCeXBhV1k3cU12RVRNdlZfRHR4Q21QMWVERmlGc01iczRlNjNRYW8yb1dHZm1NMnlaNEh3MU5NcFpFYnpSUFJPOERPZzdtNGFUZUYzbWE4aU1MQTF1Yk1nYnJIZGJPVXBEUE9CY3VMTVVO?oc=5) 四国新聞
 
-○10月8日 [【写真・画像】大学定員規制の撤廃を 東京都議会が意見書採択 - 全国のニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zcmFfMHc0NzZEaG1tU2M1eHlCaE9MTmZvMDVfWl96TVZ1MHYxRl8wUXJxSnNUZTdUNlNkTVVINUFTc0tUejVuTWV2a2JRQUk4Q0VZNUtZSGIxSE9sR1E?oc=5) 佐賀新聞
+○10月8日 [【写真・画像】大学定員規制の撤廃を 東京都議会が意見書採択 - 全国のニュース](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xVlpNX0RJSG5RVmYxNC1UVGJPVXF5SGdCX2MycGNhcGRvVUozTHMtMHlKLWFMbjhIWDd5SzF1N0pyV3RRWU9xM0E5R2hxQlA4Z0pFNlI5MGszYVZUbzZHR2V4U1k?oc=5) 佐賀新聞
 
 ○10月8日 [【写真】大学定員規制の撤廃を 東京都議会が意見書採択](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PM1pKNERlRU1mMGE3TmVraDdVVlNuMi1TYkdNX3pZQkNPWlVhYVdaVlUwd2pwempJV2NZdWhvWXVCS3p5ZzZLbDJRT2FOb04ycFVTbk5GTlo2S3hBM0tabzByMXJGYU0?oc=5) 南日本新聞
 
