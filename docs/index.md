@@ -1,12 +1,8 @@
-更新日時: 2026年10月9日（金）23:03 JST
+更新日時: 2026年10月10日（土）12:02 JST
 
 【ニュース】
 
-○10月6日 [令和8年8月8日に婚姻届提出者が列 小池百合子東京都知事＆婚活アドバイザーの植草美幸さんが明かす](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11SE1mU005d2NQYmdvenBQQ1lzd0RKREVtOXRSV1g1UFhfbGI2XzhSNnpBc0FLNjJfVmh4Y3pqRy1GZGZOWFlTVExjUVJJdFdpZHRDUFFVTlpmVnlxYjRPU0JnRWZCQ2M?oc=5) 山陽新聞
-
 ○10月7日 [大任町IR誘致、周辺自治体に賛意や困惑 「やる価値」「悩ましい」 「福岡県」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mNURsMV96YktPUnRFVE1lUUo0Sm1nZGxrSjFzY29NTnRhaUNWRGR2NGVjaTZjVU5vS1FjNUYyVVZHTElzT0JDVnk0S2VLenVmVWRvRTBUbTZXdjU4UW15OHR2V05xNFk?oc=5) 朝日新聞
-
-○10月7日 [大任町IR誘致、周辺自治体に賛意や困惑 「やる価値」「悩ましい」 「福岡県」](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLVJUZ0hsdDVKb2RaM0NjeVd3SU42VHBJQ3c2dS1rX3VBeDlZb2lzT01hT1pNeHFpODRwR0tRT212bmd6dmhfRHBEektmQnFMT0NmdkI1MUZwdmdBZWNnRFlIRXZvRnptLVlYTWhxcDI2b2h4Rk14ZVFlZWh1RlBWTVVkYXRpZ2RuYS1hNEJIc09ldjk1MHZrUFA0dmhPeGV3b0FZdw?oc=5) 朝日新聞
 
 ○10月7日 [小池都知事「自治体のつながり重要」 在日豪大使館で外交フォーラム](https://news.google.com/rss/articles/CBMibEFVX3lxTE1LdVM3U1NOUHgwdVFiWkVaeXI0Nm9WLWpkVXlUM1NLckNEVFdHR2xSZmR6ejBqZm9MTmNIcGdLMm9OV2hpQ2tzWFNiR1h3RFVmZ29CWXJ1ZzVaWUJETVJhdGZqb2FsQ1FtOWhhQg?oc=5) 日本経済新聞
 
@@ -18,7 +14,9 @@
 
 ○10月8日 [大学定員規制の撤廃を／東京都議会が意見書採択](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2NVbmxZUGd6RVhEd3JBNGx4WFBId1ZCeXBhV1k3cU12RVRNdlZfRHR4Q21QMWVERmlGc01iczRlNjNRYW8yb1dHZm1NMnlaNEh3MU5NcFpFYnpSUFJPOERPZzdtNGFUZUYzbWE4aU1MQTF1Yk1nYnJIZGJPVXBEUE9CY3VMTVVO?oc=5) 四国新聞
 
-○10月8日 [【写真・画像】大学定員規制の撤廃を 東京都議会が意見書採択 - 全国のニュース](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xVlpNX0RJSG5RVmYxNC1UVGJPVXF5SGdCX2MycGNhcGRvVUozTHMtMHlKLWFMbjhIWDd5SzF1N0pyV3RRWU9xM0E5R2hxQlA4Z0pFNlI5MGszYVZUbzZHR2V4U1k?oc=5) 佐賀新聞
+○10月8日 [【写真・画像】大学定員規制の撤廃を 東京都議会が意見書採択 - 全国のニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zcmFfMHc0NzZEaG1tU2M1eHlCaE9MTmZvMDVfWl96TVZ1MHYxRl8wUXJxSnNUZTdUNlNkTVVINUFTc0tUejVuTWV2a2JRQUk4Q0VZNUtZSGIxSE9sR1E?oc=5) 佐賀新聞
+
+○10月8日 [【写真】大学定員規制の撤廃を 東京都議会が意見書採択](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PM1pKNERlRU1mMGE3TmVraDdVVlNuMi1TYkdNX3pZQkNPWlVhYVdaVlUwd2pwempJV2NZdWhvWXVCS3p5ZzZLbDJRT2FOb04ycFVTbk5GTlo2S3hBM0tabzByMXJGYU0?oc=5) 南日本新聞
 
 ○10月8日 [大学定員規制の撤廃を 東京都議会が意見書採択](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BdDR4VjhVNzJ6US1menBxYjRhbFowamlGTF9td29sdjlDZU5WWVRuNmpVLUo3WWJFSURCeDl4dEU0UU5zOENVVXNXSDAzOGY1MzRuQkNXQ1ZBS3NYYlViQkJETm5rZHFT?oc=5) 山陽新聞
 
@@ -36,6 +34,8 @@
 
 ○10月9日 [小池都知事、サイバーセキュリティーの人員増強を指示 攻撃多発で](https://news.google.com/rss/articles/CBMibEFVX3lxTE45T3Y1bUhUYjVxRFdvbndKSnBkeDRVazRRTzRJU2ZUSnFwNGhidWY3ZDdNOW51N3FZZjlrOEdQSDJHSjVjZjA4WkFtYXRBal93RDdHbHVPQjVrN3RYZjFaZ3RRb0ZQa2hDY1d3ag?oc=5) 日本経済新聞
 
+○10月10日 [横浜市長選挙に立候補した7人、市政やIR誘致をどう考える？ 東京新聞がアンケート：東京新聞デジタル](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TdEdmRjNhT1NzeURBMGJLNmluc2VveFAtQ2dyLWM2eURVR3NVQnpDdE5QT2g1X0l1NVdtU2hONGR1RnBRVWxXU1BJb1ZlU3pXNWJz?oc=5) 東京新聞
+
 【東京都知事（小池百合子）】
 
 ○10月7日　[東京都主催「TIME TO ACTフォーラム2026」における知事の発言について](https://www.metro.tokyo.lg.jp/information/press/2026/10/2026100720)
@@ -43,18 +43,6 @@
 ○10月7日　[令和8年度薬事関係及び薬物乱用防止関係功労者知事感謝状を贈呈します](https://www.metro.tokyo.lg.jp/information/press/2026/10/2026100701)
 
 【東京都議会】
-
-○10月5日　[総務委員会 10月5日、10月6日、10月8日、10月27日、11月10日](https://www.gikai.metro.tokyo.lg.jp/schedule/general-affairs.html)
-
-○10月5日　[都市整備委員会 10月5日、10月6日、10月8日、10月22日](https://www.gikai.metro.tokyo.lg.jp/schedule/urban-development.html)
-
-○10月5日　[厚生委員会 10月5日、10月6日、10月8日、10月13日](https://www.gikai.metro.tokyo.lg.jp/schedule/welfare.html)
-
-○10月5日　[経済・港湾委員会 10月5日、10月6日、10月8日、10月15日、11月10日、11月12日、11月17日](https://www.gikai.metro.tokyo.lg.jp/schedule/economic-port-and-harbor.html)
-
-○10月5日　[環境・建設委員会 10月5日、10月8日、11月5日、11月12日、11月17日](https://www.gikai.metro.tokyo.lg.jp/schedule/environmental-construction.html)
-
-○10月5日　[警察・消防委員会 10月5日、10月8日、11月19日](https://www.gikai.metro.tokyo.lg.jp/schedule/police-fire-fighting.html)
 
 ○10月7日　[議会運営委員会 10月7日](https://www.gikai.metro.tokyo.lg.jp/schedule/assembly-administration.html)
 
