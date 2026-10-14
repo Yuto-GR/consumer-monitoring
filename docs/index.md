@@ -1,8 +1,6 @@
-更新日時: 2026年10月13日（火）23:44 JST
+更新日時: 2026年10月14日（水）11:25 JST
 
 【ニュース】
-
-○10月10日 [横浜市長選挙に立候補した7人、市政やIR誘致をどう考える？ 東京新聞がアンケート：東京新聞デジタル](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TdEdmRjNhT1NzeURBMGJLNmluc2VveFAtQ2dyLWM2eURVR3NVQnpDdE5QT2g1X0l1NVdtU2hONGR1RnBRVWxXU1BJb1ZlU3pXNWJz?oc=5) 東京新聞
 
 ○10月10日 [東京に台風接近 小池百合子都知事がコメント発表「テレワークの活用とともに、不要不急の外出などはお控えいただき」【全文】](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwMU44VlhiTjM2VXNVUVVYTTkxU2ZsOF9heEduQi1DWDBMVm5QTFRYUzRVbHZKS3llSzVCWlcwVFpjdVBPaEYxa3B5Y0IwcUN4clE?oc=5) 山陽新聞
 
@@ -10,19 +8,13 @@
 
 ○10月13日 [都 優良建設業者の都知事感謝状贈呈式を開催](https://news.google.com/rss/articles/CBMigAFBVV95cUxPenJwNUZacjNGSjE1RHFqc1JUNXRvQnBmUlRwZnFmZzVtbXRfbTlyUXdpazhQR0xHczI1THBLRExJQU5oZDltb3R0bGxGcXBZU3RWY1lBYjAtRUotUVRBSXFld005NFpKdkF5YnM1ZEFHSVdPTGNnSzkyZGdvaXdLbw?oc=5) 建通新聞
 
+○10月14日 [26年度上半期は72件 直近４年で最少 都知事部局のスライド適用工事](https://news.google.com/rss/articles/CBMigAFBVV95cUxQWlZTTllPeV9wUWdKUGFfOGlxWXBhRXpVLUNxMmM5S1gyTmFHZnNoZWN1TnJwaE1XbEVsLWtFSm5kZkk3U1dBYzRVZVBBclZRcWRjczJtTXFfZ3d1aXlnR2hEd0VKVGxpaEhaZ2xfQWtDVzdEQ3dwQ21oYmlGR19qSw?oc=5) 建通新聞
+
 【東京都知事（小池百合子）】
 
 該当データなし
 
 【東京都議会】
-
-○10月9日　[各会計決算特別委員会 10月9日、11月16日、11月20日](https://www.gikai.metro.tokyo.lg.jp/schedule/special-accountiong.html)
-
-○10月9日　[各会計決算特別委員会第1分科会 10月9日、10月14日、10月19日、10月21日、10月23日、10月26日](https://www.gikai.metro.tokyo.lg.jp/schedule/special-accountiong-1.html)
-
-○10月9日　[各会計決算特別委員会第2分科会 10月9日、10月19日、10月21日、10月23日、10月26日](https://www.gikai.metro.tokyo.lg.jp/schedule/special-accountiong-2.html)
-
-○10月9日　[各会計決算特別委員会第3分科会 10月9日、10月14日、10月19日、10月21日、10月23日、10月26日](https://www.gikai.metro.tokyo.lg.jp/schedule/special-accountiong-3.html)
 
 ○10月16日　[公営企業会計決算特別委員会 10月16日、11月18日、11月24日](https://www.gikai.metro.tokyo.lg.jp/schedule/public-enterprise-special.html)
 
