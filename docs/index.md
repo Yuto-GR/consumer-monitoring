@@ -1,14 +1,14 @@
-更新日時: 2026年10月14日（水）11:25 JST
+更新日時: 2026年10月14日（水）21:35 JST
 
 【ニュース】
-
-○10月10日 [東京に台風接近 小池百合子都知事がコメント発表「テレワークの活用とともに、不要不急の外出などはお控えいただき」【全文】](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwMU44VlhiTjM2VXNVUVVYTTkxU2ZsOF9heEduQi1DWDBMVm5QTFRYUzRVbHZKS3llSzVCWlcwVFpjdVBPaEYxa3B5Y0IwcUN4clE?oc=5) 山陽新聞
 
 ○10月12日 [１０・１８横浜市長選：ネット討論会 7候補者が政策訴え IR誘致は全員反対 ／神奈川](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiX1pSM3FaUDhrQlduZ0RPSVI5NENlYnMwNGRIbURyTExDTVgzVk5aUDk3elJ4T1BwMG9IMUE0LXFZMm5Mcno5Ymlnb0ZvLXhZdzNQUVBJVU05eXhRSWx0LWdGcXZBU2k0?oc=5) 毎日新聞
 
 ○10月13日 [都 優良建設業者の都知事感謝状贈呈式を開催](https://news.google.com/rss/articles/CBMigAFBVV95cUxPenJwNUZacjNGSjE1RHFqc1JUNXRvQnBmUlRwZnFmZzVtbXRfbTlyUXdpazhQR0xHczI1THBLRExJQU5oZDltb3R0bGxGcXBZU3RWY1lBYjAtRUotUVRBSXFld005NFpKdkF5YnM1ZEFHSVdPTGNnSzkyZGdvaXdLbw?oc=5) 建通新聞
 
 ○10月14日 [26年度上半期は72件 直近４年で最少 都知事部局のスライド適用工事](https://news.google.com/rss/articles/CBMigAFBVV95cUxQWlZTTllPeV9wUWdKUGFfOGlxWXBhRXpVLUNxMmM5S1gyTmFHZnNoZWN1TnJwaE1XbEVsLWtFSm5kZkk3U1dBYzRVZVBBclZRcWRjczJtTXFfZ3d1aXlnR2hEd0VKVGxpaEhaZ2xfQWtDVzdEQ3dwQ21oYmlGR19qSw?oc=5) 建通新聞
+
+○10月14日 [サプライズで登壇した小池百合子東京都知事](https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2Rm0zdU1MQjVUNHdLMlBpcFlhYzhjdTlCbE9YR3kxei1hNXhhc1p6TUV2MWhNczFLU1c0bWVBcmU4WFVKNGMyZjI1SFlzWFNkM2c?oc=5) 江東経済新聞
 
 【東京都知事（小池百合子）】
 
@@ -23,6 +23,8 @@
 ○10月16日　[公営企業会計決算特別委員会第2分科会 10月16日、10月21日、10月26日](https://www.gikai.metro.tokyo.lg.jp/schedule/public-enterprise-special-2.html)
 
 【自民党東京都連（TOKYO自民党）】
+
+○10月14日　[〔公募情報〕大田区議選（R9統一選）](https://www.tokyo-jimin.jp/2026/10/14/1-4/)
 
 ○10月13日　[〔選挙情報〕R9統一選（第1次公認・推薦決定）](https://www.tokyo-jimin.jp/2026/10/13/1-3/)
 
