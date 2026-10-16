@@ -1,4 +1,4 @@
-更新日時: 2026年10月16日（金）10:56 JST
+更新日時: 2026年10月16日（金）21:02 JST
 
 【ニュース】
 
@@ -10,7 +10,15 @@
 
 ○10月16日 [都総合教育会議 小池知事ら出席 学習でのAI活用検討](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0NFdXUm9CdmpVa3c2SkM4eFh6Q29wWHNFc2dtd1hhRDQ4UXdqTEtFd0RLdXlXelhwQVZ1eWdjNW4yQ1Q4NWhNQ0RfLV9xaURJRVpN?oc=5) 東京新聞
 
+○10月16日 [「都知事選は大きなチャンス」官邸前デモの参加者期待](https://news.google.com/rss/articles/CBMibkFVX3lxTFBUSFM1X1lSNmhEWWQzcGc2VFZyaWRrSHIyZ2E4ekNVU1djMl9uTl8ydGYxbmg3N2tEdjBaVEIzRExXbW5PSjZfVmdVb3kybkFzMllzWUZzcFg1NU80dERJYUlSSFJhaUdfd3dKN0Zn?oc=5) 朝日新聞
+
+○10月16日 [農相交代に「生産性が高い。多毛作」と皮肉 小池都知事](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PNEJ5SmRYSlhoZDdQUTE1TTNDdHpzdlFzRndmVXlld2hiVnNCejRCeUNmbFZTaVlLYUloejFsSjBrYUE5MENfNzZLYjNaRl80NWpwZ29HdmFQR0NtbUVNQXNSYUsyaHh1?oc=5) 毎日新聞
+
+○10月16日 [簗農相辞任に小池百合子知事「もう少し早くても」 急な都議補選は「お金かかる」と苦言](https://news.google.com/rss/articles/CBMiU0FVX3lxTE84WFRMLUFhTVlpbE1FNjFuZTcwV2p5LW80eFlzWHFUa0VCdlNJX0VXV1VYYVJVa1lrQTRuMGJNRUhPbjBKSkR6MjZzcm1UNnMyNkVn?oc=5) 東京新聞
+
 【東京都知事（小池百合子）】
+
+○10月16日　[副知事の海外出張について](https://www.metro.tokyo.lg.jp/information/press/2026/10/2026101610)
 
 ○10月15日　[「東京・海外IRフォーラム」を開催します　英文開示と対話で拓く企業成長](https://www.metro.tokyo.lg.jp/information/press/2026/10/2026101534)
 
