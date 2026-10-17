@@ -1,4 +1,4 @@
-更新日時: 2026年10月17日（土）10:51 JST
+更新日時: 2026年10月17日（土）20:18 JST
 
 【ニュース】
 
@@ -7,6 +7,8 @@
 ○10月14日 [サプライズで登壇した小池百合子東京都知事](https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2Rm0zdU1MQjVUNHdLMlBpcFlhYzhjdTlCbE9YR3kxei1hNXhhc1p6TUV2MWhNczFLU1c0bWVBcmU4WFVKNGMyZjI1SFlzWFNkM2c?oc=5) 江東経済新聞
 
 ○10月14日 [都 優良建設業者の都知事感謝状贈呈式を開催](https://news.google.com/rss/articles/CBMigAFBVV95cUxPenJwNUZacjNGSjE1RHFqc1JUNXRvQnBmUlRwZnFmZzVtbXRfbTlyUXdpazhQR0xHczI1THBLRExJQU5oZDltb3R0bGxGcXBZU3RWY1lBYjAtRUotUVRBSXFld005NFpKdkF5YnM1ZEFHSVdPTGNnSzkyZGdvaXdLbw?oc=5) 建通新聞
+
+○10月15日 [東陽町で初の「江東未来フェスタ」 小池都知事や地元スポーツチームも](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KS184Qk84aFBqV3ZEZ0NDWHdPZ3lQSl9IbnZRbXBpNmNLUXRidFBlZlFFVUxXLUc2Uko0dGwyT3dFUTZtYXIxcTk0bEp0Zw?oc=5) 江東経済新聞
 
 ○10月16日 [都総合教育会議 小池知事ら出席 学習でのAI活用検討](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0NFdXUm9CdmpVa3c2SkM4eFh6Q29wWHNFc2dtd1hhRDQ4UXdqTEtFd0RLdXlXelhwQVZ1eWdjNW4yQ1Q4NWhNQ0RfLV9xaURJRVpN?oc=5) 東京新聞
 
