@@ -1,8 +1,6 @@
-更新日時: 2026年10月17日（土）20:18 JST
+更新日時: 2026年10月18日（日）10:50 JST
 
 【ニュース】
-
-○10月14日 [26年度上半期は72件 直近４年で最少 都知事部局のスライド適用工事](https://news.google.com/rss/articles/CBMigAFBVV95cUxQWlZTTllPeV9wUWdKUGFfOGlxWXBhRXpVLUNxMmM5S1gyTmFHZnNoZWN1TnJwaE1XbEVsLWtFSm5kZkk3U1dBYzRVZVBBclZRcWRjczJtTXFfZ3d1aXlnR2hEd0VKVGxpaEhaZ2xfQWtDVzdEQ3dwQ21oYmlGR19qSw?oc=5) 建通新聞
 
 ○10月14日 [サプライズで登壇した小池百合子東京都知事](https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2Rm0zdU1MQjVUNHdLMlBpcFlhYzhjdTlCbE9YR3kxei1hNXhhc1p6TUV2MWhNczFLU1c0bWVBcmU4WFVKNGMyZjI1SFlzWFNkM2c?oc=5) 江東経済新聞
 
