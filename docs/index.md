@@ -1,4 +1,4 @@
-更新日時: 2026年10月19日（月）11:07 JST
+更新日時: 2026年10月19日（月）23:14 JST
 
 【ニュース】
 
@@ -10,9 +10,13 @@
 
 ○10月16日 [簗農相辞任に小池百合子知事「もう少し早くても」 急な都議補選は「お金かかる」と苦言](https://news.google.com/rss/articles/CBMiU0FVX3lxTE84WFRMLUFhTVlpbE1FNjFuZTcwV2p5LW80eFlzWHFUa0VCdlNJX0VXV1VYYVJVa1lrQTRuMGJNRUhPbjBKSkR6MjZzcm1UNnMyNkVn?oc=5) 東京新聞
 
+○10月17日 [東京に台風接近 小池百合子都知事がコメント発表「テレワークの活用とともに、不要不急の外出などはお控えいただき」【全文】](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwMU44VlhiTjM2VXNVUVVYTTkxU2ZsOF9heEduQi1DWDBMVm5QTFRYUzRVbHZKS3llSzVCWlcwVFpjdVBPaEYxa3B5Y0IwcUN4clE?oc=5) 山陽新聞
+
 ○10月19日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMifEFVX3lxTE5BWFdYbGN2S05xcFY4bDVoaWhJTUZUVmJCWWtBbXVzM3BWUFAzTDkzSVowX3M5TGNMcmI5MXpjUzdJaUUyMTgtdFlWQTlTQmFORUw3NVVMamlldF9kN0xqdXk0UEZyM3RKY2JLZHJjWnVtQTlscXM0NndGcUE?oc=5) 山陽新聞
 
 【東京都知事（小池百合子）】
+
+○10月19日　[副知事の海外出張について](https://www.metro.tokyo.lg.jp/information/press/2026/10/2026101904)
 
 ○10月16日　[副知事の海外出張について](https://www.metro.tokyo.lg.jp/information/press/2026/10/2026101610)
 
