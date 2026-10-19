@@ -1,4 +1,4 @@
-更新日時: 2026年10月18日（日）20:54 JST
+更新日時: 2026年10月19日（月）11:07 JST
 
 【ニュース】
 
@@ -10,11 +10,11 @@
 
 ○10月16日 [簗農相辞任に小池百合子知事「もう少し早くても」 急な都議補選は「お金かかる」と苦言](https://news.google.com/rss/articles/CBMiU0FVX3lxTE84WFRMLUFhTVlpbE1FNjFuZTcwV2p5LW80eFlzWHFUa0VCdlNJX0VXV1VYYVJVa1lrQTRuMGJNRUhPbjBKSkR6MjZzcm1UNnMyNkVn?oc=5) 東京新聞
 
+○10月19日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMifEFVX3lxTE5BWFdYbGN2S05xcFY4bDVoaWhJTUZUVmJCWWtBbXVzM3BWUFAzTDkzSVowX3M5TGNMcmI5MXpjUzdJaUUyMTgtdFlWQTlTQmFORUw3NVVMamlldF9kN0xqdXk0UEZyM3RKY2JLZHJjWnVtQTlscXM0NndGcUE?oc=5) 山陽新聞
+
 【東京都知事（小池百合子）】
 
 ○10月16日　[副知事の海外出張について](https://www.metro.tokyo.lg.jp/information/press/2026/10/2026101610)
-
-○10月15日　[「東京・海外IRフォーラム」を開催します　英文開示と対話で拓く企業成長](https://www.metro.tokyo.lg.jp/information/press/2026/10/2026101534)
 
 【東京都議会】
 
