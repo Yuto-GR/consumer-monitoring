@@ -1,8 +1,6 @@
-更新日時: 2026年10月19日（月）23:14 JST
+更新日時: 2026年10月20日（火）11:23 JST
 
 【ニュース】
-
-○10月16日 [都総合教育会議 小池知事ら出席 学習でのAI活用検討](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0NFdXUm9CdmpVa3c2SkM4eFh6Q29wWHNFc2dtd1hhRDQ4UXdqTEtFd0RLdXlXelhwQVZ1eWdjNW4yQ1Q4NWhNQ0RfLV9xaURJRVpN?oc=5) 東京新聞
 
 ○10月16日 [「都知事選は大きなチャンス」官邸前デモの参加者期待](https://news.google.com/rss/articles/CBMibkFVX3lxTFBUSFM1X1lSNmhEWWQzcGc2VFZyaWRrSHIyZ2E4ekNVU1djMl9uTl8ydGYxbmg3N2tEdjBaVEIzRExXbW5PSjZfVmdVb3kybkFzMllzWUZzcFg1NU80dERJYUlSSFJhaUdfd3dKN0Zn?oc=5) 朝日新聞
 
@@ -14,11 +12,11 @@
 
 ○10月19日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMifEFVX3lxTE5BWFdYbGN2S05xcFY4bDVoaWhJTUZUVmJCWWtBbXVzM3BWUFAzTDkzSVowX3M5TGNMcmI5MXpjUzdJaUUyMTgtdFlWQTlTQmFORUw3NVVMamlldF9kN0xqdXk0UEZyM3RKY2JLZHJjWnVtQTlscXM0NndGcUE?oc=5) 山陽新聞
 
+○10月20日 [小池都知事がリニアに初乗車、時速５００キロに「速度・快適性を体感した」と興奮…山梨リニアセンター](https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tMjBNV2VLZ3Q2Z1hWNS1JaFNxOWZYazhFNE1uMndkV2xFTXVuOVhhVjVwMHowdW9UVjBoU1E2ODZKazRYWE1xdjdjSzZ1Y2hPRkxIQ2RyRFVQM1NpU19qQjRuWWN6QQ?oc=5) 読売新聞
+
 【東京都知事（小池百合子）】
 
 ○10月19日　[副知事の海外出張について](https://www.metro.tokyo.lg.jp/information/press/2026/10/2026101904)
-
-○10月16日　[副知事の海外出張について](https://www.metro.tokyo.lg.jp/information/press/2026/10/2026101610)
 
 【東京都議会】
 
@@ -31,8 +29,6 @@
 【自民党東京都連（TOKYO自民党）】
 
 ○10月14日　[〔公募情報〕大田区議選（R9統一選）](https://www.tokyo-jimin.jp/2026/10/14/1-4/)
-
-○10月13日　[〔選挙情報〕R9統一選（第1次公認・推薦決定）](https://www.tokyo-jimin.jp/2026/10/13/1-3/)
 
 【都議会自民党】
 
