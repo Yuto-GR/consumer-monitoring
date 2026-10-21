@@ -1,4 +1,4 @@
-更新日時: 2026年10月20日（火）21:28 JST
+更新日時: 2026年10月21日（水）11:16 JST
 
 【ニュース】
 
@@ -18,15 +18,11 @@
 
 【東京都議会】
 
-○10月16日　[公営企業会計決算特別委員会 10月16日、11月18日、11月24日](https://www.gikai.metro.tokyo.lg.jp/schedule/public-enterprise-special.html)
-
-○10月16日　[公営企業会計決算特別委員会第1分科会 10月16日、10月21日、10月23日、10月26日](https://www.gikai.metro.tokyo.lg.jp/schedule/public-enterprise-special-1.html)
-
-○10月16日　[公営企業会計決算特別委員会第2分科会 10月16日、10月21日、10月26日](https://www.gikai.metro.tokyo.lg.jp/schedule/public-enterprise-special-2.html)
+該当データなし
 
 【自民党東京都連（TOKYO自民党）】
 
-○10月14日　[〔公募情報〕大田区議選（R9統一選）](https://www.tokyo-jimin.jp/2026/10/14/1-4/)
+該当データなし
 
 【都議会自民党】
 
