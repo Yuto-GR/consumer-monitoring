@@ -1,4 +1,4 @@
-更新日時: 2026年10月22日（木）11:11 JST
+更新日時: 2026年10月22日（木）21:43 JST
 
 【ニュース】
 
@@ -14,7 +14,11 @@
 
 ○10月22日 [東京都議補選・千代田区、自民「不戦敗」へ 小池知事は支援の前面に 「東京都」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LMDBMUEpYbHhseFJ0dG9zS2piUDU0V2g4NS1zbGthbWtrTWx2UHdpbDlnOW12TE9SLU1hVlNkT3pTX3hyenpISGp4ZmdrUk5ZdDRIb2dwX28xU1dCYWRDamFWTFR1dTg?oc=5) 朝日新聞
 
-○10月22日 [鳥取県・平井伸治知事が6選不出馬…小池百合子・都知事？「すぐにやるおばさん」発言は「関係ない」、7年後の国民スポーツ大会「体制作りへ区切り」](https://news.google.com/rss/articles/CBMickFVX3lxTE9JbzZfWWxqSTVDMjd4RjdRaUlxQnV4ajg4OGdjOFlXSEx0RFRyUjIycG5FYS1YMWZOOE1wYlg2bXRRZ0F4NmxhQ0FCak5IWlIwVHBNM3R0eER1dG5kdUJWYkRLZXA2U3ZCZjZGRGpyaHhTZw?oc=5) 読売新聞
+○10月22日 [初当選の原沢敦美・横浜市長、都庁を訪れ小池都知事と面会「素晴らしい先輩が隣にいるのは大変心強い」](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnU1RaLXdtZVNISWRZX29pVkVjOERLUzZjTmtQZm54UG50Uy1EaEIxcjh1MlpnZ1lhbVAyUTgxTUZMQ05uNThOU3djUlFFUU41YXh0MjZJQ195LUcxRnBLQ0RCazgzZw?oc=5) 読売新聞
+
+○10月22日 [小池都知事、横浜新市長の原沢氏と面会 園芸博や防災対策で連携確認](https://news.google.com/rss/articles/CBMibEFVX3lxTE4tRlBOUlNLYVNHdTBhRmN3UGhaY21ZMnNZVXpXTW1CcUcyZTVnVzdlaUtVdXdRdVFkMktaSjlOY2R4SGlIbTMyeFpwSXpic0dLWER5OXhITFlCVnRNWXVDZnlXWEdIc1U3QnFFQw?oc=5) 日本経済新聞
+
+○10月22日 [都知事と横浜市長 花博、防災対策で連携確認](https://news.google.com/rss/articles/CBMigAFBVV95cUxNd29OdVI1dm1TSkZSRXFQYnpaR0FiMngzcW1wNDJxVE9iN0JPOXJTVHNvMTRFM213UWZoVVBpUF9FMS02NmNtbVBGeUUzZGNiSzFDZThfRTgtUFM4ZlRIU1AxbmhNc0kzREFUaFhqREI0RmtiWTlUcXJCaENUc1dIcw?oc=5) 建通新聞
 
 【東京都知事（小池百合子）】
 
