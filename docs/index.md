@@ -1,4 +1,4 @@
-更新日時: 2026年10月21日（水）21:38 JST
+更新日時: 2026年10月22日（木）11:11 JST
 
 【ニュース】
 
@@ -11,6 +11,10 @@
 ○10月21日 [IR誘致目指す福岡・大任町が県に要望書提出 知事は「慎重に検討」 「福岡県」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpQkI0YVJGbTIyQXFYMjFQR3N0S3d6c0RLYU54eTlCUVpQY1hGOVhhTm1TaGs3RElvY0Y0eWUxVDBpdVVmdXBTcHdiV3RhUms2RHNudGNkdjVGYzVlMEZMU1NGUnVNSlU?oc=5) 朝日新聞
 
 ○10月21日 [中３吉田さんが「中学生の主張」で最優秀の都知事賞に、児童労働テーマ…大妻中野](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUVOaWtLbEl0UUNiNjZKTFV6YlA2VXdGcHczZ3owM2RELVk2ZUY5OUhjU0NRNHRJRHVfOUxDQ1dkNWplWmZjM2kyc2JmcDluVUUwRjRTeGVrSnNFU0ZwNWdvaHlyOXZiaXN1WFpfTk5DbV9oNVpjNzlmNGd1djdFcTdfc3JqQ2tEU1E?oc=5) 読売新聞
+
+○10月22日 [東京都議補選・千代田区、自民「不戦敗」へ 小池知事は支援の前面に 「東京都」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LMDBMUEpYbHhseFJ0dG9zS2piUDU0V2g4NS1zbGthbWtrTWx2UHdpbDlnOW12TE9SLU1hVlNkT3pTX3hyenpISGp4ZmdrUk5ZdDRIb2dwX28xU1dCYWRDamFWTFR1dTg?oc=5) 朝日新聞
+
+○10月22日 [鳥取県・平井伸治知事が6選不出馬…小池百合子・都知事？「すぐにやるおばさん」発言は「関係ない」、7年後の国民スポーツ大会「体制作りへ区切り」](https://news.google.com/rss/articles/CBMickFVX3lxTE9JbzZfWWxqSTVDMjd4RjdRaUlxQnV4ajg4OGdjOFlXSEx0RFRyUjIycG5FYS1YMWZOOE1wYlg2bXRRZ0F4NmxhQ0FCak5IWlIwVHBNM3R0eER1dG5kdUJWYkRLZXA2U3ZCZjZGRGpyaHhTZw?oc=5) 読売新聞
 
 【東京都知事（小池百合子）】
 
