@@ -1,10 +1,10 @@
-更新日時: 2026年10月23日（金）21:20 JST
+更新日時: 2026年10月24日（土）11:14 JST
 
 【ニュース】
 
-○10月20日 [小池都知事がリニアに初乗車、時速５００キロに「速度・快適性を体感した」と興奮…山梨リニアセンター](https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tMjBNV2VLZ3Q2Z1hWNS1JaFNxOWZYazhFNE1uMndkV2xFTXVuOVhhVjVwMHowdW9UVjBoU1E2ODZKazRYWE1xdjdjSzZ1Y2hPRkxIQ2RyRFVQM1NpU19qQjRuWWN6QQ?oc=5) 読売新聞
-
 ○10月20日 [大任町IR誘致は「極めて慎重に検討」 福岡県知事が見解](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kYVpzZWQyWHdZWTFCVm9mQkRhcE5mYzV1QUM1SFVrTTVFMjZWUE9TaDhubVhoakxFa2pQalV0djZyRzlqTktOZVRCa2NvRHM5aVpaZWZuN3FEaGNyS2l0ekNLaW5uUzE4?oc=5) 毎日新聞
+
+○10月21日 [ギャンブル依存症問題を考える会、大任町のIR誘致に「反対」表明 「福岡県」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93SkloWWpiU0xnazNEY3NscV8yY0k1Yml3Q0h6QTZ1VVNWdGNLczhQLWxHVkppUlpMZmhmNkR4NEdacDdWeXVETE1tcVNlakgyeFNLdUlybFhLZFVjc0xPeE96Q1YxaTQ?oc=5) 朝日新聞
 
 ○10月21日 [IR誘致目指す福岡・大任町が県に要望書提出 知事は「慎重に検討」 「福岡県」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpQkI0YVJGbTIyQXFYMjFQR3N0S3d6c0RLYU54eTlCUVpQY1hGOVhhTm1TaGs3RElvY0Y0eWUxVDBpdVVmdXBTcHdiV3RhUms2RHNudGNkdjVGYzVlMEZMU1NGUnVNSlU?oc=5) 朝日新聞
 
@@ -24,7 +24,7 @@
 
 ○10月23日 [原澤市長が小池都知事と初対面 花博、防災対策で連携確認](https://news.google.com/rss/articles/CBMigAFBVV95cUxPVlk5QnFNbWp6T0VvYWZwZ2kzTFMtQVRUZU9BZnA5blhKeVFjZ19zVENuNE5rb1NmTGRoWDFRWF9qNlljdFA4b3JTc3pFRFpwNXhQMzIyT1NWSk5tc1BiZjNkS19PNFZnbXdxSlp4OE5JWUpHWldCTXRBSVdSZEVrZA?oc=5) 建通新聞
 
-○10月23日 [「税の偏在」全国知事会の議論に小池百合子知事「そもそも考え方が違う」](https://news.google.com/rss/articles/CBMiZEFVX3lxTFByNWFHLU5ob2RvakJBRUtQemZhUmN2SXFRUFBPeVRCS2ttQjFwcWJacXhiUERqTXk2MWkxSEEzVTFXODJ1M2h1ZVhxMzFkNVpIX0VLbXR1QTIzWkJpYTJCTy10MTM?oc=5) 東京新聞
+○10月23日 [「税の偏在」全国知事会の議論に小池百合子知事「そもそも考え方が違う」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE01LUZxaXRTNmVaV19TR3cxN2RxMXFOaTczc1VMaUE4Rmd5ZTduQ3J4NzkwUDdyQ2UxRTN5OFM2UzhLYTFyNENMUFJ0cENYYmpkWmFr?oc=5) 東京新聞
 
 【東京都知事（小池百合子）】
 
