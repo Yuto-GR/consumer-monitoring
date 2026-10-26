@@ -1,14 +1,6 @@
-更新日時: 2026年10月26日（月）11:02 JST
+更新日時: 2026年10月26日（月）22:47 JST
 
 【ニュース】
-
-○10月22日 [初当選の原沢敦美・横浜市長、都庁を訪れ小池都知事と面会「素晴らしい先輩が隣にいるのは大変心強い」](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnU1RaLXdtZVNISWRZX29pVkVjOERLUzZjTmtQZm54UG50Uy1EaEIxcjh1MlpnZ1lhbVAyUTgxTUZMQ05uNThOU3djUlFFUU41YXh0MjZJQ195LUcxRnBLQ0RCazgzZw?oc=5) 読売新聞
-
-○10月22日 [小池都知事、横浜新市長の原沢氏と面会 園芸博や防災対策で連携確認](https://news.google.com/rss/articles/CBMibEFVX3lxTE4tRlBOUlNLYVNHdTBhRmN3UGhaY21ZMnNZVXpXTW1CcUcyZTVnVzdlaUtVdXdRdVFkMktaSjlOY2R4SGlIbTMyeFpwSXpic0dLWER5OXhITFlCVnRNWXVDZnlXWEdIc1U3QnFFQw?oc=5) 日本経済新聞
-
-○10月22日 [原沢・横浜市長が小池知事と面会 珍しい都外首長の「就任あいさつ」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83c1JISmtSMmlwQkFnRXYxaTNmVnU3T0w0RzlnTjlLTnZwODdyLXpCUndsUlhHbHIwV2hOOU1BdHpMREkwbVR1ZHRkLWx0SWViREdOQVQtWFg5cEdoN0haQlZBbDBLREE?oc=5) 朝日新聞
-
-○10月22日 [都知事と横浜市長 花博、防災対策で連携確認](https://news.google.com/rss/articles/CBMigAFBVV95cUxNd29OdVI1dm1TSkZSRXFQYnpaR0FiMngzcW1wNDJxVE9iN0JPOXJTVHNvMTRFM213UWZoVVBpUF9FMS02NmNtbVBGeUUzZGNiSzFDZThfRTgtUFM4ZlRIU1AxbmhNc0kzREFUaFhqREI0RmtiWTlUcXJCaENUc1dIcw?oc=5) 建通新聞
 
 ○10月23日 [横浜市長、小池百合子知事と連携確認 花博「女性活躍も一緒に」](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NQWFJOXd2UEZIUnhuVHU1YXFYTmhFbDJUY0ZWWjhBVkp6d3I5UTM3cTNOcndFaDZFYzU3cUZXMm84ZkhNNmNxeWhNVVhsdW8tOXVlWTJJdUxRQ3VKRXV2dkZ3?oc=5) 東京新聞
 
