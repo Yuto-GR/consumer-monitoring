@@ -1,8 +1,6 @@
-更新日時: 2026年10月25日（日）21:16 JST
+更新日時: 2026年10月26日（月）11:02 JST
 
 【ニュース】
-
-○10月22日 [東京都議補選・千代田区、自民「不戦敗」へ 小池知事は支援の前面に 「東京都」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LMDBMUEpYbHhseFJ0dG9zS2piUDU0V2g4NS1zbGthbWtrTWx2UHdpbDlnOW12TE9SLU1hVlNkT3pTX3hyenpISGp4ZmdrUk5ZdDRIb2dwX28xU1dCYWRDamFWTFR1dTg?oc=5) 朝日新聞
 
 ○10月22日 [初当選の原沢敦美・横浜市長、都庁を訪れ小池都知事と面会「素晴らしい先輩が隣にいるのは大変心強い」](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnU1RaLXdtZVNISWRZX29pVkVjOERLUzZjTmtQZm54UG50Uy1EaEIxcjh1MlpnZ1lhbVAyUTgxTUZMQ05uNThOU3djUlFFUU41YXh0MjZJQ195LUcxRnBLQ0RCazgzZw?oc=5) 読売新聞
 
