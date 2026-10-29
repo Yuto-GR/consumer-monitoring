@@ -1,8 +1,8 @@
-更新日時: 2026年10月28日（水）22:43 JST
+更新日時: 2026年10月29日（木）12:10 JST
 
 【ニュース】
 
-該当記事なし
+○10月27日 [〈小池知事会見ファイル＋10月〉よどみない答え、「塩対応」も 簗前農相問題、首相に配慮か](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aczFQNlpkTzZYVGZxaXJYN0hYWXNuUDdweEJJZ054OWdZenpWYkhDdVVoWGpCLXhYWHZ4aGZJTHpFdFBZQnNfc0tCb09yQUZpaEhDRGh2UVRCR3UyZ3ByYjln?oc=5) 東京新聞
 
 【東京都知事（小池百合子）】
 
