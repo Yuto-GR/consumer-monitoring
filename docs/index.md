@@ -1,6 +1,8 @@
-更新日時: 2026年10月29日（木）12:10 JST
+更新日時: 2026年10月29日（木）22:53 JST
 
 【ニュース】
+
+○10月26日 [原澤市長が小池都知事と初面会 花博、防災対策で連携確認](https://news.google.com/rss/articles/CBMigAFBVV95cUxPVlk5QnFNbWp6T0VvYWZwZ2kzTFMtQVRUZU9BZnA5blhKeVFjZ19zVENuNE5rb1NmTGRoWDFRWF9qNlljdFA4b3JTc3pFRFpwNXhQMzIyT1NWSk5tc1BiZjNkS19PNFZnbXdxSlp4OE5JWUpHWldCTXRBSVdSZEVrZA?oc=5) 建通新聞
 
 ○10月27日 [〈小池知事会見ファイル＋10月〉よどみない答え、「塩対応」も 簗前農相問題、首相に配慮か](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aczFQNlpkTzZYVGZxaXJYN0hYWXNuUDdweEJJZ054OWdZenpWYkhDdVVoWGpCLXhYWHZ4aGZJTHpFdFBZQnNfc0tCb09yQUZpaEhDRGh2UVRCR3UyZ3ByYjln?oc=5) 東京新聞
 
