@@ -1,4 +1,4 @@
-更新日時: 2026年10月30日（金）22:45 JST
+更新日時: 2026年10月31日（土）11:58 JST
 
 【ニュース】
 
@@ -7,6 +7,10 @@
 ○10月30日 [やっぱり気になる小池百合子知事の動き…都議会補欠選挙、千代田区の1議席をめぐる各党の思惑は](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wZlplQjBHRGNRZ0ZFZnlwY2w2RkdFb0Z1ME5BaVEtdGVDZEJMclBrbmwzUjNLMmk2SjJtMUxRZWdFc3hmTU9iVVplSUx4SEw2c000?oc=5) 東京新聞
 
 ○10月30日 [小池百合子知事「多くの都民が参加できるよう取り組む」 東京アプリ「不平等」提訴を受け](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SblpuNWpmdEFqeVJpazcxdjA4c2xrQXNUYzZMUzRnTjRVUFJhLWpiRV8tZVFEU1VlSHhHZm1fb3pLWEpFb3BUMzZXT1pZaHVpWXk0?oc=5) 東京新聞
+
+○10月31日 [東京都と地方、共栄の税改革を 小池百合子都知事「地域の強み生かす」](https://news.google.com/rss/articles/CBMibEFVX3lxTE90dlNqLW5mSGRxOHB4QzVaek9sYnZIR2dQVkFyUTlYM0M0R1BQMjVQd0pCeDhCa3VKMndid1h3MzVYdXBBWERqNkg2UzVwV0o4eF9VMEtjeU9qQnN5RXNRQmlnWmh3NUtGNHFpeg?oc=5) 日本経済新聞
+
+○10月31日 [都議会補欠選挙、千代田区で11月1日投開票 8人が舌戦](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhemFVZUpMdVNwREJBZEFFOF8yS0Uzb0Qybm93bkU5cnMzdGZUTlZEakExR2ZWTTAxdHJfU0wweUhzM2RmV2FqdnZkQV9iLW9HMlBJ?oc=5) 東京新聞
 
 【東京都知事（小池百合子）】
 
