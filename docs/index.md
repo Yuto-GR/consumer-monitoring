@@ -1,4 +1,4 @@
-更新日時: 2026年11月1日（日）11:53 JST
+更新日時: 2026年11月1日（日）22:58 JST
 
 【ニュース】
 
@@ -7,6 +7,8 @@
 ○10月30日 [小池百合子知事「多くの都民が参加できるよう取り組む」 東京アプリ「不平等」提訴を受け](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SblpuNWpmdEFqeVJpazcxdjA4c2xrQXNUYzZMUzRnTjRVUFJhLWpiRV8tZVFEU1VlSHhHZm1fb3pLWEpFb3BUMzZXT1pZaHVpWXk0?oc=5) 東京新聞
 
 ○10月31日 [東京都と地方、共栄の税改革を 小池百合子都知事「地域の強み生かす」](https://news.google.com/rss/articles/CBMibEFVX3lxTE90dlNqLW5mSGRxOHB4QzVaek9sYnZIR2dQVkFyUTlYM0M0R1BQMjVQd0pCeDhCa3VKMndid1h3MzVYdXBBWERqNkg2UzVwV0o4eF9VMEtjeU9qQnN5RXNRQmlnWmh3NUtGNHFpeg?oc=5) 日本経済新聞
+
+○11月1日 [東京都議補選千代田、小池知事が擁立主導 参政は神谷氏が異例の態勢 「東京都」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GOHozQ1AySW1rNVJVakxvTUdNYTRCWnVvSkRPMmxmZVBDVUxtdUktWk5EVXRhMFJUdUtxMW1ZOFlqZUpXdFU0T2Z4NklHdTJ3WGRSRFVsVFNfZTFCd0VDUHhRc0kwX0U?oc=5) 朝日新聞
 
 【東京都知事（小池百合子）】
 
