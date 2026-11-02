@@ -1,4 +1,4 @@
-更新日時: 2026年11月1日（日）22:58 JST
+更新日時: 2026年11月2日（月）12:00 JST
 
 【ニュース】
 
@@ -8,7 +8,11 @@
 
 ○10月31日 [東京都と地方、共栄の税改革を 小池百合子都知事「地域の強み生かす」](https://news.google.com/rss/articles/CBMibEFVX3lxTE90dlNqLW5mSGRxOHB4QzVaek9sYnZIR2dQVkFyUTlYM0M0R1BQMjVQd0pCeDhCa3VKMndid1h3MzVYdXBBWERqNkg2UzVwV0o4eF9VMEtjeU9qQnN5RXNRQmlnWmh3NUtGNHFpeg?oc=5) 日本経済新聞
 
-○11月1日 [東京都議補選千代田、小池知事が擁立主導 参政は神谷氏が異例の態勢 「東京都」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GOHozQ1AySW1rNVJVakxvTUdNYTRCWnVvSkRPMmxmZVBDVUxtdUktWk5EVXRhMFJUdUtxMW1ZOFlqZUpXdFU0T2Z4NklHdTJ3WGRSRFVsVFNfZTFCd0VDUHhRc0kwX0U?oc=5) 朝日新聞
+○10月31日 [東京都議補選千代田、小池知事が擁立主導 参政は神谷氏が異例の態勢 「東京都」](https://news.google.com/rss/articles/CBMibkFVX3lxTFBrdElTZ0FwXzhDYmI5SWtQbEtQRF9BSzdKVVdXSlR0Sy1RdHN1VUg5MW9IZnpBeEN6SVl6dGJiaVlEMkVKSlNmUFhDanpDcVNhUFZVZ0g3cWNMUXQ4NHNrekJUU0ozUkZBbHRkY0hB?oc=5) 朝日新聞
+
+○11月1日 [東京都議補選千代田、小池知事が擁立主導 参政は神谷氏が異例の態勢 「東京都」](https://news.google.com/rss/articles/CBMia0FVX3lxTFBaRnY0dzQ3STFuUmVNSXNvbno0NDA3bmFyTTgwRUhLSERIaE1FYkRnUzU3UnQ3OTl3QnRINkI2WTlCcnk1cGZIX08wT1VyR2lqS01ISE4zYkNPNUtUMzdpNDFlWm1HQmFUYjdv?oc=5) 朝日新聞
+
+○11月1日 [千代田区の都議補選、林則行さん初当選 自民区議らの支援受け 小池百合子知事が応援した候補ら破る](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4WkhWMVg3SU0xTksyR0UzMU1nN0tFU1diT2h0Y1JQc2c5UmR5dDBYZkU4X0V0ZHZFM3ROT1g3bXdCVDAyYWhOblZLNmdVZG55dGdv?oc=5) 東京新聞
 
 【東京都知事（小池百合子）】
 
@@ -31,6 +35,8 @@
 ○11月12日　[財政委員会 11月12日、11月26日、11月30日](https://www.gikai.metro.tokyo.lg.jp/schedule/financial.html)
 
 ○11月12日　[公営企業委員会 11月12日、11月26日、11月27日、11月30日](https://www.gikai.metro.tokyo.lg.jp/schedule/public-enterprise.html)
+
+○11月16日　[各会計決算特別委員会 11月16日、11月20日、12月2日](https://www.gikai.metro.tokyo.lg.jp/schedule/special-accountiong.html)
 
 【自民党東京都連（TOKYO自民党）】
 
