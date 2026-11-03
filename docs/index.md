@@ -1,8 +1,6 @@
-更新日時: 2026年11月3日（火）01:45 JST
+更新日時: 2026年11月3日（火）13:19 JST
 
 【ニュース】
-
-○10月30日 [やっぱり気になる小池百合子知事の動き…都議会補欠選挙、千代田区の1議席をめぐる各党の思惑は](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wZlplQjBHRGNRZ0ZFZnlwY2w2RkdFb0Z1ME5BaVEtdGVDZEJMclBrbmwzUjNLMmk2SjJtMUxRZWdFc3hmTU9iVVplSUx4SEw2c000?oc=5) 東京新聞
 
 ○10月30日 [小池百合子知事「多くの都民が参加できるよう取り組む」 東京アプリ「不平等」提訴を受け](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SblpuNWpmdEFqeVJpazcxdjA4c2xrQXNUYzZMUzRnTjRVUFJhLWpiRV8tZVFEU1VlSHhHZm1fb3pLWEpFb3BUMzZXT1pZaHVpWXk0?oc=5) 東京新聞
 
