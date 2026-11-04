@@ -1,4 +1,4 @@
-更新日時: 2026年11月4日（水）12:38 JST
+更新日時: 2026年11月4日（水）23:59 JST
 
 【ニュース】
 
@@ -10,29 +10,11 @@
 
 【東京都知事（小池百合子）】
 
-○11月2日　[令和8年度東京都税制調査会第3回総会の開催及び知事への報告の手交について](https://www.metro.tokyo.lg.jp/information/press/2026/11/2026110201)
+該当データなし
 
 【東京都議会】
 
-○11月5日　[文教委員会 11月5日、11月26日、11月27日、11月30日](https://www.gikai.metro.tokyo.lg.jp/schedule/educational.html)
-
-○11月5日　[環境・建設委員会 11月5日、11月12日、11月17日、11月26日](https://www.gikai.metro.tokyo.lg.jp/schedule/environmental-construction.html)
-
-○11月10日　[総務委員会 11月10日、11月26日、11月30日](https://www.gikai.metro.tokyo.lg.jp/schedule/general-affairs.html)
-
-○11月10日　[都市整備委員会 11月10日、11月26日、11月30日](https://www.gikai.metro.tokyo.lg.jp/schedule/urban-development.html)
-
-○11月10日　[厚生委員会 11月10日、11月27日、11月30日](https://www.gikai.metro.tokyo.lg.jp/schedule/welfare.html)
-
-○11月10日　[経済・港湾委員会 11月10日、11月12日、11月17日、11月27日](https://www.gikai.metro.tokyo.lg.jp/schedule/economic-port-and-harbor.html)
-
-○11月12日　[財政委員会 11月12日、11月26日、11月30日](https://www.gikai.metro.tokyo.lg.jp/schedule/financial.html)
-
-○11月12日　[公営企業委員会 11月12日、11月26日、11月27日、11月30日](https://www.gikai.metro.tokyo.lg.jp/schedule/public-enterprise.html)
-
-○11月16日　[各会計決算特別委員会 11月16日、11月20日、12月2日](https://www.gikai.metro.tokyo.lg.jp/schedule/special-accountiong.html)
-
-○11月18日　[公営企業会計決算特別委員会 11月18日、11月24日、12月3日](https://www.gikai.metro.tokyo.lg.jp/schedule/public-enterprise-special.html)
+該当データなし
 
 【自民党東京都連（TOKYO自民党）】
 
