@@ -1,8 +1,6 @@
-更新日時: 2026年11月6日（金）12:55 JST
+更新日時: 2026年11月6日（金）23:44 JST
 
 【ニュース】
-
-○11月2日 [自民公認なしの前区議に小池知事支援の候補敗北「本人の知名度が…」 「東京都」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TNUVNSWk1bGJzZks3d0tBYmN3eld0MnBUOGxjcGVHZ0JKUG9sbnRhcmhKQ2JWS3VsbnVpZWdQU0lhOWV3eEl1Yi1ITlJLZmRBcjJWd2tpSnZ4YVNKaThQeGgwUXpmOTg?oc=5) 朝日新聞
 
 ○11月5日 [林氏が自民会派入り 補選では無所属で初当選 東京都議会 「東京都」](https://news.google.com/rss/articles/CBMikAFBVV95cUxNOEhXb1pUbUJkQmwwLXNodjRSMDJfZXoyMnVGYmtVSDhVNGxlYTBIbXNwTG14anFfMS14OURGelV0aGFwQzZpcGtjdnhIWjB0U25wVFFBdE9uUVlBYi1OQXlkdmpiU01pVHJJeUZtQlcwcF9ESTJxWnpLX2pUa01ZRnRQaEFTamhidU5nYjJUdDE?oc=5) 朝日新聞
 
