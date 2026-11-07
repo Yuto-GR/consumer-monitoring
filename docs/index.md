@@ -1,4 +1,4 @@
-更新日時: 2026年11月6日（金）23:44 JST
+更新日時: 2026年11月7日（土）12:29 JST
 
 【ニュース】
 
@@ -7,6 +7,8 @@
 ○11月5日 [東京都が「シティアワード」受賞、小池知事「都市を動かすのは『人』評価された」…東京アプリ・地域防災など](https://news.google.com/rss/articles/CBMiZkFVX3lxTE40cmNTcHVBZ3lIQmtiYVBwMUNtdFV0ZGY1Y2lUU0NCcmVJdVB1OU1mVE5fUTlmRWR6dWxLTGNCYjdvMEZGMVRjZVBwMGxCa2YyaWMyUDlzeEVickt0eG9MX1hXYVlmQQ?oc=5) 読売新聞
 
 ○11月6日 [リンテック「7966」：令和8年度 関東地方発明表彰 「東京都知事賞」「発明奨励賞」を受賞 2026年11月6日(適時開示) ：日経会社情報DIGITAL](https://news.google.com/rss/articles/CBMizAFBVV95cUxNRnVEa2ViYWdyUTBuUkhRMmQ2NzZFSkFCVjhoQ3c1U2VxZTJPVF9iWkZSSFhVbVVZekZRZ3NFOFNJeWg4a2ZRTHhEUC1fcmxXMy10eUJMTzduX1dpdmROMXZzUHU1TlRBVnMwOXI3MWRhTzhGWTJaNXplMzlic2taQ0ZUZlo5XzRQRDRDaG0yZVlPaFRQTnllZmFTNXlWYkpfRHVXVVZCTnhvT2t3dUxySWhzeXg4V3RWaGMxYlRnT0xyRmhxSGE0TExWRXM?oc=5) 日本経済新聞
+
+○11月7日 [小池都知事、英国でロボタクシー視察 AIでロンドンとも連携強化](https://news.google.com/rss/articles/CBMibEFVX3lxTE83ZkdXaVVobkRmb3A2T0gycDNmQlNCWVM0M3JzRkVxOW9jYU53Z0xOZUtsYVFGMzZHTFBDRVlHaHFMWjQ1VW5QREUwTVAzYV9oY0hkbk8wc21PSjhuS0xDZi1nYjVseGVKU2FqcQ?oc=5) 日本経済新聞
 
 【東京都知事（小池百合子）】
 
