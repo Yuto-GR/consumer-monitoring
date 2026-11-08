@@ -1,10 +1,6 @@
-更新日時: 2026年11月8日（日）11:58 JST
+更新日時: 2026年11月8日（日）23:00 JST
 
 【ニュース】
-
-○11月4日 [東京の魅力、世界に発信 都市型競技予選で小池知事](https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyaXFWbjdMLWZ0TThPOWxDbE1tRkEtTVZWTmwwTUlaVjB6eUk3LTRBbjFBTnViTHdrdTFhaVBuTWJkc2VKUmlVejdyVTVXUXVyVmc?oc=5) 山陽新聞
-
-○11月5日 [林氏が自民会派入り 補選では無所属で初当選 東京都議会 「東京都」](https://news.google.com/rss/articles/CBMibkFVX3lxTFBhUHJTemJqVlRoX293ajNOWS1qUHROZm9fREJCVkFTS2xBTE5yNFZCdVI4WmdnQmkyLS00TVNsZEtuTUIyMmF5TVdqWVJPSC12b0g5cEhJUkViZHo5QkVWSlJqUktMdV9WN19ET193?oc=5) 朝日新聞
 
 ○11月5日 [東京都が「シティアワード」受賞、小池知事「都市を動かすのは『人』評価された」…東京アプリ・地域防災など](https://news.google.com/rss/articles/CBMiZkFVX3lxTE40cmNTcHVBZ3lIQmtiYVBwMUNtdFV0ZGY1Y2lUU0NCcmVJdVB1OU1mVE5fUTlmRWR6dWxLTGNCYjdvMEZGMVRjZVBwMGxCa2YyaWMyUDlzeEVickt0eG9MX1hXYVlmQQ?oc=5) 読売新聞
 
