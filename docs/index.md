@@ -1,10 +1,10 @@
-更新日時: 2026年11月7日（土）22:41 JST
+更新日時: 2026年11月8日（日）11:58 JST
 
 【ニュース】
 
 ○11月4日 [東京の魅力、世界に発信 都市型競技予選で小池知事](https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyaXFWbjdMLWZ0TThPOWxDbE1tRkEtTVZWTmwwTUlaVjB6eUk3LTRBbjFBTnViTHdrdTFhaVBuTWJkc2VKUmlVejdyVTVXUXVyVmc?oc=5) 山陽新聞
 
-○11月5日 [林氏が自民会派入り 補選では無所属で初当選 東京都議会 「東京都」](https://news.google.com/rss/articles/CBMikAFBVV95cUxNOEhXb1pUbUJkQmwwLXNodjRSMDJfZXoyMnVGYmtVSDhVNGxlYTBIbXNwTG14anFfMS14OURGelV0aGFwQzZpcGtjdnhIWjB0U25wVFFBdE9uUVlBYi1OQXlkdmpiU01pVHJJeUZtQlcwcF9ESTJxWnpLX2pUa01ZRnRQaEFTamhidU5nYjJUdDE?oc=5) 朝日新聞
+○11月5日 [林氏が自民会派入り 補選では無所属で初当選 東京都議会 「東京都」](https://news.google.com/rss/articles/CBMibkFVX3lxTFBhUHJTemJqVlRoX293ajNOWS1qUHROZm9fREJCVkFTS2xBTE5yNFZCdVI4WmdnQmkyLS00TVNsZEtuTUIyMmF5TVdqWVJPSC12b0g5cEhJUkViZHo5QkVWSlJqUktMdV9WN19ET193?oc=5) 朝日新聞
 
 ○11月5日 [東京都が「シティアワード」受賞、小池知事「都市を動かすのは『人』評価された」…東京アプリ・地域防災など](https://news.google.com/rss/articles/CBMiZkFVX3lxTE40cmNTcHVBZ3lIQmtiYVBwMUNtdFV0ZGY1Y2lUU0NCcmVJdVB1OU1mVE5fUTlmRWR6dWxLTGNCYjdvMEZGMVRjZVBwMGxCa2YyaWMyUDlzeEVickt0eG9MX1hXYVlmQQ?oc=5) 読売新聞
 
@@ -12,9 +12,13 @@
 
 ○11月7日 [小池都知事、英国でロボタクシー視察 AIでロンドンとも連携強化](https://news.google.com/rss/articles/CBMibEFVX3lxTE83ZkdXaVVobkRmb3A2T0gycDNmQlNCWVM0M3JzRkVxOW9jYU53Z0xOZUtsYVFGMzZHTFBDRVlHaHFMWjQ1VW5QREUwTVAzYV9oY0hkbk8wc21PSjhuS0xDZi1nYjVseGVKU2FqcQ?oc=5) 日本経済新聞
 
+○11月7日 [小池都知事、追悼文送らず 朝鮮人虐殺、１０年連続](https://news.google.com/rss/articles/CBMidkFVX3lxTFA1UWNmRU14VkxpSHFzUGxyMXM4UWh3OE5mRTVMN2Z3cVVZMWtmZGY3aXhyMkMtY1E2ZFR2SXo0ZFNvN1VFN0R1WVFqNnVUanZUUUg5V1ZRZzdrbWFsNHloR1hCWG9Mek5HMDVqazRTWG1oeHlhcXc?oc=5) 山陽新聞
+
 ○11月7日 [小池百合子東京都知事もあいさつを寄せた（過去開催）](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tNmpjajNWQld6RUNQT2pLOC0xRmdwUGVKMEpSWXZaMUNQX0xFMVNSSy0tdEJZbTlzT1NtcC1HdHotZVBoZmh1czNFelpRVlhSaHl6Ug?oc=5) すみだ経済新聞
 
 ○11月7日 [小池都知事が欧州歴訪から帰国、チャンピオン・メイヤーズ巡り「来年５月に東京で総会」](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XOHhPemRPaUdnc3FadmhlSVNLNUNVS1JvWnRwd0pNc1Q1aUlKWVlyM1QwRm9oZkFlaTVGcWtEbUNtYmt3bVZLRXN1M1FIVWJsOHpCNDhGUHBLNGlQVDJxYXVoV1BHZw?oc=5) 読売新聞
+
+○11月8日 [新たなアニメの祭典「日本アニメアワード」2027年に始動 小池百合子都知事「東京都は、アニメとその担い手の皆様を、これからも力強く応援してまいります」](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NVHE3NEsyZUFNYUgtMDE3bUtKSkhZcnNBOU5DekpkaHRFNXNIejVNRUlwRXRBT3A1Y0RFTDQtZi0zRzRoWl9CTEJLU080TE8wM3c?oc=5) 山陽新聞
 
 【東京都知事（小池百合子）】
 
