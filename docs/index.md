@@ -1,8 +1,6 @@
-更新日時: 2026年11月9日（月）12:21 JST
+更新日時: 2026年11月10日（火）02:03 JST
 
 【ニュース】
-
-○11月5日 [東京都が「シティアワード」受賞、小池知事「都市を動かすのは『人』評価された」…東京アプリ・地域防災など](https://news.google.com/rss/articles/CBMiZkFVX3lxTE40cmNTcHVBZ3lIQmtiYVBwMUNtdFV0ZGY1Y2lUU0NCcmVJdVB1OU1mVE5fUTlmRWR6dWxLTGNCYjdvMEZGMVRjZVBwMGxCa2YyaWMyUDlzeEVickt0eG9MX1hXYVlmQQ?oc=5) 読売新聞
 
 ○11月6日 [リンテック「7966」：令和8年度 関東地方発明表彰 「東京都知事賞」「発明奨励賞」を受賞 2026年11月6日(適時開示) ：日経会社情報DIGITAL](https://news.google.com/rss/articles/CBMizAFBVV95cUxNRnVEa2ViYWdyUTBuUkhRMmQ2NzZFSkFCVjhoQ3c1U2VxZTJPVF9iWkZSSFhVbVVZekZRZ3NFOFNJeWg4a2ZRTHhEUC1fcmxXMy10eUJMTzduX1dpdmROMXZzUHU1TlRBVnMwOXI3MWRhTzhGWTJaNXplMzlic2taQ0ZUZlo5XzRQRDRDaG0yZVlPaFRQTnllZmFTNXlWYkpfRHVXVVZCTnhvT2t3dUxySWhzeXg4V3RWaGMxYlRnT0xyRmhxSGE0TExWRXM?oc=5) 日本経済新聞
 
@@ -14,17 +12,13 @@
 
 ○11月7日 [小池都知事が欧州歴訪から帰国、チャンピオン・メイヤーズ巡り「来年５月に東京で総会」](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XOHhPemRPaUdnc3FadmhlSVNLNUNVS1JvWnRwd0pNc1Q1aUlKWVlyM1QwRm9oZkFlaTVGcWtEbUNtYmt3bVZLRXN1M1FIVWJsOHpCNDhGUHBLNGlQVDJxYXVoV1BHZw?oc=5) 読売新聞
 
-○11月8日 [新たなアニメの祭典「日本アニメアワード」2027年に始動 小池百合子都知事「東京都は、アニメとその担い手の皆様を、これからも力強く応援してまいります」](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NVHE3NEsyZUFNYUgtMDE3bUtKSkhZcnNBOU5DekpkaHRFNXNIejVNRUlwRXRBT3A1Y0RFTDQtZi0zRzRoWl9CTEJLU080TE8wM3c?oc=5) 山陽新聞
+○11月9日 [新たなアニメの祭典「日本アニメアワード」2027年に始動 小池百合子都知事「東京都は、アニメとその担い手の皆様を、これからも力強く応援してまいります」](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NVHE3NEsyZUFNYUgtMDE3bUtKSkhZcnNBOU5DekpkaHRFNXNIejVNRUlwRXRBT3A1Y0RFTDQtZi0zRzRoWl9CTEJLU080TE8wM3c?oc=5) 山陽新聞
 
 【東京都知事（小池百合子）】
 
 該当データなし
 
 【東京都議会】
-
-○11月5日　[文教委員会 11月5日、11月26日、11月27日、11月30日](https://www.gikai.metro.tokyo.lg.jp/schedule/educational.html)
-
-○11月5日　[環境・建設委員会 11月5日、11月12日、11月17日、11月26日](https://www.gikai.metro.tokyo.lg.jp/schedule/environmental-construction.html)
 
 ○11月10日　[総務委員会 11月10日、11月26日、11月30日](https://www.gikai.metro.tokyo.lg.jp/schedule/general-affairs.html)
 
