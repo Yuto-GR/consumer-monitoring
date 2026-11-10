@@ -1,4 +1,4 @@
-更新日時: 2026年11月10日（火）13:57 JST
+更新日時: 2026年11月11日（水）00:21 JST
 
 【ニュース】
 
@@ -11,6 +11,8 @@
 ○11月7日 [小池都知事が欧州歴訪から帰国、チャンピオン・メイヤーズ巡り「来年５月に東京で総会」](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XOHhPemRPaUdnc3FadmhlSVNLNUNVS1JvWnRwd0pNc1Q1aUlKWVlyM1QwRm9oZkFlaTVGcWtEbUNtYmt3bVZLRXN1M1FIVWJsOHpCNDhGUHBLNGlQVDJxYXVoV1BHZw?oc=5) 読売新聞
 
 ○11月9日 [新たなアニメの祭典「日本アニメアワード」2027年に始動 小池百合子都知事「東京都は、アニメとその担い手の皆様を、これからも力強く応援してまいります」](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NVHE3NEsyZUFNYUgtMDE3bUtKSkhZcnNBOU5DekpkaHRFNXNIejVNRUlwRXRBT3A1Y0RFTDQtZi0zRzRoWl9CTEJLU080TE8wM3c?oc=5) 山陽新聞
+
+○11月10日 [「サイバー攻撃」対策で小池都知事が補正予算の編成指示…「社会の深刻なリスク」「もはや災害と捉えていい」](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OQ19YSmRjR0V5UmxQbTNic2x0Tm56SmdhbHFfeDBmVkpxLTlRM0RpcU1qekpROFlqSjNLUS1MNThZTU5weGNWSEp5eFJrb3V4cmQ3QUk0bkgwS09SMGpBVjh4cmhNQQ?oc=5) 読売新聞
 
 【東京都知事（小池百合子）】
 
