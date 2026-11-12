@@ -1,10 +1,6 @@
-更新日時: 2026年11月12日（木）13:38 JST
+更新日時: 2026年11月13日（金）00:42 JST
 
 【ニュース】
-
-○11月8日 [〈都知事選 初日の訴え〉家入氏 声を吸い上げたい](https://news.google.com/rss/articles/CBMibkFVX3lxTE44amJOd1Nfa1l6VEM5Nk82U1NyTTJPSkcxZGRDMWxjYk1tMGhUb2M4QVlFLTZoTkljZVZ6emVKZVJiVkc5bWRuek5XSFJ6V05YaG1hWlg4ZWRvZm9QOHJYcEdjYjNrSTVGcHpfd0lR?oc=5) 朝日新聞
-
-○11月10日 [「サイバー攻撃」対策で小池都知事が補正予算の編成指示…「社会の深刻なリスク」「もはや災害と捉えていい」](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OQ19YSmRjR0V5UmxQbTNic2x0Tm56SmdhbHFfeDBmVkpxLTlRM0RpcU1qekpROFlqSjNLUS1MNThZTU5weGNWSEp5eFJrb3V4cmQ3QUk0bkgwS09SMGpBVjh4cmhNQQ?oc=5) 読売新聞
 
 ○11月11日 [新たなアニメの祭典「日本アニメアワード」2027年に始動 小池百合子都知事「東京都は、アニメとその担い手の皆様を、これからも力強く応援してまいります」](https://news.google.com/rss/articles/CBMid0FVX3lxTFBWMVBCWFJpdHIxUjU1cDgxLXdQNWJTblJURF9zMDlyRUlfcTVwX2VaUlpxbmI3WnhRdUl1ekNyM0VFV1FjWG5aZHFVUmVzaUxiZ3gwMDQ2NDZKZUs5cF9YcmhqcEdwMXJscWRhUUJHZDYxenhIUUJB?oc=5) 山陽新聞
 
@@ -13,6 +9,8 @@
 ○11月12日 [地方交付税制度の見直し、小池知事が国に提言 税収増なら財源も多く](https://news.google.com/rss/articles/CBMibEFVX3lxTE9FRHh5dDVnd0trWVZ2ZDF5RmhOR0lEQk1xc0k0ejlIWGMzY2UtWnF2U3hMc1dCZFJDM01Fd3B2dWI5SkpBeERYc28tX3lpYmZ3S3JELW9DY0pLUzRRZ1JuS3lpVVptaTBpOU9Ccw?oc=5) 日本経済新聞
 
 ○11月12日 [小池都知事、「年２兆円の地方配分増」へ交付税制度の抜本見直し提案…国と都の協議会で](https://news.google.com/rss/articles/CBMiZkFVX3lxTE12ek9LV3UxeTNuUmxvVkZ1b0FiQ0FkNHdhR3p2RHNWN1NveFl6ZU10Nm9xY3I0OU04WmQ4NU9QbXZkcGlOVmw0a3lVS18wTHpfX2EzT2FaNEtDRFFWUWU3Nml2QUVjQQ?oc=5) 読売新聞
+
+○11月12日 [視察に訪れた小池百合子都知事＝代々木公園に新たな噴水スポット](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwc216Vi1JTFlVRFVyM0FfS2V2clJ5dXk5S0FFcmVaWTZIdmk5QU9tTi1iRnZldUlUZkFnX0hPaWhPNnk5T2xUNU1jZVZYbTI2bDJSRg?oc=5) シブヤ経済新聞
 
 【東京都知事（小池百合子）】
 
