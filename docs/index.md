@@ -1,6 +1,8 @@
-更新日時: 2026年11月13日（金）00:42 JST
+更新日時: 2026年11月13日（金）12:51 JST
 
 【ニュース】
+
+○11月10日 [「サイバー攻撃」対策で小池都知事が補正予算の編成指示…「社会の深刻なリスク」「もはや災害と捉えていい」](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OQ19YSmRjR0V5UmxQbTNic2x0Tm56SmdhbHFfeDBmVkpxLTlRM0RpcU1qekpROFlqSjNLUS1MNThZTU5weGNWSEp5eFJrb3V4cmQ3QUk0bkgwS09SMGpBVjh4cmhNQQ?oc=5) 読売新聞
 
 ○11月11日 [新たなアニメの祭典「日本アニメアワード」2027年に始動 小池百合子都知事「東京都は、アニメとその担い手の皆様を、これからも力強く応援してまいります」](https://news.google.com/rss/articles/CBMid0FVX3lxTFBWMVBCWFJpdHIxUjU1cDgxLXdQNWJTblJURF9zMDlyRUlfcTVwX2VaUlpxbmI3WnhRdUl1ekNyM0VFV1FjWG5aZHFVUmVzaUxiZ3gwMDQ2NDZKZUs5cF9YcmhqcEdwMXJscWRhUUJHZDYxenhIUUJB?oc=5) 山陽新聞
 
@@ -38,7 +40,7 @@
 
 【自民党東京都連（TOKYO自民党）】
 
-該当データなし
+○11月13日　[〔公募情報〕青梅市議選（R9統一選）](https://www.tokyo-jimin.jp/2026/11/13/1-9/)
 
 【都議会自民党】
 
