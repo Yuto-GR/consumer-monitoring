@@ -1,8 +1,8 @@
-更新日時: 2026年11月14日（土）22:54 JST
+更新日時: 2026年11月15日（日）12:30 JST
 
 【ニュース】
 
-○11月11日 [新たなアニメの祭典「日本アニメアワード」2027年に始動 小池百合子都知事「東京都は、アニメとその担い手の皆様を、これからも力強く応援してまいります」](https://news.google.com/rss/articles/CBMid0FVX3lxTFBWMVBCWFJpdHIxUjU1cDgxLXdQNWJTblJURF9zMDlyRUlfcTVwX2VaUlpxbmI3WnhRdUl1ekNyM0VFV1FjWG5aZHFVUmVzaUxiZ3gwMDQ2NDZKZUs5cF9YcmhqcEdwMXJscWRhUUJHZDYxenhIUUJB?oc=5) 山陽新聞
+○11月11日 [小池百合子知事「東京の勝ち筋をさらに伸ばす要望した」 国と地方税の偏在是正めぐり協議](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mRDRicjBiZFEyNDB5VGQ0TmVWcTVvOElVeEVoU2Q5dkJJbDROM2pPZzVkMDl2X1lIZHQ4dkhNWDlPdWhxazkyeDIySHpuZUk5VzdZ?oc=5) 東京新聞
 
 ○11月12日 [地方交付税制度の見直し、小池知事が国に提言 税収増なら財源も多く](https://news.google.com/rss/articles/CBMibEFVX3lxTE9FRHh5dDVnd0trWVZ2ZDF5RmhOR0lEQk1xc0k0ejlIWGMzY2UtWnF2U3hMc1dCZFJDM01Fd3B2dWI5SkpBeERYc28tX3lpYmZ3S3JELW9DY0pLUzRRZ1JuS3lpVVptaTBpOU9Ccw?oc=5) 日本経済新聞
 
@@ -18,19 +18,13 @@
 
 ○11月14日 [【写真・画像】大学定員規制の撤廃を 東京都議会が意見書採択 - 全国のニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QZnpzbHN3ZU12RjBzaVBjbU52Rm01ZVEzUk5vSmxqdmdyX0lhRlExRUdGQXRuUFVibmdXTVRsOEgwMkJVSWVZalJIc3ptYkNDUWpWV0hhVVpPR2xNN2c?oc=5) 佐賀新聞
 
+○11月14日 [新たなアニメの祭典「日本アニメアワード」2027年に始動 小池百合子都知事「東京都は、アニメとその担い手の皆様を、これからも力強く応援してまいります」](https://news.google.com/rss/articles/CBMiigFBVV95cUxOV3ZadF9qOGZBZXlZMGRVT2JYLU4xdnk5MXNRLVpOd2FkWExxTkNzMVc0eHByN1Nhc1NYYjlsZDVheWVOa1hwTHFub3RlNG4yVzNGa015Z3FtS0E1eHUtYnloZUlFTzJ1c2oyU2Nud2pfZTE5Vk55cTlhYlBrNUtEUFVacUlYbUhCSkE?oc=5) 山陽新聞
+
 【東京都知事（小池百合子）】
 
 該当データなし
 
 【東京都議会】
-
-○11月10日　[総務委員会 11月10日、11月26日、11月30日](https://www.gikai.metro.tokyo.lg.jp/schedule/general-affairs.html)
-
-○11月10日　[都市整備委員会 11月10日、11月26日、11月30日](https://www.gikai.metro.tokyo.lg.jp/schedule/urban-development.html)
-
-○11月10日　[厚生委員会 11月10日、11月27日、11月30日](https://www.gikai.metro.tokyo.lg.jp/schedule/welfare.html)
-
-○11月10日　[経済・港湾委員会 11月10日、11月12日、11月17日、11月27日](https://www.gikai.metro.tokyo.lg.jp/schedule/economic-port-and-harbor.html)
 
 ○11月12日　[財政委員会 11月12日、11月26日、11月30日](https://www.gikai.metro.tokyo.lg.jp/schedule/financial.html)
 
