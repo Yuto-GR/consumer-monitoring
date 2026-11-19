@@ -1,12 +1,6 @@
-更新日時: 2026年11月19日（木）13:47 JST
+更新日時: 2026年11月20日（金）01:14 JST
 
 【ニュース】
-
-○11月15日 [成績 台東学童都知事杯（11月15日）](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FY1FyLW9zQVF5cWFaZGtSZFZnVFJrdUwyRkZZWkJFTlMtNmdPUFo2ajhKeWhxRlhEb1JVamtxbmJncF91OWdvU1hRd2dCdnJLbUxR?oc=5) 東京新聞
-
-○11月15日 [自民も共産も相乗りした品川区長 圧倒的強さの先に「都知事選」の声 「東京都」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jaFJJVU1mT0FCN1RfNVlUZmRhN1JjSXRKMEJmRmpPbHVNeV9FUWl1UzVOeDhObXJ0NXhTcmJvTVR6bl9YUU5sRVNJM19qODJBWGxBdUNxV1FZVVJoMUtyWThFTDUyaFE?oc=5) 朝日新聞
-
-○11月15日 [自民も共産も相乗りした品川区長 圧倒的強さの先に「都知事選」の声 「東京都」](https://news.google.com/rss/articles/CBMihgFBVV95cUxPclktdndPemd3SFhUVEE4QzZQMTYxWDUzY2RQREhHRGhMYkpncjlmMmlvRmY1UEJpMXlsVVQ5M0Z0RG4zSGxrT2k1VmJ4QTVvdzlKeVg1NnhsYUxwSVhLR1VIQ015NTZFLVU5RE5BdGpiYkQzNWVuY2NBZlJwcVdjSE5CMzBsUQ?oc=5) 朝日新聞
 
 ○11月16日 [小池都知事、追悼文送らず 朝鮮人虐殺、１０年連続](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iVXprUFhHTExfMENqUE9ESFItUzJoV2JNWDlfSGpsOHNfNTlPRll3ZDhWeGJGWl93bHprWkF3cTd0cDBiZlNqYm1pRHdXRk5ZN2RKck0zcFZ6dw?oc=5) 山陽新聞
 
@@ -18,9 +12,13 @@
 
 ○11月18日 [新たなアニメの祭典「日本アニメアワード」2027年に始動 小池百合子都知事「東京都は、アニメとその担い手の皆様を、これからも力強く応援してまいります」](https://news.google.com/rss/articles/CBMiigFBVV95cUxQelpVMGZOQ2Z6cVh4a3FZdUVmQ1NIdDJqZUQ1OUwxRWMza2UtdkZPUFlzakhPOEtXTE1INEs1bkVkZnZ5TTVfdVdTTjIwNnNPR0VzaThSSTRpeDRXaXhpR3c3WU5EbkRZWERJQi1tVFBhbGN3Z1g3RDkwbUQyZUt0OTJaSm9Zc3o4dkE?oc=5) 山陽新聞
 
+○11月18日 [小池百合子 意思決定にはリーダーの決意と説得が重要 （2ページ目）](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SZkV2ZHRtUFMyQ1BQbG8tcE1Nc0lBUFlRRWY4Ulc5bE5yVmpKNlJfSmNka1U0TjEtNF9IYTRzZkRFN0l5engwVFp1VDg5MjFmaHpWd0NCaTR6X2w5WFpF?oc=5) 日本経済新聞
+
 ○11月18日 [小池百合子 若いころから人と違う道を選んできた （3ページ目）](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mS09GVElFOFNQRDhlS1Y5Z21wWXZhS2xIc0JmSjlwNXFnUjZlaHBJUFhIbThkYzMxM29zbS15dzRReFBEWWhwMkhKRzBiTVhwS2RZWVN2RmVaRG9fenhv?oc=5) 日本経済新聞
 
 ○11月19日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YTkxUYVl3NDduVXhCM2NSSUhieEg1bVFyYmRlSWJnZnI5Wm5HenBTTmZwc2hhQVVrQ2ppQ0NYcmNtdi1QdURBZkowRVdZTFBoRFBBSWlOeW5RZw?oc=5) 山陽新聞
+
+○11月19日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMifkFVX3lxTE5yNGhnWDZRNmZUV1d3ZUdwZG9hR3pWSnJKNkQ4ckYzTmQyWTByQjltUzRLWGZaZy10YUVubUlvQ3VTWHNPSXRaazNHczZoUXNNSzR1RmdHOElmaGltUlBxc1VwMGg0eWZYcHhEd3FvYWVaanV4T0duZk0wOWIzdw?oc=5) 山陽新聞
 
 【東京都知事（小池百合子）】
 
@@ -41,8 +39,6 @@
 【自民党東京都連（TOKYO自民党）】
 
 ○11月16日　[〔選挙情報〕R9統一選（第2次公認・推薦決定）](https://www.tokyo-jimin.jp/2026/11/16/1-10/)
-
-○11月13日　[〔公募情報〕青梅市議選（R9統一選）](https://www.tokyo-jimin.jp/2026/11/13/1-9/)
 
 【都議会自民党】
 
