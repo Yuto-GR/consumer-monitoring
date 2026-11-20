@@ -1,10 +1,6 @@
-更新日時: 2026年11月20日（金）01:14 JST
+更新日時: 2026年11月20日（金）13:38 JST
 
 【ニュース】
-
-○11月16日 [小池都知事、追悼文送らず 朝鮮人虐殺、１０年連続](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iVXprUFhHTExfMENqUE9ESFItUzJoV2JNWDlfSGpsOHNfNTlPRll3ZDhWeGJGWl93bHprWkF3cTd0cDBiZlNqYm1pRHdXRk5ZN2RKck0zcFZ6dw?oc=5) 山陽新聞
-
-○11月17日 [令和8年8月8日に婚姻届提出者が列 小池百合子東京都知事＆婚活アドバイザーの植草美幸さんが明かす](https://news.google.com/rss/articles/CBMib0FVX3lxTFBuQVRjX1hqZEtMWl9leHpJUm9BOEhXZDRneGo5bTJNQnFFdUljM1NKOEhQemlkVmpZcEV1QjZaOXVrd0RRQ003M3pMcHo4UjFVMkhWNGZrZEFCa3Q4bGxpUGFEQTFfSmIxWW5mdGtHVQ?oc=5) 山陽新聞
 
 ○11月17日 [小池都知事 女性が力を発揮できる環境を整えたい](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OelhBckYxNklSOVBXZG9yV2g0cTZrSldyeHUxOTB4UnVQXzNQaEt0X1J3a3F5dUh1aGlmZjdNWUlTeVVfTHA4QjR3anl4Y0ZPT3RPdXpKWGEzQQ?oc=5) 日本経済新聞
 
@@ -19,6 +15,8 @@
 ○11月19日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YTkxUYVl3NDduVXhCM2NSSUhieEg1bVFyYmRlSWJnZnI5Wm5HenBTTmZwc2hhQVVrQ2ppQ0NYcmNtdi1QdURBZkowRVdZTFBoRFBBSWlOeW5RZw?oc=5) 山陽新聞
 
 ○11月19日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMifkFVX3lxTE5yNGhnWDZRNmZUV1d3ZUdwZG9hR3pWSnJKNkQ4ckYzTmQyWTByQjltUzRLWGZaZy10YUVubUlvQ3VTWHNPSXRaazNHczZoUXNNSzR1RmdHOElmaGltUlBxc1VwMGg0eWZYcHhEd3FvYWVaanV4T0duZk0wOWIzdw?oc=5) 山陽新聞
+
+○11月19日 [東京都、来年のIR誘致追加申請しない方針 調査費は予算計上へ](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxRlpyTjFtbTRLa2VpeTM4YS1pWG4tN2p5UVF2TXdhSThFOTlocnBYMFU4aTdFU2Z1WWM0OWlXeXZDdXR4bWlmOXN6VzZxQmp3ZVNxYUVfa0tTMTZZQlpEYlRPeGFJVXhw?oc=5) 毎日新聞
 
 【東京都知事（小池百合子）】
 
