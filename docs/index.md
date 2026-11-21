@@ -1,4 +1,4 @@
-更新日時: 2026年11月21日（土）13:32 JST
+更新日時: 2026年11月22日（日）00:01 JST
 
 【ニュース】
 
@@ -14,11 +14,17 @@
 
 ○11月20日 [インフラ整備「バーターではない」 税の偏在是正めぐり小池知事否定 「東京都」 「予算・税制」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1td0c0bDIwZEYwMGttWkpDRENBVEd3SUY1RVJxRWRjNnJMeXdQZE1ySmZHcERLVzBucXRZcDhBV2ZuNGlvZDdOMUNFWWt2MFVEeW5YdGNpZUQxdk9uYTA2LUNDM0dBVE0?oc=5) 朝日新聞
 
-○11月20日 [東京都が「税収格差」是正強化に反論、埼玉など３県要望で…小池知事「交付税制度に問題がある」](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GWnpmZHY4R2xUTm4xRWZMVndWcDI5MmMwd1hkQTNxTjFlY2VoZ24xTmJWeU1uT3ZXdDhUY3Z2eWZJQ3ZzN0hwREgtR2k1UGR2SUVVZ1B4OHdaOGxCSFZlWFBwNVNTdw?oc=5) 読売新聞
+○11月20日 [インフラ整備「バーターではない」 税の偏在是正めぐり小池知事否定 「東京都」](https://news.google.com/rss/articles/CBMibkFVX3lxTE9kS1N4V0pFejZzZ1FNVWJ2R2UwLVFhLWN0WU5xcTBxR0gxaTl4bXJTUXE5TjR0VzRtMU11Ujd3UDBVMUc4QURoVUhkQ2dhLVVyV3lTbEtQV3dsNEIxekwwV040OGhOTzBRU1A0S3lB?oc=5) 朝日新聞
+
+○11月20日 [待機児童問題のために新都知事がすべき8つのこと](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrdWdMNEJLbmk1dkl1U3IwNG1TckRTS1ZHSk5kVE82NVlKTXFHS1ZsaHN6OUFnWW1xc1ZSWV9sWFdVUW1henowTHJYVjdSd1VmdmJjeFBzdTZhZw?oc=5) 日本経済新聞
+
+○11月20日 [日本版DBS、稼働延期で現場にも影響か 都知事が迅速な対応要望](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pazd6RldpdW1LNThib3RHR1o1NEtmMkJOT2hVOVNGeGhPY2xhQ1JDN21ZTkJabDE4TUNWZGw0dVgzMWxkZnVQaURLWTNkbmd0UDByaEl3?oc=5) 教育新聞
 
 ○11月21日 [〈小池知事 会見ファイル〉20日発言 日本版DBS延期 必要な措置を国に要望](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JMzhnV3ZrLUVJb0kxV3hwN1gwMllwUDlwNW9iT2xVVE5OWmdKRkJxcHM5TXZXbTNUZGVBTFVSSTRqc2JzdmZ4QXhQZkVQOWtJOGZZ?oc=5) 東京新聞
 
 ○11月21日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YTkxUYVl3NDduVXhCM2NSSUhieEg1bVFyYmRlSWJnZnI5Wm5HenBTTmZwc2hhQVVrQ2ppQ0NYcmNtdi1QdURBZkowRVdZTFBoRFBBSWlOeW5RZw?oc=5) 山陽新聞
+
+○11月21日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XQ1BOYWxkcGQ2dzZvZWxZcTJUWmYyeTN3RVc3RkxLN2JvdVRSejlzVVJTVWxWbF96Z2IzNThaMzBoMmtfWmhFZmNmYnhQTnVQVHAyMEJmOVp2dk0?oc=5) 山陽新聞
 
 【東京都知事（小池百合子）】
 
