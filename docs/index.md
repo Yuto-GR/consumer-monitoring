@@ -1,8 +1,8 @@
-更新日時: 2026年11月22日（日）12:47 JST
+更新日時: 2026年11月22日（日）23:59 JST
 
 【ニュース】
 
-○11月19日 [小池百合子 若いころから人と違う道を選んできた （3ページ目）](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mS09GVElFOFNQRDhlS1Y5Z21wWXZhS2xIc0JmSjlwNXFnUjZlaHBJUFhIbThkYzMxM29zbS15dzRReFBEWWhwMkhKRzBiTVhwS2RZWVN2RmVaRG9fenhv?oc=5) 日本経済新聞
+○11月19日 [小池百合子 若いころから人と違う道を選んできた （4ページ目）](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXbnJRclhtV2RqMGNqWmRrR1pNenJlOUdZay01Ri1NeW5RT0ZJZmNCaVI2UlZxRC1OLWpuRk5LdnNRc2d2YVFQQTNadUVkQTZpdnFRSmc5ZktnUUt0YTlv?oc=5) 日本経済新聞
 
 ○11月19日 [東京都、来年のIR誘致追加申請しない方針 調査費は予算計上へ](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxRlpyTjFtbTRLa2VpeTM4YS1pWG4tN2p5UVF2TXdhSThFOTlocnBYMFU4aTdFU2Z1WWM0OWlXeXZDdXR4bWlmOXN6VzZxQmp3ZVNxYUVfa0tTMTZZQlpEYlRPeGFJVXhw?oc=5) 毎日新聞
 
@@ -18,9 +18,11 @@
 
 ○11月21日 [〈小池知事 会見ファイル〉20日発言 日本版DBS延期 必要な措置を国に要望](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JMzhnV3ZrLUVJb0kxV3hwN1gwMllwUDlwNW9iT2xVVE5OWmdKRkJxcHM5TXZXbTNUZGVBTFVSSTRqc2JzdmZ4QXhQZkVQOWtJOGZZ?oc=5) 東京新聞
 
-○11月21日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XQ1BOYWxkcGQ2dzZvZWxZcTJUWmYyeTN3RVc3RkxLN2JvdVRSejlzVVJTVWxWbF96Z2IzNThaMzBoMmtfWmhFZmNmYnhQTnVQVHAyMEJmOVp2dk0?oc=5) 山陽新聞
-
 ○11月21日 [小池都知事 女性が力を発揮できる環境を整えたい](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OelhBckYxNklSOVBXZG9yV2g0cTZrSldyeHUxOTB4UnVQXzNQaEt0X1J3a3F5dUh1aGlmZjdNWUlTeVVfTHA4QjR3anl4Y0ZPT3RPdXpKWGEzQQ?oc=5) 日本経済新聞
+
+○11月22日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NUFQxSHpnTW9yNWhEc19scTJrYWJxSWExMURldUx4MUUyTHoxdHc2Njl0am5fUlFKaXFXQ2RsSGhmY0Vqek5ZOUloRkNnR0pQMEZRNGk0ajRFRGxtVkkzdXlobnJqbmc?oc=5) 山陽新聞
+
+○11月22日 [成績 台東学童都知事杯（11月22日）](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3VGlZQzFaYmZYcG5RU19FZy1qZEw3WlROVU5Zdk9wbDBYVmxDRXhXSF9ZUkZ0SjlJT0ljY09zU1F4ZWY1aGtodkxQYklvUWRMdEVXUGFXZlBaVTZOSzdLcnFB?oc=5) 東京新聞
 
 【東京都知事（小池百合子）】
 
