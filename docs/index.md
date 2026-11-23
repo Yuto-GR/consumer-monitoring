@@ -1,4 +1,4 @@
-更新日時: 2026年11月22日（日）23:59 JST
+更新日時: 2026年11月23日（月）13:25 JST
 
 【ニュース】
 
@@ -18,19 +18,17 @@
 
 ○11月21日 [〈小池知事 会見ファイル〉20日発言 日本版DBS延期 必要な措置を国に要望](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JMzhnV3ZrLUVJb0kxV3hwN1gwMllwUDlwNW9iT2xVVE5OWmdKRkJxcHM5TXZXbTNUZGVBTFVSSTRqc2JzdmZ4QXhQZkVQOWtJOGZZ?oc=5) 東京新聞
 
+○11月21日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YTkxUYVl3NDduVXhCM2NSSUhieEg1bVFyYmRlSWJnZnI5Wm5HenBTTmZwc2hhQVVrQ2ppQ0NYcmNtdi1QdURBZkowRVdZTFBoRFBBSWlOeW5RZw?oc=5) 山陽新聞
+
 ○11月21日 [小池都知事 女性が力を発揮できる環境を整えたい](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OelhBckYxNklSOVBXZG9yV2g0cTZrSldyeHUxOTB4UnVQXzNQaEt0X1J3a3F5dUh1aGlmZjdNWUlTeVVfTHA4QjR3anl4Y0ZPT3RPdXpKWGEzQQ?oc=5) 日本経済新聞
 
-○11月22日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NUFQxSHpnTW9yNWhEc19scTJrYWJxSWExMURldUx4MUUyTHoxdHc2Njl0am5fUlFKaXFXQ2RsSGhmY0Vqek5ZOUloRkNnR0pQMEZRNGk0ajRFRGxtVkkzdXlobnJqbmc?oc=5) 山陽新聞
-
-○11月22日 [成績 台東学童都知事杯（11月22日）](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3VGlZQzFaYmZYcG5RU19FZy1qZEw3WlROVU5Zdk9wbDBYVmxDRXhXSF9ZUkZ0SjlJT0ljY09zU1F4ZWY1aGtodkxQYklvUWRMdEVXUGFXZlBaVTZOSzdLcnFB?oc=5) 東京新聞
+○11月22日 [成績 台東学童都知事杯（11月22日）](https://news.google.com/rss/articles/CBMiU0FVX3lxTE43TnRDXzVVS3dUUTNyWGtOR1FxaWhEZXBxZk0wSFlVVkFEcU1VVVV1bUxTWjFwUzR6S0dRV3hKZ0VmdF9aYkZaVndDdTVFT3R5YnJn?oc=5) 東京新聞
 
 【東京都知事（小池百合子）】
 
 該当データなし
 
 【東京都議会】
-
-○11月18日　[公営企業会計決算特別委員会 11月18日、11月24日、12月3日](https://www.gikai.metro.tokyo.lg.jp/schedule/public-enterprise-special.html)
 
 ○11月19日　[警察・消防委員会 11月19日、11月30日](https://www.gikai.metro.tokyo.lg.jp/schedule/police-fire-fighting.html)
 
@@ -40,7 +38,7 @@
 
 【自民党東京都連（TOKYO自民党）】
 
-○11月16日　[〔選挙情報〕R9統一選（第2次公認・推薦決定）](https://www.tokyo-jimin.jp/2026/11/16/1-10/)
+該当データなし
 
 【都議会自民党】
 
