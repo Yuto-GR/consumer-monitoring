@@ -1,8 +1,8 @@
-更新日時: 2026年11月24日（火）03:54 JST
+更新日時: 2026年11月24日（火）16:21 JST
 
 【ニュース】
 
-○11月20日 [インフラ整備「バーターではない」 税の偏在是正めぐり小池知事否定 「東京都」 「予算・税制」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1td0c0bDIwZEYwMGttWkpDRENBVEd3SUY1RVJxRWRjNnJMeXdQZE1ySmZHcERLVzBucXRZcDhBV2ZuNGlvZDdOMUNFWWt2MFVEeW5YdGNpZUQxdk9uYTA2LUNDM0dBVE0?oc=5) 朝日新聞
+○11月20日 [インフラ整備「バーターではない」 税の偏在是正めぐり小池知事否定 「東京都」](https://news.google.com/rss/articles/CBMibkFVX3lxTE9kS1N4V0pFejZzZ1FNVWJ2R2UwLVFhLWN0WU5xcTBxR0gxaTl4bXJTUXE5TjR0VzRtMU11Ujd3UDBVMUc4QURoVUhkQ2dhLVVyV3lTbEtQV3dsNEIxekwwV040OGhOTzBRU1A0S3lB?oc=5) 朝日新聞
 
 ○11月20日 [日本版DBS、稼働延期で現場にも影響か 都知事が迅速な対応要望](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pazd6RldpdW1LNThib3RHR1o1NEtmMkJOT2hVOVNGeGhPY2xhQ1JDN21ZTkJabDE4TUNWZGw0dVgzMWxkZnVQaURLWTNkbmd0UDByaEl3?oc=5) 教育新聞
 
@@ -17,6 +17,8 @@
 ○11月22日 [成績 台東学童都知事杯（11月22日）](https://news.google.com/rss/articles/CBMiU0FVX3lxTE43TnRDXzVVS3dUUTNyWGtOR1FxaWhEZXBxZk0wSFlVVkFEcU1VVVV1bUxTWjFwUzR6S0dRV3hKZ0VmdF9aYkZaVndDdTVFT3R5YnJn?oc=5) 東京新聞
 
 ○11月23日 [小池百合子 若いころから人と違う道を選んできた （3ページ目）](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mS09GVElFOFNQRDhlS1Y5Z21wWXZhS2xIc0JmSjlwNXFnUjZlaHBJUFhIbThkYzMxM29zbS15dzRReFBEWWhwMkhKRzBiTVhwS2RZWVN2RmVaRG9fenhv?oc=5) 日本経済新聞
+
+○11月24日 [＜防災庁発足 あすへ備える＞（下）小池百合子都知事インタビュー 首都直下対策、阪神・淡路に学ぶ](https://news.google.com/rss/articles/CBMibkFVX3lxTE9xZ05OTHlhZlhMcFdWY0ZZamtvbDk5UnhKd1hPWnZGbzR6aEdxbVZUS2RvZDFfcUxpTDZkNkJkbUdxVVB1YjFyQnp2RUMxU0pjYlVJQlR3RkhQM2xKb1lJanh0emdFWEMzOU54UTRR?oc=5) 神戸新聞
 
 【東京都知事（小池百合子）】
 
