@@ -1,12 +1,6 @@
-更新日時: 2026年11月25日（水）03:33 JST
+更新日時: 2026年11月25日（水）14:52 JST
 
 【ニュース】
-
-○11月21日 [〈小池知事 会見ファイル〉20日発言 日本版DBS延期 必要な措置を国に要望](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JMzhnV3ZrLUVJb0kxV3hwN1gwMllwUDlwNW9iT2xVVE5OWmdKRkJxcHM5TXZXbTNUZGVBTFVSSTRqc2JzdmZ4QXhQZkVQOWtJOGZZ?oc=5) 東京新聞
-
-○11月21日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YTkxUYVl3NDduVXhCM2NSSUhieEg1bVFyYmRlSWJnZnI5Wm5HenBTTmZwc2hhQVVrQ2ppQ0NYcmNtdi1QdURBZkowRVdZTFBoRFBBSWlOeW5RZw?oc=5) 山陽新聞
-
-○11月22日 [小池都知事 女性が力を発揮できる環境を整えたい](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OelhBckYxNklSOVBXZG9yV2g0cTZrSldyeHUxOTB4UnVQXzNQaEt0X1J3a3F5dUh1aGlmZjdNWUlTeVVfTHA4QjR3anl4Y0ZPT3RPdXpKWGEzQQ?oc=5) 日本経済新聞
 
 ○11月22日 [成績 台東学童都知事杯（11月22日）](https://news.google.com/rss/articles/CBMiU0FVX3lxTE43TnRDXzVVS3dUUTNyWGtOR1FxaWhEZXBxZk0wSFlVVkFEcU1VVVV1bUxTWjFwUzR6S0dRV3hKZ0VmdF9aYkZaVndDdTVFT3R5YnJn?oc=5) 東京新聞
 
@@ -17,6 +11,8 @@
 ○11月24日 [都議会4会派、防災やサイバー攻撃対策を知事に要望 補正予算案で](https://news.google.com/rss/articles/CBMibEFVX3lxTFB5cUlEVloySUs3aXZ5QzdPTmt0S1lITTFPWVljdjFFTGRSWFBCeDRJOG16aHN6Zmh6UWtfaE01Qk5ZanczWDJuWkl4WUNmdkQ5TlZnUzN3WVozLUJkREhwUTlpVTBkeXFJT1FZMw?oc=5) 日本経済新聞
 
 ○11月24日 [成績 台東学童都知事杯（11月23日）](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HaEI3ajBnLU1ETldtVTF2NTdhN3l3N2h3Z2w5STZtNVRGVXBBZzlkY1JPSlhDWnJkUmh6RjNHeV82RHB2NEt0NDFoSXdjMzRMRkZn?oc=5) 東京新聞
+
+○11月25日 [サイバー対策などを補正予算編成に要望 知事に都議会会派](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xNUIwbWUxRTdSSnJzX1Bid3hQdnhfRW5ZOU5PVEtieUZNNHI1LVc1UG1seXI2QklLbTIyeVNLdUZYRDBwbmxkbUZONTBnLXY3c3p3?oc=5) 東京新聞
 
 【東京都知事（小池百合子）】
 
