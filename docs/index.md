@@ -1,4 +1,4 @@
-更新日時: 2026年11月26日（木）02:44 JST
+更新日時: 2026年11月26日（木）14:43 JST
 
 【ニュース】
 
@@ -15,6 +15,10 @@
 ○11月25日 [サイバー対策などを補正予算編成に要望 知事に都議会会派](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xNUIwbWUxRTdSSnJzX1Bid3hQdnhfRW5ZOU5PVEtieUZNNHI1LVc1UG1seXI2QklLbTIyeVNLdUZYRDBwbmxkbUZONTBnLXY3c3p3?oc=5) 東京新聞
 
 ○11月25日 [小池百合子 若いころから人と違う道を選んできた （3ページ目）](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mS09GVElFOFNQRDhlS1Y5Z21wWXZhS2xIc0JmSjlwNXFnUjZlaHBJUFhIbThkYzMxM29zbS15dzRReFBEWWhwMkhKRzBiTVhwS2RZWVN2RmVaRG9fenhv?oc=5) 日本経済新聞
+
+○11月26日 [台東学童都知事杯 七北クラブ「足攻」で逆転、2回戦へ](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fbWJMRWtkVGxDZVVrb21WY1dwLTFZOUh4OG92elNHejhtU1VJV0ZwaEVZbHdxUnFaQ2RULVBackp1d1pvc1oyOWVxN3JleFNhRzFLRUppR2tjdm53dFJyT1hB?oc=5) 東京新聞
+
+○11月26日 [地方税の再配分、小池都知事VS小野寺税調 法人事業税の扱い議論](https://news.google.com/rss/articles/CBMibEFVX3lxTE5BOFp3b21UVERjR3hsclZxM0dsSGttUTlFMkg1dWJLWVd2SF8xVUxndHNlS2ZTRTF2ZXB3b1czdUFhYnBIY2IzNEhJdFNVRVBuSU9aTVY0U1pJR25fLUFqVHo4Tnp5YUI3NTZiUg?oc=5) 日本経済新聞
 
 【東京都知事（小池百合子）】
 
