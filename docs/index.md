@@ -1,10 +1,10 @@
-更新日時: 2026年11月28日（土）02:07 JST
+更新日時: 2026年11月28日（土）14:16 JST
 
 【ニュース】
 
-○11月24日 [＜防災庁発足 あすへ備える＞（下）小池百合子都知事インタビュー 首都直下対策、阪神・淡路に学ぶ](https://news.google.com/rss/articles/CBMibkFVX3lxTE9xZ05OTHlhZlhMcFdWY0ZZamtvbDk5UnhKd1hPWnZGbzR6aEdxbVZUS2RvZDFfcUxpTDZkNkJkbUdxVVB1YjFyQnp2RUMxU0pjYlVJQlR3RkhQM2xKb1lJanh0emdFWEMzOU54UTRR?oc=5) 神戸新聞
-
 ○11月24日 [都議会4会派、防災やサイバー攻撃対策を知事に要望 補正予算案で](https://news.google.com/rss/articles/CBMibEFVX3lxTFB5cUlEVloySUs3aXZ5QzdPTmt0S1lITTFPWVljdjFFTGRSWFBCeDRJOG16aHN6Zmh6UWtfaE01Qk5ZanczWDJuWkl4WUNmdkQ5TlZnUzN3WVozLUJkREhwUTlpVTBkeXFJT1FZMw?oc=5) 日本経済新聞
+
+○11月24日 [成績 台東学童都知事杯（11月23日）](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HaEI3ajBnLU1ETldtVTF2NTdhN3l3N2h3Z2w5STZtNVRGVXBBZzlkY1JPSlhDWnJkUmh6RjNHeV82RHB2NEt0NDFoSXdjMzRMRkZn?oc=5) 東京新聞
 
 ○11月25日 [朝鮮人虐殺、犠牲者追悼 小池都知事は追悼文送らず](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JcFdTeXVrV1BpVm9IcHFDTkkxUEhhWVlaRVhoUG9XdXlvUkdTU2kyOElUdl9BUDk3c3h5SjJodTVhblVGa2lNZDJMTE5LUC1PTHRWWXd6dTdlVDJiNGc?oc=5) 山陽新聞
 
@@ -16,7 +16,9 @@
 
 ○11月27日 [税収の偏在是正「断固反対」と小池都知事](https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGY2RDdma3lTMzVDWHlpZk1wWlFJUFlxd1dPQ3NRZlhETE1KWlpHemNMSm1KUHZVSlJrdGZDaXZyNFk2SWdLWmFIdDktbHFqUnJ1QzZlRnh6d0FlTm1pQjJpSDJTUVhNc3g0NjFqSVhwak5CYnJyNVZybHNPdlRCRFRmVmvSAYQBQVVfeXFMTlRmNkQ3Zmt5UzM1Q1h5aWZNcFpRSVBZcXdXT0NzUWZYRExNSlpaR3pjTEptSlB2VUpSa3RmQ2l2cjRZNklnS1phSHQ5LWxxalJydUM2ZUZ4endBZU5taUIyaUgyU1FYTXN4NDYxaklYcGpOQmJycjVWcmxzT3ZUQkRUZlZr?oc=5) 大分合同新聞
 
-○11月27日 [地方と東京、税収巡り溝 一極集中是正策、都知事は反対](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qMnRnbXF1LTNoRFRUeURuU3dHMkRxZFdHeUo1czJkZmRyeldITXhpVkJwWjlRMEdhcDZ1YWFFclBTak5rSFlmVHBOUDdMYmkw?oc=5) 日本海新聞
+○11月27日 [小池都知事 女性が力を発揮できる環境を整えたい](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OelhBckYxNklSOVBXZG9yV2g0cTZrSldyeHUxOTB4UnVQXzNQaEt0X1J3a3F5dUh1aGlmZjdNWUlTeVVfTHA4QjR3anl4Y0ZPT3RPdXpKWGEzQQ?oc=5) 日本経済新聞
+
+○11月27日 [地方と東京、税収巡り溝 一極集中是正策、都知事は反対 - 全国のニュース](https://news.google.com/rss/articles/CBMiVkFVX3lxTE93bWFSSDFwY0w4NVFqcTM3QTd0NEd2d2MxVkY2YU1QODl6ZlhNVC1OdFBDTFpCZUExMzB0c3J3eVRVS19Za2kzV3RONU9ucHBac0RQU213?oc=5) 佐賀新聞
 
 ○11月27日 [全国知事会議、税収の偏在是正巡り紛糾 小池都知事が2年ぶり出席](https://news.google.com/rss/articles/CBMibEFVX3lxTFBxS1lPOVNmYl84clhNZVBSMVBDQTJ2d1lxYlhWWHhmOWRRM19zbmdBNEpTWW1XRGhoeEdLNE90WWJXYTJCVHBza25raU04T20yT0NHWkpsdmtBY3U4TktvMUpFOE9LX3pua0Vxeg?oc=5) 日本経済新聞
 
@@ -28,9 +30,13 @@
 
 ○11月27日 [発言する小池都知事](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Fbll1NmZFRWF5WEtCTUgzckpoQW5hMHF6RkdvaS1SZG9xUGM2U1V4RHZoNEtudENMTElleUkyQmtfajdGVnRfdktfU1RaS3o3?oc=5) 佐賀経済新聞
 
+○11月27日 [発言する小池都知事](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GcnVyT1BvSXc1NHhlRDFqakIyUnhGbUY5aXdqdVBNaXA4SXQxSWF5NmZvdVY2cmcteDFEY1QtTEhLblVGdlRaMXdqaHlsd0JTMWc?oc=5) 小樽経済新聞
+
 ○11月27日 [発言する小池都知事](https://news.google.com/rss/articles/CBMiV0FVX3lxTE45eEl3M3QwSnFPWDdoSzhJQll5d0tGSk1RM29OZmtyWW5vWHJmT0VwMXAtV3pteTRZMHJLaFZZZEsxQzhBX3cycmtjeWpMZU5ueHVZeHNsbw?oc=5) 品川経済新聞
 
-○11月27日 [発言する小池都知事](https://news.google.com/rss/articles/CBMiU0FVX3lxTE54V2dIbnF5dUVRaC1NOHd4dzJYM3NCV0taRHpSQlF3bVVwVFpfd1MyUHZ3RWZMMkVDSUVsTDJjWW51M2Z5VEhFS01taXdLOGQ0RkJF?oc=5) 豊田経済新聞
+○11月28日 [「東京相手に戦う知事会としか映らない」…小池百合子知事が税収の偏在是正を言われて不満隠さず](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3MDctbldaNG1vVFcxRWxCMGZDTHFkT1hEUmF1R1J4T05YQVJvSkNOcmU5Vnl5VjI1UlFWSldoQi1ocWtYUF9JMFQycmoyaHRmSkpN?oc=5) 東京新聞
+
+○11月28日 [苫小牧市がIR推進協 総会に500人 機運醸成図り発足 ／北海道](https://news.google.com/rss/articles/CBMiaEFVX3lxTE54bXJYTXFBQkdQRHI3ajhUYTNJTXV0Ym9qN0pWR2RzRUhwMHo1UXBDRFF4NWhiZDQwM3RzdnhONzF0N1FabmI2eEhFU25RM1FVSFRRcmswQ0ladlZoYWZVaGRSbWRJaFJm?oc=5) 毎日新聞
 
 【東京都知事（小池百合子）】
 
